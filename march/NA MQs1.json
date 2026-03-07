@@ -19233,18 +19233,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c08bb16-15db-11f1-a97f-62829905b3ce",
                 "name": "META",
-                "seed": 86
+                "seed": 86,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
                 "name": "CHUDS",
-                "seed": 342
+                "seed": 342,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "9c08bb16-15db-11f1-a97f-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "9c08bb16-15db-11f1-a97f-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 385,
@@ -20366,7 +20401,9 @@
                 "seed": 214
             },
             "opponent2": {
-                "id": null
+                "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
+                "name": "CHUDS",
+                "seed": 342
             },
             "match_games": []
         },
