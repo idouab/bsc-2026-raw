@@ -9894,18 +9894,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "138cb9d2-1440-11f1-8491-e62dd846289d",
                 "name": "Pato Phoenix",
-                "seed": 236
+                "seed": 236,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d98f6ed2-1624-11f1-8100-d25156cdb59a",
                 "name": "ZONE X",
-                "seed": 277
+                "seed": 277,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "138cb9d2-1440-11f1-8491-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d98f6ed2-1624-11f1-8100-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "138cb9d2-1440-11f1-8491-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d98f6ed2-1624-11f1-8100-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 123,
@@ -10598,18 +10633,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd10e082-1444-11f1-9477-e6f601e467ba",
                 "name": "Pepitos",
-                "seed": 250
+                "seed": 250,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7cb62f80-15ce-11f1-ada9-d25156cdb59a",
                 "name": "PRO BRAWL LEAGUE",
-                "seed": 263
+                "seed": 263,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "cd10e082-1444-11f1-9477-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7cb62f80-15ce-11f1-ada9-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "cd10e082-1444-11f1-9477-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7cb62f80-15ce-11f1-ada9-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 163,
@@ -11552,18 +11622,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
                 "name": "Balacubaco",
-                "seed": 158
+                "seed": 158,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0fdaf814-19b1-11f1-ae4a-9e44097e6c6e",
                 "name": "KHAOSREGIN",
-                "seed": 355
+                "seed": 355,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0fdaf814-19b1-11f1-ae4a-9e44097e6c6e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0fdaf814-19b1-11f1-ae4a-9e44097e6c6e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 205,
@@ -13726,7 +13831,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "138cb9d2-1440-11f1-8491-e62dd846289d",
+                "name": "Pato Phoenix",
+                "seed": 236
             },
             "match_games": []
         },
@@ -14094,7 +14201,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "7cb62f80-15ce-11f1-ada9-d25156cdb59a",
+                "name": "PRO BRAWL LEAGUE",
+                "seed": 263
             },
             "match_games": []
         },
@@ -14490,7 +14599,9 @@
                 "seed": 99
             },
             "opponent2": {
-                "id": null
+                "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
+                "name": "Balacubaco",
+                "seed": 158
             },
             "match_games": []
         },
