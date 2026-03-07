@@ -12506,18 +12506,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c44e718-143d-11f1-b4b1-e62dd846289d",
                 "name": "CHICLETEIROS",
-                "seed": 230
+                "seed": 230,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3687417e-1656-11f1-acef-e6f601e467ba",
                 "name": "DarkLight Esports",
-                "seed": 283
+                "seed": 283,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7c44e718-143d-11f1-b4b1-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3687417e-1656-11f1-acef-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "7c44e718-143d-11f1-b4b1-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3687417e-1656-11f1-acef-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 235,
@@ -15229,7 +15264,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "3687417e-1656-11f1-acef-e6f601e467ba",
+                "name": "DarkLight Esports",
+                "seed": 283
             },
             "match_games": []
         },
