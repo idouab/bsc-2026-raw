@@ -102440,18 +102440,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "085452c0-129a-11f1-a690-e62dd846289d",
                 "name": "Galaxy esports",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0940856e-129a-11f1-a4ca-e62dd846289d",
                 "name": "The Untolds MAIN",
-                "seed": 54
+                "seed": 54,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "085452c0-129a-11f1-a690-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0940856e-129a-11f1-a4ca-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "085452c0-129a-11f1-a690-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0940856e-129a-11f1-a4ca-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2016,
@@ -102791,10 +102826,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "085452c0-129a-11f1-a690-e62dd846289d",
+                "name": "Galaxy esports",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "0886f090-129a-11f1-bdc5-e62dd846289d",
+                "name": "Skepsis Gaming",
+                "seed": 22
             },
             "match_games": []
         }
