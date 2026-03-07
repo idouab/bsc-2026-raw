@@ -24479,18 +24479,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4170e6fe-167d-11f1-8611-e62dd846289d",
                 "name": "JG | Jagger",
-                "seed": 287
+                "seed": 287,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d353ac74-1519-11f1-85f1-d25156cdb59a",
                 "name": "ZENITH",
-                "seed": 162
+                "seed": 162,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4170e6fe-167d-11f1-8611-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d353ac74-1519-11f1-85f1-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "4170e6fe-167d-11f1-8611-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d353ac74-1519-11f1-85f1-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 467,
@@ -25137,7 +25172,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "4170e6fe-167d-11f1-8611-e62dd846289d",
+                "name": "JG | Jagger",
+                "seed": 287
             },
             "match_games": []
         },
