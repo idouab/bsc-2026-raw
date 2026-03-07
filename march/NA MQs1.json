@@ -24410,18 +24410,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53acfcf4-129a-11f1-b387-e62dd846289d",
                 "name": "Axolotl eSports",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
                 "name": "RVTY",
-                "seed": 205
+                "seed": 205,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "53acfcf4-129a-11f1-b387-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "53acfcf4-129a-11f1-b387-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 460,
@@ -24450,18 +24485,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6933a268-1776-11f1-b4e7-069704759f1b",
                 "name": "STARE",
-                "seed": 133
+                "seed": 133,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
                 "name": "Runtime Exception",
-                "seed": 316
+                "seed": 316,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "6933a268-1776-11f1-b4e7-069704759f1b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "6933a268-1776-11f1-b4e7-069704759f1b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 462,
@@ -25290,7 +25360,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53acfcf4-129a-11f1-b387-e62dd846289d",
+                "name": "Axolotl eSports",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -25306,7 +25378,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
+                "name": "Runtime Exception",
+                "seed": 316
             },
             "opponent2": {
                 "id": null
