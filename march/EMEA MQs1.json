@@ -98153,18 +98153,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51262524-173a-11f1-ba63-5a72cf01e9cd",
                 "name": "TU|TEAM",
-                "seed": 220
+                "seed": 220,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07caa304-129a-11f1-96f4-e62dd846289d",
                 "name": "Storm brawl",
-                "seed": 92
+                "seed": 92,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "51262524-173a-11f1-ba63-5a72cf01e9cd",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07caa304-129a-11f1-96f4-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "51262524-173a-11f1-ba63-5a72cf01e9cd",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07caa304-129a-11f1-96f4-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1949,
@@ -98453,18 +98488,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08d6b102-129a-11f1-aa48-e62dd846289d",
                 "name": "HDC|eSports",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "92ebaf00-1556-11f1-bf43-62829905b3ce",
                 "name": "Poci Esports",
-                "seed": 922
+                "seed": 922,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "08d6b102-129a-11f1-aa48-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92ebaf00-1556-11f1-bf43-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "08d6b102-129a-11f1-aa48-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92ebaf00-1556-11f1-bf43-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1964,
@@ -98828,18 +98898,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d3ffd992-1724-11f1-af28-5a72cf01e9cd",
                 "name": "Vafle",
-                "seed": 294
+                "seed": 294,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4db58552-1996-11f1-8478-0aeb6badfa08",
                 "name": "PAQUITO UNWASHED🇫🇷",
-                "seed": 678
+                "seed": 678,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d3ffd992-1724-11f1-af28-5a72cf01e9cd",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4db58552-1996-11f1-8478-0aeb6badfa08",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d3ffd992-1724-11f1-af28-5a72cf01e9cd",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4db58552-1996-11f1-8478-0aeb6badfa08",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1981,
@@ -99268,7 +99373,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08d6b102-129a-11f1-aa48-e62dd846289d",
+                "name": "HDC|eSports",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
