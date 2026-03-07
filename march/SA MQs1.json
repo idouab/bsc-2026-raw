@@ -2490,7 +2490,7 @@
                     "gamerTag": "#PG9L8UG0"
                 },
                 {
-                    "name": "freedstall",
+                    "name": "Ｆｒｅｅｄ",
                     "gamerTag": "#RJPP28P"
                 },
                 {
@@ -8322,18 +8322,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a922ebe0-143d-11f1-862a-e62dd846289d",
                 "name": "Essential",
-                "seed": 232
+                "seed": 232,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cfedab58-1649-11f1-acdb-d25156cdb59a",
                 "name": "JML|IMPACIENTES",
-                "seed": 281
+                "seed": 281,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a922ebe0-143d-11f1-862a-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cfedab58-1649-11f1-acdb-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a922ebe0-143d-11f1-862a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cfedab58-1649-11f1-acdb-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a922ebe0-143d-11f1-862a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cfedab58-1649-11f1-acdb-d25156cdb59a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -10191,18 +10241,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c2bf28a-1437-11f1-a105-d25156cdb59a",
                 "name": "Duna",
-                "seed": 220
+                "seed": 220,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "147f060c-168d-11f1-a360-62829905b3ce",
                 "name": "los tussi",
-                "seed": 293
+                "seed": 293,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8c2bf28a-1437-11f1-a105-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "147f060c-168d-11f1-a360-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8c2bf28a-1437-11f1-a105-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "147f060c-168d-11f1-a360-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8c2bf28a-1437-11f1-a105-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "147f060c-168d-11f1-a360-62829905b3ce",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 111,
@@ -13927,18 +14027,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5997b6b2-1598-11f1-9972-e62dd846289d",
                 "name": "Mate Coro",
-                "seed": 235
+                "seed": 235,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "55950832-145b-11f1-ba99-e62dd846289d",
                 "name": "RISE ABOVE FEAR",
-                "seed": 278
+                "seed": 278,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5997b6b2-1598-11f1-9972-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55950832-145b-11f1-ba99-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5997b6b2-1598-11f1-9972-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55950832-145b-11f1-ba99-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5997b6b2-1598-11f1-9972-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55950832-145b-11f1-ba99-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 251,
@@ -14494,7 +14644,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "a922ebe0-143d-11f1-862a-e62dd846289d",
+                "name": "Essential",
+                "seed": 232
             },
             "match_games": []
         },
@@ -15170,7 +15322,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "8c2bf28a-1437-11f1-a105-d25156cdb59a",
+                "name": "Duna",
+                "seed": 220
             },
             "match_games": []
         },
@@ -16566,7 +16720,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "55950832-145b-11f1-ba99-e62dd846289d",
+                "name": "RISE ABOVE FEAR",
+                "seed": 278
             },
             "match_games": []
         },
