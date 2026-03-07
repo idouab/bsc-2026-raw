@@ -101325,18 +101325,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08ff7d1c-129a-11f1-a2b2-e62dd846289d",
                 "name": "Quantum Dynasty",
-                "seed": 121
+                "seed": 121,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "09651244-129a-11f1-9867-e62dd846289d",
                 "name": "GoTs",
-                "seed": 57
+                "seed": 57,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "08ff7d1c-129a-11f1-a2b2-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09651244-129a-11f1-9867-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "08ff7d1c-129a-11f1-a2b2-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "09651244-129a-11f1-9867-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1990,
@@ -101720,18 +101755,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "89d9b96e-17b5-11f1-8ad0-069704759f1b",
                 "name": "W0D",
-                "seed": 620
+                "seed": 620,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
                 "name": "ThoseWhoGus",
-                "seed": 172
+                "seed": 172,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "89d9b96e-17b5-11f1-8ad0-069704759f1b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "89d9b96e-17b5-11f1-8ad0-069704759f1b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2001,
@@ -102483,7 +102553,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "09651244-129a-11f1-9867-e62dd846289d",
+                "name": "GoTs",
+                "seed": 57
             },
             "opponent2": {
                 "id": null
@@ -102574,7 +102646,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
+                "name": "ThoseWhoGus",
+                "seed": 172
             },
             "match_games": []
         },

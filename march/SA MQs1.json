@@ -19858,18 +19858,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de676e0c-17d0-11f1-8966-3a56be435524",
                 "name": "LOS ANGOLANOS",
-                "seed": 91
+                "seed": 91,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
                 "name": "Real reconoce real",
-                "seed": 166
+                "seed": 166,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "de676e0c-17d0-11f1-8966-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "de676e0c-17d0-11f1-8966-3a56be435524",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "de676e0c-17d0-11f1-8966-3a56be435524",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 377,
@@ -21344,7 +21394,9 @@
                 "seed": 219
             },
             "opponent2": {
-                "id": null
+                "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                "name": "Real reconoce real",
+                "seed": 166
             },
             "match_games": []
         },
