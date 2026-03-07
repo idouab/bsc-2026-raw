@@ -26192,18 +26192,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27ce479c-1451-11f1-b239-d25156cdb59a",
                 "name": "Overlooked Ent.",
-                "seed": 266
+                "seed": 266,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53cbcb34-129a-11f1-95b9-e62dd846289d",
                 "name": "Good Day Lads",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "27ce479c-1451-11f1-b239-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53cbcb34-129a-11f1-95b9-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "27ce479c-1451-11f1-b239-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53cbcb34-129a-11f1-95b9-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 493,
