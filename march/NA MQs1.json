@@ -20848,18 +20848,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "616483ac-15b6-11f1-ba2f-d25156cdb59a",
                 "name": "WZD",
-                "seed": 225
+                "seed": 225,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
                 "name": "sonic wave infinity",
-                "seed": 353
+                "seed": 353,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "616483ac-15b6-11f1-ba2f-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "616483ac-15b6-11f1-ba2f-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 388,
@@ -21163,18 +21198,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
                 "name": "the degloved",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8cd68102-16ce-11f1-ad9a-e62dd846289d",
                 "name": "HOLOLIVE FEET LOVER",
-                "seed": 125
+                "seed": 125,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8cd68102-16ce-11f1-ad9a-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8cd68102-16ce-11f1-ad9a-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 402,
@@ -21363,18 +21433,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33f645f2-1464-11f1-bffd-62829905b3ce",
                 "name": "Z-NITH",
-                "seed": 284
+                "seed": 284,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
                 "name": "NETANYAHU 📞",
-                "seed": 357
+                "seed": 357,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "33f645f2-1464-11f1-bffd-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "33f645f2-1464-11f1-bffd-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 412,
@@ -22176,7 +22281,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
+                "name": "sonic wave infinity",
+                "seed": 353
             },
             "opponent2": {
                 "id": null
@@ -22288,7 +22395,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                "name": "the degloved",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -22368,7 +22477,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
+                "name": "NETANYAHU 📞",
+                "seed": 357
             },
             "opponent2": {
                 "id": null
