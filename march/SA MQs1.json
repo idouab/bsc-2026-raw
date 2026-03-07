@@ -23904,18 +23904,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c207610-129a-11f1-bec9-e62dd846289d",
                 "name": "MSC",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
                 "name": "Six Seven",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3c207610-129a-11f1-bec9-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3c207610-129a-11f1-bec9-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 454,
@@ -24159,18 +24194,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b7164fe-129a-11f1-8849-e62dd846289d",
                 "name": "LoveBoy's",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
                 "name": "Los Salchipaperos FA",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3b7164fe-129a-11f1-8849-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3b7164fe-129a-11f1-8849-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 465,
@@ -24533,7 +24603,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                "name": "Six Seven",
+                "seed": 313
             },
             "opponent2": {
                 "id": null
