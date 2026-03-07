@@ -9507,18 +9507,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bc8816e-142d-11f1-a9c9-e6f601e467ba",
                 "name": "CROW'S BEAKS",
-                "seed": 204
+                "seed": 204,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
                 "name": "UnkCat",
-                "seed": 309
+                "seed": 309,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3bc8816e-142d-11f1-a9c9-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3bc8816e-142d-11f1-a9c9-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -10743,18 +10778,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4590ee16-17ca-11f1-b113-6e01aed0131b",
                 "name": ":)",
-                "seed": 151
+                "seed": 151,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "38fd7ee2-14de-11f1-a918-d25156cdb59a",
                 "name": "MedCesu",
-                "seed": 362
+                "seed": 362,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4590ee16-17ca-11f1-b113-6e01aed0131b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "38fd7ee2-14de-11f1-a918-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4590ee16-17ca-11f1-b113-6e01aed0131b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "38fd7ee2-14de-11f1-a918-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 189,
@@ -13077,7 +13147,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                "name": "UnkCat",
+                "seed": 309
             },
             "match_games": []
         },
@@ -13719,7 +13791,9 @@
                 "seed": 106
             },
             "opponent2": {
-                "id": null
+                "id": "38fd7ee2-14de-11f1-a918-d25156cdb59a",
+                "name": "MedCesu",
+                "seed": 362
             },
             "match_games": []
         },
