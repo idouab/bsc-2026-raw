@@ -16147,18 +16147,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2d70ae4-1403-11f1-a6e9-d25156cdb59a",
                 "name": "Top Globales",
-                "seed": 90
+                "seed": 90,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a434d4aa-14cd-11f1-b322-e62dd846289d",
                 "name": "Monkeys",
-                "seed": 346
+                "seed": 346,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a2d70ae4-1403-11f1-a6e9-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a434d4aa-14cd-11f1-b322-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a2d70ae4-1403-11f1-a6e9-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a434d4aa-14cd-11f1-b322-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 345,
