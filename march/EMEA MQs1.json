@@ -82133,18 +82133,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f5fd6acc-1987-11f1-9b7e-1677e04326b8",
                 "name": "Best Friends",
-                "seed": 236
+                "seed": 236,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9ff1b9b0-18b7-11f1-97d2-ba8a72688b1f",
                 "name": "Eierfamily",
-                "seed": 1301
+                "seed": 1301,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f5fd6acc-1987-11f1-9b7e-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9ff1b9b0-18b7-11f1-97d2-ba8a72688b1f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "f5fd6acc-1987-11f1-9b7e-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9ff1b9b0-18b7-11f1-97d2-ba8a72688b1f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1659,
@@ -86123,18 +86158,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4c076a46-13dc-11f1-922d-e6f601e467ba",
                 "name": "Asenka Esports",
-                "seed": 1171
+                "seed": 1171,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b5fc108c-18f5-11f1-b83d-2e8e239485e6",
                 "name": "PTL",
-                "seed": 659
+                "seed": 659,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4c076a46-13dc-11f1-922d-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5fc108c-18f5-11f1-b83d-2e8e239485e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "4c076a46-13dc-11f1-922d-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5fc108c-18f5-11f1-b83d-2e8e239485e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1757,
@@ -88635,7 +88705,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "f5fd6acc-1987-11f1-9b7e-1677e04326b8",
+                "name": "Best Friends",
+                "seed": 236
             },
             "match_games": []
         },
@@ -89511,7 +89583,9 @@
                 "seed": 110
             },
             "opponent2": {
-                "id": null
+                "id": "4c076a46-13dc-11f1-922d-e6f601e467ba",
+                "name": "Asenka Esports",
+                "seed": 1171
             },
             "match_games": []
         },
