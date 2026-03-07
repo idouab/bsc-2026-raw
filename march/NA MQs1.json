@@ -24150,18 +24150,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5404f030-129a-11f1-8246-e62dd846289d",
                 "name": "Fear Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d5f82f4-1517-11f1-8a6c-62829905b3ce",
                 "name": "RV Esports NA",
-                "seed": 185
+                "seed": 185,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5404f030-129a-11f1-8246-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d5f82f4-1517-11f1-8a6c-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "5404f030-129a-11f1-8246-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d5f82f4-1517-11f1-8a6c-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 454,
@@ -24230,18 +24265,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
                 "name": "the degloved",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53aebbc0-129a-11f1-b71f-e62dd846289d",
                 "name": "Vanquish",
-                "seed": 68
+                "seed": 68,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53aebbc0-129a-11f1-b71f-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53aebbc0-129a-11f1-b71f-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 458,
@@ -24350,18 +24420,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
                 "name": "Sad Raccons",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db6098a4-1510-11f1-8381-62829905b3ce",
                 "name": "RV|",
-                "seed": 181
+                "seed": 181,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db6098a4-1510-11f1-8381-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db6098a4-1510-11f1-8381-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 464,
@@ -24390,18 +24495,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
                 "name": "BOW 🎀",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b21512d4-19c2-11f1-a715-b22be781fcca",
                 "name": "HELLFIRE",
-                "seed": 319
+                "seed": 319,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b21512d4-19c2-11f1-a715-b22be781fcca",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b21512d4-19c2-11f1-a715-b22be781fcca",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 466,
@@ -24779,7 +24919,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5404f030-129a-11f1-8246-e62dd846289d",
+                "name": "Fear Esports",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -24811,7 +24953,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                "name": "the degloved",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -24859,7 +25003,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                "name": "Sad Raccons",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -24875,7 +25021,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
+                "name": "BOW 🎀",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
