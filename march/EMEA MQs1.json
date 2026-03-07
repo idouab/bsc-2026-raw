@@ -103395,18 +103395,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
                 "name": "Matroschka",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c6ad610e-19a1-11f1-aca7-0aeb6badfa08",
                 "name": "Lightwork",
-                "seed": 238
+                "seed": 238,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c6ad610e-19a1-11f1-aca7-0aeb6badfa08",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c6ad610e-19a1-11f1-aca7-0aeb6badfa08",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2031,
