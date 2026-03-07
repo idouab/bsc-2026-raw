@@ -15924,18 +15924,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3cb4bbbc-1818-11f1-8d06-6e01aed0131b",
                 "name": "ZIKA",
-                "seed": 61
+                "seed": 61,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9469590e-142a-11f1-a272-e6f601e467ba",
                 "name": "Ultra Hardcore",
-                "seed": 196
+                "seed": 196,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3cb4bbbc-1818-11f1-8d06-6e01aed0131b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3cb4bbbc-1818-11f1-8d06-6e01aed0131b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3cb4bbbc-1818-11f1-8d06-6e01aed0131b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 292,
@@ -17518,18 +17568,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bf8b030-129a-11f1-9f64-e62dd846289d",
                 "name": "Pitchulas",
-                "seed": 15
+                "seed": 15,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8ceccc3a-15ef-11f1-a1fb-e62dd846289d",
                 "name": "MTZ",
-                "seed": 271
+                "seed": 271,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3bf8b030-129a-11f1-9f64-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8ceccc3a-15ef-11f1-a1fb-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3bf8b030-129a-11f1-9f64-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8ceccc3a-15ef-11f1-a1fb-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3bf8b030-129a-11f1-9f64-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8ceccc3a-15ef-11f1-a1fb-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 330,
@@ -20077,10 +20177,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                "name": "Ultra Hardcore",
+                "seed": 196
             },
             "opponent2": {
-                "id": null
+                "id": "3bcb7a66-129a-11f1-8cf7-e62dd846289d",
+                "name": "Toxicity",
+                "seed": 68
             },
             "match_games": []
         },
@@ -20453,10 +20557,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8ceccc3a-15ef-11f1-a1fb-e62dd846289d",
+                "name": "MTZ",
+                "seed": 271
             },
             "opponent2": {
-                "id": null
+                "id": "76830910-140e-11f1-99f5-e62dd846289d",
+                "name": "RGA- OFICIAL",
+                "seed": 114
             },
             "match_games": []
         },
