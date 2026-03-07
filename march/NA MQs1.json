@@ -9153,18 +9153,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ab3fd2f8-1532-11f1-b689-62829905b3ce",
                 "name": "JTP",
-                "seed": 197
+                "seed": 197,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
                 "name": "Runtime Exception",
-                "seed": 316
+                "seed": 316,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ab3fd2f8-1532-11f1-b689-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ab3fd2f8-1532-11f1-b689-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 103,
@@ -9261,18 +9296,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a909cd4c-153a-11f1-83f7-e62dd846289d",
                 "name": "SLASH TEAM",
-                "seed": 156
+                "seed": 156,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
                 "name": "NETANYAHU 📞",
-                "seed": 357
+                "seed": 357,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a909cd4c-153a-11f1-83f7-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a909cd4c-153a-11f1-83f7-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 109,
@@ -11485,18 +11555,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d22f90b0-1442-11f1-a3b6-62829905b3ce",
                 "name": "Low Cortisol",
-                "seed": 238
+                "seed": 238,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "709941da-1766-11f1-8673-3a56be435524",
                 "name": "overclocked",
-                "seed": 275
+                "seed": 275,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d22f90b0-1442-11f1-a3b6-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "709941da-1766-11f1-8673-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d22f90b0-1442-11f1-a3b6-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "709941da-1766-11f1-8673-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 219,
@@ -13102,7 +13207,9 @@
                 "seed": 60
             },
             "opponent2": {
-                "id": null
+                "id": "b4bcd0a8-14c7-11f1-9fbe-d25156cdb59a",
+                "name": "Runtime Exception",
+                "seed": 316
             },
             "match_games": []
         },
@@ -13156,7 +13263,9 @@
                 "seed": 101
             },
             "opponent2": {
-                "id": null
+                "id": "51110e1e-1a41-11f1-89e8-121e28af2222",
+                "name": "NETANYAHU 📞",
+                "seed": 357
             },
             "match_games": []
         },
@@ -14180,7 +14289,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "709941da-1766-11f1-8673-3a56be435524",
+                "name": "overclocked",
+                "seed": 275
             },
             "match_games": []
         },
