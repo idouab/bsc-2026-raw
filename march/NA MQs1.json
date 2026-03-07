@@ -8353,18 +8353,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b8b53228-143f-11f1-9c90-e6f601e467ba",
                 "name": "RTZ | Rostizados",
-                "seed": 232
+                "seed": 232,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
                 "name": "Star Voyager",
-                "seed": 281
+                "seed": 281,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b8b53228-143f-11f1-9c90-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b8b53228-143f-11f1-9c90-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "b8b53228-143f-11f1-9c90-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -13621,18 +13671,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b06d85ce-144a-11f1-869c-e6f601e467ba",
                 "name": "BG BRAWLERS",
-                "seed": 246
+                "seed": 246,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "63514516-1709-11f1-bdee-5a72cf01e9cd",
                 "name": "Nolasco FC",
-                "seed": 267
+                "seed": 267,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b06d85ce-144a-11f1-869c-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63514516-1709-11f1-bdee-5a72cf01e9cd",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b06d85ce-144a-11f1-869c-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "63514516-1709-11f1-bdee-5a72cf01e9cd",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "b06d85ce-144a-11f1-869c-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "63514516-1709-11f1-bdee-5a72cf01e9cd",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 243,
@@ -14383,7 +14483,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                "name": "Star Voyager",
+                "seed": 281
             },
             "match_games": []
         },
@@ -16311,7 +16413,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "63514516-1709-11f1-bdee-5a72cf01e9cd",
+                "name": "Nolasco FC",
+                "seed": 267
             },
             "match_games": []
         },
