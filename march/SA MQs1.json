@@ -24704,18 +24704,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9314abe6-140a-11f1-a993-62829905b3ce",
                 "name": "STR Team",
-                "seed": 106
+                "seed": 106,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "33529660-191d-11f1-8a37-ea915998a002",
                 "name": "Terceira idade",
-                "seed": 343
+                "seed": 343,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9314abe6-140a-11f1-a993-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33529660-191d-11f1-8a37-ea915998a002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "9314abe6-140a-11f1-a993-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "33529660-191d-11f1-8a37-ea915998a002",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -25259,7 +25294,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "33529660-191d-11f1-8a37-ea915998a002",
+                "name": "Terceira idade",
+                "seed": 343
             },
             "match_games": []
         },
