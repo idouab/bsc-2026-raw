@@ -7951,18 +7951,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d2157bd4-142a-11f1-ab3a-d25156cdb59a",
                 "name": "Team X",
-                "seed": 200
+                "seed": 200,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
                 "name": "Six Seven",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d2157bd4-142a-11f1-ab3a-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d2157bd4-142a-11f1-ab3a-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -8095,18 +8130,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dbc1a034-1553-11f1-9fde-d25156cdb59a",
                 "name": "BCT",
-                "seed": 217
+                "seed": 217,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7fd6cbf0-1468-11f1-b731-d25156cdb59a",
                 "name": "TEAM|SALAZAR",
-                "seed": 296
+                "seed": 296,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "dbc1a034-1553-11f1-9fde-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fd6cbf0-1468-11f1-b731-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "dbc1a034-1553-11f1-9fde-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fd6cbf0-1468-11f1-b731-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -12267,7 +12337,9 @@
                 "seed": 57
             },
             "opponent2": {
-                "id": null
+                "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                "name": "Six Seven",
+                "seed": 313
             },
             "match_games": []
         },
@@ -12339,7 +12411,9 @@
                 "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "dbc1a034-1553-11f1-9fde-d25156cdb59a",
+                "name": "BCT",
+                "seed": 217
             },
             "match_games": []
         },
