@@ -101725,18 +101725,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "084e1c2a-129a-11f1-b2af-e62dd846289d",
                 "name": "Ketsuppi+kanariisi",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3eb56bf4-142c-11f1-a263-d25156cdb59a",
                 "name": "F/A Angelic",
-                "seed": 830
+                "seed": 830,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "084e1c2a-129a-11f1-b2af-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3eb56bf4-142c-11f1-a263-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "084e1c2a-129a-11f1-b2af-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3eb56bf4-142c-11f1-a263-d25156cdb59a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2010,
@@ -101765,18 +101800,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
                 "name": "Matroschka",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "54a59a9c-19b3-11f1-a1bd-1677e04326b8",
                 "name": "SpockSpock",
-                "seed": 691
+                "seed": 691,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54a59a9c-19b3-11f1-a1bd-1677e04326b8",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54a59a9c-19b3-11f1-a1bd-1677e04326b8",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2012,
@@ -102118,7 +102188,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "084e1c2a-129a-11f1-b2af-e62dd846289d",
+                "name": "Ketsuppi+kanariisi",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -102134,7 +102206,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "caddfe2e-1428-11f1-a171-d25156cdb59a",
+                "name": "Matroschka",
+                "seed": 398
             },
             "opponent2": {
                 "id": null
