@@ -24350,18 +24350,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1180f5ca-1532-11f1-bcfe-e6f601e467ba",
                 "name": "DTM ASIANS",
-                "seed": 152
+                "seed": 152,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
                 "name": "I Love My Cat 🐱",
-                "seed": 297
+                "seed": 297,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1180f5ca-1532-11f1-bcfe-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "1180f5ca-1532-11f1-bcfe-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 457,
@@ -25436,7 +25471,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
+                "name": "I Love My Cat 🐱",
+                "seed": 297
             },
             "match_games": []
         },
