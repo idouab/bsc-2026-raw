@@ -101795,18 +101795,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09bbf668-129a-11f1-b824-e62dd846289d",
                 "name": "Fenris Academy",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
                 "name": "Glory Buama",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "09bbf668-129a-11f1-b824-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "09bbf668-129a-11f1-b824-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2003,
@@ -102557,7 +102592,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
+                "name": "Glory Buama",
+                "seed": 34
             },
             "match_games": []
         },
