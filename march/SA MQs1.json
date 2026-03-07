@@ -18551,18 +18551,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "66da3622-1716-11f1-8890-6e01aed0131b",
                 "name": "DRN",
-                "seed": 87
+                "seed": 87,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "33529660-191d-11f1-8a37-ea915998a002",
                 "name": "Terceira idade",
-                "seed": 343
+                "seed": 343,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "66da3622-1716-11f1-8890-6e01aed0131b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "33529660-191d-11f1-8a37-ea915998a002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "66da3622-1716-11f1-8890-6e01aed0131b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33529660-191d-11f1-8a37-ea915998a002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "66da3622-1716-11f1-8890-6e01aed0131b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33529660-191d-11f1-8a37-ea915998a002",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 353,
@@ -20874,7 +20924,9 @@
                 "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "33529660-191d-11f1-8a37-ea915998a002",
+                "name": "Terceira idade",
+                "seed": 343
             },
             "match_games": []
         },
