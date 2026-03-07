@@ -15096,18 +15096,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29be1b78-165d-11f1-8904-62829905b3ce",
                 "name": "Brawl noobs",
-                "seed": 121
+                "seed": 121,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8e6d3f5a-150d-11f1-9bc1-62829905b3ce",
                 "name": "MTZ",
-                "seed": 136
+                "seed": 136,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "29be1b78-165d-11f1-8904-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8e6d3f5a-150d-11f1-9bc1-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "29be1b78-165d-11f1-8904-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8e6d3f5a-150d-11f1-9bc1-62829905b3ce",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 275,
@@ -17146,11 +17181,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f7e414ce-1411-11f1-bf5a-e62dd846289d",
                 "name": "KAV",
-                "seed": 122
+                "seed": 122,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c194eaba-179f-11f1-bea0-6e01aed0131b",
@@ -18758,7 +18794,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "8e6d3f5a-150d-11f1-9bc1-62829905b3ce",
+                "name": "MTZ",
+                "seed": 136
             },
             "match_games": []
         },
