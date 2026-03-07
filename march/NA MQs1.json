@@ -15751,18 +15751,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1483b194-140c-11f1-8e14-62829905b3ce",
                 "name": "GIVAR SPORTS",
-                "seed": 120
+                "seed": 120,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8fdcb5ae-1815-11f1-a4e6-6e01aed0131b",
                 "name": "TML",
-                "seed": 137
+                "seed": 137,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "1483b194-140c-11f1-8e14-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8fdcb5ae-1815-11f1-a4e6-6e01aed0131b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "1483b194-140c-11f1-8e14-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8fdcb5ae-1815-11f1-a4e6-6e01aed0131b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "1483b194-140c-11f1-8e14-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8fdcb5ae-1815-11f1-a4e6-6e01aed0131b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 283,
@@ -20073,7 +20123,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "5373b138-129a-11f1-959a-e62dd846289d",
                 "name": "Celestial Rebirth",
@@ -20878,7 +20928,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "1483b194-140c-11f1-8e14-62829905b3ce",
+                "name": "GIVAR SPORTS",
+                "seed": 120
             },
             "match_games": []
         },
