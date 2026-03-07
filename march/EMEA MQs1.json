@@ -95813,18 +95813,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "eace3326-14f9-11f1-a439-62829905b3ce",
                 "name": "Darkline Esports",
-                "seed": 430
+                "seed": 430,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
                 "name": "Bero Zlack",
-                "seed": 686
+                "seed": 686,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "eace3326-14f9-11f1-a439-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "eace3326-14f9-11f1-a439-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "eace3326-14f9-11f1-a439-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1905,
@@ -97681,7 +97731,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
+                "name": "Bero Zlack",
+                "seed": 686
             },
             "match_games": []
         },
