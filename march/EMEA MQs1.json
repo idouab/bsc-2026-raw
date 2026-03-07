@@ -85667,18 +85667,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0893a6a0-129a-11f1-adca-e62dd846289d",
                 "name": "BALKANITA",
-                "seed": 111
+                "seed": 111,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "969ab48e-17d1-11f1-a8f8-5a72cf01e9cd",
                 "name": "Royalty Studio",
-                "seed": 623
+                "seed": 623,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0893a6a0-129a-11f1-adca-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "969ab48e-17d1-11f1-a8f8-5a72cf01e9cd",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "0893a6a0-129a-11f1-adca-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "969ab48e-17d1-11f1-a8f8-5a72cf01e9cd",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0893a6a0-129a-11f1-adca-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "969ab48e-17d1-11f1-a8f8-5a72cf01e9cd",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1692,
@@ -92209,10 +92259,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "969ab48e-17d1-11f1-a8f8-5a72cf01e9cd",
+                "name": "Royalty Studio",
+                "seed": 623
             },
             "opponent2": {
-                "id": null
+                "id": "a7694ea4-13f0-11f1-9b79-62829905b3ce",
+                "name": "LEFA COSMICA",
+                "seed": 1391
             },
             "match_games": []
         },
