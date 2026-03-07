@@ -95309,18 +95309,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
                 "name": "Con cebolla",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "84ec85d4-13dd-11f1-921e-62829905b3ce",
                 "name": "InfernoSquad",
-                "seed": 1191
+                "seed": 1191,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84ec85d4-13dd-11f1-921e-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84ec85d4-13dd-11f1-921e-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1881,
@@ -98145,7 +98180,9 @@
                 "seed": 807
             },
             "opponent2": {
-                "id": null
+                "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                "name": "Con cebolla",
+                "seed": 90
             },
             "match_games": []
         },
