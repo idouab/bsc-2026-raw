@@ -21543,18 +21543,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
                 "name": "Camitos",
-                "seed": 197
+                "seed": 197,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8d1e7bb0-181d-11f1-8022-3a56be435524",
                 "name": "Hunters🦅",
-                "seed": 325
+                "seed": 325,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d1e7bb0-181d-11f1-8022-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d1e7bb0-181d-11f1-8022-3a56be435524",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8d1e7bb0-181d-11f1-8022-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 411,
@@ -23951,7 +24001,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "8d1e7bb0-181d-11f1-8022-3a56be435524",
+                "name": "Hunters🦅",
+                "seed": 325
             },
             "match_games": []
         },
