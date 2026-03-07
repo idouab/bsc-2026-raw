@@ -24125,18 +24125,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
                 "name": "sonic wave infinity",
-                "seed": 353
+                "seed": 353,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53b4cde4-129a-11f1-b0cb-e62dd846289d",
                 "name": "ApexCore",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b4cde4-129a-11f1-b0cb-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53b4cde4-129a-11f1-b0cb-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "caf356a8-1a3a-11f1-b831-52110701cc89",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "53b4cde4-129a-11f1-b0cb-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -25773,7 +25823,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "53b4cde4-129a-11f1-b0cb-e62dd846289d",
+                "name": "ApexCore",
+                "seed": 33
             },
             "match_games": []
         },
