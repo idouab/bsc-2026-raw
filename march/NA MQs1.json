@@ -24326,11 +24326,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53ec314e-129a-11f1-b1c8-e62dd846289d",
                 "name": "Encore",
-                "seed": 25
+                "seed": 25,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "978b5e1e-15a3-11f1-a5b9-e6f601e467ba",
@@ -25912,7 +25913,11 @@
                 "name": "Fear Esports",
                 "seed": 8
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "978b5e1e-15a3-11f1-a5b9-e6f601e467ba",
+                "name": "Sports DA",
+                "seed": 217
+            },
             "match_games": []
         },
         {
