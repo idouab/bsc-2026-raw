@@ -25639,18 +25639,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9469590e-142a-11f1-a272-e6f601e467ba",
                 "name": "Ultra Hardcore",
-                "seed": 196
+                "seed": 196,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e81ca76-186c-11f1-bd27-3a56be435524",
                 "name": "BRABOSS",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e81ca76-186c-11f1-bd27-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e81ca76-186c-11f1-bd27-3a56be435524",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 486,
@@ -25659,18 +25694,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c0691f0-1516-11f1-bc4c-62829905b3ce",
                 "name": "Touros Negros",
-                "seed": 205
+                "seed": 205,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
                 "name": "Xblood zero",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "2c0691f0-1516-11f1-bc4c-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2c0691f0-1516-11f1-bc4c-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 487,
