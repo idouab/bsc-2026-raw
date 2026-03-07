@@ -24621,18 +24621,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
                 "name": "Ishyaboi",
-                "seed": 237
+                "seed": 237,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
                 "name": "Team Envy",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 461,
@@ -25921,7 +25971,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                "name": "Team Envy",
+                "seed": 301
             },
             "match_games": []
         },
