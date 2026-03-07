@@ -8519,18 +8519,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5acb9a66-1427-11f1-9be9-d25156cdb59a",
                 "name": "Sneaker choir",
-                "seed": 196
+                "seed": 196,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "32ffa4a4-19af-11f1-8370-2e9faa375fcf",
                 "name": "HIDD3N",
-                "seed": 317
+                "seed": 317,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5acb9a66-1427-11f1-9be9-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32ffa4a4-19af-11f1-8370-2e9faa375fcf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5acb9a66-1427-11f1-9be9-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32ffa4a4-19af-11f1-8370-2e9faa375fcf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 71,
@@ -11168,18 +11203,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e038e178-142b-11f1-b971-e62dd846289d",
                 "name": "Legacy Academy",
-                "seed": 206
+                "seed": 206,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d2fe7c3c-18fb-11f1-8998-e6f2cbf1e58a",
                 "name": "3PSILØN DIVISION",
-                "seed": 307
+                "seed": 307,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e038e178-142b-11f1-b971-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d2fe7c3c-18fb-11f1-8998-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e038e178-142b-11f1-b971-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d2fe7c3c-18fb-11f1-8998-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 215,
@@ -12559,7 +12629,9 @@
                 "seed": 61
             },
             "opponent2": {
-                "id": null
+                "id": "32ffa4a4-19af-11f1-8370-2e9faa375fcf",
+                "name": "HIDD3N",
+                "seed": 317
             },
             "match_games": []
         },
@@ -13885,7 +13957,9 @@
                 "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "e038e178-142b-11f1-b971-e62dd846289d",
+                "name": "Legacy Academy",
+                "seed": 206
             },
             "match_games": []
         },
