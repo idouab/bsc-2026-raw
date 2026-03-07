@@ -8743,18 +8743,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e71b926-153c-11f1-854b-d25156cdb59a",
                 "name": "UniPrawn",
-                "seed": 201
+                "seed": 201,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
                 "name": "TRC",
-                "seed": 312
+                "seed": 312,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2e71b926-153c-11f1-854b-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2e71b926-153c-11f1-854b-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2e71b926-153c-11f1-854b-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 55,
@@ -14953,7 +15003,9 @@
                 "seed": 56
             },
             "opponent2": {
-                "id": null
+                "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
+                "name": "TRC",
+                "seed": 312
             },
             "match_games": []
         },
