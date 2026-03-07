@@ -77927,18 +77927,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9f105b98-154a-11f1-9c55-e6f601e467ba",
                 "name": "Ranked Warriors",
-                "seed": 1216
+                "seed": 1216,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a2c6e30e-14d9-11f1-a226-e62dd846289d",
                 "name": "EJS",
-                "seed": 321
+                "seed": 321,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "9f105b98-154a-11f1-9c55-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2c6e30e-14d9-11f1-a226-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9f105b98-154a-11f1-9c55-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a2c6e30e-14d9-11f1-a226-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "9f105b98-154a-11f1-9c55-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a2c6e30e-14d9-11f1-a226-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1545,
@@ -83197,18 +83247,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07c6c356-129a-11f1-9248-e62dd846289d",
                 "name": "Bj Ezdixan",
-                "seed": 63
+                "seed": 63,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c3d8941c-1640-11f1-b38e-e62dd846289d",
                 "name": "CARNOEDO FC",
-                "seed": 575
+                "seed": 575,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "07c6c356-129a-11f1-9248-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c3d8941c-1640-11f1-b38e-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "07c6c356-129a-11f1-9248-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c3d8941c-1640-11f1-b38e-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "07c6c356-129a-11f1-9248-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c3d8941c-1640-11f1-b38e-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1670,
@@ -86737,18 +86837,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08d94c1e-129a-11f1-95a8-e62dd846289d",
                 "name": "Bandits",
-                "seed": 78
+                "seed": 78,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6e51193c-1678-11f1-8ffe-e6f601e467ba",
                 "name": "Team [KYZ]",
-                "seed": 590
+                "seed": 590,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "08d94c1e-129a-11f1-95a8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e51193c-1678-11f1-8ffe-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "08d94c1e-129a-11f1-95a8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e51193c-1678-11f1-8ffe-e6f601e467ba",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1752,
@@ -88596,7 +88731,9 @@
                 "seed": 65
             },
             "opponent2": {
-                "id": null
+                "id": "a2c6e30e-14d9-11f1-a226-e62dd846289d",
+                "name": "EJS",
+                "seed": 321
             },
             "match_games": []
         },
@@ -89727,10 +89864,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c3d8941c-1640-11f1-b38e-e62dd846289d",
+                "name": "CARNOEDO FC",
+                "seed": 575
             },
             "opponent2": {
-                "id": null
+                "id": "efcdbda4-1406-11f1-9ec2-e6f601e467ba",
+                "name": "NG Esport",
+                "seed": 831
             },
             "match_games": []
         },
@@ -90475,10 +90616,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08d94c1e-129a-11f1-95a8-e62dd846289d",
+                "name": "Bandits",
+                "seed": 78
             },
             "opponent2": {
-                "id": null
+                "id": "54a59a9c-19b3-11f1-a1bd-1677e04326b8",
+                "name": "SpockSpock",
+                "seed": 691
             },
             "match_games": []
         },
