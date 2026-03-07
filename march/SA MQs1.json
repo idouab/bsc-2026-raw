@@ -15437,18 +15437,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b9c96b0-129a-11f1-8d42-e62dd846289d",
                 "name": "Mini XB",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
                 "name": "SoAsCats",
-                "seed": 252
+                "seed": 252,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3b9c96b0-129a-11f1-8d42-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3b9c96b0-129a-11f1-8d42-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 306,
@@ -17600,7 +17635,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b9c96b0-129a-11f1-8d42-e62dd846289d",
+                "name": "Mini XB",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
