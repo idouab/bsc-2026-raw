@@ -14721,18 +14721,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a771542e-168d-11f1-baaa-e62dd846289d",
                 "name": "Anti Hugantios",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3b8f8170-1a1d-11f1-9f5b-e2fadf4e5452",
                 "name": "El Tayrin",
-                "seed": 161
+                "seed": 161,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a771542e-168d-11f1-baaa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b8f8170-1a1d-11f1-9f5b-e2fadf4e5452",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a771542e-168d-11f1-baaa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b8f8170-1a1d-11f1-9f5b-e2fadf4e5452",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 265,
@@ -16561,18 +16596,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
                 "name": "BOW 🎀",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e59c15fe-15f2-11f1-bb4a-e62dd846289d",
                 "name": "VGSAVLTA",
-                "seed": 255
+                "seed": 255,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e59c15fe-15f2-11f1-bb4a-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e59c15fe-15f2-11f1-bb4a-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 322,
@@ -18704,7 +18774,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "a771542e-168d-11f1-baaa-e62dd846289d",
+                "name": "Anti Hugantios",
+                "seed": 96
             },
             "match_games": []
         },
@@ -19197,10 +19269,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53deb7a8-129a-11f1-b435-e62dd846289d",
+                "name": "BOW 🎀",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "ebc3cd9a-1747-11f1-8bf9-6e01aed0131b",
+                "name": "Sunku",
+                "seed": 127
             },
             "match_games": []
         },
