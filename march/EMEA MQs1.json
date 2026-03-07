@@ -80026,18 +80026,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
                 "name": "K13 Academy",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "765cbda2-15ab-11f1-8c6f-d25156cdb59a",
                 "name": "Вушка",
-                "seed": 536
+                "seed": 536,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "765cbda2-15ab-11f1-8c6f-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "765cbda2-15ab-11f1-8c6f-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1594,
@@ -89586,10 +89621,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                "name": "K13 Academy",
+                "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "b05019c6-1571-11f1-b7df-62829905b3ce",
+                "name": "NTL",
+                "seed": 1304
             },
             "match_games": []
         },
