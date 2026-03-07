@@ -79278,18 +79278,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09e65980-129a-11f1-8daa-e62dd846289d",
                 "name": "Spectral Spartans",
-                "seed": 249
+                "seed": 249,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "edf5d9b4-13fa-11f1-a111-d25156cdb59a",
                 "name": "Svin_Prime",
-                "seed": 761
+                "seed": 761,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "09e65980-129a-11f1-8daa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "edf5d9b4-13fa-11f1-a111-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "09e65980-129a-11f1-8daa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "edf5d9b4-13fa-11f1-a111-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1571,
@@ -80626,18 +80661,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82246498-14fa-11f1-a00e-e62dd846289d",
                 "name": "TOC eSports",
-                "seed": 1176
+                "seed": 1176,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8d42405c-19a5-11f1-8f12-0aeb6badfa08",
                 "name": "Druzyaki",
-                "seed": 1385
+                "seed": 1385,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8d42405c-19a5-11f1-8f12-0aeb6badfa08",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d42405c-19a5-11f1-8f12-0aeb6badfa08",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d42405c-19a5-11f1-8f12-0aeb6badfa08",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1597,
@@ -90722,7 +90807,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "09e65980-129a-11f1-8daa-e62dd846289d",
+                "name": "Spectral Spartans",
+                "seed": 249
             },
             "match_games": []
         },
@@ -90978,7 +91065,9 @@
                 "seed": 617
             },
             "opponent2": {
-                "id": null
+                "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                "name": "TOC eSports",
+                "seed": 1176
             },
             "match_games": []
         },
