@@ -21138,18 +21138,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b7475ea-129a-11f1-9a8c-e62dd846289d",
                 "name": "ENERGY STATION",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48d3b03e-15d3-11f1-aced-e6f601e467ba",
                 "name": "Gangstar Team",
-                "seed": 125
+                "seed": 125,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3b7475ea-129a-11f1-9a8c-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48d3b03e-15d3-11f1-aced-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3b7475ea-129a-11f1-9a8c-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "48d3b03e-15d3-11f1-aced-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3b7475ea-129a-11f1-9a8c-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48d3b03e-15d3-11f1-aced-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 402,
@@ -21643,18 +21693,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
                 "name": "UnkCat",
-                "seed": 309
+                "seed": 309,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e61b9746-13e7-11f1-820a-d25156cdb59a",
                 "name": "DAM Sport",
-                "seed": 76
+                "seed": 76,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e61b9746-13e7-11f1-820a-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e61b9746-13e7-11f1-820a-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e61b9746-13e7-11f1-820a-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 415,
@@ -21828,18 +21928,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d47b2e4e-1909-11f1-9baa-2e8e239485e6",
                 "name": "Sporting C.P. 🦭",
-                "seed": 63
+                "seed": 63,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
                 "name": "CORRIDA DOS RATOS 🐀",
-                "seed": 191
+                "seed": 191,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "d47b2e4e-1909-11f1-9baa-2e8e239485e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d47b2e4e-1909-11f1-9baa-2e8e239485e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 419,
@@ -23354,7 +23489,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b7475ea-129a-11f1-9a8c-e62dd846289d",
+                "name": "ENERGY STATION",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -23503,7 +23640,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
+                "name": "CORRIDA DOS RATOS 🐀",
+                "seed": 191
             },
             "match_games": []
         },
