@@ -103470,18 +103470,68 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0978ad90-129a-11f1-b48c-e62dd846289d",
                 "name": "Valued Guys",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
                 "name": "Con cebolla",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0978ad90-129a-11f1-b48c-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0978ad90-129a-11f1-b48c-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "0978ad90-129a-11f1-b48c-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2028,
