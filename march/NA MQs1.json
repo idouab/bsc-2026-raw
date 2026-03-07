@@ -7026,7 +7026,7 @@
             "name": "M1 Demons",
             "players": [
                 {
-                    "name": "Aurelio",
+                    "name": "Chief",
                     "gamerTag": "#PPU0J9LCU"
                 },
                 {
@@ -9930,18 +9930,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
                 "name": "Greed",
-                "seed": 245
+                "seed": 245,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0199117e-1456-11f1-9c16-e6f601e467ba",
                 "name": "Chalchuapeños",
-                "seed": 268
+                "seed": 268,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0199117e-1456-11f1-9c16-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0199117e-1456-11f1-9c16-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0199117e-1456-11f1-9c16-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 115,
@@ -14366,7 +14416,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
+                "name": "Greed",
+                "seed": 245
             },
             "match_games": []
         },

@@ -26034,18 +26034,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
                 "name": "OCX Division",
-                "seed": 267
+                "seed": 267,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
                 "name": "The Flowers",
-                "seed": 342
+                "seed": 342,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
