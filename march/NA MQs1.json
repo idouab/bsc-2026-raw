@@ -24690,18 +24690,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c3df754e-145a-11f1-8fc9-d25156cdb59a",
                 "name": "BC* Gaming Academy",
-                "seed": 278
+                "seed": 278,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
                 "name": "CHUDS",
-                "seed": 342
+                "seed": 342,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c3df754e-145a-11f1-8fc9-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "c3df754e-145a-11f1-8fc9-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54ce3a3c-14e1-11f1-92bc-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 481,
