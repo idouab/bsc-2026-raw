@@ -24200,11 +24200,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5379e6b6-129a-11f1-898b-e62dd846289d",
                 "name": "MAX Gaming",
-                "seed": 17
+                "seed": 17,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
@@ -25590,7 +25591,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
+                "name": "SGA",
+                "seed": 48
             },
             "match_games": []
         },
