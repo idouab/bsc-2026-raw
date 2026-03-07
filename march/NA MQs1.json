@@ -13803,18 +13803,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81c180d2-1520-11f1-93ed-e6f601e467ba",
                 "name": "FG|BOMBS",
-                "seed": 187
+                "seed": 187,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "348dacf0-14d5-11f1-94a9-e6f601e467ba",
                 "name": "Bolitas D Grasas F/A",
-                "seed": 326
+                "seed": 326,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "81c180d2-1520-11f1-93ed-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "348dacf0-14d5-11f1-94a9-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "81c180d2-1520-11f1-93ed-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "348dacf0-14d5-11f1-94a9-e6f601e467ba",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 233,
@@ -16783,7 +16818,9 @@
                 "seed": 70
             },
             "opponent2": {
-                "id": null
+                "id": "81c180d2-1520-11f1-93ed-e6f601e467ba",
+                "name": "FG|BOMBS",
+                "seed": 187
             },
             "match_games": []
         },
