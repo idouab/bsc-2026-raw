@@ -20553,18 +20553,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
                 "name": "Os Chettos",
-                "seed": 248
+                "seed": 248,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "92648f56-1412-11f1-bf95-e6f601e467ba",
                 "name": "Nova Vanguard",
-                "seed": 120
+                "seed": 120,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92648f56-1412-11f1-bf95-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92648f56-1412-11f1-bf95-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 398,
@@ -21691,7 +21726,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
+                "name": "Os Chettos",
+                "seed": 248
             },
             "opponent2": {
                 "id": null
