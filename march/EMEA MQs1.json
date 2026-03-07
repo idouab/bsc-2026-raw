@@ -101450,18 +101450,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08c7aaa4-129a-11f1-91bf-e62dd846289d",
                 "name": "Saarbrücken F/A",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "455091e2-1999-11f1-800d-e2fadf4e5452",
                 "name": "Baguette 🥖 🇫🇷",
-                "seed": 680
+                "seed": 680,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "08c7aaa4-129a-11f1-91bf-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "455091e2-1999-11f1-800d-e2fadf4e5452",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "08c7aaa4-129a-11f1-91bf-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "455091e2-1999-11f1-800d-e2fadf4e5452",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "08c7aaa4-129a-11f1-91bf-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "455091e2-1999-11f1-800d-e2fadf4e5452",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1991,
@@ -102953,7 +103003,9 @@
                 "seed": 57
             },
             "opponent2": {
-                "id": null
+                "id": "08c7aaa4-129a-11f1-91bf-e62dd846289d",
+                "name": "Saarbrücken F/A",
+                "seed": 25
             },
             "match_games": []
         },
