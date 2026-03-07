@@ -15320,18 +15320,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b79cd4c-129a-11f1-b9d0-e62dd846289d",
                 "name": "Touros Negros",
-                "seed": 72
+                "seed": 72,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
                 "name": "Omega Prime",
-                "seed": 185
+                "seed": 185,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3b79cd4c-129a-11f1-b9d0-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3b79cd4c-129a-11f1-b9d0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3b79cd4c-129a-11f1-b9d0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 277,
@@ -20396,7 +20446,9 @@
                 "seed": 313
             },
             "opponent2": {
-                "id": null
+                "id": "3b79cd4c-129a-11f1-b9d0-e62dd846289d",
+                "name": "Touros Negros",
+                "seed": 72
             },
             "match_games": []
         },
