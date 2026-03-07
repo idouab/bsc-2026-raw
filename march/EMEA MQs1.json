@@ -96933,16 +96933,20 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0925ed4e-129a-11f1-bbff-e62dd846289d",
                 "name": "Stream>Skill",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "177a4180-1400-11f1-bcaf-e62dd846289d",
                 "name": "ORION",
-                "seed": 795
+                "seed": 795,
+                "score": 2,
+                "result": "win"
             },
             "match_games": []
         },
@@ -98701,10 +98705,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "177a4180-1400-11f1-bcaf-e62dd846289d",
+                "name": "ORION",
+                "seed": 795
             },
             "opponent2": {
-                "id": null
+                "id": "5481ff46-14e1-11f1-8090-e6f601e467ba",
+                "name": "Mango Stars",
+                "seed": 1126
             },
             "match_games": []
         },

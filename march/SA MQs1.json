@@ -9365,18 +9365,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
                 "name": "SoAsCats",
-                "seed": 252
+                "seed": 252,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c77efbc4-15c3-11f1-b228-d25156cdb59a",
                 "name": "Toscanetos",
-                "seed": 261
+                "seed": 261,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c77efbc4-15c3-11f1-b228-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c77efbc4-15c3-11f1-b228-d25156cdb59a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 99,
@@ -13465,7 +13500,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "bdc8d4b2-1445-11f1-a14b-d25156cdb59a",
+                "name": "SoAsCats",
+                "seed": 252
             },
             "match_games": []
         },
