@@ -14697,18 +14697,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "15fb11b4-1689-11f1-8db8-d25156cdb59a",
                 "name": "Blessing",
-                "seed": 57
+                "seed": 57,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
                 "name": "Six Seven",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "15fb11b4-1689-11f1-8db8-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "15fb11b4-1689-11f1-8db8-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 276,
@@ -17078,7 +17113,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7801be5a-1759-11f1-abb4-6e01aed0131b",
+                "name": "Six Seven",
+                "seed": 313
             },
             "opponent2": {
                 "id": null
