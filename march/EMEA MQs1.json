@@ -100633,18 +100633,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "082e9e72-129a-11f1-8163-e62dd846289d",
                 "name": "Dark Sayo",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "09a49c2a-129a-11f1-8f0b-e62dd846289d",
                 "name": "ZYLOX GAMING",
-                "seed": 86
+                "seed": 86,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "082e9e72-129a-11f1-8163-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09a49c2a-129a-11f1-8f0b-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "082e9e72-129a-11f1-8163-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09a49c2a-129a-11f1-8f0b-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "082e9e72-129a-11f1-8163-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09a49c2a-129a-11f1-8f0b-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1985,
@@ -101248,7 +101298,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "082e9e72-129a-11f1-8163-e62dd846289d",
+                "name": "Dark Sayo",
+                "seed": 43
             },
             "match_games": []
         },
