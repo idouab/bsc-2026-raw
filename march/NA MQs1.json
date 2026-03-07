@@ -14816,18 +14816,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "538c82e4-129a-11f1-9c97-e62dd846289d",
                 "name": "RAZE E - NA",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4b093ae6-18f7-11f1-a3b8-e6f2cbf1e58a",
                 "name": "Betta Sports",
-                "seed": 305
+                "seed": 305,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "538c82e4-129a-11f1-9c97-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4b093ae6-18f7-11f1-a3b8-e6f2cbf1e58a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "538c82e4-129a-11f1-9c97-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4b093ae6-18f7-11f1-a3b8-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 268,
@@ -18664,7 +18699,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "538c82e4-129a-11f1-9c97-e62dd846289d",
+                "name": "RAZE E - NA",
+                "seed": 49
             },
             "opponent2": {
                 "id": null
