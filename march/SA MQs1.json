@@ -14823,18 +14823,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc3a477e-159e-11f1-a540-e62dd846289d",
                 "name": "The Parros",
-                "seed": 113
+                "seed": 113,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6b51dd00-1503-11f1-9f4b-e62dd846289d",
                 "name": "ACF",
-                "seed": 144
+                "seed": 144,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cc3a477e-159e-11f1-a540-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b51dd00-1503-11f1-9f4b-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cc3a477e-159e-11f1-a540-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b51dd00-1503-11f1-9f4b-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "cc3a477e-159e-11f1-a540-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b51dd00-1503-11f1-9f4b-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 267,
@@ -19497,18 +19547,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "935329ea-1408-11f1-8edf-e62dd846289d",
                 "name": "TheRenegades",
-                "seed": 102
+                "seed": 102,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0869513a-14d8-11f1-bbb6-d25156cdb59a",
                 "name": "☁️ NUVEM ☁️",
-                "seed": 358
+                "seed": 358,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "935329ea-1408-11f1-8edf-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0869513a-14d8-11f1-bbb6-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "935329ea-1408-11f1-8edf-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0869513a-14d8-11f1-bbb6-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "935329ea-1408-11f1-8edf-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0869513a-14d8-11f1-bbb6-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 375,
@@ -19926,7 +20026,9 @@
                 "seed": 241
             },
             "opponent2": {
-                "id": null
+                "id": "6b51dd00-1503-11f1-9f4b-e62dd846289d",
+                "name": "ACF",
+                "seed": 144
             },
             "match_games": []
         },
@@ -20988,7 +21090,9 @@
                 "seed": 283
             },
             "opponent2": {
-                "id": null
+                "id": "0869513a-14d8-11f1-bbb6-d25156cdb59a",
+                "name": "☁️ NUVEM ☁️",
+                "seed": 358
             },
             "match_games": []
         },
