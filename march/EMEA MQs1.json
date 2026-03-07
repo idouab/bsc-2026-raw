@@ -77833,18 +77833,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07ce5c2e-129a-11f1-930f-e62dd846289d",
                 "name": "CCSS",
-                "seed": 64
+                "seed": 64,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd8219aa-13bc-11f1-a00e-e62dd846289d",
                 "name": "MMA",
-                "seed": 449
+                "seed": 449,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "07ce5c2e-129a-11f1-930f-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd8219aa-13bc-11f1-a00e-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "07ce5c2e-129a-11f1-930f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd8219aa-13bc-11f1-a00e-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "07ce5c2e-129a-11f1-930f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd8219aa-13bc-11f1-a00e-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1542,
@@ -90056,10 +90106,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07ce5c2e-129a-11f1-930f-e62dd846289d",
+                "name": "CCSS",
+                "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "82a06508-18e6-11f1-a75d-ea915998a002",
+                "name": "Mandy goat",
+                "seed": 320
             },
             "match_games": []
         },
