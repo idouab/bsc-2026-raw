@@ -79866,18 +79866,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09d736c6-129a-11f1-99aa-e62dd846289d",
                 "name": "FFT Esports",
-                "seed": 217
+                "seed": 217,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c93bc86c-13f6-11f1-8964-d25156cdb59a",
                 "name": "F/A ZOL",
-                "seed": 729
+                "seed": 729,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "09d736c6-129a-11f1-99aa-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c93bc86c-13f6-11f1-8964-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "09d736c6-129a-11f1-99aa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c93bc86c-13f6-11f1-8964-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "09d736c6-129a-11f1-99aa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c93bc86c-13f6-11f1-8964-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1583,
@@ -90977,7 +91027,9 @@
                 "seed": 552
             },
             "opponent2": {
-                "id": null
+                "id": "09d736c6-129a-11f1-99aa-e62dd846289d",
+                "name": "FFT Esports",
+                "seed": 217
             },
             "match_games": []
         },
