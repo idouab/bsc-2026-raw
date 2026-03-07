@@ -21003,18 +21003,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
                 "name": "Los Salchipaperos FA",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
                 "name": "DIP Team",
-                "seed": 341
+                "seed": 341,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 417,
