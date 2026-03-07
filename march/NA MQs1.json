@@ -18338,18 +18338,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53da35b6-129a-11f1-8c41-e62dd846289d",
                 "name": "FOX DEN",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd2f17d4-15e0-11f1-9ad4-e6f601e467ba",
                 "name": "CJNG",
-                "seed": 243
+                "seed": 243,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53da35b6-129a-11f1-8c41-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd2f17d4-15e0-11f1-9ad4-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53da35b6-129a-11f1-8c41-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd2f17d4-15e0-11f1-9ad4-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "53da35b6-129a-11f1-8c41-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd2f17d4-15e0-11f1-9ad4-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 362,
@@ -18753,7 +18803,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "5373b138-129a-11f1-959a-e62dd846289d",
                 "name": "Celestial Rebirth",
@@ -18978,18 +19028,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53d302f0-129a-11f1-89bc-e62dd846289d",
                 "name": "MM|MOJANTES",
-                "seed": 54
+                "seed": 54,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
                 "name": "Oaxaqueños pro",
-                "seed": 203
+                "seed": 203,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53d302f0-129a-11f1-89bc-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53d302f0-129a-11f1-89bc-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 380,
@@ -20084,7 +20169,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53da35b6-129a-11f1-8c41-e62dd846289d",
+                "name": "FOX DEN",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
@@ -20240,7 +20327,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                "name": "Oaxaqueños pro",
+                "seed": 203
             },
             "opponent2": {
                 "id": null
