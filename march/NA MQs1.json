@@ -8567,18 +8567,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2025a02-144d-11f1-aee0-d25156cdb59a",
                 "name": "Therians team",
-                "seed": 248
+                "seed": 248,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
                 "name": "YVL",
-                "seed": 265
+                "seed": 265,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a2025a02-144d-11f1-aee0-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a2025a02-144d-11f1-aee0-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a2025a02-144d-11f1-aee0-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
@@ -10921,18 +10971,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70cf872e-1a16-11f1-a9ec-2e9faa375fcf",
                 "name": "AyagozNova",
-                "seed": 159
+                "seed": 159,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c1c2d4e-14ef-11f1-b888-e6f601e467ba",
                 "name": "Underdogs",
-                "seed": 354
+                "seed": 354,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "70cf872e-1a16-11f1-a9ec-2e9faa375fcf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c1c2d4e-14ef-11f1-b888-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "70cf872e-1a16-11f1-a9ec-2e9faa375fcf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c1c2d4e-14ef-11f1-b888-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "70cf872e-1a16-11f1-a9ec-2e9faa375fcf",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c1c2d4e-14ef-11f1-b888-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 141,
@@ -14259,7 +14359,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
+                "name": "YVL",
+                "seed": 265
             },
             "match_games": []
         },
@@ -15129,7 +15231,9 @@
                 "seed": 98
             },
             "opponent2": {
-                "id": null
+                "id": "6c1c2d4e-14ef-11f1-b888-e6f601e467ba",
+                "name": "Underdogs",
+                "seed": 354
             },
             "match_games": []
         },
