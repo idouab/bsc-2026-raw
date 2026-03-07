@@ -14626,7 +14626,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "53afa288-129a-11f1-945f-e62dd846289d",
                 "name": "Lancers",
@@ -14831,18 +14831,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f8bded1e-15df-11f1-a363-e62dd846289d",
                 "name": "VORTEX ESPORTS",
-                "seed": 113
+                "seed": 113,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "46e480ba-1528-11f1-97e3-d25156cdb59a",
                 "name": "THE BOAT",
-                "seed": 144
+                "seed": 144,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f8bded1e-15df-11f1-a363-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "46e480ba-1528-11f1-97e3-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "f8bded1e-15df-11f1-a363-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46e480ba-1528-11f1-97e3-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f8bded1e-15df-11f1-a363-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "46e480ba-1528-11f1-97e3-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 267,
@@ -16071,18 +16121,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "539536a0-129a-11f1-a68f-e62dd846289d",
                 "name": "SNT",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
                 "name": "Ishyaboi",
-                "seed": 237
+                "seed": 237,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "539536a0-129a-11f1-a68f-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "539536a0-129a-11f1-a68f-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 302,
@@ -19160,7 +19245,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "46e480ba-1528-11f1-97e3-d25156cdb59a",
+                "name": "THE BOAT",
+                "seed": 144
             },
             "match_games": []
         },
@@ -19473,7 +19560,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07edec5a-15d4-11f1-9ad0-e6f601e467ba",
+                "name": "Ishyaboi",
+                "seed": 237
             },
             "opponent2": {
                 "id": null
