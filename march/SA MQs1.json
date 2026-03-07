@@ -15567,18 +15567,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3baf6376-129a-11f1-9ccb-e62dd846289d",
                 "name": "Gangsta",
-                "seed": 53
+                "seed": 53,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
                 "name": "UnkCat",
-                "seed": 309
+                "seed": 309,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3baf6376-129a-11f1-9ccb-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3baf6376-129a-11f1-9ccb-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 316,
@@ -17470,7 +17505,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0d377c66-172e-11f1-8a5f-3a56be435524",
+                "name": "UnkCat",
+                "seed": 309
             },
             "opponent2": {
                 "id": null
