@@ -21613,18 +21613,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b83d0e4-129a-11f1-8708-e62dd846289d",
                 "name": "MDK",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
                 "name": "Garotos Episten fc",
-                "seed": 138
+                "seed": 138,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3b83d0e4-129a-11f1-8708-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3b83d0e4-129a-11f1-8708-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 430,
@@ -22416,7 +22451,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b83d0e4-129a-11f1-8708-e62dd846289d",
+                "name": "MDK",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
