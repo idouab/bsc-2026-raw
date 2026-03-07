@@ -21458,18 +21458,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
                 "name": "I Love My Cat 🐱",
-                "seed": 297
+                "seed": 297,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f33f056e-14e3-11f1-bb7b-e6f601e467ba",
                 "name": "Rangers🔥",
-                "seed": 344
+                "seed": 344,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f33f056e-14e3-11f1-bb7b-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ae8a112e-1845-11f1-98df-5a72cf01e9cd",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f33f056e-14e3-11f1-bb7b-e6f601e467ba",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 401,
@@ -21648,18 +21683,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
                 "name": "RVTY",
-                "seed": 205
+                "seed": 205,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53e1830c-129a-11f1-88fd-e62dd846289d",
                 "name": "HWB",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53e1830c-129a-11f1-88fd-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53e1830c-129a-11f1-88fd-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 407,
