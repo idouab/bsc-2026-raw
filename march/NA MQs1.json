@@ -19623,18 +19623,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6fd3d7c4-1694-11f1-9717-d25156cdb59a",
                 "name": "Kirb",
-                "seed": 123
+                "seed": 123,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
                 "name": "The Big Brown Boys",
-                "seed": 134
+                "seed": 134,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "6fd3d7c4-1694-11f1-9717-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "6fd3d7c4-1694-11f1-9717-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 371,
@@ -19923,18 +19958,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
                 "name": "BPG",
-                "seed": 118
+                "seed": 118,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "733511c2-182d-11f1-8a22-5a72cf01e9cd",
                 "name": "AG",
-                "seed": 139
+                "seed": 139,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "733511c2-182d-11f1-8a22-5a72cf01e9cd",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "733511c2-182d-11f1-8a22-5a72cf01e9cd",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "733511c2-182d-11f1-8a22-5a72cf01e9cd",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 379,
@@ -21236,7 +21321,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
+                "name": "The Big Brown Boys",
+                "seed": 134
             },
             "match_games": []
         },
