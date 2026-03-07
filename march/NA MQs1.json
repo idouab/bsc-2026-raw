@@ -22843,48 +22843,15 @@
                 "id": "537e1358-129a-11f1-8324-e62dd846289d",
                 "name": "Ohio",
                 "seed": 6,
-                "score": 2,
-                "result": "win"
+                "score": 0
             },
             "opponent2": {
                 "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
                 "name": "The Big Brown Boys",
                 "seed": 134,
-                "score": 0,
-                "result": "loss"
+                "score": 0
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Hot Zone",
-                    "mapName": "Open Business",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
-                    "opponent1": {
-                        "id": "537e1358-129a-11f1-8324-e62dd846289d",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Heist",
-                    "mapName": "Bridge Too Far",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
-                    "opponent1": {
-                        "id": "537e1358-129a-11f1-8324-e62dd846289d",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d51f3b54-150a-11f1-b168-62829905b3ce",
-                        "score": 0
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 442,
@@ -22953,18 +22920,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a03762-129a-11f1-8598-e62dd846289d",
                 "name": "🦗🦗🦗",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
                 "name": "BPG",
-                "seed": 118
+                "seed": 118,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53a03762-129a-11f1-8598-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53a03762-129a-11f1-8598-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f289b4c8-1409-11f1-aa29-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 446,
@@ -23594,7 +23596,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53a03762-129a-11f1-8598-e62dd846289d",
+                "name": "🦗🦗🦗",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
