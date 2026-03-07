@@ -10457,18 +10457,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
                 "name": "Throw Gaming",
-                "seed": 186
+                "seed": 186,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3ded692c-1843-11f1-8dd8-6e01aed0131b",
                 "name": "Dark Raven Puno",
-                "seed": 327
+                "seed": 327,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ded692c-1843-11f1-8dd8-6e01aed0131b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ded692c-1843-11f1-8dd8-6e01aed0131b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 169,
@@ -11343,18 +11378,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
                 "name": "TDM TEAM Esports",
-                "seed": 206
+                "seed": 206,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "192bf44e-171e-11f1-9fec-3a56be435524",
                 "name": "AKN",
-                "seed": 307
+                "seed": 307,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "192bf44e-171e-11f1-9fec-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "192bf44e-171e-11f1-9fec-3a56be435524",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 215,
@@ -13646,7 +13716,9 @@
                 "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
+                "name": "Throw Gaming",
+                "seed": 186
             },
             "match_games": []
         },
@@ -14070,7 +14142,9 @@
                 "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
+                "name": "TDM TEAM Esports",
+                "seed": 206
             },
             "match_games": []
         },
