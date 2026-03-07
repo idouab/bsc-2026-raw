@@ -99483,18 +99483,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9242520c-13df-11f1-bf33-e62dd846289d",
                 "name": "LiveLoveLev",
-                "seed": 1223
+                "seed": 1223,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "22a3effe-165b-11f1-bdba-d25156cdb59a",
                 "name": "Prime Guild",
-                "seed": 583
+                "seed": 583,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "9242520c-13df-11f1-bf33-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22a3effe-165b-11f1-bdba-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "9242520c-13df-11f1-bf33-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22a3effe-165b-11f1-bdba-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1963,
@@ -100711,7 +100746,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "9242520c-13df-11f1-bf33-e62dd846289d",
+                "name": "LiveLoveLev",
+                "seed": 1223
             },
             "match_games": []
         },
