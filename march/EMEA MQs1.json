@@ -78597,18 +78597,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "85a42d96-14f6-11f1-869e-62829905b3ce",
                 "name": "Zob humide 67",
-                "seed": 1168
+                "seed": 1168,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5100a2da-19ac-11f1-b24e-929a025c02db",
                 "name": "TR666",
-                "seed": 1393
+                "seed": 1393,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "85a42d96-14f6-11f1-869e-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5100a2da-19ac-11f1-b24e-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "85a42d96-14f6-11f1-869e-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5100a2da-19ac-11f1-b24e-929a025c02db",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1557,
@@ -90771,7 +90806,9 @@
                 "seed": 912
             },
             "opponent2": {
-                "id": null
+                "id": "85a42d96-14f6-11f1-869e-62829905b3ce",
+                "name": "Zob humide 67",
+                "seed": 1168
             },
             "match_games": []
         },
