@@ -16507,18 +16507,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ff8a9f7c-169b-11f1-aa9f-d25156cdb59a",
                 "name": "Kova Strike",
-                "seed": 85
+                "seed": 85,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
                 "name": "DIP Team",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ff8a9f7c-169b-11f1-aa9f-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ff8a9f7c-169b-11f1-aa9f-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 321,
@@ -17968,18 +18003,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
                 "name": "Elojobers F/A",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
                 "name": "⚜️Golden Fighters⚜️",
-                "seed": 275
+                "seed": 275,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 366,
@@ -19428,10 +19498,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
+                "name": "Elojobers F/A",
+                "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                "name": "Acre Lovers",
+                "seed": 110
             },
             "match_games": []
         },
