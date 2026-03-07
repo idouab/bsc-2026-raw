@@ -9136,18 +9136,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "54bd68d2-143d-11f1-8561-d25156cdb59a",
                 "name": "Necro",
-                "seed": 228
+                "seed": 228,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8f4164b0-166b-11f1-aaef-e62dd846289d",
                 "name": "Alpha Legends",
-                "seed": 285
+                "seed": 285,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "54bd68d2-143d-11f1-8561-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f4164b0-166b-11f1-aaef-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "54bd68d2-143d-11f1-8561-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8f4164b0-166b-11f1-aaef-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "54bd68d2-143d-11f1-8561-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8f4164b0-166b-11f1-aaef-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 75,
@@ -10563,18 +10613,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a67f2e3e-155b-11f1-8bd7-d25156cdb59a",
                 "name": "Los eso Brad",
-                "seed": 172
+                "seed": 172,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
                 "name": "DIP Team",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a67f2e3e-155b-11f1-8bd7-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a67f2e3e-155b-11f1-8bd7-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a67f2e3e-155b-11f1-8bd7-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 129,
@@ -14625,7 +14725,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "8f4164b0-166b-11f1-aaef-e62dd846289d",
+                "name": "Alpha Legends",
+                "seed": 285
             },
             "match_games": []
         },
@@ -15157,7 +15259,9 @@
                 "seed": 85
             },
             "opponent2": {
-                "id": null
+                "id": "1cc8a7cc-190e-11f1-b318-ba8a72688b1f",
+                "name": "DIP Team",
+                "seed": 341
             },
             "match_games": []
         },
