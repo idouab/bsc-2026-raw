@@ -9258,18 +9258,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
                 "name": "RVTY",
-                "seed": 205
+                "seed": 205,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a680defc-14be-11f1-8efa-e62dd846289d",
                 "name": "Litegate",
-                "seed": 308
+                "seed": 308,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a680defc-14be-11f1-8efa-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a680defc-14be-11f1-8efa-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 87,
@@ -14388,7 +14423,9 @@
                 "seed": 52
             },
             "opponent2": {
-                "id": null
+                "id": "5880aaca-1545-11f1-b479-e6f601e467ba",
+                "name": "RVTY",
+                "seed": 205
             },
             "match_games": []
         },

@@ -25489,18 +25489,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c0ebbae-19d0-11f1-81ff-0aeb6badfa08",
                 "name": "ATS OLD",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "241865f2-1405-11f1-a11c-d25156cdb59a",
                 "name": "RAGNAROK",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "8c0ebbae-19d0-11f1-81ff-0aeb6badfa08",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "241865f2-1405-11f1-a11c-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8c0ebbae-19d0-11f1-81ff-0aeb6badfa08",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "241865f2-1405-11f1-a11c-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 482,
