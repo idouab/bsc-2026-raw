@@ -21763,18 +21763,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c3267aaa-1598-11f1-b363-e6f601e467ba",
                 "name": "MITO TOTAL",
-                "seed": 58
+                "seed": 58,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
                 "name": "Throw Gaming",
-                "seed": 186
+                "seed": 186,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "c3267aaa-1598-11f1-b363-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "c3267aaa-1598-11f1-b363-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0278b366-141e-11f1-bc75-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 427,
