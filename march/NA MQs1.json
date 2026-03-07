@@ -15311,18 +15311,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53ec314e-129a-11f1-b1c8-e62dd846289d",
                 "name": "Encore",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
                 "name": "Star Voyager",
-                "seed": 281
+                "seed": 281,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53ec314e-129a-11f1-b1c8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53ec314e-129a-11f1-b1c8-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "53ec314e-129a-11f1-b1c8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f883c9e-1775-11f1-ace4-3a56be435524",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 278,
@@ -15331,18 +15381,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29425a1a-13ba-11f1-9d5b-e62dd846289d",
                 "name": "G1",
-                "seed": 104
+                "seed": 104,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
                 "name": "Ping Warrior",
-                "seed": 153
+                "seed": 153,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "29425a1a-13ba-11f1-9d5b-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "29425a1a-13ba-11f1-9d5b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 279,
@@ -18613,18 +18698,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "538701d4-129a-11f1-b055-e62dd846289d",
                 "name": "Team KADD",
-                "seed": 46
+                "seed": 46,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d304114-148c-11f1-970e-d25156cdb59a",
                 "name": "Elysium",
-                "seed": 302
+                "seed": 302,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "538701d4-129a-11f1-b055-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d304114-148c-11f1-970e-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "538701d4-129a-11f1-b055-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d304114-148c-11f1-970e-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 368,
@@ -19472,10 +19592,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53ec314e-129a-11f1-b1c8-e62dd846289d",
+                "name": "Encore",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
+                "name": "Ping Warrior",
+                "seed": 153
             },
             "match_games": []
         },
@@ -20258,7 +20382,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d304114-148c-11f1-970e-d25156cdb59a",
+                "name": "Elysium",
+                "seed": 302
             },
             "opponent2": {
                 "id": null
