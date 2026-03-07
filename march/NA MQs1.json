@@ -20863,18 +20863,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53d29608-129a-11f1-ad64-e62dd846289d",
                 "name": "🕷️",
-                "seed": 64
+                "seed": 64,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "539118fe-129a-11f1-8352-e62dd846289d",
                 "name": "Leyendas del Mictlan",
-                "seed": 65
+                "seed": 65,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53d29608-129a-11f1-ad64-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "539118fe-129a-11f1-8352-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53d29608-129a-11f1-ad64-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "539118fe-129a-11f1-8352-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "53d29608-129a-11f1-ad64-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "539118fe-129a-11f1-8352-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 387,
@@ -23790,18 +23840,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
                 "name": "Oaxaqueños pro",
-                "seed": 203
+                "seed": 203,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3f8ce896-141c-11f1-a3bc-e6f601e467ba",
                 "name": "Vinice Esports",
-                "seed": 182
+                "seed": 182,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3f8ce896-141c-11f1-a3bc-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3f8ce896-141c-11f1-a3bc-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3f8ce896-141c-11f1-a3bc-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 447,
@@ -23927,7 +24027,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "53d29608-129a-11f1-ad64-e62dd846289d",
+                "name": "🕷️",
+                "seed": 64
             },
             "match_games": []
         },
@@ -24521,7 +24623,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "2c9d68ce-1542-11f1-a1ba-d25156cdb59a",
+                "name": "Oaxaqueños pro",
+                "seed": 203
             },
             "match_games": []
         },
