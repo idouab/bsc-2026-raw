@@ -16121,18 +16121,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7120664c-1a13-11f1-bf83-b6a304f36e4b",
                 "name": "Le i",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4171c8e8-158e-11f1-9f0a-e62dd846289d",
                 "name": "E-DESTINY",
-                "seed": 164
+                "seed": 164,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "7120664c-1a13-11f1-bf83-b6a304f36e4b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4171c8e8-158e-11f1-9f0a-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7120664c-1a13-11f1-bf83-b6a304f36e4b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4171c8e8-158e-11f1-9f0a-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 297,
@@ -17681,18 +17716,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1466a570-15d5-11f1-afcd-62829905b3ce",
                 "name": "BC Elite",
-                "seed": 111
+                "seed": 111,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ab345160-152a-11f1-a878-e62dd846289d",
                 "name": "YutaGaming",
-                "seed": 146
+                "seed": 146,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "1466a570-15d5-11f1-afcd-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ab345160-152a-11f1-a878-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "1466a570-15d5-11f1-afcd-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ab345160-152a-11f1-a878-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 335,
@@ -19228,7 +19298,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "5373b138-129a-11f1-959a-e62dd846289d",
                 "name": "Celestial Rebirth",
@@ -20062,7 +20132,9 @@
                 "seed": 36
             },
             "opponent2": {
-                "id": null
+                "id": "4171c8e8-158e-11f1-9f0a-e62dd846289d",
+                "name": "E-DESTINY",
+                "seed": 164
             },
             "match_games": []
         },
