@@ -24406,18 +24406,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b67a81a-129a-11f1-ae4a-e62dd846289d",
                 "name": "DOM eSPORTS",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
                 "name": "Xblood zero",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3b67a81a-129a-11f1-ae4a-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3b67a81a-129a-11f1-ae4a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3b67a81a-129a-11f1-ae4a-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 461,
@@ -25546,7 +25596,9 @@
                 "seed": 205
             },
             "opponent2": {
-                "id": null
+                "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                "name": "Xblood zero",
+                "seed": 301
             },
             "match_games": []
         },
