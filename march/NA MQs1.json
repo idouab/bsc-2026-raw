@@ -15236,18 +15236,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
                 "name": "WBB Esports🐻🐻‍❄️🐼",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
                 "name": "YVL",
-                "seed": 265
+                "seed": 265,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56916d5a-16b0-11f1-80f9-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 282,
@@ -17586,18 +17621,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa0fb6c2-15fb-11f1-9b5e-62829905b3ce",
                 "name": "RedFlower",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e9db5cda-14e7-11f1-b9b2-62829905b3ce",
                 "name": "Kazoku",
-                "seed": 350
+                "seed": 350,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fa0fb6c2-15fb-11f1-9b5e-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9db5cda-14e7-11f1-b9b2-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fa0fb6c2-15fb-11f1-9b5e-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9db5cda-14e7-11f1-b9b2-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 361,
@@ -18504,7 +18574,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
+                "name": "WBB Esports🐻🐻‍❄️🐼",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
