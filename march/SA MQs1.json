@@ -8101,18 +8101,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
                 "name": "Omega Prime",
-                "seed": 185
+                "seed": 185,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1fccc50e-14c0-11f1-9965-e6f601e467ba",
                 "name": "Olimpo Ylegends",
-                "seed": 328
+                "seed": 328,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1fccc50e-14c0-11f1-9965-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1fccc50e-14c0-11f1-9965-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -9241,18 +9276,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "04dc1e82-1599-11f1-9318-e6f601e467ba",
                 "name": "Gorilas",
-                "seed": 237
+                "seed": 237,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1a490ec-145a-11f1-911a-d25156cdb59a",
                 "name": "Red Hawk Retired",
-                "seed": 276
+                "seed": 276,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "04dc1e82-1599-11f1-9318-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1a490ec-145a-11f1-911a-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "04dc1e82-1599-11f1-9318-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1a490ec-145a-11f1-911a-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 91,
@@ -13263,7 +13333,9 @@
                 "seed": 72
             },
             "opponent2": {
-                "id": null
+                "id": "c588cae8-14f6-11f1-b180-e6f601e467ba",
+                "name": "Omega Prime",
+                "seed": 185
             },
             "match_games": []
         },
@@ -13747,7 +13819,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "d1a490ec-145a-11f1-911a-d25156cdb59a",
+                "name": "Red Hawk Retired",
+                "seed": 276
             },
             "match_games": []
         },
