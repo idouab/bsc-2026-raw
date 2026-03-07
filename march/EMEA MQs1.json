@@ -92904,18 +92904,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7db8d276-1569-11f1-bd8a-d25156cdb59a",
                 "name": "Uallera",
-                "seed": 958
+                "seed": 958,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04ecff0c-14ab-11f1-abcf-62829905b3ce",
                 "name": "F/a",
-                "seed": 702
+                "seed": 702,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7db8d276-1569-11f1-bd8a-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04ecff0c-14ab-11f1-abcf-62829905b3ce",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "7db8d276-1569-11f1-bd8a-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04ecff0c-14ab-11f1-abcf-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1893,
