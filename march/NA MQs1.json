@@ -22871,18 +22871,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
                 "name": "SBJ Vanguard",
-                "seed": 231
+                "seed": 231,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ff21d9ea-1535-11f1-b61c-e62dd846289d",
                 "name": "宇治抹茶",
-                "seed": 154
+                "seed": 154,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff21d9ea-1535-11f1-b61c-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ff21d9ea-1535-11f1-b61c-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff21d9ea-1535-11f1-b61c-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 428,
@@ -24290,10 +24340,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                "name": "SBJ Vanguard",
+                "seed": 231
             },
             "opponent2": {
-                "id": null
+                "id": "53df24f4-129a-11f1-9fc0-e62dd846289d",
+                "name": "Power Puff Girls",
+                "seed": 39
             },
             "match_games": []
         },
