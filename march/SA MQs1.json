@@ -16362,18 +16362,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9867e25c-15b3-11f1-a88f-62829905b3ce",
                 "name": "Papuclan",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
                 "name": "Garotos Episten fc",
-                "seed": 138
+                "seed": 138,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "9867e25c-15b3-11f1-a88f-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "9867e25c-15b3-11f1-a88f-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 347,
@@ -16762,18 +16797,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
                 "name": "Acre Lovers",
-                "seed": 110
+                "seed": 110,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2fff8506-1731-11f1-947e-5a72cf01e9cd",
                 "name": "F/A Choriso Squad",
-                "seed": 147
+                "seed": 147,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2fff8506-1731-11f1-947e-5a72cf01e9cd",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2fff8506-1731-11f1-947e-5a72cf01e9cd",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 367,
@@ -17857,7 +17927,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "2318363c-14f5-11f1-8bf6-e62dd846289d",
+                "name": "Garotos Episten fc",
+                "seed": 138
             },
             "match_games": []
         },
