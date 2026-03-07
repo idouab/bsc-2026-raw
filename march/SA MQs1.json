@@ -7568,18 +7568,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
                 "name": "MLT/SPORTS",
-                "seed": 224
+                "seed": 224,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "74443742-167e-11f1-919c-e62dd846289d",
                 "name": "Lendas brawl",
-                "seed": 289
+                "seed": 289,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "74443742-167e-11f1-919c-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74443742-167e-11f1-919c-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74443742-167e-11f1-919c-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -10364,18 +10414,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f2376158-15b4-11f1-a625-62829905b3ce",
                 "name": "ZERO KRYPTEIA",
-                "seed": 255
+                "seed": 255,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "52e1f6ca-1449-11f1-ba41-62829905b3ce",
                 "name": "Devoratherians",
-                "seed": 258
+                "seed": 258,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f2376158-15b4-11f1-a625-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "52e1f6ca-1449-11f1-ba41-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "f2376158-15b4-11f1-a625-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "52e1f6ca-1449-11f1-ba41-62829905b3ce",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f2376158-15b4-11f1-a625-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "52e1f6ca-1449-11f1-ba41-62829905b3ce",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -13670,7 +13770,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
+                "name": "MLT/SPORTS",
+                "seed": 224
             },
             "match_games": []
         },
@@ -14810,7 +14912,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "52e1f6ca-1449-11f1-ba41-62829905b3ce",
+                "name": "Devoratherians",
+                "seed": 258
             },
             "match_games": []
         },
