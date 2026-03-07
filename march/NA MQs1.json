@@ -19113,18 +19113,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8b4edc6c-183b-11f1-bfe7-069704759f1b",
                 "name": "Kessoku",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bbe167ac-19d3-11f1-947f-2e9faa375fcf",
                 "name": "NightmareCore",
-                "seed": 323
+                "seed": 323,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8b4edc6c-183b-11f1-bfe7-069704759f1b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bbe167ac-19d3-11f1-947f-2e9faa375fcf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8b4edc6c-183b-11f1-bfe7-069704759f1b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bbe167ac-19d3-11f1-947f-2e9faa375fcf",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8b4edc6c-183b-11f1-bfe7-069704759f1b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bbe167ac-19d3-11f1-947f-2e9faa375fcf",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 357,
@@ -19683,18 +19733,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec11d68c-1820-11f1-86ac-6e01aed0131b",
                 "name": "Mixi Team",
-                "seed": 83
+                "seed": 83,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55a77f18-15a4-11f1-937a-d25156cdb59a",
                 "name": "Winner chick dinners",
-                "seed": 174
+                "seed": 174,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ec11d68c-1820-11f1-86ac-6e01aed0131b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55a77f18-15a4-11f1-937a-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ec11d68c-1820-11f1-86ac-6e01aed0131b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "55a77f18-15a4-11f1-937a-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "ec11d68c-1820-11f1-86ac-6e01aed0131b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55a77f18-15a4-11f1-937a-d25156cdb59a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 369,
@@ -21450,7 +21550,9 @@
                 "seed": 302
             },
             "opponent2": {
-                "id": null
+                "id": "ec11d68c-1820-11f1-86ac-6e01aed0131b",
+                "name": "Mixi Team",
+                "seed": 83
             },
             "match_games": []
         },
