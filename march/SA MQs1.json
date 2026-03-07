@@ -14877,18 +14877,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58543d2a-15a2-11f1-8d8d-d25156cdb59a",
                 "name": "Dona Monca",
-                "seed": 73
+                "seed": 73,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f23ca95e-189f-11f1-a814-ea12e542065a",
                 "name": "Le Goats",
-                "seed": 329
+                "seed": 329,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "58543d2a-15a2-11f1-8d8d-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f23ca95e-189f-11f1-a814-ea12e542065a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "58543d2a-15a2-11f1-8d8d-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f23ca95e-189f-11f1-a814-ea12e542065a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 285,
