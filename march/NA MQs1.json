@@ -20948,18 +20948,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
                 "name": "SGA",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1f2976de-1a19-11f1-93b4-222321edc32e",
                 "name": "EDR",
-                "seed": 337
+                "seed": 337,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f2976de-1a19-11f1-93b4-222321edc32e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f2976de-1a19-11f1-93b4-222321edc32e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -21808,18 +21843,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53997af8-129a-11f1-a69a-e62dd846289d",
                 "name": "StarBoyz",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "03acf27c-1542-11f1-b574-e6f601e467ba",
                 "name": "PKC",
-                "seed": 158
+                "seed": 158,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53997af8-129a-11f1-a69a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "03acf27c-1542-11f1-b574-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53997af8-129a-11f1-a69a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "03acf27c-1542-11f1-b574-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 436,
@@ -22490,7 +22560,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53997af8-129a-11f1-a69a-e62dd846289d",
+                "name": "StarBoyz",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
