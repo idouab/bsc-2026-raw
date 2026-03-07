@@ -79637,18 +79637,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "376631de-17d9-11f1-846b-3a56be435524",
                 "name": "COC|E-Sport",
-                "seed": 1261
+                "seed": 1261,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9641fb72-13f9-11f1-b9b3-e62dd846289d",
                 "name": "stemenemene",
-                "seed": 749
+                "seed": 749,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "376631de-17d9-11f1-846b-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9641fb72-13f9-11f1-b9b3-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "376631de-17d9-11f1-846b-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9641fb72-13f9-11f1-b9b3-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1627,
@@ -80292,18 +80327,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "087e02c8-129a-11f1-b3c6-e62dd846289d",
                 "name": "-AIR FØRCE-",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "11d1e2a8-1499-11f1-81d1-e62dd846289d",
                 "name": "LES FOUS DU BUS",
-                "seed": 492
+                "seed": 492,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "087e02c8-129a-11f1-b3c6-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "11d1e2a8-1499-11f1-81d1-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "087e02c8-129a-11f1-b3c6-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "11d1e2a8-1499-11f1-81d1-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1658,
@@ -82722,18 +82792,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07ed3874-129a-11f1-a790-e62dd846289d",
                 "name": "HASHIRA ESPORTS",
-                "seed": 187
+                "seed": 187,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0e7015aa-13f2-11f1-9816-62829905b3ce",
                 "name": "🔨harte jungs",
-                "seed": 699
+                "seed": 699,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "07ed3874-129a-11f1-a790-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0e7015aa-13f2-11f1-9816-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "07ed3874-129a-11f1-a790-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0e7015aa-13f2-11f1-9816-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1769,
@@ -83941,7 +84046,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "376631de-17d9-11f1-846b-3a56be435524",
+                "name": "COC|E-Sport",
+                "seed": 1261
             },
             "match_games": []
         },
@@ -84196,7 +84303,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "087e02c8-129a-11f1-b3c6-e62dd846289d",
+                "name": "-AIR FØRCE-",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
