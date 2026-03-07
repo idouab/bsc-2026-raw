@@ -99798,18 +99798,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa6d57ce-1401-11f1-94b0-d25156cdb59a",
                 "name": "Ogurchiki",
-                "seed": 807
+                "seed": 807,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
                 "name": "Con cebolla",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fa6d57ce-1401-11f1-94b0-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fa6d57ce-1401-11f1-94b0-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "fa6d57ce-1401-11f1-94b0-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1965,
@@ -101220,7 +101270,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "09cc8d52-129a-11f1-b474-e62dd846289d",
+                "name": "Con cebolla",
+                "seed": 90
             },
             "match_games": []
         },
