@@ -102131,18 +102131,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07b8c35a-129a-11f1-9f94-e62dd846289d",
                 "name": "RVP Gaming",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3742c7e8-1587-11f1-8577-e62dd846289d",
                 "name": "HessK Gaming",
-                "seed": 1362
+                "seed": 1362,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "07b8c35a-129a-11f1-9f94-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3742c7e8-1587-11f1-8577-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "07b8c35a-129a-11f1-9f94-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3742c7e8-1587-11f1-8577-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "07b8c35a-129a-11f1-9f94-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3742c7e8-1587-11f1-8577-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2005,
@@ -102441,18 +102491,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e3e2a8b2-1431-11f1-99d1-62829905b3ce",
                 "name": "67",
-                "seed": 414
+                "seed": 414,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8e291dda-1985-11f1-a0b3-9e44097e6c6e",
                 "name": "EHB",
-                "seed": 675
+                "seed": 675,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e3e2a8b2-1431-11f1-99d1-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e291dda-1985-11f1-a0b3-9e44097e6c6e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e3e2a8b2-1431-11f1-99d1-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8e291dda-1985-11f1-a0b3-9e44097e6c6e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "e3e2a8b2-1431-11f1-99d1-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8e291dda-1985-11f1-a0b3-9e44097e6c6e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2011,
@@ -102987,7 +103087,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "3742c7e8-1587-11f1-8577-e62dd846289d",
+                "name": "HessK Gaming",
+                "seed": 1362
             },
             "match_games": []
         },
@@ -103045,7 +103147,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "8e291dda-1985-11f1-a0b3-9e44097e6c6e",
+                "name": "EHB",
+                "seed": 675
             },
             "match_games": []
         },
