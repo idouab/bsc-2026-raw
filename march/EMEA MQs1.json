@@ -101830,18 +101830,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0886f090-129a-11f1-bdc5-e62dd846289d",
                 "name": "Skepsis Gaming",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "082e9e72-129a-11f1-8163-e62dd846289d",
                 "name": "Dark Sayo",
-                "seed": 43
+                "seed": 43,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0886f090-129a-11f1-bdc5-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "082e9e72-129a-11f1-8163-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0886f090-129a-11f1-bdc5-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "082e9e72-129a-11f1-8163-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2017,
