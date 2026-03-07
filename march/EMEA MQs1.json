@@ -97683,18 +97683,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0869191c-129a-11f1-a451-e62dd846289d",
                 "name": "YLM | Esports",
-                "seed": 48
+                "seed": 48,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e1d9a7b8-19aa-11f1-a21a-4e2dacc1f243",
                 "name": "Jadacze Gówna",
-                "seed": 688
+                "seed": 688,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0869191c-129a-11f1-a451-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e1d9a7b8-19aa-11f1-a21a-4e2dacc1f243",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0869191c-129a-11f1-a451-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e1d9a7b8-19aa-11f1-a21a-4e2dacc1f243",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1929,
