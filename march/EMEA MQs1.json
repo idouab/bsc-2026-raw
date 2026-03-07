@@ -83792,18 +83792,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08e3abd2-129a-11f1-b286-e62dd846289d",
                 "name": "LOS CAUSAS GAMING🟦",
-                "seed": 79
+                "seed": 79,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5b8deeb6-1451-11f1-8372-e6f601e467ba",
                 "name": "Rasierer OB",
-                "seed": 434
+                "seed": 434,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "08e3abd2-129a-11f1-b286-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5b8deeb6-1451-11f1-8372-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "08e3abd2-129a-11f1-b286-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5b8deeb6-1451-11f1-8372-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "08e3abd2-129a-11f1-b286-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5b8deeb6-1451-11f1-8372-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1688,
@@ -85017,18 +85067,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08f3c954-129a-11f1-b308-e62dd846289d",
                 "name": "Firemen",
-                "seed": 119
+                "seed": 119,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6cf42c4c-17fd-11f1-be2f-3a56be435524",
                 "name": "Apierdolency",
-                "seed": 631
+                "seed": 631,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "08f3c954-129a-11f1-b308-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6cf42c4c-17fd-11f1-be2f-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "08f3c954-129a-11f1-b308-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6cf42c4c-17fd-11f1-be2f-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "08f3c954-129a-11f1-b308-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6cf42c4c-17fd-11f1-be2f-3a56be435524",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1716,
@@ -89554,10 +89654,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08e3abd2-129a-11f1-b286-e62dd846289d",
+                "name": "LOS CAUSAS GAMING🟦",
+                "seed": 79
             },
             "opponent2": {
-                "id": null
+                "id": "7af197a0-15b7-11f1-b1f8-e62dd846289d",
+                "name": "Aergia🥀",
+                "seed": 178
             },
             "match_games": []
         },
@@ -89810,10 +89914,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6cf42c4c-17fd-11f1-be2f-3a56be435524",
+                "name": "Apierdolency",
+                "seed": 631
             },
             "opponent2": {
-                "id": null
+                "id": "0c9f4a12-13f1-11f1-85df-62829905b3ce",
+                "name": "Romca prime",
+                "seed": 1399
             },
             "match_games": []
         },
