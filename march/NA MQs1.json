@@ -7458,18 +7458,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ebe8087e-1425-11f1-badd-e6f601e467ba",
                 "name": "Chengdu J-20",
-                "seed": 192
+                "seed": 192,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "873d0870-19c5-11f1-a544-9e44097e6c6e",
                 "name": "Halley Labs",
-                "seed": 321
+                "seed": 321,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ebe8087e-1425-11f1-badd-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "873d0870-19c5-11f1-a544-9e44097e6c6e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ebe8087e-1425-11f1-badd-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "873d0870-19c5-11f1-a544-9e44097e6c6e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -8126,18 +8161,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6befd458-142a-11f1-bf71-e62dd846289d",
                 "name": "Fang Gaming",
-                "seed": 200
+                "seed": 200,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "20399cee-1996-11f1-b9a4-1677e04326b8",
                 "name": "The Bench Warmers",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "6befd458-142a-11f1-bf71-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "20399cee-1996-11f1-b9a4-1677e04326b8",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "6befd458-142a-11f1-bf71-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "20399cee-1996-11f1-b9a4-1677e04326b8",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -13685,7 +13755,9 @@
                 "seed": 65
             },
             "opponent2": {
-                "id": null
+                "id": "ebe8087e-1425-11f1-badd-e6f601e467ba",
+                "name": "Chengdu J-20",
+                "seed": 192
             },
             "match_games": []
         },
@@ -13969,7 +14041,9 @@
                 "seed": 57
             },
             "opponent2": {
-                "id": null
+                "id": "20399cee-1996-11f1-b9a4-1677e04326b8",
+                "name": "The Bench Warmers",
+                "seed": 313
             },
             "match_games": []
         },

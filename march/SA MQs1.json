@@ -26099,18 +26099,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
                 "name": "TDM TEAM Esports",
-                "seed": 206
+                "seed": 206,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
                 "name": "Acre Lovers",
-                "seed": 110
+                "seed": 110,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d9d8a856-142e-11f1-b550-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 495,
