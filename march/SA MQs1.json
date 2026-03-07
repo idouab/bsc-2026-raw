@@ -25874,18 +25874,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "278945d4-15aa-11f1-9b52-62829905b3ce",
                 "name": "OS CHIPANZÉS",
-                "seed": 117
+                "seed": 117,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
                 "name": "Los Salchipaperos FA",
-                "seed": 44
+                "seed": 44,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "278945d4-15aa-11f1-9b52-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "278945d4-15aa-11f1-9b52-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "278945d4-15aa-11f1-9b52-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10a4be16-198d-11f1-953d-6ae4cbf0c546",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 489,

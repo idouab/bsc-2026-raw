@@ -11085,18 +11085,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f6b83892-143d-11f1-aa9f-e6f601e467ba",
                 "name": "KZ the Bagel Wolf",
-                "seed": 226
+                "seed": 226,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a26f914-17c9-11f1-968d-3a56be435524",
                 "name": "DAG",
-                "seed": 287
+                "seed": 287,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f6b83892-143d-11f1-aa9f-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a26f914-17c9-11f1-968d-3a56be435524",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "f6b83892-143d-11f1-aa9f-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a26f914-17c9-11f1-968d-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f6b83892-143d-11f1-aa9f-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a26f914-17c9-11f1-968d-3a56be435524",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 139,
@@ -13282,18 +13332,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d5aec154-15ee-11f1-9673-d25156cdb59a",
                 "name": "Chip and a Chair",
-                "seed": 251
+                "seed": 251,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "18aed59e-144f-11f1-a0d7-d25156cdb59a",
                 "name": "Atletico ITO",
-                "seed": 262
+                "seed": 262,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d5aec154-15ee-11f1-9673-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "18aed59e-144f-11f1-a0d7-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d5aec154-15ee-11f1-9673-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18aed59e-144f-11f1-a0d7-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "d5aec154-15ee-11f1-9673-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "18aed59e-144f-11f1-a0d7-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -15419,7 +15519,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "f6b83892-143d-11f1-aa9f-e6f601e467ba",
+                "name": "KZ the Bagel Wolf",
+                "seed": 226
             },
             "match_games": []
         },
@@ -16261,7 +16363,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "18aed59e-144f-11f1-a0d7-d25156cdb59a",
+                "name": "Atletico ITO",
+                "seed": 262
             },
             "match_games": []
         },
