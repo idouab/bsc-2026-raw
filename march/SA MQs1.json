@@ -23378,18 +23378,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aabd1b34-156d-11f1-b3e6-d25156cdb59a",
                 "name": "ALFA ROMEU",
-                "seed": 219
+                "seed": 219,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
                 "name": "Real reconoce real",
-                "seed": 166
+                "seed": 166,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "aabd1b34-156d-11f1-b3e6-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "aabd1b34-156d-11f1-b3e6-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "aabd1b34-156d-11f1-b3e6-d25156cdb59a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 445,
@@ -24183,7 +24233,9 @@
                 "seed": 283
             },
             "opponent2": {
-                "id": null
+                "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
+                "name": "Real reconoce real",
+                "seed": 166
             },
             "match_games": []
         },
