@@ -24225,18 +24225,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
                 "name": "WBB Esports🐻🐻‍❄️🐼",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
                 "name": "TRC",
-                "seed": 312
+                "seed": 312,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d33c2a-14c0-11f1-b468-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 456,
@@ -24550,18 +24585,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "539b4388-129a-11f1-b6f5-e62dd846289d",
                 "name": "NOVA",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
                 "name": "Team Horchata",
-                "seed": 34
+                "seed": 34,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "539b4388-129a-11f1-b6f5-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "539b4388-129a-11f1-b6f5-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 467,
@@ -24937,7 +25007,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5384ac04-129a-11f1-8f9f-e62dd846289d",
+                "name": "WBB Esports🐻🐻‍❄️🐼",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
@@ -25026,7 +25098,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "539b4388-129a-11f1-b6f5-e62dd846289d",
+                "name": "NOVA",
+                "seed": 31
             },
             "match_games": []
         },
