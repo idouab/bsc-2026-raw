@@ -17932,7 +17932,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "539b4388-129a-11f1-b6f5-e62dd846289d",
                 "name": "NOVA",
@@ -17941,7 +17941,8 @@
             "opponent2": {
                 "id": "f6b83892-143d-11f1-aa9f-e6f601e467ba",
                 "name": "KZ the Bagel Wolf",
-                "seed": 226
+                "seed": 226,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -21454,10 +21455,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "539b4388-129a-11f1-b6f5-e62dd846289d",
+                "name": "NOVA",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "57d585b2-16aa-11f1-b938-62829905b3ce",
+                "name": "Jus a gerbert",
+                "seed": 98
             },
             "match_games": []
         },
