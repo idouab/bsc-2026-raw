@@ -21831,18 +21831,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
                 "name": "Team Envy",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "067ea934-1419-11f1-9869-e6f601e467ba",
                 "name": "KBS",
-                "seed": 173
+                "seed": 173,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 409,
@@ -22003,18 +22053,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
                 "name": "Sad Raccons",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
                 "name": "Nights",
-                "seed": 117
+                "seed": 117,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 414,
@@ -23715,7 +23815,9 @@
                 "seed": 237
             },
             "opponent2": {
-                "id": null
+                "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                "name": "Team Envy",
+                "seed": 301
             },
             "match_games": []
         },
@@ -23768,10 +23870,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                "name": "Sad Raccons",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "db6098a4-1510-11f1-8381-62829905b3ce",
+                "name": "RV|",
+                "seed": 181
             },
             "match_games": []
         },
