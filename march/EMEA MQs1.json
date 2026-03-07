@@ -98138,18 +98138,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
                 "name": "K13 Academy",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "82246498-14fa-11f1-a00e-e62dd846289d",
                 "name": "TOC eSports",
-                "seed": 1176
+                "seed": 1176,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82246498-14fa-11f1-a00e-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1936,
@@ -99813,18 +99863,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec5d1e02-1745-11f1-b84e-3a56be435524",
                 "name": "Devinity Ascend",
-                "seed": 298
+                "seed": 298,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bc76837e-19a0-11f1-a09f-362a827d9695",
                 "name": "LowCortisol67",
-                "seed": 682
+                "seed": 682,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ec5d1e02-1745-11f1-b84e-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bc76837e-19a0-11f1-a09f-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ec5d1e02-1745-11f1-b84e-3a56be435524",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bc76837e-19a0-11f1-a09f-362a827d9695",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1969,
@@ -100183,18 +100268,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08de3bd4-129a-11f1-8cca-e62dd846289d",
                 "name": "F/A KEBAP",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d480667a-1855-11f1-954e-6e01aed0131b",
                 "name": "Snow Crystal",
-                "seed": 635
+                "seed": 635,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "08de3bd4-129a-11f1-8cca-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d480667a-1855-11f1-954e-6e01aed0131b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "08de3bd4-129a-11f1-8cca-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d480667a-1855-11f1-954e-6e01aed0131b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "08de3bd4-129a-11f1-8cca-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d480667a-1855-11f1-954e-6e01aed0131b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1978,
@@ -100648,10 +100783,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08917a92-129a-11f1-8c3b-e62dd846289d",
+                "name": "K13 Academy",
+                "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
+                "name": "Goys",
+                "seed": 681
             },
             "match_games": []
         },
@@ -101048,10 +101187,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08de3bd4-129a-11f1-8cca-e62dd846289d",
+                "name": "F/A KEBAP",
+                "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "09d1ae5e-129a-11f1-a953-e62dd846289d",
+                "name": "Jo",
+                "seed": 59
             },
             "match_games": []
         },
