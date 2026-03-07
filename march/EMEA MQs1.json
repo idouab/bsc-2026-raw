@@ -98088,18 +98088,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0815ed46-129a-11f1-97f0-e62dd846289d",
                 "name": "Espaltanos 🥑",
-                "seed": 41
+                "seed": 41,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
                 "name": "Goys",
-                "seed": 681
+                "seed": 681,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0815ed46-129a-11f1-97f0-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0815ed46-129a-11f1-97f0-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1937,
@@ -99728,18 +99763,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08529746-129a-11f1-b2aa-e62dd846289d",
                 "name": "Some black creatures",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
                 "name": "Bero Zlack",
-                "seed": 686
+                "seed": 686,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "08529746-129a-11f1-b2aa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "08529746-129a-11f1-b2aa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9dbadc60-19a9-11f1-9d0f-52110701cc89",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1977,
@@ -100578,7 +100648,9 @@
                 "seed": 238
             },
             "opponent2": {
-                "id": null
+                "id": "08529746-129a-11f1-b2aa-e62dd846289d",
+                "name": "Some black creatures",
+                "seed": 46
             },
             "match_games": []
         },
