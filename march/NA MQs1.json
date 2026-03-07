@@ -16526,18 +16526,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53bb434a-129a-11f1-9041-e62dd846289d",
                 "name": "da bois",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "365ac8ec-144e-11f1-b58e-e62dd846289d",
                 "name": "VISCAS",
-                "seed": 252
+                "seed": 252,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53bb434a-129a-11f1-9041-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "365ac8ec-144e-11f1-b58e-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53bb434a-129a-11f1-9041-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "365ac8ec-144e-11f1-b58e-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 306,
@@ -20404,7 +20439,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "365ac8ec-144e-11f1-b58e-e62dd846289d",
+                "name": "VISCAS",
+                "seed": 252
             },
             "opponent2": {
                 "id": null
