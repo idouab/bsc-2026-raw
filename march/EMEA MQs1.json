@@ -81143,18 +81143,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "378d8f04-1400-11f1-bb99-e6f601e467ba",
                 "name": "Kepler Esports🐦‍🔥",
-                "seed": 797
+                "seed": 797,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4d529cba-14c0-11f1-acb8-e6f601e467ba",
                 "name": "SeriousThrowers",
-                "seed": 285
+                "seed": 285,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "378d8f04-1400-11f1-bb99-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d529cba-14c0-11f1-acb8-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "378d8f04-1400-11f1-bb99-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d529cba-14c0-11f1-acb8-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "378d8f04-1400-11f1-bb99-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d529cba-14c0-11f1-acb8-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1611,
@@ -90671,7 +90721,9 @@
                 "seed": 541
             },
             "opponent2": {
-                "id": null
+                "id": "4d529cba-14c0-11f1-acb8-e6f601e467ba",
+                "name": "SeriousThrowers",
+                "seed": 285
             },
             "match_games": []
         },
