@@ -15701,18 +15701,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
                 "name": "Sad Raccons",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
                 "name": "Greed",
-                "seed": 245
+                "seed": 245,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "379aba14-15e8-11f1-9a48-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 314,
@@ -15721,18 +15756,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
                 "name": "Nights",
-                "seed": 117
+                "seed": 117,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "71605fa8-1514-11f1-9888-62829905b3ce",
                 "name": "Nutz4Nutz",
-                "seed": 140
+                "seed": 140,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "71605fa8-1514-11f1-9888-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "71605fa8-1514-11f1-9888-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 315,
@@ -16016,18 +16086,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
                 "name": "Team Horchata",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "58026b56-1469-11f1-bcd6-e62dd846289d",
                 "name": "JNL",
-                "seed": 290
+                "seed": 290,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58026b56-1469-11f1-bcd6-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58026b56-1469-11f1-bcd6-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 328,
@@ -17770,10 +17875,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53a68af4-129a-11f1-b4e8-e62dd846289d",
+                "name": "Sad Raccons",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "c4e551fe-15ed-11f1-b4ae-e62dd846289d",
+                "name": "Nights",
+                "seed": 117
             },
             "match_games": []
         },
@@ -17882,7 +17991,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53bc2922-129a-11f1-96cc-e62dd846289d",
+                "name": "Team Horchata",
+                "seed": 34
             },
             "opponent2": {
                 "id": null
