@@ -16506,18 +16506,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9be97280-15cf-11f1-9b15-e62dd846289d",
                 "name": "KRRM",
-                "seed": 84
+                "seed": 84,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "067ea934-1419-11f1-9869-e6f601e467ba",
                 "name": "KBS",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "9be97280-15cf-11f1-9b15-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "9be97280-15cf-11f1-9b15-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "9be97280-15cf-11f1-9b15-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 305,
@@ -19518,7 +19568,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "5373b138-129a-11f1-959a-e62dd846289d",
                 "name": "Celestial Rebirth",
@@ -20426,7 +20476,9 @@
                 "seed": 301
             },
             "opponent2": {
-                "id": null
+                "id": "067ea934-1419-11f1-9869-e6f601e467ba",
+                "name": "KBS",
+                "seed": 173
             },
             "match_games": []
         },
