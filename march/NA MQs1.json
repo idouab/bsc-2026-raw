@@ -25887,18 +25887,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5376aa82-129a-11f1-8d81-e62dd846289d",
                 "name": "SK NA",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
                 "name": "SGA",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "5376aa82-129a-11f1-8d81-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5376aa82-129a-11f1-8d81-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "538b47f8-129a-11f1-acd6-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 483,
