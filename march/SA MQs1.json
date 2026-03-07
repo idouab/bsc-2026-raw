@@ -9590,18 +9590,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
                 "name": "Camitos",
-                "seed": 197
+                "seed": 197,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cccf8540-14b9-11f1-ae84-62829905b3ce",
                 "name": "Gotitas del Saber",
-                "seed": 316
+                "seed": 316,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cccf8540-14b9-11f1-ae84-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cccf8540-14b9-11f1-ae84-62829905b3ce",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 103,
@@ -10334,18 +10369,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
                 "name": "CORRIDA DOS RATOS 🐀",
-                "seed": 191
+                "seed": 191,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "46d7dfb2-14bb-11f1-9ccc-e6f601e467ba",
                 "name": "TIKI TAKA NJR",
-                "seed": 322
+                "seed": 322,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46d7dfb2-14bb-11f1-9ccc-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46d7dfb2-14bb-11f1-9ccc-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 137,
@@ -10406,18 +10476,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c14c83d4-18ca-11f1-a923-ba8a72688b1f",
                 "name": "Warrior",
-                "seed": 159
+                "seed": 159,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db32420c-14d3-11f1-a58e-d25156cdb59a",
                 "name": "TEAM BRAWLEROS",
-                "seed": 354
+                "seed": 354,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c14c83d4-18ca-11f1-a923-ba8a72688b1f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "db32420c-14d3-11f1-a58e-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c14c83d4-18ca-11f1-a923-ba8a72688b1f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db32420c-14d3-11f1-a58e-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c14c83d4-18ca-11f1-a923-ba8a72688b1f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db32420c-14d3-11f1-a58e-d25156cdb59a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 141,
@@ -13002,18 +13122,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "62e201d8-1a10-11f1-8ae0-52110701cc89",
                 "name": "SKN",
-                "seed": 171
+                "seed": 171,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
                 "name": "The Flowers",
-                "seed": 342
+                "seed": 342,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "62e201d8-1a10-11f1-8ae0-52110701cc89",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "62e201d8-1a10-11f1-8ae0-52110701cc89",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 257,
@@ -14009,7 +14164,9 @@
                 "seed": 60
             },
             "opponent2": {
-                "id": null
+                "id": "09b6d592-150c-11f1-bbb1-d25156cdb59a",
+                "name": "Camitos",
+                "seed": 197
             },
             "match_games": []
         },
@@ -14337,7 +14494,9 @@
                 "seed": 66
             },
             "opponent2": {
-                "id": null
+                "id": "d3533cdc-1503-11f1-a338-d25156cdb59a",
+                "name": "CORRIDA DOS RATOS 🐀",
+                "seed": 191
             },
             "match_games": []
         },
@@ -14373,7 +14532,9 @@
                 "seed": 98
             },
             "opponent2": {
-                "id": null
+                "id": "c14c83d4-18ca-11f1-a923-ba8a72688b1f",
+                "name": "Warrior",
+                "seed": 159
             },
             "match_games": []
         },
@@ -15513,7 +15674,9 @@
                 "seed": 86
             },
             "opponent2": {
-                "id": null
+                "id": "674e7c88-14ca-11f1-bd31-62829905b3ce",
+                "name": "The Flowers",
+                "seed": 342
             },
             "match_games": []
         },
