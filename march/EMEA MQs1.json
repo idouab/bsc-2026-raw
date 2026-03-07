@@ -92334,18 +92334,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08cfa7f4-129a-11f1-9107-e62dd846289d",
                 "name": "ATN Legion",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87ad0d20-17fc-11f1-a544-3a56be435524",
                 "name": "Legión del Vacío",
-                "seed": 306
+                "seed": 306,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "08cfa7f4-129a-11f1-9107-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ad0d20-17fc-11f1-a544-3a56be435524",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "08cfa7f4-129a-11f1-9107-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ad0d20-17fc-11f1-a544-3a56be435524",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1868,
@@ -92714,18 +92749,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9f6655a8-1495-11f1-9995-e6f601e467ba",
                 "name": "THE BEST TRIO",
-                "seed": 407
+                "seed": 407,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "099767a8-129a-11f1-a959-e62dd846289d",
                 "name": "Simple",
-                "seed": 151
+                "seed": 151,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9f6655a8-1495-11f1-9995-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "099767a8-129a-11f1-a959-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "9f6655a8-1495-11f1-9995-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "099767a8-129a-11f1-a959-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1887,
@@ -94008,7 +94078,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08cfa7f4-129a-11f1-9107-e62dd846289d",
+                "name": "ATN Legion",
+                "seed": 50
             },
             "opponent2": {
                 "id": null
