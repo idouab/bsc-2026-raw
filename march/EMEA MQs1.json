@@ -79222,18 +79222,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f91386f6-1671-11f1-bd9d-d25156cdb59a",
                 "name": "DUTCH MYTHS",
-                "seed": 1193
+                "seed": 1193,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
                 "name": "Goys",
-                "seed": 681
+                "seed": 681,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f91386f6-1671-11f1-bd9d-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "f91386f6-1671-11f1-bd9d-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0737a706-1999-11f1-9c89-2e9faa375fcf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1601,
@@ -82112,18 +82147,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08362468-1424-11f1-9347-e6f601e467ba",
                 "name": "Bingo!",
-                "seed": 794
+                "seed": 794,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f1c8df78-1571-11f1-9a02-e62dd846289d",
                 "name": "MRF",
-                "seed": 1306
+                "seed": 1306,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "08362468-1424-11f1-9347-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1c8df78-1571-11f1-9a02-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "08362468-1424-11f1-9347-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1c8df78-1571-11f1-9a02-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1707,
@@ -84102,18 +84172,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "096a60d2-129a-11f1-9fa8-e62dd846289d",
                 "name": "MuziSentarcılar",
-                "seed": 150
+                "seed": 150,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "41c3488a-193f-11f1-b9e3-ba8a72688b1f",
                 "name": "CDA ESPORTS",
-                "seed": 662
+                "seed": 662,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "096a60d2-129a-11f1-9fa8-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "41c3488a-193f-11f1-b9e3-ba8a72688b1f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "096a60d2-129a-11f1-9fa8-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "41c3488a-193f-11f1-b9e3-ba8a72688b1f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1789,
