@@ -15371,18 +15371,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "590af4c2-173f-11f1-b494-3a56be435524",
                 "name": "Underdogs",
-                "seed": 89
+                "seed": 89,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "219bf8c6-152b-11f1-b59a-e62dd846289d",
                 "name": "JuKauX",
-                "seed": 168
+                "seed": 168,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "590af4c2-173f-11f1-b494-3a56be435524",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "219bf8c6-152b-11f1-b59a-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "590af4c2-173f-11f1-b494-3a56be435524",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "219bf8c6-152b-11f1-b59a-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 281,
@@ -19640,7 +19675,9 @@
                 "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "219bf8c6-152b-11f1-b59a-e62dd846289d",
+                "name": "JuKauX",
+                "seed": 168
             },
             "match_games": []
         },
