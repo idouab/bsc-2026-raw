@@ -20373,18 +20373,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
                 "name": "MLT/SPORTS",
-                "seed": 224
+                "seed": 224,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "241865f2-1405-11f1-a11c-d25156cdb59a",
                 "name": "RAGNAROK",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "241865f2-1405-11f1-a11c-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "757ac61c-143a-11f1-b7d7-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "241865f2-1405-11f1-a11c-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 389,
