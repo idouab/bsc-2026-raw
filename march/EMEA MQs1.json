@@ -98493,18 +98493,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0960caf4-129a-11f1-81cc-e62dd846289d",
                 "name": "Reverso Academy",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0c9f4a12-13f1-11f1-85df-62829905b3ce",
                 "name": "Romca prime",
-                "seed": 1399
+                "seed": 1399,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0960caf4-129a-11f1-81cc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0c9f4a12-13f1-11f1-85df-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0960caf4-129a-11f1-81cc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0c9f4a12-13f1-11f1-85df-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1966,
@@ -99249,7 +99284,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0960caf4-129a-11f1-81cc-e62dd846289d",
+                "name": "Reverso Academy",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
