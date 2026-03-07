@@ -10738,18 +10738,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
                 "name": "SBJ Vanguard",
-                "seed": 231
+                "seed": 231,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ffc49842-1463-11f1-93d0-d25156cdb59a",
                 "name": "SG DAWGS",
-                "seed": 282
+                "seed": 282,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ffc49842-1463-11f1-93d0-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ffc49842-1463-11f1-93d0-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 171,
@@ -12537,18 +12572,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5c74c96a-1430-11f1-a7aa-62829905b3ce",
                 "name": "rice",
-                "seed": 214
+                "seed": 214,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f8d1e946-18a9-11f1-9508-ea915998a002",
                 "name": "Anexados",
-                "seed": 299
+                "seed": 299,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5c74c96a-1430-11f1-a7aa-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f8d1e946-18a9-11f1-9508-ea915998a002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5c74c96a-1430-11f1-a7aa-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f8d1e946-18a9-11f1-9508-ea915998a002",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 255,
@@ -14168,7 +14238,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "2efadc1c-15c1-11f1-86de-e6f601e467ba",
+                "name": "SBJ Vanguard",
+                "seed": 231
             },
             "match_games": []
         },
@@ -14956,7 +15028,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "5c74c96a-1430-11f1-a7aa-62829905b3ce",
+                "name": "rice",
+                "seed": 214
             },
             "match_games": []
         },
