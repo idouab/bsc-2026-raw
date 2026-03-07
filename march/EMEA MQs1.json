@@ -100058,7 +100058,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd3dc9e8-13d1-11f1-8506-e62dd846289d",
                 "name": "Eux goats",
@@ -100067,7 +100067,8 @@
             "opponent2": {
                 "id": "2ac0e6fe-1991-11f1-ab2a-e2564812d6a2",
                 "name": "Grand Phactor",
-                "seed": 330
+                "seed": 330,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -101566,7 +101567,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "dd3dc9e8-13d1-11f1-8506-e62dd846289d",
+                "name": "Eux goats",
+                "seed": 1079
             },
             "match_games": []
         },
