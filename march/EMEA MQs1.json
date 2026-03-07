@@ -93692,18 +93692,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07caa304-129a-11f1-96f4-e62dd846289d",
                 "name": "Storm brawl",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "13aac878-198b-11f1-9873-52110701cc89",
                 "name": "#RVLWIN",
-                "seed": 677
+                "seed": 677,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "07caa304-129a-11f1-96f4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "13aac878-198b-11f1-9873-52110701cc89",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "07caa304-129a-11f1-96f4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "13aac878-198b-11f1-9873-52110701cc89",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1849,
@@ -96898,7 +96933,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "0925ed4e-129a-11f1-bbff-e62dd846289d",
                 "name": "Stream>Skill",
@@ -98051,7 +98086,9 @@
                 "seed": 220
             },
             "opponent2": {
-                "id": null
+                "id": "07caa304-129a-11f1-96f4-e62dd846289d",
+                "name": "Storm brawl",
+                "seed": 92
             },
             "match_games": []
         },
