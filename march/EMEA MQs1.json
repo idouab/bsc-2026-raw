@@ -103135,18 +103135,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0870cc70-129a-11f1-ba9d-e62dd846289d",
                 "name": "Haneki Corp",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
                 "name": "ThoseWhoGus",
-                "seed": 172
+                "seed": 172,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0870cc70-129a-11f1-ba9d-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0870cc70-129a-11f1-ba9d-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "883fc2b2-18c1-11f1-bc56-ea915998a002",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2025,
