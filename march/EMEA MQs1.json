@@ -93009,18 +93009,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "088ed72e-129a-11f1-ba39-e62dd846289d",
                 "name": "Mommy ASMR",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ffc41a2-14b9-11f1-9a64-e62dd846289d",
                 "name": "Los Que Tienden",
-                "seed": 279
+                "seed": 279,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "088ed72e-129a-11f1-ba39-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ffc41a2-14b9-11f1-9a64-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "088ed72e-129a-11f1-ba39-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ffc41a2-14b9-11f1-9a64-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1886,
@@ -93499,18 +93534,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09028bba-129a-11f1-90e8-e62dd846289d",
                 "name": "бегімотікі",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ed725d92-1403-11f1-9f46-d25156cdb59a",
                 "name": "Road To Success",
-                "seed": 819
+                "seed": 819,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "09028bba-129a-11f1-90e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ed725d92-1403-11f1-9f46-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "09028bba-129a-11f1-90e8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ed725d92-1403-11f1-9f46-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1900,
@@ -94760,10 +94830,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "088ed72e-129a-11f1-ba39-e62dd846289d",
+                "name": "Mommy ASMR",
+                "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "099767a8-129a-11f1-a959-e62dd846289d",
+                "name": "Simple",
+                "seed": 151
             },
             "match_games": []
         },
@@ -94882,7 +94956,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "09028bba-129a-11f1-90e8-e62dd846289d",
+                "name": "бегімотікі",
+                "seed": 51
             },
             "opponent2": {
                 "id": null
