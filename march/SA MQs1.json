@@ -19251,18 +19251,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f7b090e-1725-11f1-b848-069704759f1b",
                 "name": "TEAM NEXUS",
-                "seed": 59
+                "seed": 59,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9c50993e-142a-11f1-b169-d25156cdb59a",
                 "name": "Os Kabas",
-                "seed": 198
+                "seed": 198,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "7f7b090e-1725-11f1-b848-069704759f1b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c50993e-142a-11f1-b169-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7f7b090e-1725-11f1-b848-069704759f1b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9c50993e-142a-11f1-b169-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7f7b090e-1725-11f1-b848-069704759f1b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9c50993e-142a-11f1-b169-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 372,
@@ -20805,10 +20855,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9c50993e-142a-11f1-b169-d25156cdb59a",
+                "name": "Os Kabas",
+                "seed": 198
             },
             "opponent2": {
-                "id": null
+                "id": "3c521e54-129a-11f1-8ecd-e62dd846289d",
+                "name": "GiantKillers",
+                "seed": 70
             },
             "match_games": []
         },
