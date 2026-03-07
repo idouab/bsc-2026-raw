@@ -1286,7 +1286,7 @@
             "name": "TEAM|SALAZAR",
             "players": [
                 {
-                    "name": "★彡Dãrk☯Mage彡★",
+                    "name": "사랑|n☔️",
                     "gamerTag": "#2CJGYUCJYC"
                 },
                 {
@@ -9280,18 +9280,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "937796dc-151f-11f1-a578-e6f601e467ba",
                 "name": "Caitas F/A",
-                "seed": 164
+                "seed": 164,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "51076be6-199e-11f1-8bfe-52110701cc89",
                 "name": "Legendary",
-                "seed": 349
+                "seed": 349,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "937796dc-151f-11f1-a578-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "51076be6-199e-11f1-8bfe-52110701cc89",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "937796dc-151f-11f1-a578-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "51076be6-199e-11f1-8bfe-52110701cc89",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 81,
@@ -14613,7 +14648,9 @@
                 "seed": 93
             },
             "opponent2": {
-                "id": null
+                "id": "51076be6-199e-11f1-8bfe-52110701cc89",
+                "name": "Legendary",
+                "seed": 349
             },
             "match_games": []
         },
