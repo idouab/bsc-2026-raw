@@ -103395,18 +103395,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09c89a44-129a-11f1-b34f-e62dd846289d",
                 "name": "SHADL",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
                 "name": "Glory Buama",
-                "seed": 34
+                "seed": 34,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "09c89a44-129a-11f1-b34f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "09c89a44-129a-11f1-b34f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09de4e70-129a-11f1-bc9a-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2026,
