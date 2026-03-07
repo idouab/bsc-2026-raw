@@ -8307,18 +8307,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
                 "name": "Os Chettos",
-                "seed": 248
+                "seed": 248,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48b5c0a2-15d2-11f1-8a3f-62829905b3ce",
                 "name": "Clash Time",
-                "seed": 265
+                "seed": 265,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48b5c0a2-15d2-11f1-8a3f-62829905b3ce",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48b5c0a2-15d2-11f1-8a3f-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 51,
@@ -8591,18 +8626,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b85b811c-15af-11f1-ba33-e6f601e467ba",
                 "name": "Top Pier",
-                "seed": 253
+                "seed": 253,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0f183a60-144b-11f1-a0de-e6f601e467ba",
                 "name": "Fz Squad",
-                "seed": 260
+                "seed": 260,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b85b811c-15af-11f1-ba33-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0f183a60-144b-11f1-a0de-e6f601e467ba",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b85b811c-15af-11f1-ba33-e6f601e467ba",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0f183a60-144b-11f1-a0de-e6f601e467ba",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 67,
@@ -9543,18 +9613,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2283fb04-198a-11f1-8845-9e44097e6c6e",
                 "name": "Destiny Esports",
-                "seed": 165
+                "seed": 165,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "79de3866-14cf-11f1-bb28-d25156cdb59a",
                 "name": "Princesas da PL",
-                "seed": 348
+                "seed": 348,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2283fb04-198a-11f1-8845-9e44097e6c6e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79de3866-14cf-11f1-bb28-d25156cdb59a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2283fb04-198a-11f1-8845-9e44097e6c6e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79de3866-14cf-11f1-bb28-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 113,
@@ -11695,18 +11800,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c438600-1440-11f1-85e3-62829905b3ce",
                 "name": "MoaiCL",
-                "seed": 238
+                "seed": 238,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
                 "name": "⚜️Golden Fighters⚜️",
-                "seed": 275
+                "seed": 275,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1c438600-1440-11f1-85e3-62829905b3ce",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "1c438600-1440-11f1-85e3-62829905b3ce",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 219,
@@ -12187,18 +12327,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe316474-1512-11f1-9dc1-62829905b3ce",
                 "name": "EX",
-                "seed": 203
+                "seed": 203,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6c9ea9a4-14b3-11f1-b9ed-e62dd846289d",
                 "name": "CEFURY",
-                "seed": 310
+                "seed": 310,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fe316474-1512-11f1-9dc1-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c9ea9a4-14b3-11f1-b9ed-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fe316474-1512-11f1-9dc1-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c9ea9a4-14b3-11f1-b9ed-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 247,
@@ -12838,7 +13013,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "aa7f7056-1444-11f1-ba4a-62829905b3ce",
+                "name": "Os Chettos",
+                "seed": 248
             },
             "match_games": []
         },
@@ -12984,7 +13161,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "0f183a60-144b-11f1-a0de-e6f601e467ba",
+                "name": "Fz Squad",
+                "seed": 260
             },
             "match_games": []
         },
@@ -13414,7 +13593,9 @@
                 "seed": 92
             },
             "opponent2": {
-                "id": null
+                "id": "2283fb04-198a-11f1-8845-9e44097e6c6e",
+                "name": "Destiny Esports",
+                "seed": 165
             },
             "match_games": []
         },
@@ -14402,7 +14583,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "3a09c83a-15f7-11f1-9592-d25156cdb59a",
+                "name": "⚜️Golden Fighters⚜️",
+                "seed": 275
             },
             "match_games": []
         },
@@ -14660,7 +14843,9 @@
                 "seed": 54
             },
             "opponent2": {
-                "id": null
+                "id": "fe316474-1512-11f1-9dc1-62829905b3ce",
+                "name": "EX",
+                "seed": 203
             },
             "match_games": []
         },
