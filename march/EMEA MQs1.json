@@ -98318,18 +98318,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "083fde76-129a-11f1-bcd9-e62dd846289d",
                 "name": "Infinity Poisons",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "87c810aa-19a2-11f1-8d2d-b6a304f36e4b",
                 "name": "Young's",
-                "seed": 685
+                "seed": 685,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "083fde76-129a-11f1-bcd9-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87c810aa-19a2-11f1-8d2d-b6a304f36e4b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "083fde76-129a-11f1-bcd9-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87c810aa-19a2-11f1-8d2d-b6a304f36e4b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1945,
@@ -98578,18 +98613,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3eab76ae-1561-11f1-9bd2-62829905b3ce",
                 "name": "Micii poneii",
-                "seed": 460
+                "seed": 460,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "08bc9092-129a-11f1-9c15-e62dd846289d",
                 "name": "OriginX Gaming",
-                "seed": 76
+                "seed": 76,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3eab76ae-1561-11f1-9bd2-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "08bc9092-129a-11f1-9c15-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3eab76ae-1561-11f1-9bd2-62829905b3ce",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "08bc9092-129a-11f1-9c15-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1951,
@@ -100126,7 +100196,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "3eab76ae-1561-11f1-9bd2-62829905b3ce",
+                "name": "Micii poneii",
+                "seed": 460
             },
             "match_games": []
         },
