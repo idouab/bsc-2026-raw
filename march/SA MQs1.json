@@ -23964,18 +23964,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "292a9828-145d-11f1-b66d-d25156cdb59a",
                 "name": "Team Jamon🥓",
-                "seed": 280
+                "seed": 280,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f0a7362-1401-11f1-bd00-e62dd846289d",
                 "name": "Concolores",
-                "seed": 88
+                "seed": 88,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "292a9828-145d-11f1-b66d-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f0a7362-1401-11f1-bd00-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "292a9828-145d-11f1-b66d-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f0a7362-1401-11f1-bd00-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 457,
