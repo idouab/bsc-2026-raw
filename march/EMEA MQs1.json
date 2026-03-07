@@ -18374,7 +18374,7 @@
                     "gamerTag": "#2JRYLUQ28"
                 },
                 {
-                    "name": "GRSanti",
+                    "name": "Santizx 🦐",
                     "gamerTag": "#QQY8Q8CPV"
                 }
             ],
@@ -81642,18 +81642,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec76f3ba-165d-11f1-81d2-d25156cdb59a",
                 "name": "Team QUESTO",
-                "seed": 156
+                "seed": 156,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e01d85d6-195d-11f1-8ffd-e6f2cbf1e58a",
                 "name": "NAE Gaming",
-                "seed": 668
+                "seed": 668,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ec76f3ba-165d-11f1-81d2-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01d85d6-195d-11f1-8ffd-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ec76f3ba-165d-11f1-81d2-d25156cdb59a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e01d85d6-195d-11f1-8ffd-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ec76f3ba-165d-11f1-81d2-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01d85d6-195d-11f1-8ffd-e6f2cbf1e58a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1645,
@@ -87492,18 +87542,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7e13b32-1590-11f1-acc2-e6f601e467ba",
                 "name": "Herectos Spain",
-                "seed": 235
+                "seed": 235,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c90d3c1a-163d-11f1-bfbf-e6f601e467ba",
                 "name": "Demons",
-                "seed": 278
+                "seed": 278,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "c7e13b32-1590-11f1-acc2-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c90d3c1a-163d-11f1-bfbf-e6f601e467ba",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "c7e13b32-1590-11f1-acc2-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c90d3c1a-163d-11f1-bfbf-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1787,
@@ -88687,7 +88772,9 @@
                 "seed": 101
             },
             "opponent2": {
-                "id": null
+                "id": "ec76f3ba-165d-11f1-81d2-d25156cdb59a",
+                "name": "Team QUESTO",
+                "seed": 156
             },
             "match_games": []
         },
@@ -89957,7 +90044,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "c7e13b32-1590-11f1-acc2-e6f601e467ba",
+                "name": "Herectos Spain",
+                "seed": 235
             },
             "match_games": []
         },
