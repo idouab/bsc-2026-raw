@@ -7422,18 +7422,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94200002-1505-11f1-bb49-e62dd846289d",
                 "name": "EGOIST LOCK",
-                "seed": 193
+                "seed": 193,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "26920d90-14bb-11f1-b816-d25156cdb59a",
                 "name": "MSI|MasterIntense",
-                "seed": 320
+                "seed": 320,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "94200002-1505-11f1-bb49-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "26920d90-14bb-11f1-b816-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "94200002-1505-11f1-bb49-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26920d90-14bb-11f1-b816-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94200002-1505-11f1-bb49-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26920d90-14bb-11f1-b816-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -14084,7 +14134,9 @@
                 "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "94200002-1505-11f1-bb49-e62dd846289d",
+                "name": "EGOIST LOCK",
+                "seed": 193
             },
             "match_games": []
         },
