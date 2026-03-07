@@ -16011,18 +16011,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
                 "name": "the degloved",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "01b24d4e-144f-11f1-af25-62829905b3ce",
                 "name": "Toxic Lotusss",
-                "seed": 260
+                "seed": 260,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01b24d4e-144f-11f1-af25-62829905b3ce",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "01b24d4e-144f-11f1-af25-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01b24d4e-144f-11f1-af25-62829905b3ce",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 290,
@@ -20821,7 +20871,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "537a5c86-129a-11f1-b1dc-e62dd846289d",
+                "name": "the degloved",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
