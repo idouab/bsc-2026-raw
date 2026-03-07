@@ -24579,7 +24579,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3687417e-1656-11f1-acef-e6f601e467ba",
                 "name": "DarkLight Esports",
@@ -24588,7 +24588,8 @@
             "opponent2": {
                 "id": "bc6264c6-1521-11f1-982d-e6f601e467ba",
                 "name": "Real reconoce real",
-                "seed": 166
+                "seed": 166,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -24599,18 +24600,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
                 "name": "OCX Division",
-                "seed": 267
+                "seed": 267,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3bdb67aa-129a-11f1-a386-e62dd846289d",
                 "name": "Brawl Cartel",
-                "seed": 54
+                "seed": 54,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bdb67aa-129a-11f1-a386-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bdb67aa-129a-11f1-a386-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 480,
@@ -24891,7 +24927,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "65e44ecc-15dd-11f1-9f3f-e62dd846289d",
+                "name": "OCX Division",
+                "seed": 267
             },
             "opponent2": {
                 "id": null
