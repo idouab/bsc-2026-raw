@@ -21259,7 +21259,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9469590e-142a-11f1-a272-e6f601e467ba",
                 "name": "Ultra Hardcore",
@@ -21268,7 +21268,8 @@
             "opponent2": {
                 "id": "3bcb7a66-129a-11f1-8cf7-e62dd846289d",
                 "name": "Toxicity",
-                "seed": 68
+                "seed": 68,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -21334,11 +21335,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "db53f69a-1465-11f1-aa98-62829905b3ce",
                 "name": "CARAPANÃ",
-                "seed": 292
+                "seed": 292,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "3e81ca76-186c-11f1-bd27-3a56be435524",
@@ -21464,7 +21466,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b67a81a-129a-11f1-ae4a-e62dd846289d",
                 "name": "DOM eSPORTS",
@@ -21473,7 +21475,8 @@
             "opponent2": {
                 "id": "3486f888-1598-11f1-969f-d25156cdb59a",
                 "name": "UNIVERSITARIOS🇨🇱",
-                "seed": 109
+                "seed": 109,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -22134,7 +22137,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4170e6fe-167d-11f1-8611-e62dd846289d",
                 "name": "JG | Jagger",
@@ -22143,7 +22146,8 @@
             "opponent2": {
                 "id": "c14c83d4-18ca-11f1-a923-ba8a72688b1f",
                 "name": "Warrior",
-                "seed": 159
+                "seed": 159,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -22279,7 +22283,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c3fbdc2-129a-11f1-abf9-e62dd846289d",
                 "name": "Os Bizarros",
@@ -22288,7 +22292,8 @@
             "opponent2": {
                 "id": "47b0c4c4-15f3-11f1-9688-62829905b3ce",
                 "name": "Onyx Zero",
-                "seed": 79
+                "seed": 79,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -23985,7 +23990,11 @@
                 "name": "ENERGY STATION",
                 "seed": 4
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "9469590e-142a-11f1-a272-e6f601e467ba",
+                "name": "Ultra Hardcore",
+                "seed": 196
+            },
             "match_games": []
         },
         {
@@ -24001,7 +24010,11 @@
                 "name": "Demons of the books",
                 "seed": 29
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "3e81ca76-186c-11f1-bd27-3a56be435524",
+                "name": "BRABOSS",
+                "seed": 93
+            },
             "match_games": []
         },
         {
@@ -24032,8 +24045,16 @@
             "round_id": 4,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "3b67a81a-129a-11f1-ae4a-e62dd846289d",
+                "name": "DOM eSPORTS",
+                "seed": 20
+            },
+            "opponent2": {
+                "id": "10bc4b00-1701-11f1-b81e-3a56be435524",
+                "name": "Xblood zero",
+                "seed": 301
+            },
             "match_games": []
         },
         {
@@ -24144,8 +24165,16 @@
             "round_id": 4,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "4170e6fe-167d-11f1-8611-e62dd846289d",
+                "name": "JG | Jagger",
+                "seed": 287
+            },
+            "opponent2": {
+                "id": "d353ac74-1519-11f1-85f1-d25156cdb59a",
+                "name": "ZENITH",
+                "seed": 162
+            },
             "match_games": []
         },
         {
@@ -24161,7 +24190,11 @@
                 "name": "MTZ",
                 "seed": 271
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "3c3fbdc2-129a-11f1-abf9-e62dd846289d",
+                "name": "Os Bizarros",
+                "seed": 50
+            },
             "match_games": []
         },
         {
