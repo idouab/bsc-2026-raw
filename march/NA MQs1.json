@@ -9773,18 +9773,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ccf32d32-142e-11f1-9ff6-e62dd846289d",
                 "name": "Slush Gang",
-                "seed": 212
+                "seed": 212,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
                 "name": "Team Envy",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ccf32d32-142e-11f1-9ff6-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ccf32d32-142e-11f1-9ff6-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ccf32d32-142e-11f1-9ff6-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 95,
@@ -14835,7 +14885,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "671969f0-18c9-11f1-9312-e6f2cbf1e58a",
+                "name": "Team Envy",
+                "seed": 301
             },
             "match_games": []
         },
