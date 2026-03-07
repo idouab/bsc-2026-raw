@@ -21618,18 +21618,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ba82174-129a-11f1-8a83-e62dd846289d",
                 "name": "🔥GE4R🔥",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "54296a4e-15ee-11f1-9c3a-e6f601e467ba",
                 "name": "TeamSangre",
-                "seed": 127
+                "seed": 127,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3ba82174-129a-11f1-8a83-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54296a4e-15ee-11f1-9c3a-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3ba82174-129a-11f1-8a83-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "54296a4e-15ee-11f1-9c3a-e6f601e467ba",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 418,
@@ -23261,7 +23296,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3ba82174-129a-11f1-8a83-e62dd846289d",
+                "name": "🔥GE4R🔥",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
