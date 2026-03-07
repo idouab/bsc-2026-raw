@@ -25764,18 +25764,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ba88bd2-129a-11f1-bbd7-e62dd846289d",
                 "name": "Exilados",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
                 "name": "Balacubaco",
-                "seed": 158
+                "seed": 158,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3ba88bd2-129a-11f1-bbd7-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3ba88bd2-129a-11f1-bbd7-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b01eb270-1515-11f1-9e67-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 494,

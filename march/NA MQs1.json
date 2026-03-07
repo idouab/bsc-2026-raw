@@ -8164,18 +8164,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
                 "name": "Ping Warrior",
-                "seed": 153
+                "seed": 153,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "688333ec-14fb-11f1-b68e-e6f601e467ba",
                 "name": "SVA|告诉",
-                "seed": 360
+                "seed": 360,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "688333ec-14fb-11f1-b68e-e6f601e467ba",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "688333ec-14fb-11f1-b68e-e6f601e467ba",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 45,
@@ -11125,18 +11160,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b4631a8-142b-11f1-a9d3-d25156cdb59a",
                 "name": "2W",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb7aa4e2-1917-11f1-9dee-e6f2cbf1e58a",
                 "name": "The 501st",
-                "seed": 311
+                "seed": 311,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2b4631a8-142b-11f1-a9d3-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb7aa4e2-1917-11f1-9dee-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2b4631a8-142b-11f1-a9d3-d25156cdb59a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb7aa4e2-1917-11f1-9dee-e6f2cbf1e58a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 183,
@@ -13202,7 +13272,9 @@
                 "seed": 104
             },
             "opponent2": {
-                "id": null
+                "id": "77bf2a48-19d1-11f1-90bb-e2fadf4e5452",
+                "name": "Ping Warrior",
+                "seed": 153
             },
             "match_games": []
         },
@@ -14498,7 +14570,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "2b4631a8-142b-11f1-a9d3-d25156cdb59a",
+                "name": "2W",
+                "seed": 202
             },
             "match_games": []
         },
