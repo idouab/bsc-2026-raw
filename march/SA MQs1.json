@@ -20488,18 +20488,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef994c42-14a9-11f1-ba70-e6f601e467ba",
                 "name": "Crazy Xenoverse",
-                "seed": 304
+                "seed": 304,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9b5fc1b4-1644-11f1-bac8-62829905b3ce",
                 "name": "Universo Gaming BS",
-                "seed": 81
+                "seed": 81,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ef994c42-14a9-11f1-ba70-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b5fc1b4-1644-11f1-bac8-62829905b3ce",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ef994c42-14a9-11f1-ba70-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b5fc1b4-1644-11f1-bac8-62829905b3ce",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -21883,18 +21918,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
                 "name": "Elojobers F/A",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
                 "name": "Acre Lovers",
-                "seed": 110
+                "seed": 110,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3c6aeb6e-129a-11f1-91e8-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 440,
@@ -22043,18 +22113,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b876772-129a-11f1-b3e2-e62dd846289d",
                 "name": "BrawlsBR",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa3eafce-158b-11f1-a8df-62829905b3ce",
                 "name": "mochilas do Nagatwo",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3b876772-129a-11f1-b3e2-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa3eafce-158b-11f1-a8df-62829905b3ce",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3b876772-129a-11f1-b3e2-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa3eafce-158b-11f1-a8df-62829905b3ce",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 448,
@@ -22533,7 +22638,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b6c3862-140d-11f1-b1be-d25156cdb59a",
+                "name": "Acre Lovers",
+                "seed": 110
             },
             "opponent2": {
                 "id": null
@@ -22597,7 +22704,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa3eafce-158b-11f1-a8df-62829905b3ce",
+                "name": "mochilas do Nagatwo",
+                "seed": 107
             },
             "opponent2": {
                 "id": null
