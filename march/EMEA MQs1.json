@@ -89196,18 +89196,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0eb9ca3c-1551-11f1-96c4-e6f601e467ba",
                 "name": "Cyber kozaky",
-                "seed": 1222
+                "seed": 1222,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b0f25b7c-13ec-11f1-a389-d25156cdb59a",
                 "name": "L4Z",
-                "seed": 1339
+                "seed": 1339,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0eb9ca3c-1551-11f1-96c4-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0f25b7c-13ec-11f1-a389-d25156cdb59a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "0eb9ca3c-1551-11f1-96c4-e6f601e467ba",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b0f25b7c-13ec-11f1-a389-d25156cdb59a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0eb9ca3c-1551-11f1-96c4-e6f601e467ba",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0f25b7c-13ec-11f1-a389-d25156cdb59a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1767,
@@ -92898,7 +92948,9 @@
                 "seed": 59
             },
             "opponent2": {
-                "id": null
+                "id": "0eb9ca3c-1551-11f1-96c4-e6f601e467ba",
+                "name": "Cyber kozaky",
+                "seed": 1222
             },
             "match_games": []
         },
