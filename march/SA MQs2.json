@@ -3189,18 +3189,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c4ab790-129a-11f1-bc16-e62dd846289d",
                 "name": "PEEK",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
                 "name": "RAPOSITAS",
-                "seed": 33
+                "seed": 33,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3c4ab790-129a-11f1-bc16-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3c4ab790-129a-11f1-bc16-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3c4ab790-129a-11f1-bc16-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 66,
