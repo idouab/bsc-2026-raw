@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "09537318-129a-11f1-95aa-e62dd846289d",
+            "tournament_id": 0,
+            "name": "TOP|Esport",
+            "players": [
+                {
+                    "name": "TOP|Neroxx 🧸",
+                    "gamerTag": "#Y99Y2CUV"
+                },
+                {
+                    "name": "TOP|Grxpzz🧸",
+                    "gamerTag": "#R9RVVQQ8"
+                },
+                {
+                    "name": "TOP | Sadba🍒🧸",
+                    "gamerTag": "#2PRVY98GY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "Die drei ???",
@@ -1031,18 +1051,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09537318-129a-11f1-95aa-e62dd846289d",
                 "name": "TOP|Esport",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
                 "name": "Real Madrid",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "09537318-129a-11f1-95aa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "09537318-129a-11f1-95aa-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "09537318-129a-11f1-95aa-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "09537318-129a-11f1-95aa-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "09537318-129a-11f1-95aa-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1933,7 +2033,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                "name": "Real Madrid",
+                "seed": 17
             },
             "match_games": []
         },
@@ -2147,7 +2249,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "09537318-129a-11f1-95aa-e62dd846289d",
+                "name": "TOP|Esport",
+                "seed": 16
             },
             "match_games": []
         },
