@@ -821,6 +821,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "SHADL",
+            "players": [
+                {
+                    "name": "SDL|Kapi",
+                    "gamerTag": "#280RJ29R9"
+                },
+                {
+                    "name": "Gandy☁️",
+                    "gamerTag": "#GLPJRCLYL"
+                },
+                {
+                    "name": "Mebius",
+                    "gamerTag": "#2L08U08RUQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "Skepsis Gaming",
@@ -1711,18 +1731,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
                 "name": "Zenith Esports",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
                 "name": "SHADL",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -2298,7 +2383,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                "name": "Zenith Esports",
+                "seed": 15
             },
             "match_games": []
         },
@@ -2520,7 +2607,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "6b652f04-1a58-11f1-89a1-ae0f600e8c4c",
+                "name": "SHADL",
+                "seed": 18
             },
             "match_games": []
         },
