@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "Reverso Academy",
+            "players": [
+                {
+                    "name": "REV|Brosta卡拉",
+                    "gamerTag": "#RRVVPG2Y"
+                },
+                {
+                    "name": "REV|Tizzou 은하",
+                    "gamerTag": "#809R8JV8Q"
+                },
+                {
+                    "name": "REV|Biluux ラブ",
+                    "gamerTag": "#2QUQQUCL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6b66eda8-1a58-11f1-9630-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "F/A kaliki",
@@ -1181,18 +1201,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
                 "name": "NOVO Esports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
                 "name": "Reverso Academy",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -1518,7 +1588,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                "name": "NOVO Esports",
+                "seed": 12
             },
             "match_games": []
         },
@@ -1718,7 +1790,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                "name": "Reverso Academy",
+                "seed": 21
             },
             "match_games": []
         },
