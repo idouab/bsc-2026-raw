@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "Genius  Dominion",
+            "players": [
+                {
+                    "name": "JST|Prodigy",
+                    "gamerTag": "#9800L2JY8"
+                },
+                {
+                    "name": "秤 アツコ(⑉〇◡〇⑉)",
+                    "gamerTag": "#YUYQ8UV0Y"
+                },
+                {
+                    "name": "FatBearCat",
+                    "gamerTag": "#9PG8CYY9P"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "dfbfda28-1a05-11f1-a430-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "Try again",
@@ -1392,18 +1412,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "556516b8-1299-11f1-b59b-e62dd846289d",
                 "name": "Crazy Raccoon",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
                 "name": "Genius  Dominion",
-                "seed": 28
+                "seed": 28,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "556516b8-1299-11f1-b59b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "556516b8-1299-11f1-b59b-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "556516b8-1299-11f1-b59b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "556516b8-1299-11f1-b59b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1987,10 +2072,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "556516b8-1299-11f1-b59b-e62dd846289d",
+                "name": "Crazy Raccoon",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "554ff9fe-1299-11f1-b01c-e62dd846289d",
+                "name": "Galaxy Collapse",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2207,10 +2296,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                "name": "Genius  Dominion",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "dfbfda28-1a05-11f1-a430-ae0f600e8c4c",
+                "name": "Try again",
+                "seed": 21
             },
             "match_games": []
         },
