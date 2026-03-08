@@ -3058,18 +3058,98 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "539bae40-129a-11f1-9818-e62dd846289d",
                 "name": "Tribe Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "537e8720-129a-11f1-ada4-e62dd846289d",
                 "name": "vic day",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -4289,7 +4369,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                "name": "Tribe Gaming",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
