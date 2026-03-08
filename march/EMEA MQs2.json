@@ -4661,18 +4661,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
                 "name": "NOVO Esports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
                 "name": "Skepsis Gaming",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4746,7 +4796,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                "name": "NOVO Esports",
+                "seed": 12
             },
             "match_games": []
         },
