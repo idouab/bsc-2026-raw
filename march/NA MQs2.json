@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+            "tournament_id": 0,
+            "name": "Fear Esports",
+            "players": [
+                {
+                    "name": "FEAR|XngelFire",
+                    "gamerTag": "#G89UGRJY"
+                },
+                {
+                    "name": "FEAR|Flame",
+                    "gamerTag": "#99RCGGGY8"
+                },
+                {
+                    "name": "FEAR|Dumbsmileツ",
+                    "gamerTag": "#GVRCYQPV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
             "tournament_id": 0,
             "name": "SGA",
@@ -1212,18 +1232,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "538ecf40-129a-11f1-a826-e62dd846289d",
                 "name": "Crow's Nest Academy",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
                 "name": "Fear Esports",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1578,7 +1648,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                "name": "Crow's Nest Academy",
+                "seed": 15
             },
             "match_games": []
         },
@@ -1784,7 +1856,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                "name": "Fear Esports",
+                "seed": 18
             },
             "match_games": []
         },
