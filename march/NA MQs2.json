@@ -2833,18 +2833,83 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5390299e-129a-11f1-b918-e62dd846289d",
                 "name": "Team Elektros",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "538366a0-129a-11f1-8c47-e62dd846289d",
                 "name": "Crows Nest Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 42,
@@ -4055,7 +4120,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                "name": "Crows Nest Esports",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
