@@ -899,6 +899,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+            "tournament_id": 0,
+            "name": "DontFinxSo",
+            "players": [
+                {
+                    "name": "LUX|Gordonnあか",
+                    "gamerTag": "#VUJPG8YY"
+                },
+                {
+                    "name": "LUX|Tex",
+                    "gamerTag": "#LG8PCJG8"
+                },
+                {
+                    "name": "Eternal Silent",
+                    "gamerTag": "#CVUCP8U0C"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -2006,18 +2026,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "084d4e44-129a-11f1-b378-e62dd846289d",
                 "name": "DontFinxSo",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
                 "name": "Haneki Corp",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -2167,7 +2267,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "6b5e3406-1a58-11f1-9db6-ae0f600e8c4c",
+                "name": "Haneki Corp",
+                "seed": 22
             },
             "match_games": []
         },
@@ -2383,7 +2485,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                "name": "DontFinxSo",
+                "seed": 11
             },
             "match_games": []
         },
