@@ -5071,18 +5071,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09234594-129a-11f1-ac45-e62dd846289d",
                 "name": "BIG",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
                 "name": "Real Madrid",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
