@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Haneki Corp.png"
         },
         {
+            "id": "084f7822-129a-11f1-9d85-e62dd846289d",
+            "tournament_id": 0,
+            "name": "Only Realm",
+            "players": [
+                {
+                    "name": "RLM|Bogdan",
+                    "gamerTag": "#LV2YCGJ9"
+                },
+                {
+                    "name": "RLM|Adrii",
+                    "gamerTag": "#8CQ2VL8L"
+                },
+                {
+                    "name": "RLM|Dompe",
+                    "gamerTag": "#2208QGGGL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "K13 Academy",
@@ -841,18 +861,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "084f7822-129a-11f1-9d85-e62dd846289d",
                 "name": "Only Realm",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6b616018-1a58-11f1-aa81-ae0f600e8c4c",
                 "name": "F/A KEBAP",
-                "seed": 20
+                "seed": 20,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "084f7822-129a-11f1-9d85-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b616018-1a58-11f1-aa81-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "084f7822-129a-11f1-9d85-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b616018-1a58-11f1-aa81-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "084f7822-129a-11f1-9d85-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b616018-1a58-11f1-aa81-ae0f600e8c4c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
