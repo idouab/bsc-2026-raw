@@ -4775,18 +4775,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
                 "name": "F/A Zurita Gang",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00360e90-1a5f-11f1-ae3c-362a827d9695",
                 "name": "Six Seven",
-                "seed": 29
+                "seed": 29,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00360e90-1a5f-11f1-ae3c-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00360e90-1a5f-11f1-ae3c-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00360e90-1a5f-11f1-ae3c-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00360e90-1a5f-11f1-ae3c-362a827d9695",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 81,
@@ -4862,7 +4927,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                "name": "F/A Zurita Gang",
+                "seed": 11
             },
             "match_games": []
         },
