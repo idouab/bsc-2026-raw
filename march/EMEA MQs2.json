@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "Die drei ???",
+            "players": [
+                {
+                    "name": "Benedict",
+                    "gamerTag": "#JRU9QJQ8"
+                },
+                {
+                    "name": "Darian",
+                    "gamerTag": "#2U9R88LU"
+                },
+                {
+                    "name": "Jachi",
+                    "gamerTag": "#20GULVGU0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6b6482d4-1a58-11f1-b1be-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "FENRIS GAMING",
@@ -1031,18 +1051,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "098de160-129a-11f1-bb26-e62dd846289d",
                 "name": "NAVI",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
                 "name": "Die drei ???",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1861,10 +1946,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                "name": "NAVI",
+                "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "085fed4c-129a-11f1-8022-e62dd846289d",
+                "name": "Big Talents",
+                "seed": 9
             },
             "match_games": []
         },
@@ -2071,10 +2160,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6b5c71f2-1a58-11f1-b63a-ae0f600e8c4c",
+                "name": "Die drei ???",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "6b6482d4-1a58-11f1-b1be-ae0f600e8c4c",
+                "name": "FENRIS GAMING",
+                "seed": 24
             },
             "match_games": []
         },
