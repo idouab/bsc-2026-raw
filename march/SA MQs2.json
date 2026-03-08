@@ -659,6 +659,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+            "tournament_id": 0,
+            "name": "ATS OLD",
+            "players": [
+                {
+                    "name": "嗯Davexito✗",
+                    "gamerTag": "#YYV9P20VG"
+                },
+                {
+                    "name": "Juansiitoo*",
+                    "gamerTag": "#R9PPQQC9"
+                },
+                {
+                    "name": "✘Fürst",
+                    "gamerTag": "#8LP0PRPY9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -769,18 +789,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
                 "name": "ATS OLD",
-                "seed": 32
+                "seed": 32,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
                 "name": "RAPOSITAS",
-                "seed": 33
+                "seed": 33,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1269,13 +1354,17 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "3baa36e4-129a-11f1-8238-e62dd846289d",
                 "name": "ETERNAL",
                 "seed": 1
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                "name": "RAPOSITAS",
+                "seed": 33
+            },
             "match_games": []
         },
         {
@@ -2557,7 +2646,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                "name": "ATS OLD",
+                "seed": 32
             },
             "match_games": []
         },
