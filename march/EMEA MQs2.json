@@ -2680,18 +2680,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
                 "name": "GoTs",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
                 "name": "Reverso Academy",
-                "seed": 21
+                "seed": 21,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 21,
