@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "d1b53f56-1a8a-11f1-aa5a-929a025c02db",
+            "tournament_id": 0,
+            "name": "BrriN & Co.",
+            "players": [
+                {
+                    "name": "Jewin",
+                    "gamerTag": "#8YVJRYGG"
+                },
+                {
+                    "name": "Jasonbub ♫",
+                    "gamerTag": "#2RQGY0YCQ"
+                },
+                {
+                    "name": "Jewfiki",
+                    "gamerTag": "#R9CCLP8Q"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "d1adfae8-1a8a-11f1-937b-929a025c02db",
             "tournament_id": 0,
             "name": "Blossoming Lotus 🪷",
@@ -941,18 +961,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5390299e-129a-11f1-b918-e62dd846289d",
                 "name": "Team Elektros",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1b53f56-1a8a-11f1-aa5a-929a025c02db",
                 "name": "BrriN & Co.",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b53f56-1a8a-11f1-aa5a-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b53f56-1a8a-11f1-aa5a-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b53f56-1a8a-11f1-aa5a-929a025c02db",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1715,7 +1785,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5390299e-129a-11f1-b918-e62dd846289d",
+                "name": "Team Elektros",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1929,7 +2001,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1b53f56-1a8a-11f1-aa5a-929a025c02db",
+                "name": "BrriN & Co.",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
