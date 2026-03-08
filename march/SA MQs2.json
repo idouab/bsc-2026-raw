@@ -4170,18 +4170,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
                 "name": "FENRIR GAMING",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
                 "name": "RAPOSITAS",
-                "seed": 33
+                "seed": 33,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 78,
