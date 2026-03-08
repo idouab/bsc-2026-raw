@@ -2660,18 +2660,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
                 "name": "ZETA DIVISION",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
                 "name": "FeasibleGaming",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 42,
@@ -3424,7 +3474,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                "name": "FeasibleGaming",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
