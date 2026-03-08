@@ -3294,18 +3294,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "002f85de-1a5f-11f1-a384-362a827d9695",
                 "name": "Exilados",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
                 "name": "Terceira idade",
-                "seed": 30
+                "seed": 30,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "002f85de-1a5f-11f1-a384-362a827d9695",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "002f85de-1a5f-11f1-a384-362a827d9695",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "002f85de-1a5f-11f1-a384-362a827d9695",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "002f85de-1a5f-11f1-a384-362a827d9695",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 52,
@@ -3709,7 +3774,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                "name": "Terceira idade",
+                "seed": 30
             },
             "match_games": []
         },
