@@ -779,6 +779,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "d1b344c6-1a8a-11f1-bde3-929a025c02db",
+            "tournament_id": 0,
+            "name": "Legacy Academy",
+            "players": [
+                {
+                    "name": "LGCY|Panda",
+                    "gamerTag": "#PP88RGCY"
+                },
+                {
+                    "name": "LGCY|Plug",
+                    "gamerTag": "#GLUU8YUUU"
+                },
+                {
+                    "name": "LGCY|JuiceBox",
+                    "gamerTag": "#RP0UL9QUG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1393,18 +1413,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "537e8720-129a-11f1-ada4-e62dd846289d",
                 "name": "vic day",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1b344c6-1a8a-11f1-bde3-929a025c02db",
                 "name": "Legacy Academy",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b344c6-1a8a-11f1-bde3-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b344c6-1a8a-11f1-bde3-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b344c6-1a8a-11f1-bde3-929a025c02db",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -1559,7 +1629,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                "name": "vic day",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1763,7 +1835,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1b344c6-1a8a-11f1-bde3-929a025c02db",
+                "name": "Legacy Academy",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
