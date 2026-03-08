@@ -3475,7 +3475,7 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5395b396-129a-11f1-ab18-e62dd846289d",
                 "name": "I’m Hungwy",
@@ -3484,7 +3484,8 @@
             "opponent2": {
                 "id": "d1b412e8-1a8a-11f1-a4a0-929a025c02db",
                 "name": "BC* Gaming Academy",
-                "seed": 29
+                "seed": 29,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3613,7 +3614,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5395b396-129a-11f1-ab18-e62dd846289d",
+                "name": "I’m Hungwy",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
