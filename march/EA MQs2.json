@@ -3492,18 +3492,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55666054-1299-11f1-8dcb-e62dd846289d",
                 "name": "FENNEL",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
                 "name": "Genius  Dominion",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -3719,7 +3769,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                "name": "FENNEL",
+                "seed": 2
             },
             "match_games": []
         },
