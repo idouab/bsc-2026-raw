@@ -661,6 +661,46 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "559b7ba4-1299-11f1-b3ba-e62dd846289d",
+            "tournament_id": 0,
+            "name": "私達の腰は相手が泣き出すまで止まりません",
+            "players": [
+                {
+                    "name": "ぴこもなか",
+                    "gamerTag": "#9CY8092CJ"
+                },
+                {
+                    "name": "てむぐら",
+                    "gamerTag": "#8YUVLQQLG"
+                },
+                {
+                    "name": "Mameow MOMO",
+                    "gamerTag": "#2CJ8UQPGCR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "dfc144bc-1a05-11f1-95a3-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "えむちゃんは絵だよ",
+            "players": [
+                {
+                    "name": "みしぇる",
+                    "gamerTag": "#29UPQ0GJ2"
+                },
+                {
+                    "name": "燦々たるや",
+                    "gamerTag": "#J8LPYPCQQ"
+                },
+                {
+                    "name": "めろんぱん.@えむちゃん激推し",
+                    "gamerTag": "#Y2LJVPC8J"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "dfc0eb34-1a05-11f1-9ea3-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "ブロハラ",
@@ -741,6 +781,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "55701f18-1299-11f1-9b36-e62dd846289d",
+            "tournament_id": 0,
+            "name": "FERAL",
+            "players": [
+                {
+                    "name": "FRL|Owlcat",
+                    "gamerTag": "#LCU88PUU9"
+                },
+                {
+                    "name": "FRL|RinRin",
+                    "gamerTag": "#YUQYRGUGC"
+                },
+                {
+                    "name": "FRL│SHABANI",
+                    "gamerTag": "#2L9Y0GVPP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "あんていく　アフリカ支部",
@@ -756,6 +816,46 @@
                 {
                     "name": "アフアフココアめらくら",
                     "gamerTag": "#2U2Y0VR98"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "dfc03612-1a05-11f1-a9d7-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "モーティス絶対使わないです",
+            "players": [
+                {
+                    "name": "Ponkey",
+                    "gamerTag": "#89V9Q22VV"
+                },
+                {
+                    "name": "Ater",
+                    "gamerTag": "#80CQ98UQL"
+                },
+                {
+                    "name": "midoronashi",
+                    "gamerTag": "#RP88GPGYG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "dfc09102-1a05-11f1-b90f-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "陰キャ撲滅",
+            "players": [
+                {
+                    "name": "ヒュウガネジ",
+                    "gamerTag": "#2GQLGJPYQ"
+                },
+                {
+                    "name": "リー将軍",
+                    "gamerTag": "#29LVGP0PC"
+                },
+                {
+                    "name": "めろめろめぇーんww",
+                    "gamerTag": "#2UP99P9G8Q"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -931,11 +1031,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "559b7ba4-1299-11f1-b3ba-e62dd846289d",
                 "name": "私達の腰は相手が泣き出すまで止まりません",
-                "seed": 16
+                "seed": 16,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "dfbdf708-1a05-11f1-b2a6-ae0f600e8c4c",
@@ -951,18 +1052,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "556e1042-1299-11f1-80cb-e62dd846289d",
                 "name": "INSOMNIA",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc144bc-1a05-11f1-95a3-ae0f600e8c4c",
                 "name": "えむちゃんは絵だよ",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc144bc-1a05-11f1-95a3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc144bc-1a05-11f1-95a3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc144bc-1a05-11f1-95a3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1291,11 +1442,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55701f18-1299-11f1-9b36-e62dd846289d",
                 "name": "FERAL",
-                "seed": 15
+                "seed": 15,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
@@ -1381,7 +1533,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
                 "name": "Frenzy",
@@ -1390,7 +1542,8 @@
             "opponent2": {
                 "id": "dfc03612-1a05-11f1-a9d7-ae0f600e8c4c",
                 "name": "モーティス絶対使わないです",
-                "seed": 23
+                "seed": 23,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1421,7 +1574,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55878374-1299-11f1-b1fa-e62dd846289d",
                 "name": "Ragebait only🥲",
@@ -1430,7 +1583,8 @@
             "opponent2": {
                 "id": "dfc09102-1a05-11f1-b90f-ae0f600e8c4c",
                 "name": "陰キャ撲滅",
-                "seed": 19
+                "seed": 19,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1538,7 +1692,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "dfbdf708-1a05-11f1-b2a6-ae0f600e8c4c",
+                "name": "DF",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1551,10 +1707,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                "name": "INSOMNIA",
+                "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                "name": "FeasibleGaming",
+                "seed": 9
             },
             "match_games": []
         },
@@ -1606,7 +1766,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                "name": "For Bbange",
+                "seed": 18
             },
             "match_games": []
         },
@@ -1624,7 +1786,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
+                "name": "Frenzy",
+                "seed": 10
             },
             "match_games": []
         },
@@ -1740,7 +1904,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "559b7ba4-1299-11f1-b3ba-e62dd846289d",
+                "name": "私達の腰は相手が泣き出すまで止まりません",
+                "seed": 16
             },
             "match_games": []
         },
@@ -1753,10 +1919,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfc144bc-1a05-11f1-95a3-ae0f600e8c4c",
+                "name": "えむちゃんは絵だよ",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "dfc0eb34-1a05-11f1-9ea3-ae0f600e8c4c",
+                "name": "ブロハラ",
+                "seed": 24
             },
             "match_games": []
         },
@@ -1808,7 +1978,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "55701f18-1299-11f1-9b36-e62dd846289d",
+                "name": "FERAL",
+                "seed": 15
             },
             "match_games": []
         },
@@ -1826,7 +1998,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "dfc03612-1a05-11f1-a9d7-ae0f600e8c4c",
+                "name": "モーティス絶対使わないです",
+                "seed": 23
             },
             "match_games": []
         },
