@@ -4960,18 +4960,68 @@
             "group_id": 1,
             "round_id": 5,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
                 "name": "Oddyssey",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
                 "name": "Acre Lovers",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 83,
@@ -4980,18 +5030,68 @@
             "group_id": 1,
             "round_id": 5,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
                 "name": "SKCalalas SA",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
                 "name": "Vorax Gaming",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 84,
