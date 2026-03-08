@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "GoTs",
+            "players": [
+                {
+                    "name": "ECH|Ali",
+                    "gamerTag": "#8RRJGYC20"
+                },
+                {
+                    "name": "ECH|Matiaspoder",
+                    "gamerTag": "#2VG2V8JV8"
+                },
+                {
+                    "name": "ECH|Rodolfo",
+                    "gamerTag": "#82UPQJYJ9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6b66eda8-1a58-11f1-9630-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "F/A kaliki",
@@ -951,18 +971,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0885260c-129a-11f1-b354-e62dd846289d",
                 "name": "Team Heretics",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
                 "name": "GoTs",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1301,7 +1371,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                "name": "Team Heretics",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -1497,7 +1569,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6b63a67a-1a58-11f1-b492-ae0f600e8c4c",
+                "name": "GoTs",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
