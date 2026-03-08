@@ -2408,18 +2408,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "537e8720-129a-11f1-ada4-e62dd846289d",
                 "name": "vic day",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
                 "name": "StarBoyz",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2485,7 +2535,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "537e8720-129a-11f1-ada4-e62dd846289d",
+                "name": "vic day",
+                "seed": 6
             },
             "match_games": []
         },
@@ -2810,7 +2862,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                "name": "StarBoyz",
+                "seed": 22
             },
             "opponent2": {
                 "id": null
