@@ -2238,18 +2238,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "538366a0-129a-11f1-8c47-e62dd846289d",
                 "name": "Crows Nest Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53cd1336-129a-11f1-9461-e62dd846289d",
                 "name": "Legacy Esports",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "53cd1336-129a-11f1-9461-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53cd1336-129a-11f1-9461-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53cd1336-129a-11f1-9461-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53cd1336-129a-11f1-9461-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53cd1336-129a-11f1-9461-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -2600,7 +2680,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "538366a0-129a-11f1-8c47-e62dd846289d",
+                "name": "Crows Nest Esports",
+                "seed": 8
             },
             "match_games": []
         },
@@ -2863,18 +2945,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
                 "name": "AFKS",
-                "seed": 31
+                "seed": 31,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
                 "name": "Fear Esports",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1b2c712-1a8a-11f1-a19d-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 22,
@@ -3156,10 +3303,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53cd1336-129a-11f1-9461-e62dd846289d",
+                "name": "Legacy Esports",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "d1b4763e-1a8a-11f1-93fb-929a025c02db",
+                "name": "Quick X 🦆",
+                "seed": 30
             },
             "match_games": []
         },
