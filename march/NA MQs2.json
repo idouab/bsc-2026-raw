@@ -2647,18 +2647,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
                 "name": "SGA",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
                 "name": "NOVA",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -2797,7 +2847,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                "name": "NOVA",
+                "seed": 23
             },
             "match_games": []
         },
