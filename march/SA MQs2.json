@@ -2659,18 +2659,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
                 "name": "Bounty Hunters Allu",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00319c0c-1a5f-11f1-9838-362a827d9695",
                 "name": "Concolores",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00319c0c-1a5f-11f1-9838-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00319c0c-1a5f-11f1-9838-362a827d9695",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00319c0c-1a5f-11f1-9838-362a827d9695",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 62,
@@ -2832,7 +2882,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                "name": "Bounty Hunters Allu",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3159,7 +3211,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "00319c0c-1a5f-11f1-9838-362a827d9695",
+                "name": "Concolores",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
