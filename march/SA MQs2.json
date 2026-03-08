@@ -2719,18 +2719,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
                 "name": "SKCalalas SA",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3b9951bc-129a-11f1-ba96-e62dd846289d",
                 "name": "Império N9Xx",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b9951bc-129a-11f1-ba96-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b9951bc-129a-11f1-ba96-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b9951bc-129a-11f1-ba96-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 65,
@@ -2811,7 +2861,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                "name": "SKCalalas SA",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2975,18 +3027,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b8ef7d0-129a-11f1-9240-e62dd846289d",
                 "name": "Enosis eSports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0035930c-1a5f-11f1-ab73-362a827d9695",
                 "name": "Xblood zero",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3b8ef7d0-129a-11f1-9240-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0035930c-1a5f-11f1-ab73-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3b8ef7d0-129a-11f1-9240-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0035930c-1a5f-11f1-ab73-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3b8ef7d0-129a-11f1-9240-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0035930c-1a5f-11f1-ab73-362a827d9695",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 55,
@@ -3139,7 +3241,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b9951bc-129a-11f1-ba96-e62dd846289d",
+                "name": "Império N9Xx",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
