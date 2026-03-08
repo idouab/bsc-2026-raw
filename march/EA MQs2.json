@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "JoyBoy",
+            "players": [
+                {
+                    "name": "JoyBoyMou|모우",
+                    "gamerTag": "#LV8P88JYP"
+                },
+                {
+                    "name": "XQ|Prime dog",
+                    "gamerTag": "#29P0CQ0P"
+                },
+                {
+                    "name": "0218",
+                    "gamerTag": "#82QLUJRUL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "dfc35b4e-1a05-11f1-971d-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "助けが必要みたいだね",
@@ -911,18 +931,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55850018-1299-11f1-9a2f-e62dd846289d",
                 "name": "Rival Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
                 "name": "JoyBoy",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -1285,7 +1355,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                "name": "Rival Esports",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -1481,7 +1553,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
+                "name": "JoyBoy",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
