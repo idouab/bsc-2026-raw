@@ -639,6 +639,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
+            "tournament_id": 0,
+            "name": "AFKS",
+            "players": [
+                {
+                    "name": "NRG|Tempestt",
+                    "gamerTag": "#PPQRL9Y0P"
+                },
+                {
+                    "name": "jp",
+                    "gamerTag": "#8LLJU000"
+                },
+                {
+                    "name": "NRG|❄️vSxolar❄️",
+                    "gamerTag": "#8Y02VRGR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -881,7 +901,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
                 "name": "STMN",
@@ -890,7 +910,8 @@
             "opponent2": {
                 "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
                 "name": "AFKS",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1107,7 +1128,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
+                "name": "STMN",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1299,7 +1322,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1b4e0b0-1a8a-11f1-8506-929a025c02db",
+                "name": "AFKS",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
