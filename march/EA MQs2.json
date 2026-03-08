@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "元卓球部キャプテン🏓",
+            "players": [
+                {
+                    "name": "AKAKISUSHI",
+                    "gamerTag": "#2L2Q2R88LG"
+                },
+                {
+                    "name": "ねにゃん ฅ",
+                    "gamerTag": "#CV9Y9VPP"
+                },
+                {
+                    "name": "On!myon",
+                    "gamerTag": "#88V8UUGRG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "dfc0eb34-1a05-11f1-9ea3-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "ブロハラ",
@@ -821,18 +841,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
                 "name": "ZETA DIVISION",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
                 "name": "元卓球部キャプテン🏓",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1393,7 +1463,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55687ff6-1299-11f1-aec0-e62dd846289d",
+                "name": "ZETA DIVISION",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1591,7 +1663,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
+                "name": "元卓球部キャプテン🏓",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
