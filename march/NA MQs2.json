@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
+            "tournament_id": 0,
+            "name": "Lime 🍋‍🟩",
+            "players": [
+                {
+                    "name": "❄️Pika❄️",
+                    "gamerTag": "#9QLL2UYPR"
+                },
+                {
+                    "name": "Perry💜Lukie",
+                    "gamerTag": "#YUYYLVJ"
+                },
+                {
+                    "name": "Lukie 🦝",
+                    "gamerTag": "#8R2V0P0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
             "tournament_id": 0,
             "name": "Overlooked Ent.",
@@ -1261,18 +1281,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
                 "name": "Lime 🍋‍🟩",
-                "seed": 13
+                "seed": 13,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
                 "name": "Sad Raccons",
-                "seed": 20
+                "seed": 20,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1828,7 +1913,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                "name": "Sad Raccons",
+                "seed": 20
             },
             "match_games": []
         },
@@ -2044,7 +2131,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "53e0a3d8-129a-11f1-bc98-e62dd846289d",
+                "name": "Lime 🍋‍🟩",
+                "seed": 13
             },
             "match_games": []
         },
