@@ -3986,18 +3986,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
                 "name": "Real Madrid",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "084d4e44-129a-11f1-b378-e62dd846289d",
                 "name": "DontFinxSo",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "084d4e44-129a-11f1-b378-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 45,
@@ -4061,7 +4111,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "6b608594-1a58-11f1-9451-ae0f600e8c4c",
+                "name": "Real Madrid",
+                "seed": 17
             },
             "match_games": []
         },
