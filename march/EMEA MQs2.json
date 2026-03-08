@@ -639,6 +639,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Haneki Corp.png"
+        },
+        {
+            "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "K13 Academy",
+            "players": [
+                {
+                    "name": "K13|Islow",
+                    "gamerTag": "#8L029CCC8"
+                },
+                {
+                    "name": "K13|Champion",
+                    "gamerTag": "#89QGCC2G8"
+                },
+                {
+                    "name": "K13|Slays 💙",
+                    "gamerTag": "#29UP209U2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1001,18 +1021,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "091e269a-129a-11f1-a982-e62dd846289d",
                 "name": "SK GAMING",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
                 "name": "K13 Academy",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "091e269a-129a-11f1-a982-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "091e269a-129a-11f1-a982-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "091e269a-129a-11f1-a982-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -1155,7 +1225,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "091e269a-129a-11f1-a982-e62dd846289d",
+                "name": "SK GAMING",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1347,7 +1419,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6b5fb196-1a58-11f1-9d6e-ae0f600e8c4c",
+                "name": "K13 Academy",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
