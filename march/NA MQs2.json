@@ -2338,18 +2338,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "539bae40-129a-11f1-9818-e62dd846289d",
                 "name": "Tribe Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
                 "name": "WBB Esports🐻🐻‍❄️🐼",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2430,7 +2480,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "539bae40-129a-11f1-9818-e62dd846289d",
+                "name": "Tribe Gaming",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2674,7 +2726,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                "name": "WBB Esports🐻🐻‍❄️🐼",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
