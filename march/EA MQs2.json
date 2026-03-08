@@ -2740,7 +2740,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
                 "name": "元卓球部キャプテン🏓",
@@ -2749,7 +2749,8 @@
             "opponent2": {
                 "id": "559b7ba4-1299-11f1-b3ba-e62dd846289d",
                 "name": "私達の腰は相手が泣き出すまで止まりません",
-                "seed": 16
+                "seed": 16,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2984,7 +2985,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfc35b4e-1a05-11f1-971d-ae0f600e8c4c",
                 "name": "助けが必要みたいだね",
@@ -2993,7 +2994,8 @@
             "opponent2": {
                 "id": "55701f18-1299-11f1-9b36-e62dd846289d",
                 "name": "FERAL",
-                "seed": 15
+                "seed": 15,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3089,7 +3091,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfc303ec-1a05-11f1-990b-ae0f600e8c4c",
                 "name": "White rice",
@@ -3098,7 +3100,8 @@
             "opponent2": {
                 "id": "dfc09102-1a05-11f1-b90f-ae0f600e8c4c",
                 "name": "陰キャ撲滅",
-                "seed": 19
+                "seed": 19,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3186,7 +3189,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "dfc3b6e8-1a05-11f1-8e20-ae0f600e8c4c",
+                "name": "元卓球部キャプテン🏓",
+                "seed": 32
             },
             "match_games": []
         },
@@ -3264,7 +3269,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "dfc35b4e-1a05-11f1-971d-ae0f600e8c4c",
+                "name": "助けが必要みたいだね",
+                "seed": 31
             },
             "match_games": []
         },
@@ -3302,7 +3309,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "dfc303ec-1a05-11f1-990b-ae0f600e8c4c",
+                "name": "White rice",
+                "seed": 30
             },
             "match_games": []
         },
