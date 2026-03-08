@@ -4655,18 +4655,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
                 "name": "Vorax Gaming",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0036f6d4-1a5f-11f1-8166-362a827d9695",
                 "name": "Destiny Esports",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0036f6d4-1a5f-11f1-8166-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0036f6d4-1a5f-11f1-8166-362a827d9695",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0036f6d4-1a5f-11f1-8166-362a827d9695",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 80,
@@ -4740,7 +4790,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "99252388-1a42-11f1-bc6e-6ae4cbf0c546",
+                "name": "Vorax Gaming",
+                "seed": 9
             },
             "match_games": []
         },
