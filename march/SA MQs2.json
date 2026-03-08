@@ -2729,18 +2729,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bb02c34-129a-11f1-a6dd-e62dd846289d",
                 "name": "New Heights Gaming",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
                 "name": "FENRIR GAMING",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3bb02c34-129a-11f1-a6dd-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3bb02c34-129a-11f1-a6dd-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3bb02c34-129a-11f1-a6dd-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 63,
@@ -2839,18 +2889,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bfc7d6e-129a-11f1-8100-e62dd846289d",
                 "name": "Olimpo Squad",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
                 "name": "F/A Zurita Gang",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3bfc7d6e-129a-11f1-8100-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3bfc7d6e-129a-11f1-8100-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3bfc7d6e-129a-11f1-8100-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 74,
@@ -2897,7 +2997,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3bb02c34-129a-11f1-a6dd-e62dd846289d",
+                "name": "New Heights Gaming",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -2918,7 +3020,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "3bfc7d6e-129a-11f1-8100-e62dd846289d",
+                "name": "Olimpo Squad",
+                "seed": 6
             },
             "match_games": []
         },
@@ -3329,10 +3433,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b7d27c6-129a-11f1-a283-e62dd846289d",
+                "name": "F/A Zurita Gang",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "3b8ef7d0-129a-11f1-9240-e62dd846289d",
+                "name": "Enosis eSports",
+                "seed": 12
             },
             "match_games": []
         },
@@ -3379,10 +3487,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                "name": "FENRIR GAMING",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "00350c7a-1a5f-11f1-984c-362a827d9695",
+                "name": "RAPOSITAS",
+                "seed": 33
             },
             "match_games": []
         },
