@@ -2799,18 +2799,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
                 "name": "Oddyssey",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
                 "name": "Natare Six",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 64,
@@ -3002,7 +3052,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "3b77e54a-129a-11f1-9b4b-e62dd846289d",
+                "name": "Oddyssey",
+                "seed": 7
             },
             "match_games": []
         },
@@ -3573,10 +3625,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                "name": "Natare Six",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "0033b3e8-1a5f-11f1-bc36-362a827d9695",
+                "name": "OS CHIPANZÉS",
+                "seed": 25
             },
             "match_games": []
         },
