@@ -899,6 +899,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+            "tournament_id": 0,
+            "name": "MX TEAM",
+            "players": [
+                {
+                    "name": "MT|resicstine",
+                    "gamerTag": "#2JQ0Y8GQC"
+                },
+                {
+                    "name": "MT|Berenjena",
+                    "gamerTag": "#90UJQY2RC"
+                },
+                {
+                    "name": "MT|snk",
+                    "gamerTag": "#28LUPRPQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1848,18 +1868,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
                 "name": "MX TEAM",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
                 "name": "StarBoyz",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -2011,7 +2111,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "d1af0cbc-1a8a-11f1-be89-929a025c02db",
+                "name": "StarBoyz",
+                "seed": 22
             },
             "match_games": []
         },
@@ -2229,7 +2331,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "53e4ee2a-129a-11f1-940d-e62dd846289d",
+                "name": "MX TEAM",
+                "seed": 11
             },
             "match_games": []
         },
