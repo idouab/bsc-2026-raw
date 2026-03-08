@@ -3274,7 +3274,7 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
                 "name": "Acre Lovers",
@@ -3283,7 +3283,8 @@
             "opponent2": {
                 "id": "0034abc2-1a5f-11f1-962b-362a827d9695",
                 "name": "MTZ",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3756,7 +3757,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                "name": "Acre Lovers",
+                "seed": 22
             },
             "match_games": []
         },
