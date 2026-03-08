@@ -741,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "Be Humble",
+            "players": [
+                {
+                    "name": "BH|Marin",
+                    "gamerTag": "#C0GCLYUL"
+                },
+                {
+                    "name": "好耶!是SIGMA RICO",
+                    "gamerTag": "#8RPCP0QPV"
+                },
+                {
+                    "name": "누리",
+                    "gamerTag": "#2RQUCGQGJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "dfbfda28-1a05-11f1-a430-ae0f600e8c4c",
             "tournament_id": 0,
             "name": "Try again",
@@ -1282,18 +1302,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
                 "name": "Team Falcons",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
                 "name": "Be Humble",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1817,7 +1887,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                "name": "Team Falcons",
+                "seed": 13
             },
             "match_games": []
         },
@@ -2033,7 +2105,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
+                "name": "Be Humble",
+                "seed": 20
             },
             "match_games": []
         },
