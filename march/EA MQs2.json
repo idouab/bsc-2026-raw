@@ -2100,18 +2100,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55850018-1299-11f1-9a2f-e62dd846289d",
                 "name": "Rival Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
                 "name": "Team Falcons",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2290,10 +2340,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55850018-1299-11f1-9a2f-e62dd846289d",
+                "name": "Rival Esports",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "556516b8-1299-11f1-b59b-e62dd846289d",
+                "name": "Crazy Raccoon",
+                "seed": 5
             },
             "match_games": []
         },
@@ -2630,7 +2684,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55a22d0a-1299-11f1-a781-e62dd846289d",
+                "name": "Team Falcons",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
