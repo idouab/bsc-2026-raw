@@ -681,6 +681,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+            "tournament_id": 0,
+            "name": "Overlooked Ent.",
+            "players": [
+                {
+                    "name": "OE|Nayt",
+                    "gamerTag": "#Y2VLVGC88"
+                },
+                {
+                    "name": "OE|HUB",
+                    "gamerTag": "#8PJCY9UP9"
+                },
+                {
+                    "name": "OE|Spizy",
+                    "gamerTag": "#20899RRQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "d1b0fbb2-1a8a-11f1-9a7d-929a025c02db",
             "tournament_id": 0,
             "name": "Axolotl eSports",
@@ -1121,18 +1141,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "539450fa-129a-11f1-971f-e62dd846289d",
                 "name": "Only Realm",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
                 "name": "Overlooked Ent.",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "539450fa-129a-11f1-971f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "539450fa-129a-11f1-971f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "539450fa-129a-11f1-971f-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1627,10 +1697,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "539450fa-129a-11f1-971f-e62dd846289d",
+                "name": "Only Realm",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "53d4b0fa-129a-11f1-8c12-e62dd846289d",
+                "name": "Mathgamerbs aura",
+                "seed": 12
             },
             "match_games": []
         },
@@ -1835,10 +1909,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                "name": "Overlooked Ent.",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "d1b0fbb2-1a8a-11f1-9a7d-929a025c02db",
+                "name": "Axolotl eSports",
+                "seed": 21
             },
             "match_games": []
         },
