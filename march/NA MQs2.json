@@ -2873,18 +2873,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
                 "name": "STMN",
-                "seed": 2
+                "seed": 2,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "537effa2-129a-11f1-9696-e62dd846289d",
                 "name": "Vatic",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -3864,7 +3914,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53a61a2e-129a-11f1-bb0b-e62dd846289d",
+                "name": "STMN",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
