@@ -2521,18 +2521,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0885260c-129a-11f1-b354-e62dd846289d",
                 "name": "Team Heretics",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
                 "name": "NOVO Esports",
-                "seed": 12
+                "seed": 12,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2748,7 +2813,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "0885260c-129a-11f1-b354-e62dd846289d",
+                "name": "Team Heretics",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3407,7 +3474,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07c3889e-129a-11f1-b1f9-e62dd846289d",
+                "name": "NOVO Esports",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
