@@ -4150,18 +4150,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
                 "name": "Natare Six",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0033b3e8-1a5f-11f1-bc36-362a827d9695",
                 "name": "OS CHIPANZÉS",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0033b3e8-1a5f-11f1-bc36-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0033b3e8-1a5f-11f1-bc36-362a827d9695",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0033b3e8-1a5f-11f1-bc36-362a827d9695",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 73,
@@ -4296,10 +4346,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c27c9b0-129a-11f1-8a32-e62dd846289d",
+                "name": "Natare Six",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "3bc2a62a-129a-11f1-8b02-e62dd846289d",
+                "name": "FENRIR GAMING",
+                "seed": 15
             },
             "match_games": []
         },
