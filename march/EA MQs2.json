@@ -2080,18 +2080,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "556e1042-1299-11f1-80cb-e62dd846289d",
                 "name": "INSOMNIA",
-                "seed": 8
+                "seed": 8,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
                 "name": "FeasibleGaming",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -2442,7 +2507,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "558eeeac-1299-11f1-8c57-e62dd846289d",
+                "name": "FeasibleGaming",
+                "seed": 9
             },
             "match_games": []
         },
@@ -2892,7 +2959,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "556e1042-1299-11f1-80cb-e62dd846289d",
+                "name": "INSOMNIA",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
