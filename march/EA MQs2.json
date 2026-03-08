@@ -659,6 +659,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
+            "tournament_id": 0,
+            "name": "あんていく　アフリカ支部",
+            "players": [
+                {
+                    "name": "アフアフカカオめらくら",
+                    "gamerTag": "#22U2QRUJ9"
+                },
+                {
+                    "name": "とっとこ走るよハヌ太郎",
+                    "gamerTag": "#L8VVQU92Y"
+                },
+                {
+                    "name": "アフアフココアめらくら",
+                    "gamerTag": "#2U2Y0VR98"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -991,18 +1011,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55644698-1299-11f1-8fa8-e62dd846289d",
                 "name": "SKCalalas",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
                 "name": "あんていく　アフリカ支部",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "55644698-1299-11f1-8fa8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "55644698-1299-11f1-8fa8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "55644698-1299-11f1-8fa8-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1193,7 +1263,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55644698-1299-11f1-8fa8-e62dd846289d",
+                "name": "SKCalalas",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1385,7 +1457,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfc19d54-1a05-11f1-85a3-ae0f600e8c4c",
+                "name": "あんていく　アフリカ支部",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
