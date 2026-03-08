@@ -2316,18 +2316,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "098de160-129a-11f1-bb26-e62dd846289d",
                 "name": "NAVI",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "085fed4c-129a-11f1-8022-e62dd846289d",
                 "name": "Big Talents",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "085fed4c-129a-11f1-8022-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "085fed4c-129a-11f1-8022-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "098de160-129a-11f1-bb26-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "085fed4c-129a-11f1-8022-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -2620,18 +2670,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
                 "name": "Skepsis Gaming",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b62de34-1a58-11f1-8ed7-ae0f600e8c4c",
                 "name": "Bloste",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b62de34-1a58-11f1-8ed7-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b62de34-1a58-11f1-8ed7-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6b5f0872-1a58-11f1-9699-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b62de34-1a58-11f1-8ed7-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -2778,7 +2878,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "085fed4c-129a-11f1-8022-e62dd846289d",
+                "name": "Big Talents",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
