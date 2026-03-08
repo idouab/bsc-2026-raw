@@ -2773,18 +2773,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
                 "name": "Acre Lovers",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
                 "name": "ATS OLD",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00377410-1a5f-11f1-a0b4-362a827d9695",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 50,
@@ -2795,10 +2845,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "00322abe-1a5f-11f1-bde5-362a827d9695",
+                "name": "Acre Lovers",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "0034abc2-1a5f-11f1-962b-362a827d9695",
+                "name": "MTZ",
+                "seed": 27
             },
             "match_games": []
         },
