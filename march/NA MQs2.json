@@ -3761,18 +3761,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "538ecf40-129a-11f1-a826-e62dd846289d",
                 "name": "Crow's Nest Academy",
-                "seed": 15
+                "seed": 15,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
                 "name": "Overlooked Ent.",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "538ecf40-129a-11f1-a826-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -4053,7 +4118,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "d1b3abc8-1a8a-11f1-91c0-929a025c02db",
+                "name": "Overlooked Ent.",
+                "seed": 28
             },
             "match_games": []
         },
