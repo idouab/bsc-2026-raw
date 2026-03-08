@@ -659,6 +659,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "53aabaac-129a-11f1-98f1-e62dd846289d",
+            "tournament_id": 0,
+            "name": "PTSD",
+            "players": [
+                {
+                    "name": "hearteater",
+                    "gamerTag": "#2JLVRQ9"
+                },
+                {
+                    "name": "Evx❄️",
+                    "gamerTag": "#2PGGR8Y9P"
+                },
+                {
+                    "name": "CR|chino",
+                    "gamerTag": "#VJUQ0Y"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1002,11 +1022,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53aabaac-129a-11f1-98f1-e62dd846289d",
                 "name": "PTSD",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
