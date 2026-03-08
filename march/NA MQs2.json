@@ -2853,18 +2853,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53bd0234-129a-11f1-bf3b-e62dd846289d",
                 "name": "KDS",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53d4b0fa-129a-11f1-8c12-e62dd846289d",
                 "name": "Mathgamerbs aura",
-                "seed": 12
+                "seed": 12,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53bd0234-129a-11f1-bf3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53d4b0fa-129a-11f1-8c12-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53bd0234-129a-11f1-bf3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53d4b0fa-129a-11f1-8c12-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "53bd0234-129a-11f1-bf3b-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53d4b0fa-129a-11f1-8c12-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -3866,7 +3916,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53d4b0fa-129a-11f1-8c12-e62dd846289d",
+                "name": "Mathgamerbs aura",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
