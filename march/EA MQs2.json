@@ -4067,18 +4067,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
                 "name": "Frenzy",
-                "seed": 10
+                "seed": 10,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "55666054-1299-11f1-8dcb-e62dd846289d",
                 "name": "FENNEL",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "556c4654-1299-11f1-ad0d-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4152,7 +4217,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                "name": "FENNEL",
+                "seed": 2
             },
             "match_games": []
         },
