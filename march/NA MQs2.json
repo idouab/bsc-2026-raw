@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+            "tournament_id": 0,
+            "name": "SGA",
+            "players": [
+                {
+                    "name": "SGA Jumpy",
+                    "gamerTag": "#2UVRQQPLP"
+                },
+                {
+                    "name": "SGA pat♡︎",
+                    "gamerTag": "#PCVJV8VL2"
+                },
+                {
+                    "name": "SGA Jumpys🥹pet",
+                    "gamerTag": "#9QLGJQ0Q0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "d1b4763e-1a8a-11f1-93fb-929a025c02db",
             "tournament_id": 0,
             "name": "Quick X 🦆",
@@ -982,18 +1002,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "537effa2-129a-11f1-9696-e62dd846289d",
                 "name": "Vatic",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
                 "name": "SGA",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1237,7 +1307,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "537effa2-129a-11f1-9696-e62dd846289d",
+                "name": "Vatic",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1435,7 +1507,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1ae8fee-1a8a-11f1-8c40-929a025c02db",
+                "name": "SGA",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
