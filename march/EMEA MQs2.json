@@ -2606,18 +2606,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
                 "name": "Zenith Esports",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2828,10 +2908,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07fa8b3c-129a-11f1-9143-e62dd846289d",
+                "name": "HMBLE",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                "name": "BIG",
+                "seed": 7
             },
             "match_games": []
         },
@@ -3458,10 +3542,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "09edec22-129a-11f1-bd0a-e62dd846289d",
+                "name": "Zenith Esports",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "6b621666-1a58-11f1-8ed1-ae0f600e8c4c",
+                "name": "Reverso Academy",
+                "seed": 21
             },
             "match_games": []
         },
