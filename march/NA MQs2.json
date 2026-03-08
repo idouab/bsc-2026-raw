@@ -3455,18 +3455,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
                 "name": "WBB Esports🐻🐻‍❄️🐼",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1b2032c-1a8a-11f1-b466-929a025c02db",
                 "name": "Power Puff Girls",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b2032c-1a8a-11f1-b466-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b2032c-1a8a-11f1-b466-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d1ac6ca0-1a8a-11f1-bf51-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b2032c-1a8a-11f1-b466-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3536,18 +3586,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
                 "name": "Sad Raccons",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
                 "name": "NOVA",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d1b05860-1a8a-11f1-8e41-929a025c02db",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1afa898-1a8a-11f1-8cf2-929a025c02db",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
