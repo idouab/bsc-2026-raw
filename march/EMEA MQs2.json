@@ -2561,18 +2561,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09234594-129a-11f1-ac45-e62dd846289d",
                 "name": "BIG",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "095b583a-129a-11f1-bcf2-e62dd846289d",
                 "name": "FUT ACADEMY",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095b583a-129a-11f1-bcf2-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095b583a-129a-11f1-bcf2-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "09234594-129a-11f1-ac45-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "095b583a-129a-11f1-bcf2-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -3139,10 +3189,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "095b583a-129a-11f1-bcf2-e62dd846289d",
+                "name": "FUT ACADEMY",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "084f7822-129a-11f1-9d85-e62dd846289d",
+                "name": "Only Realm",
+                "seed": 13
             },
             "match_games": []
         },
