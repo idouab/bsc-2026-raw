@@ -2305,18 +2305,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55666054-1299-11f1-8dcb-e62dd846289d",
                 "name": "FENNEL",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
                 "name": "For Bbange",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2622,10 +2702,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfbf7c5e-1a05-11f1-bd25-ae0f600e8c4c",
+                "name": "For Bbange",
+                "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "55644698-1299-11f1-8fa8-e62dd846289d",
+                "name": "SKCalalas",
+                "seed": 7
             },
             "match_games": []
         },
@@ -2776,16 +2860,20 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
                 "name": "JoyBoy",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfbf1ee4-1a05-11f1-93d3-ae0f600e8c4c",
                 "name": "Be Humble",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "match_games": []
         },
@@ -3136,7 +3224,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "dfc2ac12-1a05-11f1-84f0-ae0f600e8c4c",
+                "name": "JoyBoy",
+                "seed": 29
             },
             "match_games": []
         },
@@ -3149,10 +3239,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55666054-1299-11f1-8dcb-e62dd846289d",
+                "name": "FENNEL",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "dfc25208-1a05-11f1-b204-ae0f600e8c4c",
+                "name": "Genius  Dominion",
+                "seed": 28
             },
             "match_games": []
         },
