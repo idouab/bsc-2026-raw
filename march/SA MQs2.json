@@ -1705,18 +1705,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
                 "name": "SKCalalas SA",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
                 "name": "Terceira idade",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00368b86-1a5f-11f1-81d8-362a827d9695",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -1939,7 +1989,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b8856c8-129a-11f1-bae2-e62dd846289d",
+                "name": "SKCalalas SA",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
