@@ -2280,18 +2280,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55a4139a-1299-11f1-94fd-e62dd846289d",
                 "name": "WWL Esports",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55878374-1299-11f1-b1fa-e62dd846289d",
                 "name": "Ragebait only🥲",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "55a4139a-1299-11f1-94fd-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55878374-1299-11f1-b1fa-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "55a4139a-1299-11f1-94fd-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55878374-1299-11f1-b1fa-e62dd846289d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "55a4139a-1299-11f1-94fd-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55878374-1299-11f1-b1fa-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2376,7 +2426,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55a4139a-1299-11f1-94fd-e62dd846289d",
+                "name": "WWL Esports",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2618,7 +2670,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "55878374-1299-11f1-b1fa-e62dd846289d",
+                "name": "Ragebait only🥲",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
