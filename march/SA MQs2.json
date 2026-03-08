@@ -3144,18 +3144,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c0388de-129a-11f1-8d72-e62dd846289d",
                 "name": "LOUD",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
                 "name": "Bounty Hunters Allu",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3c0388de-129a-11f1-8d72-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3c0388de-129a-11f1-8d72-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3c0388de-129a-11f1-8d72-e62dd846289d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 76,
@@ -4468,7 +4518,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c2505ea-129a-11f1-a3ed-e62dd846289d",
+                "name": "Bounty Hunters Allu",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
