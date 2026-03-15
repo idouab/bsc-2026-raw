@@ -451,18 +451,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58169266-1b17-11f1-ba01-e6f2cbf1e58a",
                 "name": "Reply Totem",
-                "seed": 3
+                "seed": 3,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "58153664-1b17-11f1-a0f3-e6f2cbf1e58a",
                 "name": "NOVO Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "58169266-1b17-11f1-ba01-e6f2cbf1e58a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58153664-1b17-11f1-a0f3-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "58169266-1b17-11f1-ba01-e6f2cbf1e58a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "58153664-1b17-11f1-a0f3-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "58169266-1b17-11f1-ba01-e6f2cbf1e58a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "58153664-1b17-11f1-a0f3-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "58169266-1b17-11f1-ba01-e6f2cbf1e58a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "58153664-1b17-11f1-a0f3-e6f2cbf1e58a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -498,7 +563,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "58153664-1b17-11f1-a0f3-e6f2cbf1e58a",
+                "name": "NOVO Esports",
+                "seed": 6
             },
             "match_games": []
         },
