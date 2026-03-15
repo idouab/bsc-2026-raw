@@ -381,18 +381,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "581719c0-1b17-11f1-871a-e6f2cbf1e58a",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5818d35a-1b17-11f1-bc4c-e6f2cbf1e58a",
                 "name": "Madrid",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "581719c0-1b17-11f1-871a-e6f2cbf1e58a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5818d35a-1b17-11f1-bc4c-e6f2cbf1e58a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "581719c0-1b17-11f1-871a-e6f2cbf1e58a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5818d35a-1b17-11f1-bc4c-e6f2cbf1e58a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "581719c0-1b17-11f1-871a-e6f2cbf1e58a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5818d35a-1b17-11f1-bc4c-e6f2cbf1e58a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -443,7 +493,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "581719c0-1b17-11f1-871a-e6f2cbf1e58a",
+                "name": "HMBLE",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
