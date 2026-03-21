@@ -521,18 +521,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd65132e-1b37-11f1-8e5a-1677e04326b8",
                 "name": "New Heights Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cd657256-1b37-11f1-8f5c-1677e04326b8",
                 "name": "ELEVATE",
-                "seed": 4
+                "seed": 4,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd65132e-1b37-11f1-8e5a-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd657256-1b37-11f1-8f5c-1677e04326b8",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd65132e-1b37-11f1-8e5a-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd657256-1b37-11f1-8f5c-1677e04326b8",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd65132e-1b37-11f1-8e5a-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd657256-1b37-11f1-8f5c-1677e04326b8",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -563,7 +613,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cd65132e-1b37-11f1-8e5a-1677e04326b8",
+                "name": "New Heights Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
