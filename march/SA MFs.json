@@ -591,18 +591,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd6633c6-1b37-11f1-8d59-1677e04326b8",
                 "name": "LOUD",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cd65d070-1b37-11f1-b535-1677e04326b8",
                 "name": "Olimpo Squad",
-                "seed": 3
+                "seed": 3,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd6633c6-1b37-11f1-8d59-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd65d070-1b37-11f1-b535-1677e04326b8",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd6633c6-1b37-11f1-8d59-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd65d070-1b37-11f1-b535-1677e04326b8",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd6633c6-1b37-11f1-8d59-1677e04326b8",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cd65d070-1b37-11f1-b535-1677e04326b8",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cd6633c6-1b37-11f1-8d59-1677e04326b8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd65d070-1b37-11f1-b535-1677e04326b8",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -618,7 +683,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "cd6633c6-1b37-11f1-8d59-1677e04326b8",
+                "name": "LOUD",
+                "seed": 2
             },
             "match_games": []
         }
