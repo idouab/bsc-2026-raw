@@ -211,18 +211,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "04f5b89a-1b4f-11f1-aa94-ae0f600e8c4c",
                 "name": "Team Elektros",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04f7d206-1b4f-11f1-97cb-ae0f600e8c4c",
                 "name": "Enosis Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f5b89a-1b4f-11f1-aa94-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04f7d206-1b4f-11f1-97cb-ae0f600e8c4c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f5b89a-1b4f-11f1-aa94-ae0f600e8c4c",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "04f7d206-1b4f-11f1-97cb-ae0f600e8c4c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f5b89a-1b4f-11f1-aa94-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04f7d206-1b4f-11f1-97cb-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f5b89a-1b4f-11f1-aa94-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04f7d206-1b4f-11f1-97cb-ae0f600e8c4c",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -293,7 +358,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "04f5b89a-1b4f-11f1-aa94-ae0f600e8c4c",
+                "name": "Team Elektros",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
