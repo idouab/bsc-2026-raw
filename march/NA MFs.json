@@ -381,18 +381,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "04f6e1ca-1b4f-11f1-991a-ae0f600e8c4c",
                 "name": "Only Realm",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04f763a2-1b4f-11f1-ad96-ae0f600e8c4c",
                 "name": "Legacy Esports",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f6e1ca-1b4f-11f1-991a-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04f763a2-1b4f-11f1-ad96-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f6e1ca-1b4f-11f1-991a-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04f763a2-1b4f-11f1-ad96-ae0f600e8c4c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "04f6e1ca-1b4f-11f1-991a-ae0f600e8c4c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04f763a2-1b4f-11f1-ad96-ae0f600e8c4c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -443,7 +493,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "04f6e1ca-1b4f-11f1-991a-ae0f600e8c4c",
+                "name": "Only Realm",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
