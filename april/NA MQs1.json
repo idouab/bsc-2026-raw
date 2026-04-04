@@ -30079,18 +30079,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caea7ffa-28a0-11f1-8a10-1662e184e72d",
                 "name": "Chill",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cc759508-28a0-11f1-9166-1662e184e72d",
                 "name": "Tenshi Kitsune",
-                "seed": 36
+                "seed": 36,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "caea7ffa-28a0-11f1-8a10-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc759508-28a0-11f1-9166-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "caea7ffa-28a0-11f1-8a10-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc759508-28a0-11f1-9166-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "caea7ffa-28a0-11f1-8a10-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc759508-28a0-11f1-9166-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 459,
@@ -30652,18 +30702,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc74683a-2fea-11f1-bf5f-52d63ee2a8d5",
                 "name": "Travesaños",
-                "seed": 119
+                "seed": 119,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a2d6e14e-2bc9-11f1-8800-825f661103e6",
                 "name": "Meow",
-                "seed": 74
+                "seed": 74,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cc74683a-2fea-11f1-bf5f-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2d6e14e-2bc9-11f1-8800-825f661103e6",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "cc74683a-2fea-11f1-bf5f-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a2d6e14e-2bc9-11f1-8800-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "cc74683a-2fea-11f1-bf5f-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2d6e14e-2bc9-11f1-8800-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 472,
@@ -31149,7 +31249,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "caea7ffa-28a0-11f1-8a10-1662e184e72d",
+                "name": "Chill",
+                "seed": 29
             },
             "match_games": []
         },
@@ -31280,10 +31382,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cc74683a-2fea-11f1-bf5f-52d63ee2a8d5",
+                "name": "Travesaños",
+                "seed": 119
             },
             "opponent2": {
-                "id": null
+                "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                "name": "TEAM HORIZON",
+                "seed": 42
             },
             "match_games": []
         },
