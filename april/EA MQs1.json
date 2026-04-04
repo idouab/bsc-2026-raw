@@ -21740,18 +21740,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
                 "name": "秋刀魚です",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
                 "name": "Sigma Boys",
-                "seed": 154
+                "seed": 154,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 492,
@@ -21760,18 +21795,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
                 "name": "Phantom Dream",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
                 "name": "누구때메 본계 챔쉽 실패",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 493,
@@ -21780,18 +21850,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "26981216-2b78-11f1-b4d0-56eb118d1a98",
                 "name": "DHI Esports",
-                "seed": 190
+                "seed": 190,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
                 "name": "F/A Team Korea",
-                "seed": 99
+                "seed": 99,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "26981216-2b78-11f1-b4d0-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "26981216-2b78-11f1-b4d0-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 494,
@@ -21800,7 +21905,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
                 "name": "Egoist",
