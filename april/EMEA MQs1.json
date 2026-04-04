@@ -89355,11 +89355,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6636434-2c38-11f1-bbdd-56eb118d1a98",
                 "name": "Northern Gold",
-                "seed": 845
+                "seed": 845,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "19313708-29f5-11f1-ad16-52998dd971f0",
@@ -119882,7 +119883,9 @@
                 "seed": 180
             },
             "opponent2": {
-                "id": null
+                "id": "19313708-29f5-11f1-ad16-52998dd971f0",
+                "name": "DSP",
+                "seed": 1204
             },
             "match_games": []
         },
