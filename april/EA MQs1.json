@@ -16786,18 +16786,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a983ef32-289f-11f1-9257-1662e184e72d",
                 "name": "りくるーとおじさん",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fece77ba-29c0-11f1-8f67-4e7878594238",
                 "name": "HistMaker",
-                "seed": 157
+                "seed": 157,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fece77ba-29c0-11f1-8f67-4e7878594238",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fece77ba-29c0-11f1-8f67-4e7878594238",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fece77ba-29c0-11f1-8f67-4e7878594238",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 404,
@@ -18996,10 +19046,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                "name": "りくるーとおじさん",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
+                "name": "akathinman",
+                "seed": 36
             },
             "match_games": []
         },
