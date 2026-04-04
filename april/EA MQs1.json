@@ -16266,18 +16266,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b9dc3c6e-29ed-11f1-868f-46a2b74fddf4",
                 "name": "パンパース履いて世界大会出場",
-                "seed": 217
+                "seed": 217,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "422da432-2ab0-11f1-8029-46a2b74fddf4",
                 "name": "Let Hwimori Cook",
-                "seed": 89
+                "seed": 89,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b9dc3c6e-29ed-11f1-868f-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "422da432-2ab0-11f1-8029-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "b9dc3c6e-29ed-11f1-868f-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "422da432-2ab0-11f1-8029-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 397,
