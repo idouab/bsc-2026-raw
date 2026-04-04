@@ -19848,18 +19848,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
                 "name": "じゅんぽESPORTS",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
                 "name": "モングラール建築",
-                "seed": 84
+                "seed": 84,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 461,
