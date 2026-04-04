@@ -26945,18 +26945,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc857928-28a0-11f1-aaea-1662e184e72d",
                 "name": "CJNG",
-                "seed": 52
+                "seed": 52,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
                 "name": "Noted+2",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cc857928-28a0-11f1-aaea-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cc857928-28a0-11f1-aaea-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "cc857928-28a0-11f1-aaea-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 407,
@@ -27636,18 +27686,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbf0aea6-28a0-11f1-ac02-1662e184e72d",
                 "name": "No Mercy Squad",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16978e04-2a61-11f1-bbe9-46a2b74fddf4",
                 "name": "Team HN",
-                "seed": 351
+                "seed": 351,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cbf0aea6-28a0-11f1-ac02-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16978e04-2a61-11f1-bbe9-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cbf0aea6-28a0-11f1-ac02-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16978e04-2a61-11f1-bbe9-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "cbf0aea6-28a0-11f1-ac02-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16978e04-2a61-11f1-bbe9-46a2b74fddf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 421,
@@ -29426,7 +29526,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
+                "name": "Noted+2",
+                "seed": 77
             },
             "match_games": []
         },
@@ -29558,7 +29660,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "cbf0aea6-28a0-11f1-ac02-1662e184e72d",
+                "name": "No Mercy Squad",
+                "seed": 34
             },
             "match_games": []
         },
