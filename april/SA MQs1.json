@@ -24575,18 +24575,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
                 "name": "TIER S",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e79cb16-2fc1-11f1-9a9f-c23854d8bca2",
                 "name": "Sacrile",
-                "seed": 145
+                "seed": 145,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3e79cb16-2fc1-11f1-9a9f-c23854d8bca2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e79cb16-2fc1-11f1-9a9f-c23854d8bca2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e79cb16-2fc1-11f1-9a9f-c23854d8bca2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 392,
@@ -26795,18 +26845,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
                 "name": "Ipatinga",
-                "seed": 214
+                "seed": 214,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
                 "name": "BetinhasBS",
-                "seed": 342
+                "seed": 342,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 449,
@@ -26865,7 +26965,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
+                "name": "TIER S",
+                "seed": 17
             },
             "opponent2": {
                 "id": null
