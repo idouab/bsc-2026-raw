@@ -41617,18 +41617,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f041c74-2fa0-11f1-8e72-4ecd99a3876c",
                 "name": "F/A Egirl",
-                "seed": 2048
+                "seed": 2048,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a3c9ae8-2b8f-11f1-a634-52998dd971f0",
                 "name": "GFL",
-                "seed": 2049
+                "seed": 2049,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8f041c74-2fa0-11f1-8e72-4ecd99a3876c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a3c9ae8-2b8f-11f1-a634-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "8f041c74-2fa0-11f1-8e72-4ecd99a3876c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a3c9ae8-2b8f-11f1-a634-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -66417,7 +66452,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4600b986-29e4-11f1-87f6-52998dd971f0",
                 "name": "Ruthless Syndicate",
@@ -66426,7 +66461,8 @@
             "opponent2": {
                 "id": "bf31a548-2b8f-11f1-9b38-56eb118d1a98",
                 "name": "Feuge Nation",
-                "seed": 2051
+                "seed": 2051,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -74733,7 +74769,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "8f041c74-2fa0-11f1-8e72-4ecd99a3876c",
+                "name": "F/A Egirl",
+                "seed": 2048
             },
             "match_games": []
         },
@@ -90059,7 +90097,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "4600b986-29e4-11f1-87f6-52998dd971f0",
+                "name": "Ruthless Syndicate",
+                "seed": 2046
             },
             "match_games": []
         },
