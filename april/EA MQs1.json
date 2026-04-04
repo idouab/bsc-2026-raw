@@ -19703,18 +19703,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0036b8f0-2a21-11f1-b191-56eb118d1a98",
                 "name": "We no lose",
-                "seed": 241
+                "seed": 241,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9ecbb8e-289f-11f1-956a-1662e184e72d",
                 "name": "SSH",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "0036b8f0-2a21-11f1-b191-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9ecbb8e-289f-11f1-956a-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "0036b8f0-2a21-11f1-b191-56eb118d1a98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a9ecbb8e-289f-11f1-956a-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 452,
@@ -19818,18 +19853,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d24ab6a8-2b74-11f1-8c33-56eb118d1a98",
                 "name": "チーム公認クリエイターズ",
-                "seed": 137
+                "seed": 137,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fd4954be-29e3-11f1-8678-46a2b74fddf4",
                 "name": "ドブラザーズ",
-                "seed": 201
+                "seed": 201,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "d24ab6a8-2b74-11f1-8c33-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fd4954be-29e3-11f1-8678-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "d24ab6a8-2b74-11f1-8c33-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fd4954be-29e3-11f1-8678-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 456,
@@ -20566,10 +20636,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9ecbb8e-289f-11f1-956a-1662e184e72d",
+                "name": "SSH",
+                "seed": 49
             },
             "opponent2": {
-                "id": null
+                "id": "0d20d3dc-2d98-11f1-b10c-825f661103e6",
+                "name": "マンケルビーム",
+                "seed": 112
             },
             "match_games": []
         },
@@ -20598,7 +20672,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d24ab6a8-2b74-11f1-8c33-56eb118d1a98",
+                "name": "チーム公認クリエイターズ",
+                "seed": 137
             },
             "opponent2": {
                 "id": null
