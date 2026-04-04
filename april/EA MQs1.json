@@ -9827,18 +9827,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1cccdaa8-2a6c-11f1-8ce8-46a2b74fddf4",
                 "name": "holydoragon",
-                "seed": 128
+                "seed": 128,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "69250052-2b56-11f1-a291-46a2b74fddf4",
                 "name": "立ちウン",
-                "seed": 129
+                "seed": 129,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1cccdaa8-2a6c-11f1-8ce8-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69250052-2b56-11f1-a291-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1cccdaa8-2a6c-11f1-8ce8-46a2b74fddf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "69250052-2b56-11f1-a291-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "1cccdaa8-2a6c-11f1-8ce8-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69250052-2b56-11f1-a291-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 259,
@@ -11182,18 +11232,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a922e804-289f-11f1-923b-1662e184e72d",
                 "name": "SEA SIDE MOTER",
-                "seed": 61
+                "seed": 61,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8b6a64ec-2b81-11f1-b2f8-56eb118d1a98",
                 "name": "ブロスタに夢中学校",
-                "seed": 196
+                "seed": 196,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a922e804-289f-11f1-923b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8b6a64ec-2b81-11f1-b2f8-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a922e804-289f-11f1-923b-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8b6a64ec-2b81-11f1-b2f8-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a922e804-289f-11f1-923b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8b6a64ec-2b81-11f1-b2f8-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 292,
@@ -15179,7 +15279,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "69250052-2b56-11f1-a291-46a2b74fddf4",
+                "name": "立ちウン",
+                "seed": 129
             },
             "match_games": []
         },
@@ -15480,7 +15582,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a922e804-289f-11f1-923b-1662e184e72d",
+                "name": "SEA SIDE MOTER",
+                "seed": 61
             },
             "opponent2": {
                 "id": null
