@@ -12837,18 +12837,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9b6b8d6-289f-11f1-938c-1662e184e72d",
                 "name": "助けが必要みたいだね",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
                 "name": "秋刀魚です",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9b6b8d6-289f-11f1-938c-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9b6b8d6-289f-11f1-938c-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a9b6b8d6-289f-11f1-938c-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 338,
@@ -13362,18 +13412,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8f5c05e-289f-11f1-8cee-1662e184e72d",
                 "name": "ゆめぱしー🤖",
-                "seed": 42
+                "seed": 42,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
                 "name": "いせうこともえう",
-                "seed": 215
+                "seed": 215,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8f5c05e-289f-11f1-8cee-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8f5c05e-289f-11f1-8cee-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 352,
@@ -13787,18 +13872,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9586e70-289f-11f1-9702-1662e184e72d",
                 "name": "デカチン高校尿道部",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e235b616-29ea-11f1-869d-46a2b74fddf4",
                 "name": "SKRYU🍅",
-                "seed": 211
+                "seed": 211,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9586e70-289f-11f1-9702-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e235b616-29ea-11f1-869d-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9586e70-289f-11f1-9702-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e235b616-29ea-11f1-869d-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 368,
@@ -15162,7 +15282,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                "name": "秋刀魚です",
+                "seed": 250
             },
             "opponent2": {
                 "id": null
@@ -15282,7 +15404,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
+                "name": "いせうこともえう",
+                "seed": 215
             },
             "opponent2": {
                 "id": null
@@ -15412,10 +15536,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9586e70-289f-11f1-9702-1662e184e72d",
+                "name": "デカチン高校尿道部",
+                "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                "name": "ケツデカ高校シリアナ部の意思を引き継いで",
+                "seed": 174
             },
             "match_games": []
         },
