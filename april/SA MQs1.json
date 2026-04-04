@@ -28319,18 +28319,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
                 "name": "SOLO",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
                 "name": "UNESC TEAM",
-                "seed": 421
+                "seed": 421,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 463,
