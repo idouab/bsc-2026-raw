@@ -12602,18 +12602,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
                 "name": "HOG",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "af183aa8-29e3-11f1-ba97-825f661103e6",
                 "name": "Dark Phoenix Knight",
-                "seed": 199
+                "seed": 199,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af183aa8-29e3-11f1-ba97-825f661103e6",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af183aa8-29e3-11f1-ba97-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 340,
@@ -12922,18 +12957,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1bfc8804-2c1e-11f1-924a-825f661103e6",
                 "name": "GGsobig",
-                "seed": 74
+                "seed": 74,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e7a32738-29da-11f1-b2cc-825f661103e6",
                 "name": "恐怖の一撃",
-                "seed": 183
+                "seed": 183,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1bfc8804-2c1e-11f1-924a-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e7a32738-29da-11f1-b2cc-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1bfc8804-2c1e-11f1-924a-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e7a32738-29da-11f1-b2cc-825f661103e6",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 349,
@@ -14827,10 +14897,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                "name": "HOG",
+                "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "a84bbda2-2b74-11f1-94d3-52998dd971f0",
+                "name": "チームレジェ止まり",
+                "seed": 186
             },
             "match_games": []
         },
