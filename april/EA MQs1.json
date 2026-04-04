@@ -12152,18 +12152,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
                 "name": "ケツデカ高校尻アナ部2026ver2.0",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "755ac08e-2adc-11f1-bd43-46a2b74fddf4",
                 "name": "EMA|BOZKURT",
-                "seed": 166
+                "seed": 166,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "755ac08e-2adc-11f1-bd43-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "755ac08e-2adc-11f1-bd43-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 377,
@@ -12272,18 +12307,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "1a16b010-2b14-11f1-80f9-825f661103e6",
                 "name": "ちくわの穴",
-                "seed": 107
+                "seed": 107,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5234b5d6-2aac-11f1-8ed5-52998dd971f0",
                 "name": "チーズ友達",
-                "seed": 150
+                "seed": 150,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1a16b010-2b14-11f1-80f9-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5234b5d6-2aac-11f1-8ed5-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1a16b010-2b14-11f1-80f9-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5234b5d6-2aac-11f1-8ed5-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 383,
