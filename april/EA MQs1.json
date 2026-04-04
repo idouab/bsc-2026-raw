@@ -13332,18 +13332,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8a02cf2-289f-11f1-b6ae-1662e184e72d",
                 "name": "やはべーず",
-                "seed": 39
+                "seed": 39,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "251ba2d0-2bfb-11f1-b4bb-56eb118d1a98",
                 "name": "Lucky Candy",
-                "seed": 218
+                "seed": 218,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8a02cf2-289f-11f1-b6ae-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "251ba2d0-2bfb-11f1-b4bb-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8a02cf2-289f-11f1-b6ae-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "251ba2d0-2bfb-11f1-b4bb-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8a02cf2-289f-11f1-b6ae-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "251ba2d0-2bfb-11f1-b4bb-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 344,
@@ -15711,10 +15761,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8a02cf2-289f-11f1-b6ae-1662e184e72d",
+                "name": "やはべーず",
+                "seed": 39
             },
             "opponent2": {
-                "id": null
+                "id": "8af54986-2b82-11f1-a776-56eb118d1a98",
+                "name": "流石に勘弁してくれ",
+                "seed": 90
             },
             "match_games": []
         },
