@@ -20168,18 +20168,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
                 "name": "すたんは小人図鑑",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a89450bc-289f-11f1-9726-1662e184e72d",
                 "name": "VALOR / BSInfo",
-                "seed": 37
+                "seed": 37,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a89450bc-289f-11f1-9726-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a89450bc-289f-11f1-9726-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 463,
@@ -20248,18 +20283,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
                 "name": "Luparel Esports",
-                "seed": 226
+                "seed": 226,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1250a870-2ac6-11f1-9afd-46a2b74fddf4",
                 "name": "Beat it",
-                "seed": 162
+                "seed": 162,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1250a870-2ac6-11f1-9afd-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1250a870-2ac6-11f1-9afd-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 467,
