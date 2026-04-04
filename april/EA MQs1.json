@@ -10447,18 +10447,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
                 "name": "モーティス絶対使わないです",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
                 "name": "高嶺の御影さん",
-                "seed": 260
+                "seed": 260,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 290,
@@ -12537,18 +12572,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a92fd014-289f-11f1-8704-1662e184e72d",
                 "name": "아랴양은 F, 국지영은 늘어진 AA",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7856dc08-2bec-11f1-acd4-52998dd971f0",
                 "name": "Phantom Esports",
-                "seed": 214
+                "seed": 214,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a92fd014-289f-11f1-8704-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7856dc08-2bec-11f1-acd4-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a92fd014-289f-11f1-8704-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7856dc08-2bec-11f1-acd4-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 384,
@@ -12835,7 +12905,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                "name": "モーティス絶対使わないです",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -13589,7 +13661,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a92fd014-289f-11f1-8704-1662e184e72d",
+                "name": "아랴양은 F, 국지영은 늘어진 AA",
+                "seed": 43
             },
             "opponent2": {
                 "id": null
