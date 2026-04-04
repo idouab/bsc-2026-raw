@@ -24837,11 +24837,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca4767b6-28a0-11f1-9f23-1662e184e72d",
                 "name": "Celestial Rebirth",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "5739b244-2bb9-11f1-867b-46a2b74fddf4",
@@ -25914,18 +25915,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
                 "name": "Cobra Jets",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9afc0a08-3024-11f1-b142-36317e755c2d",
                 "name": "Slimey Kingz 👑",
-                "seed": 129
+                "seed": 129,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9afc0a08-3024-11f1-b142-36317e755c2d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9afc0a08-3024-11f1-b142-36317e755c2d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 386,
@@ -26414,18 +26450,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca5b1d4c-28a0-11f1-8e63-1662e184e72d",
                 "name": "Team Sicilia",
-                "seed": 40
+                "seed": 40,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
                 "name": "SMS",
-                "seed": 345
+                "seed": 345,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ca5b1d4c-28a0-11f1-8e63-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ca5b1d4c-28a0-11f1-8e63-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 397,
@@ -26809,18 +26880,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbf3c988-28a0-11f1-adf8-1662e184e72d",
                 "name": "TRC",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
                 "name": "Gabagool Inspectors",
-                "seed": 148
+                "seed": 148,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cbf3c988-28a0-11f1-adf8-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cbf3c988-28a0-11f1-adf8-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 408,
@@ -27830,9 +27936,17 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
-            "opponent1": null,
-            "opponent2": null,
+            "status": 0,
+            "opponent1": {
+                "id": "5739b244-2bb9-11f1-867b-46a2b74fddf4",
+                "name": "LOS PRIMOS",
+                "seed": 270
+            },
+            "opponent2": {
+                "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                "name": "2026",
+                "seed": 398
+            },
             "match_games": []
         },
         {
@@ -28137,18 +28251,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
                 "name": "Pin winers",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "af9e51f4-2e18-11f1-8372-ce962af83489",
                 "name": "Overkill",
-                "seed": 166
+                "seed": 166,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af9e51f4-2e18-11f1-8372-ce962af83489",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af9e51f4-2e18-11f1-8372-ce962af83489",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 445,
@@ -28344,7 +28493,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
+                "name": "Cobra Jets",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -28441,7 +28592,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
+                "name": "SMS",
+                "seed": 345
             },
             "match_games": []
         },
@@ -28538,7 +28691,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
+                "name": "Gabagool Inspectors",
+                "seed": 148
             },
             "opponent2": {
                 "id": null
@@ -28861,7 +29016,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                "name": "Pin winers",
+                "seed": 38
             },
             "match_games": []
         },
