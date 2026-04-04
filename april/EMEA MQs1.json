@@ -92824,15 +92824,49 @@
             "opponent1": {
                 "id": "cf81e472-2ea9-11f1-938f-da012276e0c4",
                 "name": "Sofia West",
-                "seed": 668
+                "seed": 668,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c9e3751e-2a9c-11f1-b01c-56eb118d1a98",
                 "name": "TEAM",
                 "seed": 1381,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cf81e472-2ea9-11f1-938f-da012276e0c4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9e3751e-2a9c-11f1-b01c-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cf81e472-2ea9-11f1-938f-da012276e0c4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9e3751e-2a9c-11f1-b01c-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2481,
@@ -102351,18 +102385,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "46b7a81e-2a14-11f1-99ee-46a2b74fddf4",
                 "name": "OPTIMUS GANG",
-                "seed": 583
+                "seed": 583,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "475ee12e-29ba-11f1-afd4-fa6fd21736e7",
                 "name": "Sircugetina",
-                "seed": 1466
+                "seed": 1466,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "46b7a81e-2a14-11f1-99ee-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "475ee12e-29ba-11f1-afd4-fa6fd21736e7",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "46b7a81e-2a14-11f1-99ee-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "475ee12e-29ba-11f1-afd4-fa6fd21736e7",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2717,
@@ -123414,7 +123483,9 @@
                 "seed": 1607
             },
             "opponent2": {
-                "id": null
+                "id": "475ee12e-29ba-11f1-afd4-fa6fd21736e7",
+                "name": "Sircugetina",
+                "seed": 1466
             },
             "match_games": []
         },
