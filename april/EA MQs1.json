@@ -7963,18 +7963,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
                 "name": "秋刀魚です",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "63ad3606-2a63-11f1-b572-56eb118d1a98",
                 "name": "わらや",
-                "seed": 263
+                "seed": 263,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ad3606-2a63-11f1-b572-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ad3606-2a63-11f1-b572-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 163,
@@ -11090,7 +11125,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                "name": "秋刀魚です",
+                "seed": 250
             },
             "match_games": []
         },
