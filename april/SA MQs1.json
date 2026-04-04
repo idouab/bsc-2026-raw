@@ -24420,18 +24420,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f33aea6-28a0-11f1-9de3-1662e184e72d",
                 "name": "Game Life",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "24819090-2aa3-11f1-82b0-56eb118d1a98",
                 "name": "APS",
-                "seed": 385
+                "seed": 385,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7f33aea6-28a0-11f1-9de3-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "24819090-2aa3-11f1-82b0-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7f33aea6-28a0-11f1-9de3-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "24819090-2aa3-11f1-82b0-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 386,
@@ -24440,18 +24475,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8142b912-28a0-11f1-be79-1662e184e72d",
                 "name": "Dragon's",
-                "seed": 64
+                "seed": 64,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
                 "name": "W skills",
-                "seed": 192
+                "seed": 192,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8142b912-28a0-11f1-be79-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8142b912-28a0-11f1-be79-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 387,
@@ -24460,18 +24530,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cfbffc90-2bba-11f1-876a-56eb118d1a98",
                 "name": "Resenheiros F/A",
-                "seed": 288
+                "seed": 288,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
                 "name": "Agora Sim",
-                "seed": 416
+                "seed": 416,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cfbffc90-2bba-11f1-876a-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cfbffc90-2bba-11f1-876a-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 388,
@@ -24555,18 +24660,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e76a3710-2a3f-11f1-86c4-56eb118d1a98",
                 "name": "retired kless",
-                "seed": 305
+                "seed": 305,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1e146d68-2c88-11f1-b41e-46a2b74fddf4",
                 "name": "FEMBOY LOVERS",
-                "seed": 336
+                "seed": 336,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e76a3710-2a3f-11f1-86c4-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1e146d68-2c88-11f1-b41e-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "e76a3710-2a3f-11f1-86c4-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1e146d68-2c88-11f1-b41e-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 391,
@@ -25425,18 +25565,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
                 "name": "SOLO",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
                 "name": "Bs_fire",
-                "seed": 412
+                "seed": 412,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 412,
@@ -26655,18 +26830,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
                 "name": "FOFOQUEIROS BRAWL",
-                "seed": 198
+                "seed": 198,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "953185c6-29f3-11f1-a814-56eb118d1a98",
                 "name": "N1 EQUIPE",
-                "seed": 187
+                "seed": 187,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "953185c6-29f3-11f1-a814-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "953185c6-29f3-11f1-a814-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 443,
@@ -26917,10 +27127,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "24819090-2aa3-11f1-82b0-56eb118d1a98",
+                "name": "APS",
+                "seed": 385
             },
             "opponent2": {
-                "id": null
+                "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
+                "name": "W skills",
+                "seed": 192
             },
             "match_games": []
         },
@@ -26933,10 +27147,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                "name": "Agora Sim",
+                "seed": 416
             },
             "opponent2": {
-                "id": null
+                "id": "e30badc6-2a39-11f1-bab0-52998dd971f0",
+                "name": "DeepSea",
+                "seed": 289
             },
             "match_games": []
         },
@@ -27145,10 +27363,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f7623da-28a0-11f1-a99a-1662e184e72d",
+                "name": "SOLO",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                "name": "UNESC TEAM",
+                "seed": 421
             },
             "match_games": []
         },
@@ -27418,7 +27640,9 @@
                 "seed": 262
             },
             "opponent2": {
-                "id": null
+                "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                "name": "FOFOQUEIROS BRAWL",
+                "seed": 198
             },
             "match_games": []
         },
