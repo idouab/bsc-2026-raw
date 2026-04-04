@@ -5190,7 +5190,7 @@
                     "gamerTag": "#2UJCY8YL8"
                 },
                 {
-                    "name": "YE¦(ง'̀-'́)ง¦JI",
+                    "name": "BKR|Kayco 山羊",
                     "gamerTag": "#9JCVULLJ"
                 },
                 {
@@ -10190,18 +10190,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dd0965e-2afb-11f1-ac85-56eb118d1a98",
                 "name": "Brawlnies",
-                "seed": 232
+                "seed": 232,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3af0cfce-2a37-11f1-8c4f-56eb118d1a98",
                 "name": "JL-GAMING-",
-                "seed": 281
+                "seed": 281,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5dd0965e-2afb-11f1-ac85-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3af0cfce-2a37-11f1-8c4f-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "5dd0965e-2afb-11f1-ac85-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3af0cfce-2a37-11f1-8c4f-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5dd0965e-2afb-11f1-ac85-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3af0cfce-2a37-11f1-8c4f-56eb118d1a98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -18654,7 +18704,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "5dd0965e-2afb-11f1-ac85-56eb118d1a98",
+                "name": "Brawlnies",
+                "seed": 232
             },
             "match_games": []
         },
