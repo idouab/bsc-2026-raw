@@ -28229,18 +28229,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
                 "name": "The Vanguard",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3639074a-2af4-11f1-a427-825f661103e6",
                 "name": "qualquer coisa",
-                "seed": 89
+                "seed": 89,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 455,
@@ -28749,18 +28784,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
                 "name": "Con D. Oriano",
-                "seed": 226
+                "seed": 226,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3ea12c8c-2bbc-11f1-ae53-46a2b74fddf4",
                 "name": "darkfenix 🐦‍🔥",
-                "seed": 290
+                "seed": 290,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ea12c8c-2bbc-11f1-ae53-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ea12c8c-2bbc-11f1-ae53-46a2b74fddf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 467,
@@ -29014,18 +29084,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb3c7f3c-2afd-11f1-ba3a-52998dd971f0",
                 "name": "Garotas Boas D'Brawl",
-                "seed": 99
+                "seed": 99,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7ed4b93c-28a0-11f1-97f4-1662e184e72d",
                 "name": "LIGHTSINSHADOW",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fb3c7f3c-2afd-11f1-ba3a-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ed4b93c-28a0-11f1-97f4-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fb3c7f3c-2afd-11f1-ba3a-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ed4b93c-28a0-11f1-97f4-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 475,
@@ -29164,18 +29269,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
                 "name": "VELYON",
-                "seed": 155
+                "seed": 155,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "67169366-2caf-11f1-8f19-56eb118d1a98",
                 "name": "BRA BOSS PRIME",
-                "seed": 166
+                "seed": 166,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "67169366-2caf-11f1-8f19-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "67169366-2caf-11f1-8f19-56eb118d1a98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 479,
@@ -29406,7 +29546,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
+                "name": "Con D. Oriano",
+                "seed": 226
             },
             "match_games": []
         },
