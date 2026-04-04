@@ -13797,18 +13797,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "482c6572-2a7d-11f1-b439-46a2b74fddf4",
                 "name": "戦犯ヶ満出来内",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d50b7b86-2a8c-11f1-8ce2-46a2b74fddf4",
                 "name": "Scrowder aspe",
-                "seed": 138
+                "seed": 138,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "482c6572-2a7d-11f1-b439-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d50b7b86-2a8c-11f1-8ce2-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "482c6572-2a7d-11f1-b439-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d50b7b86-2a8c-11f1-8ce2-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 347,
@@ -14317,18 +14352,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a867de60-289f-11f1-8e41-1662e184e72d",
                 "name": "原神牛逼",
-                "seed": 35
+                "seed": 35,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00d5500e-2c0c-11f1-bbd4-52998dd971f0",
                 "name": "TEMPEST KNIGHTS",
-                "seed": 222
+                "seed": 222,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a867de60-289f-11f1-8e41-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00d5500e-2c0c-11f1-bbd4-52998dd971f0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a867de60-289f-11f1-8e41-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "00d5500e-2c0c-11f1-bbd4-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a867de60-289f-11f1-8e41-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00d5500e-2c0c-11f1-bbd4-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 360,
@@ -16168,7 +16253,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "d50b7b86-2a8c-11f1-8ce2-46a2b74fddf4",
+                "name": "Scrowder aspe",
+                "seed": 138
             },
             "match_games": []
         },
@@ -16285,7 +16372,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "00d5500e-2c0c-11f1-bbd4-52998dd971f0",
+                "name": "TEMPEST KNIGHTS",
+                "seed": 222
             },
             "opponent2": {
                 "id": null
