@@ -21474,18 +21474,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a894fad0-289f-11f1-99f7-1662e184e72d",
                 "name": "obaka",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "422da432-2ab0-11f1-8029-46a2b74fddf4",
                 "name": "Let Hwimori Cook",
-                "seed": 89
+                "seed": 89,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a894fad0-289f-11f1-99f7-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "422da432-2ab0-11f1-8029-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a894fad0-289f-11f1-99f7-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "422da432-2ab0-11f1-8029-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 484,
