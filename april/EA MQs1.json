@@ -11482,18 +11482,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9a756fc-289f-11f1-8244-1662e184e72d",
                 "name": "Percent%",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
                 "name": "Luparel Esports",
-                "seed": 226
+                "seed": 226,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9a756fc-289f-11f1-8244-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9a756fc-289f-11f1-8244-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 326,
@@ -12412,18 +12447,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "02fb7592-2aa5-11f1-88d8-56eb118d1a98",
                 "name": "ILSA",
-                "seed": 83
+                "seed": 83,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
                 "name": "ケツデカ高校シリアナ部の意思を引き継いで",
-                "seed": 174
+                "seed": 174,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "02fb7592-2aa5-11f1-88d8-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "02fb7592-2aa5-11f1-88d8-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 369,
@@ -13448,7 +13518,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4a00fe00-2c15-11f1-bd71-52998dd971f0",
+                "name": "Luparel Esports",
+                "seed": 226
             },
             "opponent2": {
                 "id": null
