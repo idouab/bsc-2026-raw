@@ -22060,18 +22060,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
                 "name": "Egoist",
-                "seed": 51
+                "seed": 51,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
                 "name": "ケツデカ高校シリアナ部の意思を引き継いで",
-                "seed": 174
+                "seed": 174,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 495,
