@@ -17231,18 +17231,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
                 "name": "秋刀魚です",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "29548554-2f4f-11f1-90f4-8e51c1e1396a",
                 "name": "Descendant",
-                "seed": 122
+                "seed": 122,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "29548554-2f4f-11f1-90f4-8e51c1e1396a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "29548554-2f4f-11f1-90f4-8e51c1e1396a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 426,
@@ -17371,18 +17406,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
                 "name": "いせうこともえう",
-                "seed": 215
+                "seed": 215,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
                 "name": "누구때메 본계 챔쉽 실패",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "774d7eb8-29ec-11f1-a450-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 433,
@@ -18362,7 +18432,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                "name": "秋刀魚です",
+                "seed": 250
             },
             "opponent2": {
                 "id": null
