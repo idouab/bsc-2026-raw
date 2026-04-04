@@ -17081,18 +17081,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7859626-29f2-11f1-8d46-46a2b74fddf4",
                 "name": "Night-T Raiders",
-                "seed": 227
+                "seed": 227,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
                 "name": "F/A Team Korea",
-                "seed": 99
+                "seed": 99,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c7859626-29f2-11f1-8d46-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "c7859626-29f2-11f1-8d46-46a2b74fddf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 436,
@@ -17141,18 +17176,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
                 "name": "Egoist",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
                 "name": "ぺったんこLOVE",
-                "seed": 179
+                "seed": 179,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 439,
@@ -17798,7 +17868,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "22ea0090-2ac2-11f1-90d6-825f661103e6",
+                "name": "F/A Team Korea",
+                "seed": 99
             },
             "opponent2": {
                 "id": null
