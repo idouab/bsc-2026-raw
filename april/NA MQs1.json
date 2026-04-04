@@ -19642,18 +19642,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7305c666-3041-11f1-87c5-8e51c1e1396a",
                 "name": "UND",
-                "seed": 448
+                "seed": 448,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
                 "name": "Pura Doble S",
-                "seed": 192
+                "seed": 192,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7305c666-3041-11f1-87c5-8e51c1e1396a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7305c666-3041-11f1-87c5-8e51c1e1396a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 261,
@@ -24832,7 +24867,9 @@
                 "seed": 449
             },
             "opponent2": {
-                "id": null
+                "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                "name": "Pura Doble S",
+                "seed": 192
             },
             "match_games": []
         },
