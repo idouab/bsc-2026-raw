@@ -9942,18 +9942,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "8209e6e2-2abf-11f1-b99a-56eb118d1a98",
                 "name": "あんていく　ネパール支部",
-                "seed": 97
+                "seed": 97,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a31fe958-2abf-11f1-85f4-46a2b74fddf4",
                 "name": "bribri",
-                "seed": 160
+                "seed": 160,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8209e6e2-2abf-11f1-b99a-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a31fe958-2abf-11f1-85f4-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8209e6e2-2abf-11f1-b99a-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a31fe958-2abf-11f1-85f4-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 263,
@@ -11562,18 +11597,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
                 "name": "もりりこ",
-                "seed": 127
+                "seed": 127,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db96ab70-2a72-11f1-987a-825f661103e6",
                 "name": "OG",
-                "seed": 130
+                "seed": 130,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db96ab70-2a72-11f1-987a-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db96ab70-2a72-11f1-987a-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 323,
@@ -12162,18 +12232,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
                 "name": "Phantom Dream",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8be9a31c-2a49-11f1-b851-56eb118d1a98",
                 "name": "かもめ",
-                "seed": 247
+                "seed": 247,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8be9a31c-2a49-11f1-b851-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8be9a31c-2a49-11f1-b851-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 346,
@@ -13318,7 +13423,9 @@
                 "seed": 225
             },
             "opponent2": {
-                "id": null
+                "id": "8209e6e2-2abf-11f1-b99a-56eb118d1a98",
+                "name": "あんていく　ネパール支部",
+                "seed": 97
             },
             "match_games": []
         },
@@ -14003,7 +14110,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
+                "name": "Phantom Dream",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
