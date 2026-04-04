@@ -24785,18 +24785,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
                 "name": "ZIKA",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "200e4fd0-2fee-11f1-8e72-e2b383c16879",
                 "name": "Waffleros2.0",
-                "seed": 432
+                "seed": 432,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "200e4fd0-2fee-11f1-8e72-e2b383c16879",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "200e4fd0-2fee-11f1-8e72-e2b383c16879",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "200e4fd0-2fee-11f1-8e72-e2b383c16879",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -24825,18 +24875,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
                 "name": "The Dragóns ϟ",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
                 "name": "Magnética",
-                "seed": 328
+                "seed": 328,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 395,
@@ -24845,18 +24930,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
                 "name": "The Vanguard",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9841d238-2abc-11f1-be9a-46a2b74fddf4",
                 "name": "Malásiaticos 🇧🇷",
-                "seed": 409
+                "seed": 409,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9841d238-2abc-11f1-be9a-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9841d238-2abc-11f1-be9a-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 396,
@@ -26205,18 +26325,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0e644e88-3020-11f1-b20b-960391e4af41",
                 "name": "Union",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ef7acd36-2b87-11f1-9cd6-825f661103e6",
                 "name": "☫《NIGHTMARE》☫",
-                "seed": 82
+                "seed": 82,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0e644e88-3020-11f1-b20b-960391e4af41",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ef7acd36-2b87-11f1-9cd6-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0e644e88-3020-11f1-b20b-960391e4af41",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef7acd36-2b87-11f1-9cd6-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "0e644e88-3020-11f1-b20b-960391e4af41",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef7acd36-2b87-11f1-9cd6-825f661103e6",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 425,
@@ -27085,18 +27255,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
                 "name": "brawlcervo",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e6558eca-2be2-11f1-8fb7-46a2b74fddf4",
                 "name": "Sanfronix  Sport",
-                "seed": 150
+                "seed": 150,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6558eca-2be2-11f1-8fb7-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6558eca-2be2-11f1-8fb7-46a2b74fddf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 448,
@@ -27238,7 +27443,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                "name": "ZIKA",
+                "seed": 48
             },
             "match_games": []
         },
@@ -27267,10 +27474,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "80f2715a-28a0-11f1-a278-1662e184e72d",
+                "name": "The Vanguard",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                "name": "qualquer coisa",
+                "seed": 89
             },
             "match_games": []
         },
@@ -27532,7 +27743,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "0e644e88-3020-11f1-b20b-960391e4af41",
+                "name": "Union",
+                "seed": 210
             },
             "match_games": []
         },
@@ -27743,10 +27956,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                "name": "brawlcervo",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                "name": "Ipatinga",
+                "seed": 214
             },
             "match_games": []
         },
