@@ -16756,18 +16756,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
                 "name": "スーパーウルトラミラクル激強チーム",
-                "seed": 255
+                "seed": 255,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
                 "name": "もりりこ",
-                "seed": 127
+                "seed": 127,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 418,
@@ -17831,7 +17866,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                "name": "もりりこ",
+                "seed": 127
             },
             "opponent2": {
                 "id": null
