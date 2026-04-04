@@ -3766,7 +3766,7 @@
             "name": "Prestige🏆🔥",
             "players": [
                 {
-                    "name": "Dark Angel🌖",
+                    "name": "ᴘʀ|ᴄᴏʀʀᴜᴘᴛᴇᴅ ㍿",
                     "gamerTag": "#RPPLCG0Q2"
                 },
                 {
@@ -9830,7 +9830,7 @@
                     "gamerTag": "#9UUQLCRVU"
                 },
                 {
-                    "name": "Girls Call Me",
+                    "name": "EOS|Jam",
                     "gamerTag": "#Y0GCGUJC8"
                 },
                 {
@@ -68610,18 +68610,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "358a3b64-2b8c-11f1-8567-825f661103e6",
                 "name": "LSA|GAMING",
-                "seed": 2035
+                "seed": 2035,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "528e8484-29e5-11f1-9914-46a2b74fddf4",
                 "name": "Next Dimension",
-                "seed": 2062
+                "seed": 2062,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "358a3b64-2b8c-11f1-8567-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "528e8484-29e5-11f1-9914-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "358a3b64-2b8c-11f1-8567-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "528e8484-29e5-11f1-9914-46a2b74fddf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1667,
@@ -91488,7 +91523,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "358a3b64-2b8c-11f1-8567-825f661103e6",
+                "name": "LSA|GAMING",
+                "seed": 2035
             },
             "match_games": []
         },
