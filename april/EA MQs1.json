@@ -19628,7 +19628,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9a4f5ba-289f-11f1-b52e-1662e184e72d",
                 "name": "White rice",
@@ -19637,7 +19637,8 @@
             "opponent2": {
                 "id": "8c3fa2ee-29e0-11f1-835c-52998dd971f0",
                 "name": "お摂津陸上競技部",
-                "seed": 193
+                "seed": 193,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -20878,7 +20879,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
                 "name": "Phantom Dream",
@@ -20887,7 +20888,8 @@
             "opponent2": {
                 "id": "1bfc8804-2c1e-11f1-924a-825f661103e6",
                 "name": "GGsobig",
-                "seed": 74
+                "seed": 74,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -21395,10 +21397,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9a4f5ba-289f-11f1-b52e-1662e184e72d",
+                "name": "White rice",
+                "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "a9e12274-289f-11f1-9112-1662e184e72d",
+                "name": "熱情のスペクトラム",
+                "seed": 33
             },
             "match_games": []
         },
@@ -21611,10 +21617,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8d6b60a-289f-11f1-b69f-1662e184e72d",
+                "name": "Phantom Dream",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                "name": "누구때메 본계 챔쉽 실패",
+                "seed": 170
             },
             "match_games": []
         },
