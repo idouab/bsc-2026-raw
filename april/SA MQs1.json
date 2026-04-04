@@ -25555,18 +25555,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f284142-28a0-11f1-9870-1662e184e72d",
                 "name": "OTX E-ports",
-                "seed": 36
+                "seed": 36,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
                 "name": "Team Return🌀²",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7f284142-28a0-11f1-9870-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7f284142-28a0-11f1-9870-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "7f284142-28a0-11f1-9870-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 405,
@@ -27785,16 +27835,18 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
                 "name": "Ipatinga",
-                "seed": 214
+                "seed": 214,
+                "score": 1
             },
             "opponent2": {
                 "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
                 "name": "BetinhasBS",
-                "seed": 342
+                "seed": 342,
+                "score": 1
             },
             "match_games": []
         },
@@ -27992,7 +28044,9 @@
                 "seed": 285
             },
             "opponent2": {
-                "id": null
+                "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                "name": "Team Return🌀²",
+                "seed": 93
             },
             "match_games": []
         },
@@ -28412,7 +28466,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                "name": "Ipatinga",
+                "seed": 214
             },
             "match_games": []
         },
