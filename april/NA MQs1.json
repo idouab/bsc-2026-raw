@@ -30917,18 +30917,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
                 "name": "MaskedBees",
-                "seed": 286
+                "seed": 286,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cc5d1b22-28a0-11f1-864d-1662e184e72d",
                 "name": "Dragon Empire",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc5d1b22-28a0-11f1-864d-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc5d1b22-28a0-11f1-864d-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc5d1b22-28a0-11f1-864d-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 475,
@@ -31544,7 +31594,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "cc5d1b22-28a0-11f1-864d-1662e184e72d",
+                "name": "Dragon Empire",
+                "seed": 35
             },
             "match_games": []
         },
