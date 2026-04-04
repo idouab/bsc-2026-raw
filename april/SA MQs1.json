@@ -9588,18 +9588,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d38dd8fc-2dee-11f1-a548-3a307108515a",
                 "name": "The Moons",
-                "seed": 121
+                "seed": 121,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5f6b8a84-2eb9-11f1-85ca-3291caf45441",
                 "name": "LRP",
-                "seed": 392
+                "seed": 392,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "d38dd8fc-2dee-11f1-a548-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f6b8a84-2eb9-11f1-85ca-3291caf45441",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d38dd8fc-2dee-11f1-a548-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f6b8a84-2eb9-11f1-85ca-3291caf45441",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -9608,18 +9643,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
                 "name": "WINX 🧚‍♀️",
-                "seed": 136
+                "seed": 136,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa6b071c-2a7c-11f1-8166-56eb118d1a98",
                 "name": "KINGS SIU",
-                "seed": 377
+                "seed": 377,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa6b071c-2a7c-11f1-8166-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa6b071c-2a7c-11f1-8166-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -9680,18 +9750,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b9192ce0-29ef-11f1-8fb3-46a2b74fddf4",
                 "name": "Los tilines",
-                "seed": 185
+                "seed": 185,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
                 "name": "Magnética",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b9192ce0-29ef-11f1-8fb3-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b9192ce0-29ef-11f1-8fb3-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -10531,18 +10636,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "74b287ac-2cad-11f1-8a98-56eb118d1a98",
                 "name": "LJD Force",
-                "seed": 157
+                "seed": 157,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "109d8388-2d26-11f1-8422-56eb118d1a98",
                 "name": "NLK",
-                "seed": 356
+                "seed": 356,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "74b287ac-2cad-11f1-8a98-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "109d8388-2d26-11f1-8422-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "74b287ac-2cad-11f1-8a98-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "109d8388-2d26-11f1-8422-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 77,
@@ -10678,18 +10818,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8794c5d4-2b12-11f1-8c55-46a2b74fddf4",
                 "name": "RAZE Gaming",
-                "seed": 244
+                "seed": 244,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "612fe78a-2a30-11f1-b777-825f661103e6",
                 "name": "Absolute Cinema😜",
-                "seed": 269
+                "seed": 269,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8794c5d4-2b12-11f1-8c55-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "612fe78a-2a30-11f1-b777-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "8794c5d4-2b12-11f1-8c55-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "612fe78a-2a30-11f1-b777-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 83,
@@ -11220,18 +11395,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f2dff018-2b06-11f1-bfe0-825f661103e6",
                 "name": "HAZING",
-                "seed": 101
+                "seed": 101,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
                 "name": "Bs_fire",
-                "seed": 412
+                "seed": 412,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f2dff018-2b06-11f1-bfe0-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f2dff018-2b06-11f1-bfe0-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 108,
@@ -11296,18 +11506,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "47971378-2bd6-11f1-9ae1-46a2b74fddf4",
                 "name": "FAITH.gg",
-                "seed": 92
+                "seed": 92,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
                 "name": "UNESC TEAM",
-                "seed": 421
+                "seed": 421,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "47971378-2bd6-11f1-9ae1-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "47971378-2bd6-11f1-9ae1-46a2b74fddf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 112,
@@ -11427,18 +11672,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "99537438-2bc5-11f1-9bfb-46a2b74fddf4",
                 "name": "Builders Club",
-                "seed": 140
+                "seed": 140,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
                 "name": "F/A Division",
-                "seed": 373
+                "seed": 373,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "99537438-2bc5-11f1-9bfb-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "99537438-2bc5-11f1-9bfb-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 117,
@@ -12477,18 +12757,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c3b7bf20-2eb0-11f1-98d9-223d2e1b2bec",
                 "name": ":vvvvv",
-                "seed": 186
+                "seed": 186,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9752479a-2a49-11f1-b62a-46a2b74fddf4",
                 "name": "Lovetilin67",
-                "seed": 327
+                "seed": 327,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c3b7bf20-2eb0-11f1-98d9-223d2e1b2bec",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9752479a-2a49-11f1-b62a-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c3b7bf20-2eb0-11f1-98d9-223d2e1b2bec",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9752479a-2a49-11f1-b62a-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 169,
@@ -13707,18 +14022,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ee21fe48-2a09-11f1-80c3-46a2b74fddf4",
                 "name": "TS | Squeak",
-                "seed": 211
+                "seed": 211,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "82999e1e-2bcc-11f1-b928-825f661103e6",
                 "name": "Los reales",
-                "seed": 302
+                "seed": 302,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ee21fe48-2a09-11f1-80c3-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82999e1e-2bcc-11f1-b928-825f661103e6",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ee21fe48-2a09-11f1-80c3-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82999e1e-2bcc-11f1-b928-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 223,
@@ -14776,10 +15126,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d38dd8fc-2dee-11f1-a548-3a307108515a",
+                "name": "The Moons",
+                "seed": 121
             },
             "opponent2": {
-                "id": null
+                "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
+                "name": "WINX 🧚‍♀️",
+                "seed": 136
             },
             "match_games": []
         },
@@ -14815,7 +15169,9 @@
                 "seed": 72
             },
             "opponent2": {
-                "id": null
+                "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                "name": "Magnética",
+                "seed": 328
             },
             "match_games": []
         },
@@ -15187,7 +15543,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "8794c5d4-2b12-11f1-8c55-46a2b74fddf4",
+                "name": "RAZE Gaming",
+                "seed": 244
             },
             "match_games": []
         },
@@ -15410,7 +15768,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b7f5cf0-2f9f-11f1-8d2b-d67f5027bdf5",
+                "name": "Bs_fire",
+                "seed": 412
             },
             "opponent2": {
                 "id": null
@@ -15444,7 +15804,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                "name": "UNESC TEAM",
+                "seed": 421
             },
             "opponent2": {
                 "id": null
@@ -15483,7 +15845,9 @@
                 "seed": 396
             },
             "opponent2": {
-                "id": null
+                "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
+                "name": "F/A Division",
+                "seed": 373
             },
             "match_games": []
         },
@@ -15933,7 +16297,9 @@
                 "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "c3b7bf20-2eb0-11f1-98d9-223d2e1b2bec",
+                "name": ":vvvvv",
+                "seed": 186
             },
             "match_games": []
         },
@@ -16407,7 +16773,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "ee21fe48-2a09-11f1-80c3-46a2b74fddf4",
+                "name": "TS | Squeak",
+                "seed": 211
             },
             "match_games": []
         },
@@ -16562,7 +16930,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2455e1b8-2afb-11f1-ba4b-56eb118d1a98",
+                "name": "™|Zero",
+                "seed": 91
             },
             "opponent2": {
                 "id": null
