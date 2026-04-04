@@ -28569,16 +28569,20 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "430021ae-2a39-11f1-8358-56eb118d1a98",
                 "name": "PCD SPORTS",
-                "seed": 285
+                "seed": 285,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
                 "name": "Team Return🌀²",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
             "match_games": []
         },
@@ -29897,7 +29901,9 @@
                 "seed": 189
             },
             "opponent2": {
-                "id": null
+                "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                "name": "Team Return🌀²",
+                "seed": 93
             },
             "match_games": []
         },
