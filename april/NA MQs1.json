@@ -17689,18 +17689,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c85d3592-2bda-11f1-9ecb-56eb118d1a98",
                 "name": "Ethan’s Cheeze",
-                "seed": 134
+                "seed": 134,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ff74d43c-2ab2-11f1-8c7c-56eb118d1a98",
                 "name": "🌙Cursed Eclipse🌙",
-                "seed": 379
+                "seed": 379,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c85d3592-2bda-11f1-9ecb-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff74d43c-2ab2-11f1-8c7c-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c85d3592-2bda-11f1-9ecb-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff74d43c-2ab2-11f1-8c7c-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c85d3592-2bda-11f1-9ecb-56eb118d1a98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ff74d43c-2ab2-11f1-8c7c-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 229,
@@ -18237,18 +18287,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90019e9e-2b4a-11f1-a285-56eb118d1a98",
                 "name": "Grigoland",
-                "seed": 118
+                "seed": 118,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a18d3220-2aca-11f1-bf86-52998dd971f0",
                 "name": "Richard Labocetta",
-                "seed": 395
+                "seed": 395,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "90019e9e-2b4a-11f1-a285-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a18d3220-2aca-11f1-bf86-52998dd971f0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "90019e9e-2b4a-11f1-a285-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a18d3220-2aca-11f1-bf86-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "90019e9e-2b4a-11f1-a285-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a18d3220-2aca-11f1-bf86-52998dd971f0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 244,
@@ -20885,7 +20985,9 @@
                 "seed": 390
             },
             "opponent2": {
-                "id": null
+                "id": "ff74d43c-2ab2-11f1-8c7c-56eb118d1a98",
+                "name": "🌙Cursed Eclipse🌙",
+                "seed": 379
             },
             "match_games": []
         },
@@ -21028,7 +21130,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "90019e9e-2b4a-11f1-a285-56eb118d1a98",
+                "name": "Grigoland",
+                "seed": 118
             },
             "opponent2": {
                 "id": null
