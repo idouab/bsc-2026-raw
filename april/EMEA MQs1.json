@@ -43704,18 +43704,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58dcc268-2b8b-11f1-bcea-52998dd971f0",
                 "name": "SLH Talents",
-                "seed": 2033
+                "seed": 2033,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e99d130-2ff9-11f1-b925-5a8a9b093920",
                 "name": "FTA/Esport",
-                "seed": 2064
+                "seed": 2064,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "58dcc268-2b8b-11f1-bcea-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e99d130-2ff9-11f1-b925-5a8a9b093920",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "58dcc268-2b8b-11f1-bcea-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e99d130-2ff9-11f1-b925-5a8a9b093920",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -61312,18 +61347,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7e255d38-2b8a-11f1-8931-52998dd971f0",
                 "name": "GK Gaming",
-                "seed": 2031
+                "seed": 2031,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a509890c-29e5-11f1-8179-825f661103e6",
                 "name": "The Notes",
-                "seed": 2066
+                "seed": 2066,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7e255d38-2b8a-11f1-8931-52998dd971f0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a509890c-29e5-11f1-8179-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "7e255d38-2b8a-11f1-8931-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a509890c-29e5-11f1-8179-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1219,
@@ -76049,7 +76119,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "58dcc268-2b8b-11f1-bcea-52998dd971f0",
+                "name": "SLH Talents",
+                "seed": 2033
             },
             "match_games": []
         },
@@ -86907,7 +86979,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "a509890c-29e5-11f1-8179-825f661103e6",
+                "name": "The Notes",
+                "seed": 2066
             },
             "match_games": []
         },
