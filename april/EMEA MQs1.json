@@ -96099,15 +96099,49 @@
             "opponent1": {
                 "id": "5b20f314-2a14-11f1-a57b-52998dd971f0",
                 "name": "VNM|Esports",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "196d89ae-2c3b-11f1-a9d1-56eb118d1a98",
                 "name": "MDL",
                 "seed": 1708,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5b20f314-2a14-11f1-a57b-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "196d89ae-2c3b-11f1-a9d1-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5b20f314-2a14-11f1-a57b-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "196d89ae-2c3b-11f1-a9d1-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2560,
