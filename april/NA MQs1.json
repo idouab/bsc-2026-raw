@@ -10165,18 +10165,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67665bd4-2b39-11f1-ad39-825f661103e6",
                 "name": "Reign",
-                "seed": 248
+                "seed": 248,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db189cc4-2a2e-11f1-8830-52998dd971f0",
                 "name": "team biricchini",
-                "seed": 265
+                "seed": 265,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "67665bd4-2b39-11f1-ad39-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db189cc4-2a2e-11f1-8830-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "67665bd4-2b39-11f1-ad39-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db189cc4-2a2e-11f1-8830-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 51,
@@ -10448,18 +10483,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
                 "name": "LB|Esports",
-                "seed": 88
+                "seed": 88,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1953eb58-2ae6-11f1-9bd8-56eb118d1a98",
                 "name": "BIBIFricotin",
-                "seed": 425
+                "seed": 425,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1953eb58-2ae6-11f1-9bd8-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1953eb58-2ae6-11f1-9bd8-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 64,
@@ -14713,7 +14783,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "67665bd4-2b39-11f1-ad39-825f661103e6",
+                "name": "Reign",
+                "seed": 248
             },
             "match_games": []
         },
@@ -14830,7 +14902,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
+                "name": "LB|Esports",
+                "seed": 88
             },
             "opponent2": {
                 "id": null
