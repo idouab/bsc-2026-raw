@@ -21579,18 +21579,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
                 "name": "ボリビア国際空港",
-                "seed": 50
+                "seed": 50,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
                 "name": "No pro",
-                "seed": 175
+                "seed": 175,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
