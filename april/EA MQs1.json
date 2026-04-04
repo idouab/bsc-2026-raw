@@ -20753,18 +20753,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
                 "name": "無職透明",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e9388cc-2b65-11f1-8a65-46a2b74fddf4",
                 "name": "PSS ACADEMY",
-                "seed": 182
+                "seed": 182,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e9388cc-2b65-11f1-8a65-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e9388cc-2b65-11f1-8a65-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 480,
@@ -21092,10 +21127,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
+                "name": "無職透明",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "5234b5d6-2aac-11f1-8ed5-52998dd971f0",
+                "name": "チーズ友達",
+                "seed": 150
             },
             "match_games": []
         }
