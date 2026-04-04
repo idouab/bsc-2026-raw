@@ -6491,14 +6491,48 @@
                 "id": "3833d836-2a59-11f1-bcaf-825f661103e6",
                 "name": "NSS",
                 "seed": 253,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
                 "name": "高嶺の御影さん",
-                "seed": 260
+                "seed": 260,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3833d836-2a59-11f1-bcaf-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3833d836-2a59-11f1-bcaf-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 67,
