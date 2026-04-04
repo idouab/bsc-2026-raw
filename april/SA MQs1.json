@@ -19696,18 +19696,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "801887a6-28a0-11f1-954f-1662e184e72d",
                 "name": "Necro",
-                "seed": 56
+                "seed": 56,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "638c9680-2a04-11f1-a020-46a2b74fddf4",
                 "name": "Tudo pela resenha",
-                "seed": 201
+                "seed": 201,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "801887a6-28a0-11f1-954f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "638c9680-2a04-11f1-a020-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "801887a6-28a0-11f1-954f-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "638c9680-2a04-11f1-a020-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "801887a6-28a0-11f1-954f-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "638c9680-2a04-11f1-a020-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 284,
@@ -24632,10 +24682,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "638c9680-2a04-11f1-a020-46a2b74fddf4",
+                "name": "Tudo pela resenha",
+                "seed": 201
             },
             "opponent2": {
-                "id": null
+                "id": "713f8bee-2e3b-11f1-b3e6-ea723bbfd523",
+                "name": "TRUMP",
+                "seed": 184
             },
             "match_games": []
         },
