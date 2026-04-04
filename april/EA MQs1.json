@@ -10352,18 +10352,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a8725fac-289f-11f1-93bd-1662e184e72d",
                 "name": "YeahBunFun",
-                "seed": 81
+                "seed": 81,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1cdfc372-2b50-11f1-ab7b-825f661103e6",
                 "name": "SK",
-                "seed": 176
+                "seed": 176,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8725fac-289f-11f1-93bd-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cdfc372-2b50-11f1-ab7b-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8725fac-289f-11f1-93bd-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cdfc372-2b50-11f1-ab7b-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 273,
@@ -11767,18 +11802,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
                 "name": "🧚‍♀️",
-                "seed": 85
+                "seed": 85,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f2598ec4-2b38-11f1-a9ee-46a2b74fddf4",
                 "name": "Kskbl",
-                "seed": 172
+                "seed": 172,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f2598ec4-2b38-11f1-a9ee-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f2598ec4-2b38-11f1-a9ee-46a2b74fddf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 321,
@@ -12977,7 +13047,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
                 "name": "Egoist",
