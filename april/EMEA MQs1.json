@@ -17130,7 +17130,7 @@
                     "gamerTag": "#P8YVCQQYV"
                 },
                 {
-                    "name": "dfgoook 🔨",
+                    "name": "smNq | dfgoook",
                     "gamerTag": "#PRCR0GYQ0"
                 },
                 {
@@ -46859,18 +46859,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae9826d0-2f90-11f1-a41b-5a8a9b093920",
                 "name": "Lunatix eSports",
-                "seed": 2024
+                "seed": 2024,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa3290a0-2b97-11f1-b778-46a2b74fddf4",
                 "name": "DINASTY",
-                "seed": 2073
+                "seed": 2073,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ae9826d0-2f90-11f1-a41b-5a8a9b093920",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa3290a0-2b97-11f1-b778-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ae9826d0-2f90-11f1-a41b-5a8a9b093920",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "aa3290a0-2b97-11f1-b778-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ae9826d0-2f90-11f1-a41b-5a8a9b093920",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa3290a0-2b97-11f1-b778-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 323,
@@ -78322,7 +78372,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "aa3290a0-2b97-11f1-b778-46a2b74fddf4",
+                "name": "DINASTY",
+                "seed": 2073
             },
             "match_games": []
         },
