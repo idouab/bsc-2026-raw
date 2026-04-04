@@ -25994,18 +25994,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca7d0894-28a0-11f1-b499-1662e184e72d",
                 "name": "aminos",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
                 "name": "🐐🪷🦁",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ca7d0894-28a0-11f1-b499-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ca7d0894-28a0-11f1-b499-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 390,
@@ -26474,18 +26509,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
                 "name": "Washed Uncs",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4208c808-2bf8-11f1-85c9-46a2b74fddf4",
                 "name": "¿lag legends?",
-                "seed": 140
+                "seed": 140,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4208c808-2bf8-11f1-85c9-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4208c808-2bf8-11f1-85c9-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 414,
@@ -26714,18 +26784,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
                 "name": "Overlooked Ent.",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9d4ea5a0-2ac4-11f1-8754-825f661103e6",
                 "name": "Brawlcolicos",
-                "seed": 391
+                "seed": 391,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d4ea5a0-2ac4-11f1-8754-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d4ea5a0-2ac4-11f1-8754-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 426,
@@ -27220,7 +27325,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                "name": "🐐🪷🦁",
+                "seed": 113
             },
             "opponent2": {
                 "id": null
@@ -27412,7 +27519,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                "name": "Washed Uncs",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -27508,7 +27617,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
+                "name": "Overlooked Ent.",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
