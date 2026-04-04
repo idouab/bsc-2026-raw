@@ -29618,18 +29618,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
                 "name": "Cobra Jets",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
                 "name": "Pura Doble S",
-                "seed": 192
+                "seed": 192,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "ca6a7792-28a0-11f1-b6a5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 450,
@@ -30109,18 +30144,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
                 "name": "Washed Uncs",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
                 "name": "No Tacos but Rice",
-                "seed": 437
+                "seed": 437,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 464,
@@ -30245,18 +30315,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caa95444-28a0-11f1-806f-1662e184e72d",
                 "name": "Verse",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
                 "name": "ASN 🥷",
-                "seed": 210
+                "seed": 210,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "caa95444-28a0-11f1-806f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "caa95444-28a0-11f1-806f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 469,
@@ -30265,18 +30370,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
                 "name": "Overlooked Ent.",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "38354d86-2c81-11f1-8658-56eb118d1a98",
                 "name": "Love&Hatred",
-                "seed": 314
+                "seed": 314,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38354d86-2c81-11f1-8658-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38354d86-2c81-11f1-8658-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 470,
@@ -30648,10 +30788,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                "name": "Pura Doble S",
+                "seed": 192
             },
             "opponent2": {
-                "id": null
+                "id": "62067366-2be5-11f1-8e5c-825f661103e6",
+                "name": "MX TEAM",
+                "seed": 96
             },
             "match_games": []
         },
@@ -30772,7 +30916,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                "name": "Washed Uncs",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -30824,10 +30970,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbcc72fc-28a0-11f1-a8c1-1662e184e72d",
+                "name": "Overlooked Ent.",
+                "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "82ea7fec-2a68-11f1-af8f-825f661103e6",
+                "name": "SNG|Supernova Gaze",
+                "seed": 359
             },
             "match_games": []
         },
