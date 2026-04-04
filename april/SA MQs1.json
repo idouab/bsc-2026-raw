@@ -27944,15 +27944,63 @@
                 "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
                 "name": "Ipatinga",
                 "seed": 214,
-                "score": 1
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
                 "name": "BetinhasBS",
                 "seed": 342,
-                "score": 1
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 449,
@@ -28586,9 +28634,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": "55f3339c-2add-11f1-b892-46a2b74fddf4",
-                "name": "Ipatinga",
-                "seed": 214
+                "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                "name": "BetinhasBS",
+                "seed": 342
             },
             "match_games": []
         },
