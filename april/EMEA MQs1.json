@@ -12330,7 +12330,7 @@
                     "gamerTag": "#28QGUGJ8R"
                 },
                 {
-                    "name": "Unfair Game.",
+                    "name": "Jakub Kamiński",
                     "gamerTag": "#2JRUC2UUC"
                 },
                 {
@@ -70828,18 +70828,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1f09eb44-2b8e-11f1-8707-56eb118d1a98",
                 "name": "Gandon United",
-                "seed": 2043
+                "seed": 2043,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "10bfae48-29e5-11f1-8ade-46a2b74fddf4",
                 "name": "TTL|ČEŠI",
-                "seed": 2054
+                "seed": 2054,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1f09eb44-2b8e-11f1-8707-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10bfae48-29e5-11f1-8ade-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1f09eb44-2b8e-11f1-8707-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "10bfae48-29e5-11f1-8ade-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1f09eb44-2b8e-11f1-8707-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10bfae48-29e5-11f1-8ade-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1795,
@@ -92914,7 +92964,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "1f09eb44-2b8e-11f1-8707-56eb118d1a98",
+                "name": "Gandon United",
+                "seed": 2043
             },
             "match_games": []
         },
