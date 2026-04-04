@@ -5379,11 +5379,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95cb02b8-2efe-11f1-a60c-da012276e0c4",
                 "name": "YN|Esports",
-                "seed": 256
+                "seed": 256,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "8019593a-2a5b-11f1-8d18-52998dd971f0",
@@ -7001,11 +7002,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b2dcb788-2e8c-11f1-88b6-1e2a4f185035",
                 "name": "TEAM FLASHERS⚡️⚡️",
-                "seed": 252
+                "seed": 252,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "19b13e5e-2a62-11f1-9e1d-56eb118d1a98",
@@ -9692,7 +9694,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "8019593a-2a5b-11f1-8d18-52998dd971f0",
+                "name": "KMK",
+                "seed": 257
             },
             "match_games": []
         },
@@ -10648,7 +10652,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "19b13e5e-2a62-11f1-9e1d-56eb118d1a98",
+                "name": "明治大学",
+                "seed": 261
             },
             "match_games": []
         },
