@@ -11642,18 +11642,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "e2c54292-2b87-11f1-9a4c-56eb118d1a98",
                 "name": "Mori Lab",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e174308-29c5-11f1-b7ef-322f62bb46ea",
                 "name": "Ps",
-                "seed": 165
+                "seed": 165,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e2c54292-2b87-11f1-9a4c-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e174308-29c5-11f1-b7ef-322f62bb46ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e2c54292-2b87-11f1-9a4c-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e174308-29c5-11f1-b7ef-322f62bb46ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 313,
@@ -12192,18 +12227,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a959b370-289f-11f1-a217-1662e184e72d",
                 "name": "MC|Shavava",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27c4b9b0-2da7-11f1-804e-46a2b74fddf4",
                 "name": "kegipinsaikyou",
-                "seed": 242
+                "seed": 242,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a959b370-289f-11f1-a217-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27c4b9b0-2da7-11f1-804e-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a959b370-289f-11f1-a217-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27c4b9b0-2da7-11f1-804e-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 330,
@@ -14494,7 +14564,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a959b370-289f-11f1-a217-1662e184e72d",
+                "name": "MC|Shavava",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
