@@ -31347,18 +31347,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
                 "name": "Pura Doble S",
-                "seed": 192
+                "seed": 192,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "62067366-2be5-11f1-8e5c-825f661103e6",
                 "name": "MX TEAM",
-                "seed": 96
+                "seed": 96,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "62067366-2be5-11f1-8e5c-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "62067366-2be5-11f1-8e5c-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "62067366-2be5-11f1-8e5c-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 482,
@@ -31837,18 +31887,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
                 "name": "Toxic Lotusss",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "caa95444-28a0-11f1-806f-1662e184e72d",
                 "name": "Verse",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "caa95444-28a0-11f1-806f-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "caa95444-28a0-11f1-806f-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 491,
