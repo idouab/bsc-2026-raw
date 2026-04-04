@@ -17391,18 +17391,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
                 "name": "HOG",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a84bbda2-2b74-11f1-94d3-52998dd971f0",
                 "name": "チームレジェ止まり",
-                "seed": 186
+                "seed": 186,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a84bbda2-2b74-11f1-94d3-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a84bbda2-2b74-11f1-94d3-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 427,
@@ -18583,7 +18618,9 @@
                 "seed": 250
             },
             "opponent2": {
-                "id": null
+                "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                "name": "HOG",
+                "seed": 58
             },
             "match_games": []
         },
