@@ -30204,18 +30204,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
                 "name": "Gabagool Inspectors",
-                "seed": 148
+                "seed": 148,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
                 "name": "MT Academy",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "f4e30934-2c7f-11f1-9686-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 461,
@@ -31067,18 +31102,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca69d562-28a0-11f1-8ed5-1662e184e72d",
                 "name": "Leyendas del Mictlan",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
                 "name": "Pin winers",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ca69d562-28a0-11f1-8ed5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "ca69d562-28a0-11f1-8ed5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ca69d562-28a0-11f1-8ed5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 479,
@@ -31269,7 +31354,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                "name": "MT Academy",
+                "seed": 301
             },
             "match_games": []
         },
@@ -31445,7 +31532,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                "name": "Pin winers",
+                "seed": 38
             },
             "match_games": []
         },
