@@ -29893,18 +29893,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
                 "name": "MX ACADEMY",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
                 "name": "SMS",
-                "seed": 345
+                "seed": 345,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9880930c-2a5c-11f1-9ad7-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 455,
@@ -30064,18 +30099,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caab1ad6-28a0-11f1-8f33-1662e184e72d",
                 "name": "Sofried Gaming",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
                 "name": "Noted+2",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "caab1ad6-28a0-11f1-8f33-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "caab1ad6-28a0-11f1-8f33-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7474bbac-2d6b-11f1-8177-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 460,
@@ -30199,7 +30269,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
                 "name": "XS|Xirø Stars",
@@ -30208,7 +30278,8 @@
             "opponent2": {
                 "id": "cc8f3166-28a0-11f1-9406-1662e184e72d",
                 "name": "Clankers",
-                "seed": 85
+                "seed": 85,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -30295,18 +30366,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f71ef1e0-2acc-11f1-a4d7-56eb118d1a98",
                 "name": "GAME OVER",
-                "seed": 399
+                "seed": 399,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
                 "name": "Toxic Lotusss",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f71ef1e0-2acc-11f1-a4d7-56eb118d1a98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "f71ef1e0-2acc-11f1-a4d7-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 468,
@@ -30466,18 +30572,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
                 "name": "DTM ASIANS",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ca859022-28a0-11f1-9597-1662e184e72d",
                 "name": "TEAM HORIZON",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -30561,18 +30702,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
                 "name": "2026",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7b960504-2aef-11f1-8c15-56eb118d1a98",
                 "name": "3PeasInAPod",
-                "seed": 435
+                "seed": 435,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b960504-2aef-11f1-8c15-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b960504-2aef-11f1-8c15-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 476,
@@ -30833,7 +31009,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
+                "name": "MX ACADEMY",
+                "seed": 25
             },
             "match_games": []
         },
@@ -30884,7 +31062,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "caab1ad6-28a0-11f1-8f33-1662e184e72d",
+                "name": "Sofried Gaming",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -30921,7 +31101,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                "name": "XS|Xirø Stars",
+                "seed": 21
             },
             "match_games": []
         },
@@ -30954,10 +31136,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbc8e2b8-28a0-11f1-9427-1662e184e72d",
+                "name": "Toxic Lotusss",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "caa95444-28a0-11f1-806f-1662e184e72d",
+                "name": "Verse",
+                "seed": 18
             },
             "match_games": []
         },
@@ -31024,10 +31210,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                "name": "2026",
+                "seed": 398
             },
             "opponent2": {
-                "id": null
+                "id": "568434cc-2ed5-11f1-a91e-3291caf45441",
+                "name": "ur mom gaming",
+                "seed": 174
             },
             "match_games": []
         },
