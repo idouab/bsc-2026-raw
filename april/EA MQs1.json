@@ -20678,18 +20678,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a952f102-289f-11f1-a5b2-1662e184e72d",
                 "name": "ブロハラ",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9b3e1d62-2b83-11f1-8870-825f661103e6",
                 "name": "모에모에 새우 메이드",
-                "seed": 198
+                "seed": 198,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a952f102-289f-11f1-a5b2-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b3e1d62-2b83-11f1-8870-825f661103e6",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a952f102-289f-11f1-a5b2-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b3e1d62-2b83-11f1-8870-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 478,
@@ -21039,7 +21074,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a952f102-289f-11f1-a5b2-1662e184e72d",
+                "name": "ブロハラ",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
