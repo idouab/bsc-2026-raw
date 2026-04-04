@@ -20428,18 +20428,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ffa601c-29bd-11f1-84d4-322f62bb46ea",
                 "name": "Lag Legends",
-                "seed": 149
+                "seed": 149,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
                 "name": "🧚‍♀️",
-                "seed": 85
+                "seed": 85,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4ffa601c-29bd-11f1-84d4-322f62bb46ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "4ffa601c-29bd-11f1-84d4-322f62bb46ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 465,
@@ -21462,7 +21497,9 @@
                 "seed": 181
             },
             "opponent2": {
-                "id": null
+                "id": "9b4fce7c-2aa7-11f1-bf27-46a2b74fddf4",
+                "name": "🧚‍♀️",
+                "seed": 85
             },
             "match_games": []
         },
