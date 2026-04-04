@@ -11572,18 +11572,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8b3aa6a-2b1e-11f1-b607-46a2b74fddf4",
                 "name": "genius gaming",
-                "seed": 109
+                "seed": 109,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
                 "name": "うるとらまん",
-                "seed": 148
+                "seed": 148,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c8b3aa6a-2b1e-11f1-b607-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "c8b3aa6a-2b1e-11f1-b607-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c8b3aa6a-2b1e-11f1-b607-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 303,
@@ -14647,18 +14697,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a897864c-289f-11f1-b7ad-1662e184e72d",
                 "name": "mitotec",
-                "seed": 38
+                "seed": 38,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdf20806-29ed-11f1-aedb-825f661103e6",
                 "name": "NNX",
-                "seed": 219
+                "seed": 219,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a897864c-289f-11f1-b7ad-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdf20806-29ed-11f1-aedb-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a897864c-289f-11f1-b7ad-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bdf20806-29ed-11f1-aedb-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a897864c-289f-11f1-b7ad-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bdf20806-29ed-11f1-aedb-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 376,
@@ -15419,7 +15519,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
+                "name": "うるとらまん",
+                "seed": 148
             },
             "match_games": []
         },
@@ -16076,10 +16178,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bdf20806-29ed-11f1-aedb-825f661103e6",
+                "name": "NNX",
+                "seed": 219
             },
             "opponent2": {
-                "id": null
+                "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
+                "name": "ケツデカ高校尻アナ部2026ver2.0",
+                "seed": 91
             },
             "match_games": []
         },
