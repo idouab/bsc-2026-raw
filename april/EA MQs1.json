@@ -20498,18 +20498,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
                 "name": "秋刀魚です",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
                 "name": "HOG",
-                "seed": 58
+                "seed": 58,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3cd2094-2b85-11f1-acce-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 470,
@@ -21270,10 +21320,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a46c694e-2e34-11f1-b7cd-3a307108515a",
+                "name": "秋刀魚です",
+                "seed": 250
             },
             "opponent2": {
-                "id": null
+                "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                "name": "Sigma Boys",
+                "seed": 154
             },
             "match_games": []
         },
