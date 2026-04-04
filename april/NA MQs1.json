@@ -27030,18 +27030,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bf6b132-2a18-11f1-aaa7-46a2b74fddf4",
                 "name": "AnderDingus",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "51fb964e-2d2b-11f1-b3cf-56eb118d1a98",
                 "name": "Ziggyfredos",
-                "seed": 156
+                "seed": 156,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3bf6b132-2a18-11f1-aaa7-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51fb964e-2d2b-11f1-b3cf-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3bf6b132-2a18-11f1-aaa7-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51fb964e-2d2b-11f1-b3cf-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 412,
@@ -27145,18 +27180,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
                 "name": "XS|Xirø Stars",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "10d236ba-2ad2-11f1-9aec-825f661103e6",
                 "name": "Brawl Boys",
-                "seed": 405
+                "seed": 405,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10d236ba-2ad2-11f1-9aec-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "10d236ba-2ad2-11f1-9aec-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "10d236ba-2ad2-11f1-9aec-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 416,
@@ -27711,18 +27796,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
                 "name": "DTM ASIANS",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "de1a27e0-2ec9-11f1-bc51-223d2e1b2bec",
                 "name": "CAN|Echo",
-                "seed": 362
+                "seed": 362,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de1a27e0-2ec9-11f1-bc51-223d2e1b2bec",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "de1a27e0-2ec9-11f1-bc51-223d2e1b2bec",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "de1a27e0-2ec9-11f1-bc51-223d2e1b2bec",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 432,
@@ -28725,7 +28860,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "51fb964e-2d2b-11f1-b3cf-56eb118d1a98",
+                "name": "Ziggyfredos",
+                "seed": 156
             },
             "opponent2": {
                 "id": null
@@ -28759,7 +28896,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                "name": "XS|Xirø Stars",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
@@ -28903,7 +29042,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cc403d40-28a0-11f1-8452-1662e184e72d",
+                "name": "DTM ASIANS",
+                "seed": 23
             },
             "opponent2": {
                 "id": null
