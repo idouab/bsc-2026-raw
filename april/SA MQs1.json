@@ -29924,18 +29924,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
                 "name": "The Dragóns ϟ",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3639074a-2af4-11f1-a427-825f661103e6",
                 "name": "qualquer coisa",
-                "seed": 89
+                "seed": 89,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 484,

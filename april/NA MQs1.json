@@ -19692,18 +19692,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
                 "name": "🐐🪷🦁",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6e8921dc-2c59-11f1-b7bf-46a2b74fddf4",
                 "name": "Chivas Esports",
-                "seed": 144
+                "seed": 144,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e8921dc-2c59-11f1-b7bf-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e8921dc-2c59-11f1-b7bf-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 267,
@@ -19712,18 +19747,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
                 "name": "The Pibbles",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1df37ebc-2a4b-11f1-94a4-52998dd971f0",
                 "name": "ðaal  bhat",
-                "seed": 305
+                "seed": 305,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1df37ebc-2a4b-11f1-94a4-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1df37ebc-2a4b-11f1-94a4-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 268,
@@ -22154,7 +22224,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
+                "name": "The Pibbles",
+                "seed": 49
             },
             "opponent2": {
                 "id": null
