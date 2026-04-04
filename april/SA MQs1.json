@@ -19031,18 +19031,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0a56e670-2bc0-11f1-b00d-56eb118d1a98",
                 "name": "MEGA GALERA",
-                "seed": 68
+                "seed": 68,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
                 "name": "LOUD Academy",
-                "seed": 189
+                "seed": 189,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0a56e670-2bc0-11f1-b00d-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0a56e670-2bc0-11f1-b00d-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 293,
@@ -19071,18 +19106,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d7f71dee-2ac0-11f1-9500-52998dd971f0",
                 "name": "Feijão com farinha",
-                "seed": 413
+                "seed": 413,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "109d8388-2d26-11f1-8422-56eb118d1a98",
                 "name": "NLK",
-                "seed": 356
+                "seed": 356,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d7f71dee-2ac0-11f1-9500-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "109d8388-2d26-11f1-8422-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d7f71dee-2ac0-11f1-9500-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "109d8388-2d26-11f1-8422-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 295,
