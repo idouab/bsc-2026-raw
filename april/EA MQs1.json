@@ -10847,18 +10847,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
                 "name": "BleK",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1d956d3e-29f8-11f1-a096-46a2b74fddf4",
                 "name": "BR",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d956d3e-29f8-11f1-a096-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d956d3e-29f8-11f1-a096-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 310,
@@ -12855,7 +12890,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
+                "name": "BleK",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
