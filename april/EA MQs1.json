@@ -16566,18 +16566,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
                 "name": "akathinman",
-                "seed": 36
+                "seed": 36,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f2aac016-2ab9-11f1-8180-825f661103e6",
                 "name": "中軽米家",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f2aac016-2ab9-11f1-8180-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f2aac016-2ab9-11f1-8180-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 405,
@@ -17841,18 +17876,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
                 "name": "無職透明",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "96bec566-2e8f-11f1-9521-ba4a4614b245",
                 "name": "Hopes",
-                "seed": 118
+                "seed": 118,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "96bec566-2e8f-11f1-9521-ba4a4614b245",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "96bec566-2e8f-11f1-9521-ba4a4614b245",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 446,
@@ -18427,7 +18497,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8fad832-289f-11f1-a3ae-1662e184e72d",
+                "name": "無職透明",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
