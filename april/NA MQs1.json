@@ -30174,18 +30174,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cad8bcf2-28a0-11f1-85d7-1662e184e72d",
                 "name": "Mist",
-                "seed": 5
+                "seed": 5,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b0dda1d8-2fc5-11f1-b39c-e2b383c16879",
                 "name": "Cachorritas",
-                "seed": 188
+                "seed": 188,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cad8bcf2-28a0-11f1-85d7-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b0dda1d8-2fc5-11f1-b39c-e2b383c16879",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "cad8bcf2-28a0-11f1-85d7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0dda1d8-2fc5-11f1-b39c-e2b383c16879",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "cad8bcf2-28a0-11f1-85d7-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b0dda1d8-2fc5-11f1-b39c-e2b383c16879",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 462,
@@ -31130,10 +31180,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b0dda1d8-2fc5-11f1-b39c-e2b383c16879",
+                "name": "Cachorritas",
+                "seed": 188
             },
             "opponent2": {
-                "id": null
+                "id": "62f6c94e-2afd-11f1-b05c-825f661103e6",
+                "name": "CanadianStars",
+                "seed": 220
             },
             "match_games": []
         },
