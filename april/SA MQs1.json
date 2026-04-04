@@ -30349,18 +30349,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f6c6e308-2dc2-11f1-8fac-56eb118d1a98",
                 "name": "Dame Paleta F/A",
-                "seed": 119
+                "seed": 119,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
                 "name": "CORRIDA DOS RATOS 🐀",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f6c6e308-2dc2-11f1-8fac-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f6c6e308-2dc2-11f1-8fac-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f6c6e308-2dc2-11f1-8fac-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 493,
