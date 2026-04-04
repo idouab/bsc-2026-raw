@@ -12457,18 +12457,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
                 "name": "ボリビア国際空港",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3c09662-29e6-11f1-afb1-46a2b74fddf4",
                 "name": "TEAM RIN",
-                "seed": 207
+                "seed": 207,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3c09662-29e6-11f1-afb1-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3c09662-29e6-11f1-afb1-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 332,
@@ -14883,7 +14918,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                "name": "ボリビア国際空港",
+                "seed": 50
             },
             "opponent2": {
                 "id": null
