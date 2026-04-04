@@ -10332,18 +10332,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9b58b78-289f-11f1-aecc-1662e184e72d",
                 "name": "Nbing",
-                "seed": 48
+                "seed": 48,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c3d854b0-29e7-11f1-8808-825f661103e6",
                 "name": "Bad pins lovers",
-                "seed": 209
+                "seed": 209,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9b58b78-289f-11f1-aecc-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c3d854b0-29e7-11f1-8808-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9b58b78-289f-11f1-aecc-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c3d854b0-29e7-11f1-8808-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 272,
@@ -12062,18 +12097,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a3861684-2bea-11f1-9ccf-46a2b74fddf4",
                 "name": "ランナーズハイ",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "351fec4e-29c2-11f1-8846-defd5865646b",
                 "name": "O pearl",
-                "seed": 159
+                "seed": 159,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a3861684-2bea-11f1-9ccf-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "351fec4e-29c2-11f1-8846-defd5865646b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a3861684-2bea-11f1-9ccf-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "351fec4e-29c2-11f1-8846-defd5865646b",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 327,
@@ -13930,10 +14000,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c3d854b0-29e7-11f1-8808-825f661103e6",
+                "name": "Bad pins lovers",
+                "seed": 209
             },
             "opponent2": {
-                "id": null
+                "id": "a8725fac-289f-11f1-93bd-1662e184e72d",
+                "name": "YeahBunFun",
+                "seed": 81
             },
             "match_games": []
         },
@@ -14389,7 +14463,9 @@
                 "seed": 226
             },
             "opponent2": {
-                "id": null
+                "id": "a3861684-2bea-11f1-9ccf-46a2b74fddf4",
+                "name": "ランナーズハイ",
+                "seed": 98
             },
             "match_games": []
         },
