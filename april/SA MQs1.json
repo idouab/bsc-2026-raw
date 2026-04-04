@@ -30354,18 +30354,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "25d5ae56-2eed-11f1-bac9-3291caf45441",
                 "name": "Pernambuco Lovers",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
                 "name": "Team carreaDITTOS",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "25d5ae56-2eed-11f1-bac9-3291caf45441",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "25d5ae56-2eed-11f1-bac9-3291caf45441",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 495,
