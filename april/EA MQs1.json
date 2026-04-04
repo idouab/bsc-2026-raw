@@ -11957,18 +11957,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7d9af06c-2b4e-11f1-9131-46a2b74fddf4",
                 "name": "片腕の少年🤓",
-                "seed": 124
+                "seed": 124,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dacd6926-2b68-11f1-abc7-825f661103e6",
                 "name": "白の遺伝子",
-                "seed": 133
+                "seed": 133,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7d9af06c-2b4e-11f1-9131-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dacd6926-2b68-11f1-abc7-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7d9af06c-2b4e-11f1-9131-46a2b74fddf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dacd6926-2b68-11f1-abc7-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7d9af06c-2b4e-11f1-9131-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dacd6926-2b68-11f1-abc7-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 307,
@@ -15715,7 +15765,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "7d9af06c-2b4e-11f1-9131-46a2b74fddf4",
+                "name": "片腕の少年🤓",
+                "seed": 124
             },
             "match_games": []
         },
