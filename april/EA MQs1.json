@@ -16126,7 +16126,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "0036b8f0-2a21-11f1-b191-56eb118d1a98",
                 "name": "We no lose",
@@ -16621,18 +16621,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a88a568e-289f-11f1-8533-1662e184e72d",
                 "name": "Scrimtime",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
                 "name": "北海道No.🐶",
-                "seed": 141
+                "seed": 141,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a88a568e-289f-11f1-8533-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a88a568e-289f-11f1-8533-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 406,
@@ -17056,18 +17091,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
                 "name": "Reach for summit",
-                "seed": 194
+                "seed": 194,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a9311be0-289f-11f1-9260-1662e184e72d",
                 "name": "BEGINNER BOYS",
-                "seed": 66
+                "seed": 66,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a9311be0-289f-11f1-9260-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a9311be0-289f-11f1-9260-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 419,
@@ -17421,18 +17491,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
                 "name": "サ終",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a694f9aa-2c3d-11f1-b3c6-52998dd971f0",
                 "name": "しらねぇよ",
-                "seed": 106
+                "seed": 106,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a694f9aa-2c3d-11f1-b3c6-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a694f9aa-2c3d-11f1-b3c6-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 432,
@@ -18299,7 +18404,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a88a568e-289f-11f1-8533-1662e184e72d",
+                "name": "Scrimtime",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -18406,7 +18513,9 @@
                 "seed": 127
             },
             "opponent2": {
-                "id": null
+                "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
+                "name": "Reach for summit",
+                "seed": 194
             },
             "match_games": []
         },
@@ -18519,10 +18628,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
+                "name": "サ終",
+                "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                "name": "누구때메 본계 챔쉽 실패",
+                "seed": 170
             },
             "match_games": []
         },
