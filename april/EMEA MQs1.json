@@ -57169,18 +57169,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da56b65e-2f92-11f1-9a65-123cf9354952",
                 "name": "LOVENAT",
-                "seed": 2028
+                "seed": 2028,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3ef69de0-2b97-11f1-989c-56eb118d1a98",
                 "name": "Eggle Team",
-                "seed": 2069
+                "seed": 2069,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "da56b65e-2f92-11f1-9a65-123cf9354952",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ef69de0-2b97-11f1-989c-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "da56b65e-2f92-11f1-9a65-123cf9354952",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ef69de0-2b97-11f1-989c-56eb118d1a98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 963,
@@ -84421,7 +84456,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "da56b65e-2f92-11f1-9a65-123cf9354952",
+                "name": "LOVENAT",
+                "seed": 2028
             },
             "match_games": []
         },
