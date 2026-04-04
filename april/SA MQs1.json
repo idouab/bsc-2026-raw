@@ -12741,18 +12741,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e571e4a-2a0b-11f1-a266-56eb118d1a98",
                 "name": "Dream makers",
-                "seed": 213
+                "seed": 213,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "afaa0648-2bca-11f1-9350-825f661103e6",
                 "name": "NOVA TRIBE",
-                "seed": 300
+                "seed": 300,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5e571e4a-2a0b-11f1-a266-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "afaa0648-2bca-11f1-9350-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "5e571e4a-2a0b-11f1-a266-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "afaa0648-2bca-11f1-9350-825f661103e6",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 127,
@@ -13898,18 +13933,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3fb9048c-2a13-11f1-9847-56eb118d1a98",
                 "name": "KB | División",
-                "seed": 231
+                "seed": 231,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "51873e04-2bb2-11f1-9df3-46a2b74fddf4",
                 "name": "Alpha Sports",
-                "seed": 282
+                "seed": 282,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3fb9048c-2a13-11f1-9847-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51873e04-2bb2-11f1-9df3-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3fb9048c-2a13-11f1-9847-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51873e04-2bb2-11f1-9df3-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 171,
@@ -17697,7 +17767,9 @@
                 "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "5e571e4a-2a0b-11f1-a266-56eb118d1a98",
+                "name": "Dream makers",
+                "seed": 213
             },
             "match_games": []
         },
@@ -18113,7 +18185,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "3fb9048c-2a13-11f1-9847-56eb118d1a98",
+                "name": "KB | División",
+                "seed": 231
             },
             "match_games": []
         },
