@@ -25974,18 +25974,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbe77b06-28a0-11f1-9e90-1662e184e72d",
                 "name": "MCG|PANESITOS",
-                "seed": 33
+                "seed": 33,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "62067366-2be5-11f1-8e5c-825f661103e6",
                 "name": "MX TEAM",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cbe77b06-28a0-11f1-9e90-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62067366-2be5-11f1-8e5c-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cbe77b06-28a0-11f1-9e90-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62067366-2be5-11f1-8e5c-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 389,
@@ -27019,18 +27054,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
                 "name": "MaskedBees",
-                "seed": 286
+                "seed": 286,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b5079808-2a67-11f1-9a2f-825f661103e6",
                 "name": "BE|HITS",
-                "seed": 355
+                "seed": 355,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5079808-2a67-11f1-9a2f-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5079808-2a67-11f1-9a2f-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 436,
@@ -27699,7 +27769,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2bfe5f68-2bdb-11f1-b204-46a2b74fddf4",
+                "name": "MaskedBees",
+                "seed": 286
             },
             "opponent2": {
                 "id": null
