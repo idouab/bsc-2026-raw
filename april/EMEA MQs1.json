@@ -54090,18 +54090,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1904b49c-2f9c-11f1-94fc-123cf9354952",
                 "name": "Zsido Fitymak",
-                "seed": 2044
+                "seed": 2044,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d24e3060-2b8f-11f1-a188-46a2b74fddf4",
                 "name": "SGL",
-                "seed": 2053
+                "seed": 2053,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1904b49c-2f9c-11f1-94fc-123cf9354952",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d24e3060-2b8f-11f1-a188-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1904b49c-2f9c-11f1-94fc-123cf9354952",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d24e3060-2b8f-11f1-a188-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 771,
@@ -82730,7 +82765,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "d24e3060-2b8f-11f1-a188-46a2b74fddf4",
+                "name": "SGL",
+                "seed": 2053
             },
             "match_games": []
         },
