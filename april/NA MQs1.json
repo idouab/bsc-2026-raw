@@ -26560,18 +26560,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "efc5f032-2c7b-11f1-8cf6-825f661103e6",
                 "name": "LT Goons",
-                "seed": 312
+                "seed": 312,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "47eb4f1c-2f8a-11f1-b2fc-1e2ea30bad9c",
                 "name": "FAT RACCOONS",
-                "seed": 184
+                "seed": 184,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "efc5f032-2c7b-11f1-8cf6-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "47eb4f1c-2f8a-11f1-b2fc-1e2ea30bad9c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "efc5f032-2c7b-11f1-8cf6-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "47eb4f1c-2f8a-11f1-b2fc-1e2ea30bad9c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "efc5f032-2c7b-11f1-8cf6-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "47eb4f1c-2f8a-11f1-b2fc-1e2ea30bad9c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 399,
@@ -26655,18 +26705,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
                 "name": "🦗🦗🦗",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1d936f5c-2fa7-11f1-84b2-4ecd99a3876c",
                 "name": "No Scrims Allowed",
-                "seed": 388
+                "seed": 388,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d936f5c-2fa7-11f1-84b2-4ecd99a3876c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d936f5c-2fa7-11f1-84b2-4ecd99a3876c",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 402,
@@ -27480,18 +27565,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
                 "name": "ASN 🥷",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5f8ec4b4-29bd-11f1-9679-fa6fd21736e7",
                 "name": "The Pissers",
-                "seed": 175
+                "seed": 175,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5f8ec4b4-29bd-11f1-9679-fa6fd21736e7",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f8ec4b4-29bd-11f1-9679-fa6fd21736e7",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "15eead52-3038-11f1-8f22-8e51c1e1396a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f8ec4b4-29bd-11f1-9679-fa6fd21736e7",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 425,
@@ -28747,7 +28882,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "47eb4f1c-2f8a-11f1-b2fc-1e2ea30bad9c",
+                "name": "FAT RACCOONS",
+                "seed": 184
             },
             "match_games": []
         },
@@ -28776,10 +28913,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
+                "name": "🦗🦗🦗",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "592efc3c-3044-11f1-bbbf-5a8a9b093920",
+                "name": "Blazing Team",
+                "seed": 452
             },
             "match_games": []
         },
