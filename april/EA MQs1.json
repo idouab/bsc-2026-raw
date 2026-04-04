@@ -14582,18 +14582,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
                 "name": "Egoist",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "35eda624-2b94-11f1-8f5b-56eb118d1a98",
                 "name": "迫真みろか部梁川慎之介",
-                "seed": 206
+                "seed": 206,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35eda624-2b94-11f1-8f5b-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35eda624-2b94-11f1-8f5b-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 364,
@@ -16508,10 +16543,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
+                "name": "Egoist",
+                "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
+                "name": "ぺったんこLOVE",
+                "seed": 179
             },
             "match_games": []
         },
