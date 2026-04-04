@@ -12815,11 +12815,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6d92c440-303c-11f1-89ee-4af22f700f47",
                 "name": "SPORT GAMING",
-                "seed": 212
+                "seed": 212,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
@@ -20197,7 +20198,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                "name": "MT Academy",
+                "seed": 301
             },
             "match_games": []
         },
