@@ -7517,18 +7517,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
                 "name": "スーパーウルトラミラクル激強チーム",
-                "seed": 255
+                "seed": 255,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb2a92ca-2f0d-11f1-8820-36f1ee4d6fab",
                 "name": "KC",
-                "seed": 258
+                "seed": 258,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb2a92ca-2f0d-11f1-8820-36f1ee4d6fab",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb2a92ca-2f0d-11f1-8820-36f1ee4d6fab",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -10881,7 +10916,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "93d044f8-2a5a-11f1-8522-825f661103e6",
+                "name": "スーパーウルトラミラクル激強チーム",
+                "seed": 255
             },
             "match_games": []
         },
