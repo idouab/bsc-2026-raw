@@ -10935,7 +10935,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "6d92c440-303c-11f1-89ee-4af22f700f47",
                 "name": "SPORT GAMING",
@@ -12543,18 +12543,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6755e96-2a22-11f1-ae51-46a2b74fddf4",
                 "name": "RAS",
-                "seed": 247
+                "seed": 247,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d0b67c76-2bad-11f1-b761-46a2b74fddf4",
                 "name": "Washed",
-                "seed": 266
+                "seed": 266,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a6755e96-2a22-11f1-ae51-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0b67c76-2bad-11f1-b761-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a6755e96-2a22-11f1-ae51-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0b67c76-2bad-11f1-b761-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 179,
@@ -13939,18 +13974,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6600912-2f00-11f1-bb88-3291caf45441",
                 "name": "question mark",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "654dbf52-3009-11f1-8756-dadc3137be53",
                 "name": "Frodza",
-                "seed": 406
+                "seed": 406,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c6600912-2f00-11f1-bb88-3291caf45441",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "654dbf52-3009-11f1-8756-dadc3137be53",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c6600912-2f00-11f1-bb88-3291caf45441",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "654dbf52-3009-11f1-8756-dadc3137be53",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 252,
@@ -15548,7 +15618,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "d0b67c76-2bad-11f1-b761-46a2b74fddf4",
+                "name": "Washed",
+                "seed": 266
             },
             "match_games": []
         },
@@ -16169,7 +16241,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c6600912-2f00-11f1-bb88-3291caf45441",
+                "name": "question mark",
+                "seed": 107
             },
             "opponent2": {
                 "id": null
