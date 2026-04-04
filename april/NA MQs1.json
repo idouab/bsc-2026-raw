@@ -27345,18 +27345,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ccf31b68-28a0-11f1-9535-1662e184e72d",
                 "name": "NightmareCore",
-                "seed": 53
+                "seed": 53,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
                 "name": "No Tacos but Rice",
-                "seed": 437
+                "seed": 437,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ccf31b68-28a0-11f1-9535-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ccf31b68-28a0-11f1-9535-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 415,
@@ -28237,18 +28272,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca859022-28a0-11f1-9597-1662e184e72d",
                 "name": "TEAM HORIZON",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ca9151d2-28a0-11f1-9be2-1662e184e72d",
                 "name": "LMC",
-                "seed": 87
+                "seed": 87,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca9151d2-28a0-11f1-9be2-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ca9151d2-28a0-11f1-9be2-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ca9151d2-28a0-11f1-9be2-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 433,
@@ -29367,7 +29452,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "236a4dda-2af0-11f1-8d34-46a2b74fddf4",
+                "name": "No Tacos but Rice",
+                "seed": 437
             },
             "match_games": []
         },
@@ -29539,7 +29626,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "ca859022-28a0-11f1-9597-1662e184e72d",
+                "name": "TEAM HORIZON",
+                "seed": 42
             },
             "match_games": []
         },
