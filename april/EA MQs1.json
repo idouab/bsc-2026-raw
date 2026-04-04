@@ -19648,18 +19648,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
                 "name": "幼女縛りのバナクレ",
-                "seed": 225
+                "seed": 225,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9e12274-289f-11f1-9112-1662e184e72d",
                 "name": "熱情のスペクトラム",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9e12274-289f-11f1-9112-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9e12274-289f-11f1-9112-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -19788,18 +19823,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
                 "name": "モーティス絶対使わないです",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7883b9b8-29de-11f1-b6eb-56eb118d1a98",
                 "name": "もち",
-                "seed": 189
+                "seed": 189,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7883b9b8-29de-11f1-b6eb-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7883b9b8-29de-11f1-b6eb-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 458,
@@ -20404,7 +20474,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                "name": "モーティス絶対使わないです",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
