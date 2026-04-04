@@ -16646,18 +16646,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a94ff0ec-289f-11f1-90af-1662e184e72d",
                 "name": "関東の孤立した自称進",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
                 "name": "モングラール建築",
-                "seed": 84
+                "seed": 84,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a94ff0ec-289f-11f1-90af-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a94ff0ec-289f-11f1-90af-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 409,
@@ -17031,18 +17066,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
                 "name": "ボリビア国際空港",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "afc6ae3c-2b53-11f1-94e6-46a2b74fddf4",
                 "name": "Deaf|Slovakia💪🇸🇰",
-                "seed": 178
+                "seed": 178,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "afc6ae3c-2b53-11f1-94e6-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "afc6ae3c-2b53-11f1-94e6-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 423,
