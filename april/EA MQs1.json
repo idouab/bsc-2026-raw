@@ -16066,18 +16066,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8c3fa2ee-29e0-11f1-835c-52998dd971f0",
                 "name": "お摂津陸上競技部",
-                "seed": 193
+                "seed": 193,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "717ea2a4-2b7d-11f1-85ed-46a2b74fddf4",
                 "name": "她好可愛",
-                "seed": 192
+                "seed": 192,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8c3fa2ee-29e0-11f1-835c-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "717ea2a4-2b7d-11f1-85ed-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8c3fa2ee-29e0-11f1-835c-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "717ea2a4-2b7d-11f1-85ed-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 387,
