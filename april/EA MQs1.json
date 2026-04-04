@@ -13452,18 +13452,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9b45672-289f-11f1-8c45-1662e184e72d",
                 "name": "ASSASSIN",
-                "seed": 47
+                "seed": 47,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
                 "name": "だんごむしのまんまるごっこ",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9b45672-289f-11f1-8c45-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9b45672-289f-11f1-8c45-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a9b45672-289f-11f1-8c45-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 336,
@@ -16495,7 +16545,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
+                "name": "だんごむしのまんまるごっこ",
+                "seed": 210
             },
             "opponent2": {
                 "id": null
