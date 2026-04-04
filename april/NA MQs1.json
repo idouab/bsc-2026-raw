@@ -29658,18 +29658,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
                 "name": "🐐🪷🦁",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
                 "name": "The Pibbles",
-                "seed": 49
+                "seed": 49,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb724d7c-28a0-11f1-b1d0-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 452,
@@ -29738,7 +29773,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc5841ba-28a0-11f1-ae4d-1662e184e72d",
                 "name": "Quick X 🦆",
@@ -29747,7 +29782,8 @@
             "opponent2": {
                 "id": "47eb4f1c-2f8a-11f1-b2fc-1e2ea30bad9c",
                 "name": "FAT RACCOONS",
-                "seed": 184
+                "seed": 184,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -29778,18 +29814,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
                 "name": "🦗🦗🦗",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "592efc3c-3044-11f1-bbbf-5a8a9b093920",
                 "name": "Blazing Team",
-                "seed": 452
+                "seed": 452,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "592efc3c-3044-11f1-bbbf-5a8a9b093920",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "592efc3c-3044-11f1-bbbf-5a8a9b093920",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 458,
@@ -29958,11 +30029,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb978aba-28a0-11f1-a4bc-1662e184e72d",
                 "name": "Gatitos Con Modales",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "cbf0aea6-28a0-11f1-ac02-1662e184e72d",
@@ -30178,18 +30250,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cba68632-28a0-11f1-9650-1662e184e72d",
                 "name": "PLEW",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cc6d7184-28a0-11f1-9aac-1662e184e72d",
                 "name": "Hxngo Fans",
-                "seed": 70
+                "seed": 70,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "cba68632-28a0-11f1-9650-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc6d7184-28a0-11f1-9aac-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "cba68632-28a0-11f1-9650-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc6d7184-28a0-11f1-9aac-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 478,
@@ -30311,7 +30418,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa37db0e-2f9e-11f1-9a49-d67f5027bdf5",
+                "name": "🐐🪷🦁",
+                "seed": 113
             },
             "opponent2": {
                 "id": null
@@ -30343,7 +30452,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cc5841ba-28a0-11f1-ae4d-1662e184e72d",
+                "name": "Quick X 🦆",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
@@ -30359,7 +30470,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca7c624a-28a0-11f1-8c27-1662e184e72d",
+                "name": "🦗🦗🦗",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -30519,7 +30632,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cba68632-28a0-11f1-9650-1662e184e72d",
+                "name": "PLEW",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
