@@ -9451,18 +9451,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "44ca9786-2b14-11f1-9dd4-825f661103e6",
                 "name": "ERA",
-                "seed": 161
+                "seed": 161,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "18c12d90-2e24-11f1-98ef-3a307108515a",
                 "name": "KKD",
-                "seed": 352
+                "seed": 352,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "44ca9786-2b14-11f1-9dd4-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18c12d90-2e24-11f1-98ef-3a307108515a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "44ca9786-2b14-11f1-9dd4-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18c12d90-2e24-11f1-98ef-3a307108515a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -10651,18 +10686,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca5fee26-28a0-11f1-ac69-1662e184e72d",
                 "name": "LA FAMILIA",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1ad2e472-3025-11f1-8fef-dadc3137be53",
                 "name": "Dogemon",
-                "seed": 420
+                "seed": 420,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ca5fee26-28a0-11f1-ac69-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ad2e472-3025-11f1-8fef-dadc3137be53",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ca5fee26-28a0-11f1-ac69-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ad2e472-3025-11f1-8fef-dadc3137be53",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 80,
@@ -14787,7 +14857,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca5fee26-28a0-11f1-ac69-1662e184e72d",
+                "name": "LA FAMILIA",
+                "seed": 93
             },
             "opponent2": {
                 "id": null
