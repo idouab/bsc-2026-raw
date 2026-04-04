@@ -28244,18 +28244,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
                 "name": "WINX 🧚‍♀️",
-                "seed": 136
+                "seed": 136,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
                 "name": "The Dragóns ϟ",
-                "seed": 313
+                "seed": 313,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "e11a4cd8-2bbb-11f1-915b-52998dd971f0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 454,
@@ -28614,18 +28649,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
                 "name": "NOVA BRASIL",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c400dd76-2a47-11f1-a13e-46a2b74fddf4",
                 "name": "Team Win",
-                "seed": 325
+                "seed": 325,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c400dd76-2a47-11f1-a13e-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c400dd76-2a47-11f1-a13e-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c400dd76-2a47-11f1-a13e-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 462,
@@ -29319,18 +29404,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29f8345e-2b78-11f1-9e37-56eb118d1a98",
                 "name": "TKD F/A",
-                "seed": 262
+                "seed": 262,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
                 "name": "FOFOQUEIROS BRAWL",
-                "seed": 198
+                "seed": 198,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "29f8345e-2b78-11f1-9e37-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "29f8345e-2b78-11f1-9e37-56eb118d1a98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 478,
@@ -29507,10 +29627,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0af9d4a6-2a45-11f1-847b-56eb118d1a98",
+                "name": "The Dragóns ϟ",
+                "seed": 313
             },
             "opponent2": {
-                "id": null
+                "id": "3639074a-2af4-11f1-a427-825f661103e6",
+                "name": "qualquer coisa",
+                "seed": 89
             },
             "match_games": []
         },
@@ -29581,10 +29705,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                "name": "NOVA BRASIL",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                "name": "UNESC TEAM",
+                "seed": 421
             },
             "match_games": []
         },
@@ -29723,10 +29851,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                "name": "FOFOQUEIROS BRAWL",
+                "seed": 198
             },
             "opponent2": {
-                "id": null
+                "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
+                "name": "VELYON",
+                "seed": 155
             },
             "match_games": []
         },
