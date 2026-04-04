@@ -77880,7 +77880,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "261ad1e4-2a23-11f1-a1b1-46a2b74fddf4",
                 "name": "Nové Veselé",
@@ -78940,7 +78940,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "c7c3e3b0-2a18-11f1-a1a7-56eb118d1a98",
                 "name": "R-T",
@@ -80360,18 +80360,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa30b596-2a9d-11f1-a848-56eb118d1a98",
                 "name": "Rank 30 aura",
-                "seed": 509
+                "seed": 509,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ae51d538-2a98-11f1-ba08-46a2b74fddf4",
                 "name": "TEAM SERIOS",
-                "seed": 1540
+                "seed": 1540,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "aa30b596-2a9d-11f1-a848-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ae51d538-2a98-11f1-ba08-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "aa30b596-2a9d-11f1-a848-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ae51d538-2a98-11f1-ba08-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2308,
@@ -88720,7 +88755,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "f57e83ca-289f-11f1-9a60-1662e184e72d",
                 "name": "K8",
@@ -88860,7 +88895,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "caf7d7aa-2ade-11f1-9542-46a2b74fddf4",
                 "name": "Shooting Stars",
@@ -90240,7 +90275,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "f9830a0e-289f-11f1-ae05-1662e184e72d",
                 "name": "Micii poneii",
@@ -91200,7 +91235,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "fa02337e-289f-11f1-bdaf-1662e184e72d",
                 "name": "HessK Gaming",
@@ -97746,7 +97781,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa30b596-2a9d-11f1-a848-56eb118d1a98",
+                "name": "Rank 30 aura",
+                "seed": 509
             },
             "opponent2": {
                 "id": null
