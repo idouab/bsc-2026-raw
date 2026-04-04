@@ -9222,18 +9222,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ba825c0c-2a56-11f1-8ac5-52998dd971f0",
                 "name": "はろたる",
-                "seed": 251
+                "seed": 251,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ccaa0cc0-2f53-11f1-b28f-f60f4bfee8f8",
                 "name": "NGU",
-                "seed": 262
+                "seed": 262,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ba825c0c-2a56-11f1-8ac5-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ccaa0cc0-2f53-11f1-b28f-f60f4bfee8f8",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ba825c0c-2a56-11f1-8ac5-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ccaa0cc0-2f53-11f1-b28f-f60f4bfee8f8",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ba825c0c-2a56-11f1-8ac5-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ccaa0cc0-2f53-11f1-b28f-f60f4bfee8f8",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -11969,7 +12019,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "ba825c0c-2a56-11f1-8ac5-52998dd971f0",
+                "name": "はろたる",
+                "seed": 251
             },
             "match_games": []
         },
