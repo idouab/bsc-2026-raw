@@ -63549,18 +63549,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "49532278-2b87-11f1-9ab5-825f661103e6",
                 "name": "tugleagng",
-                "seed": 2023
+                "seed": 2023,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a2b4d2e-29e6-11f1-b3c7-52998dd971f0",
                 "name": "Vision",
-                "seed": 2074
+                "seed": 2074,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "49532278-2b87-11f1-9ab5-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a2b4d2e-29e6-11f1-b3c7-52998dd971f0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "49532278-2b87-11f1-9ab5-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a2b4d2e-29e6-11f1-b3c7-52998dd971f0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1347,
@@ -88523,7 +88558,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "49532278-2b87-11f1-9ab5-825f661103e6",
+                "name": "tugleagng",
+                "seed": 2023
             },
             "match_games": []
         },
