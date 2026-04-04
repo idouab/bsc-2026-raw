@@ -11651,18 +11651,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
                 "name": "Team Return🌀²",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "79c53b88-2fb7-11f1-ae2a-5a574d532032",
                 "name": "FOX E-SPORT",
-                "seed": 420
+                "seed": 420,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79c53b88-2fb7-11f1-ae2a-5a574d532032",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "79c53b88-2fb7-11f1-ae2a-5a574d532032",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79c53b88-2fb7-11f1-ae2a-5a574d532032",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 80,
@@ -18977,10 +19027,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                "name": "Team Return🌀²",
+                "seed": 93
             },
             "opponent2": {
-                "id": null
+                "id": "5d70a174-2a54-11f1-85a1-56eb118d1a98",
+                "name": "SSC NOVA",
+                "seed": 349
             },
             "match_games": []
         },
