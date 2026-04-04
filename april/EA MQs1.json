@@ -19983,18 +19983,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a983ef32-289f-11f1-9257-1662e184e72d",
                 "name": "りくるーとおじさん",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
                 "name": "akathinman",
-                "seed": 36
+                "seed": 36,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a88356ae-289f-11f1-96e4-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 459,
@@ -20403,18 +20438,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
                 "name": "サ終",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
                 "name": "누구때메 본계 챔쉽 실패",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "a89a88a6-289f-11f1-b8c5-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -20695,7 +20765,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                "name": "りくるーとおじさん",
+                "seed": 29
             },
             "match_games": []
         },
