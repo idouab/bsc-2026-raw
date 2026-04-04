@@ -107464,15 +107464,49 @@
             "opponent1": {
                 "id": "72e647d4-2ecd-11f1-afa9-3291caf45441",
                 "name": "CEP Esport",
-                "seed": 963
+                "seed": 963,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f954db3e-289f-11f1-b05d-1662e184e72d",
                 "name": "GSRT TEAM",
                 "seed": 1086,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "72e647d4-2ecd-11f1-afa9-3291caf45441",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f954db3e-289f-11f1-b05d-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "72e647d4-2ecd-11f1-afa9-3291caf45441",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f954db3e-289f-11f1-b05d-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2835,
