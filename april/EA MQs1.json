@@ -17966,18 +17966,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a959b370-289f-11f1-a217-1662e184e72d",
                 "name": "MC|Shavava",
-                "seed": 15
+                "seed": 15,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f5c95814-2b7e-11f1-90eb-825f661103e6",
                 "name": "クリリン",
-                "seed": 143
+                "seed": 143,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a959b370-289f-11f1-a217-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5c95814-2b7e-11f1-90eb-825f661103e6",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a959b370-289f-11f1-a217-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f5c95814-2b7e-11f1-90eb-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a959b370-289f-11f1-a217-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f5c95814-2b7e-11f1-90eb-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 422,
@@ -19867,10 +19917,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f5c95814-2b7e-11f1-90eb-825f661103e6",
+                "name": "クリリン",
+                "seed": 143
             },
             "opponent2": {
-                "id": null
+                "id": "a9fd6aba-289f-11f1-a361-1662e184e72d",
+                "name": "ボリビア国際空港",
+                "seed": 50
             },
             "match_games": []
         },
