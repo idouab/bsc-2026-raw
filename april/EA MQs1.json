@@ -21444,18 +21444,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
                 "name": "モーティス絶対使わないです",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a983ef32-289f-11f1-9257-1662e184e72d",
                 "name": "りくるーとおじさん",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a8d24868-289f-11f1-9c94-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a983ef32-289f-11f1-9257-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 486,
