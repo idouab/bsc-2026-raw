@@ -10747,18 +10747,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
                 "name": "モングラール建築",
-                "seed": 84
+                "seed": 84,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5951289a-29d5-11f1-bc98-56eb118d1a98",
                 "name": "笑えねーよチクショー",
-                "seed": 173
+                "seed": 173,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5951289a-29d5-11f1-bc98-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5951289a-29d5-11f1-bc98-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 305,
@@ -11022,18 +11057,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "d368f93a-2cc0-11f1-b760-825f661103e6",
                 "name": "MarZ Esports ☄️",
-                "seed": 76
+                "seed": 76,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "975b3798-29da-11f1-a57a-46a2b74fddf4",
                 "name": "8MAXあきなたん大好き💕💕",
-                "seed": 181
+                "seed": 181,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d368f93a-2cc0-11f1-b760-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "975b3798-29da-11f1-a57a-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d368f93a-2cc0-11f1-b760-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "975b3798-29da-11f1-a57a-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 317,
@@ -11182,18 +11252,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9311be0-289f-11f1-9260-1662e184e72d",
                 "name": "BEGINNER BOYS",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "968896cc-29de-11f1-ba72-825f661103e6",
                 "name": "Whistle Quartetto",
-                "seed": 191
+                "seed": 191,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9311be0-289f-11f1-9260-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "968896cc-29de-11f1-ba72-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9311be0-289f-11f1-9260-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "968896cc-29de-11f1-ba72-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 325,
