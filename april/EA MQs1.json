@@ -18111,18 +18111,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a906d5ce-289f-11f1-8e99-1662e184e72d",
                 "name": "愛に導かれしわらび餅",
-                "seed": 26
+                "seed": 26,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
                 "name": "Sigma Boys",
-                "seed": 154
+                "seed": 154,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a906d5ce-289f-11f1-8e99-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a906d5ce-289f-11f1-8e99-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a906d5ce-289f-11f1-8e99-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 428,
@@ -19565,7 +19615,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e01a6382-2ab6-11f1-8d25-46a2b74fddf4",
+                "name": "Sigma Boys",
+                "seed": 154
             },
             "opponent2": {
                 "id": null
