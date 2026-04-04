@@ -5895,18 +5895,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0ca585c4-2a50-11f1-89b9-825f661103e6",
                 "name": "WTS",
-                "seed": 249
+                "seed": 249,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e19a9a60-2f7f-11f1-88a4-52d63ee2a8d5",
                 "name": "MRS",
-                "seed": 264
+                "seed": 264,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "0ca585c4-2a50-11f1-89b9-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e19a9a60-2f7f-11f1-88a4-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0ca585c4-2a50-11f1-89b9-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e19a9a60-2f7f-11f1-88a4-52d63ee2a8d5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -9890,7 +9925,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "e19a9a60-2f7f-11f1-88a4-52d63ee2a8d5",
+                "name": "MRS",
+                "seed": 264
             },
             "match_games": []
         },
