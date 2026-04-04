@@ -24640,18 +24640,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a1435010-2b9c-11f1-8330-56eb118d1a98",
                 "name": "Kite Esports",
-                "seed": 272
+                "seed": 272,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7eef1534-28a0-11f1-a1da-1662e184e72d",
                 "name": "AMOSTRADINHOS",
-                "seed": 113
+                "seed": 113,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a1435010-2b9c-11f1-8330-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7eef1534-28a0-11f1-a1da-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a1435010-2b9c-11f1-8330-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7eef1534-28a0-11f1-a1da-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a1435010-2b9c-11f1-8330-56eb118d1a98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7eef1534-28a0-11f1-a1da-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 390,
@@ -26575,18 +26625,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7fefa9ee-28a0-11f1-8e0e-1662e184e72d",
                 "name": "Aurinha Gameplays",
-                "seed": 39
+                "seed": 39,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aa119728-2adf-11f1-a3ec-52998dd971f0",
                 "name": "CEJ | STRONG",
-                "seed": 167
+                "seed": 167,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7fefa9ee-28a0-11f1-8e0e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa119728-2adf-11f1-a3ec-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7fefa9ee-28a0-11f1-8e0e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa119728-2adf-11f1-a3ec-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 429,
@@ -26705,18 +26790,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8032f9d8-28a0-11f1-94e8-1662e184e72d",
                 "name": "Red Hawk Retired",
-                "seed": 42
+                "seed": 42,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
                 "name": "Deveze gay",
-                "seed": 426
+                "seed": 426,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8032f9d8-28a0-11f1-94e8-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8032f9d8-28a0-11f1-94e8-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8032f9d8-28a0-11f1-94e8-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 433,
@@ -27592,10 +27727,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a1435010-2b9c-11f1-8330-56eb118d1a98",
+                "name": "Kite Esports",
+                "seed": 272
             },
             "opponent2": {
-                "id": null
+                "id": "1e146d68-2c88-11f1-b41e-46a2b74fddf4",
+                "name": "FEMBOY LOVERS",
+                "seed": 336
             },
             "match_games": []
         },
