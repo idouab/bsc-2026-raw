@@ -29569,18 +29569,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
                 "name": "brawlcervo",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
                 "name": "BetinhasBS",
-                "seed": 342
+                "seed": 342,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ab63c6-2c9d-11f1-a735-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 481,
@@ -29876,7 +29926,9 @@
                 "seed": 374
             },
             "opponent2": {
-                "id": null
+                "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                "name": "brawlcervo",
+                "seed": 22
             },
             "match_games": []
         }
