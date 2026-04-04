@@ -9772,18 +9772,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9a4f5ba-289f-11f1-b52e-1662e184e72d",
                 "name": "White rice",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8019593a-2a5b-11f1-8d18-52998dd971f0",
                 "name": "KMK",
-                "seed": 257
+                "seed": 257,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9a4f5ba-289f-11f1-b52e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8019593a-2a5b-11f1-8d18-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9a4f5ba-289f-11f1-b52e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8019593a-2a5b-11f1-8d18-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 258,
@@ -9852,18 +9887,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9be03d4-289f-11f1-8895-1662e184e72d",
                 "name": "竹和路小鋼砲",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
                 "name": "幼女縛りのバナクレ",
-                "seed": 225
+                "seed": 225,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9be03d4-289f-11f1-8895-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9be03d4-289f-11f1-8895-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 262,
@@ -12982,18 +13052,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "b6863376-2c40-11f1-bb56-46a2b74fddf4",
                 "name": "構えのポーズ✋",
-                "seed": 54
+                "seed": 54,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a594582a-29e5-11f1-9f3c-52998dd971f0",
                 "name": "SIGMA FORCE",
-                "seed": 203
+                "seed": 203,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b6863376-2c40-11f1-bb56-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a594582a-29e5-11f1-9f3c-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b6863376-2c40-11f1-bb56-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a594582a-29e5-11f1-9f3c-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 380,
@@ -13174,7 +13279,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9a4f5ba-289f-11f1-b52e-1662e184e72d",
+                "name": "White rice",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -13206,7 +13313,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "45f90566-29f2-11f1-9ea5-52998dd971f0",
+                "name": "幼女縛りのバナクレ",
+                "seed": 225
             },
             "opponent2": {
                 "id": null
@@ -14170,7 +14279,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b6863376-2c40-11f1-bb56-46a2b74fddf4",
+                "name": "構えのポーズ✋",
+                "seed": 54
             },
             "opponent2": {
                 "id": null
