@@ -19026,18 +19026,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d65ee2e6-2b79-11f1-98b2-46a2b74fddf4",
                 "name": "ANGELS",
-                "seed": 72
+                "seed": 72,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
                 "name": "Magnética",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d65ee2e6-2b79-11f1-98b2-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "d65ee2e6-2b79-11f1-98b2-46a2b74fddf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 277,
@@ -19957,18 +19992,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
                 "name": "NOVA BRASIL",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a4de782-2b23-11f1-84dd-825f661103e6",
                 "name": "TheDragonStorm",
-                "seed": 252
+                "seed": 252,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a4de782-2b23-11f1-84dd-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a4de782-2b23-11f1-84dd-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a4de782-2b23-11f1-84dd-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 306,
@@ -20447,18 +20532,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "37b5a2e4-2d25-11f1-abc8-56eb118d1a98",
                 "name": "Brawls BR",
-                "seed": 85
+                "seed": 85,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "09b207de-2a50-11f1-91f5-46a2b74fddf4",
                 "name": "Kai-Zen",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "37b5a2e4-2d25-11f1-abc8-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09b207de-2a50-11f1-91f5-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "37b5a2e4-2d25-11f1-abc8-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "09b207de-2a50-11f1-91f5-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 321,
@@ -21137,18 +21257,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "06418cc2-2bc8-11f1-830c-825f661103e6",
                 "name": "LOS BECERRITOS",
-                "seed": 90
+                "seed": 90,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa119728-2adf-11f1-a3ec-52998dd971f0",
                 "name": "CEJ | STRONG",
-                "seed": 167
+                "seed": 167,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "06418cc2-2bc8-11f1-830c-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa119728-2adf-11f1-a3ec-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "06418cc2-2bc8-11f1-830c-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa119728-2adf-11f1-a3ec-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 345,
@@ -22606,7 +22761,9 @@
                 "seed": 313
             },
             "opponent2": {
-                "id": null
+                "id": "a962742c-2c6b-11f1-8420-52998dd971f0",
+                "name": "Magnética",
+                "seed": 328
             },
             "match_games": []
         },
@@ -22861,7 +23018,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                "name": "NOVA BRASIL",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -22982,7 +23141,9 @@
                 "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "09b207de-2a50-11f1-91f5-46a2b74fddf4",
+                "name": "Kai-Zen",
+                "seed": 341
             },
             "match_games": []
         },
