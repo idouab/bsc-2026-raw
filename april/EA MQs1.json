@@ -11937,18 +11937,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9282526-289f-11f1-87f7-1662e184e72d",
                 "name": "Spec",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2c2d11e4-2a48-11f1-8668-46a2b74fddf4",
                 "name": "cube_soccer",
-                "seed": 245
+                "seed": 245,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9282526-289f-11f1-87f7-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2c2d11e4-2a48-11f1-8668-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9282526-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c2d11e4-2a48-11f1-8668-46a2b74fddf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a9282526-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c2d11e4-2a48-11f1-8668-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 314,
@@ -13562,18 +13612,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9822724-289f-11f1-b801-1662e184e72d",
                 "name": "TEAM ED",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b21b108e-29e0-11f1-b66e-56eb118d1a98",
                 "name": "Prove Esports",
-                "seed": 195
+                "seed": 195,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9822724-289f-11f1-b801-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b21b108e-29e0-11f1-b66e-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9822724-289f-11f1-b801-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b21b108e-29e0-11f1-b66e-56eb118d1a98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a9822724-289f-11f1-b801-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b21b108e-29e0-11f1-b66e-56eb118d1a98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 356,
@@ -15113,10 +15213,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9282526-289f-11f1-87f7-1662e184e72d",
+                "name": "Spec",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "401c7182-2a92-11f1-b36c-825f661103e6",
+                "name": "おーらと愉快な珍騎士たち",
+                "seed": 140
             },
             "match_games": []
         },
@@ -15475,10 +15579,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9822724-289f-11f1-b801-1662e184e72d",
+                "name": "TEAM ED",
+                "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "26981216-2b78-11f1-b4d0-56eb118d1a98",
+                "name": "DHI Esports",
+                "seed": 190
             },
             "match_games": []
         },
