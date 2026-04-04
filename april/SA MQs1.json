@@ -9611,7 +9611,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "5dd0965e-2afb-11f1-ac85-56eb118d1a98",
                 "name": "Brawlnies",
@@ -11915,18 +11915,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3432367a-2f4e-11f1-b514-4ecd99a3876c",
                 "name": "Attack on Peak",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a127f440-2e18-11f1-8090-3a307108515a",
                 "name": "IMP",
-                "seed": 378
+                "seed": 378,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3432367a-2f4e-11f1-b514-4ecd99a3876c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a127f440-2e18-11f1-8090-3a307108515a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3432367a-2f4e-11f1-b514-4ecd99a3876c",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a127f440-2e18-11f1-8090-3a307108515a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 165,
