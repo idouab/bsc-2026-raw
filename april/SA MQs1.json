@@ -9204,14 +9204,48 @@
                 "id": "7f6a28be-28a0-11f1-b569-1662e184e72d",
                 "name": "TilinesFC",
                 "seed": 97,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
                 "name": "Agora Sim",
-                "seed": 416
+                "seed": 416,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7f6a28be-28a0-11f1-b569-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "7f6a28be-28a0-11f1-b569-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 12,
