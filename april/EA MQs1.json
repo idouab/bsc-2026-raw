@@ -11042,18 +11042,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a95cb912-289f-11f1-92ee-1662e184e72d",
                 "name": "GHKともひさ",
-                "seed": 125
+                "seed": 125,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3f1f0648-2a81-11f1-b623-52998dd971f0",
                 "name": "Uo Reishou",
-                "seed": 132
+                "seed": 132,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a95cb912-289f-11f1-92ee-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3f1f0648-2a81-11f1-b623-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a95cb912-289f-11f1-92ee-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3f1f0648-2a81-11f1-b623-52998dd971f0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 291,
@@ -11237,18 +11272,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7e71d53a-2de4-11f1-abd5-6e87972d1969",
                 "name": "相手BOT説",
-                "seed": 116
+                "seed": 116,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
                 "name": "北海道No.🐶",
-                "seed": 141
+                "seed": 141,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7e71d53a-2de4-11f1-abd5-6e87972d1969",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7e71d53a-2de4-11f1-abd5-6e87972d1969",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7e71d53a-2de4-11f1-abd5-6e87972d1969",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "901f081e-2b7a-11f1-bf9d-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 299,
@@ -11837,18 +11922,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a69f8d8-2a6d-11f1-84c0-56eb118d1a98",
                 "name": "AW",
-                "seed": 117
+                "seed": 117,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "401c7182-2a92-11f1-b36c-825f661103e6",
                 "name": "おーらと愉快な珍騎士たち",
-                "seed": 140
+                "seed": 140,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8a69f8d8-2a6d-11f1-84c0-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "401c7182-2a92-11f1-b36c-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8a69f8d8-2a6d-11f1-84c0-56eb118d1a98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "401c7182-2a92-11f1-b36c-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 315,
@@ -14596,7 +14716,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "a95cb912-289f-11f1-92ee-1662e184e72d",
+                "name": "GHKともひさ",
+                "seed": 125
             },
             "match_games": []
         },
