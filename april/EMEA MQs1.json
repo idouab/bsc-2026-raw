@@ -55203,18 +55203,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d79f2380-2b85-11f1-907b-825f661103e6",
                 "name": "DMX",
-                "seed": 2021
+                "seed": 2021,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7614e0be-29e6-11f1-a3a5-825f661103e6",
                 "name": "EN Gaming",
-                "seed": 2076
+                "seed": 2076,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "d79f2380-2b85-11f1-907b-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7614e0be-29e6-11f1-a3a5-825f661103e6",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d79f2380-2b85-11f1-907b-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7614e0be-29e6-11f1-a3a5-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 835,
@@ -83492,7 +83527,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "d79f2380-2b85-11f1-907b-825f661103e6",
+                "name": "DMX",
+                "seed": 2021
             },
             "match_games": []
         },
