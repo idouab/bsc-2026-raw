@@ -21705,18 +21705,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cae6e8d6-28a0-11f1-990c-1662e184e72d",
                 "name": "Kageboshi",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
                 "name": "MT Academy",
-                "seed": 301
+                "seed": 301,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cae6e8d6-28a0-11f1-990c-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cae6e8d6-28a0-11f1-990c-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 304,
@@ -26144,10 +26179,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1d887eac-2a49-11f1-85fc-825f661103e6",
+                "name": "MT Academy",
+                "seed": 301
             },
             "opponent2": {
-                "id": null
+                "id": "766e6bc4-2d6b-11f1-a09c-52998dd971f0",
+                "name": "HEZIL",
+                "seed": 340
             },
             "match_games": []
         },
