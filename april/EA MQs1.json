@@ -16696,18 +16696,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
                 "name": "じゅんぽESPORTS",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
                 "name": "うるとらまん",
-                "seed": 148
+                "seed": 148,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4ed7d5c-2aa9-11f1-bfbe-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 408,
@@ -17316,18 +17351,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
                 "name": "だんごむしのまんまるごっこ",
-                "seed": 210
+                "seed": 210,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
                 "name": "No pro",
-                "seed": 175
+                "seed": 175,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "c7a7ee9a-2bc5-11f1-9442-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 425,
@@ -18457,10 +18527,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9fe83b4-289f-11f1-a113-1662e184e72d",
+                "name": "じゅんぽESPORTS",
+                "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "a9162c40-289f-11f1-8e8f-1662e184e72d",
+                "name": "モングラール建築",
+                "seed": 84
             },
             "match_games": []
         },
@@ -18600,7 +18674,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "4ca404ea-29d6-11f1-a9ff-46a2b74fddf4",
+                "name": "No pro",
+                "seed": 175
             },
             "match_games": []
         },
