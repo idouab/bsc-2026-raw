@@ -10977,18 +10977,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a9779f84-289f-11f1-8529-1662e184e72d",
                 "name": "Genius  Dominion",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "19b13e5e-2a62-11f1-9e1d-56eb118d1a98",
                 "name": "明治大学",
-                "seed": 261
+                "seed": 261,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9779f84-289f-11f1-8529-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "19b13e5e-2a62-11f1-9e1d-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a9779f84-289f-11f1-8529-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "19b13e5e-2a62-11f1-9e1d-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 306,
@@ -12452,7 +12487,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "6254f03c-2d1f-11f1-9c5d-56eb118d1a98",
                 "name": "Egoist",
@@ -13459,7 +13494,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a9779f84-289f-11f1-8529-1662e184e72d",
+                "name": "Genius  Dominion",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
