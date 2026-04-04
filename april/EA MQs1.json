@@ -16601,18 +16601,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
                 "name": "BleK",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
                 "name": "すたんは小人図鑑",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a973d764-289f-11f1-9ae5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 412,
@@ -17286,18 +17321,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9586e70-289f-11f1-9702-1662e184e72d",
                 "name": "デカチン高校尿道部",
-                "seed": 46
+                "seed": 46,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
                 "name": "ケツデカ高校シリアナ部の意思を引き継いで",
-                "seed": 174
+                "seed": 174,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a9586e70-289f-11f1-9702-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a9586e70-289f-11f1-9702-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 441,
@@ -17711,7 +17781,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "40bf7a96-2ac7-11f1-bb33-56eb118d1a98",
+                "name": "すたんは小人図鑑",
+                "seed": 101
             },
             "opponent2": {
                 "id": null
