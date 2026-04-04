@@ -29894,18 +29894,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
                 "name": "LOUD Academy",
-                "seed": 189
+                "seed": 189,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
                 "name": "Team Return🌀²",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fa27214-28a0-11f1-816e-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 486,
@@ -30199,18 +30234,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
                 "name": "FOFOQUEIROS BRAWL",
-                "seed": 198
+                "seed": 198,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
                 "name": "VELYON",
-                "seed": 155
+                "seed": 155,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8a9b11dc-2fa6-11f1-acc1-dadc3137be53",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b7ee8ba2-2c9d-11f1-be83-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 496,
@@ -30219,18 +30289,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "02f560d4-2dee-11f1-ba60-ea723bbfd523",
                 "name": "Magnum Empire",
-                "seed": 374
+                "seed": 374,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
                 "name": "brawlcervo",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "02f560d4-2dee-11f1-ba60-ea723bbfd523",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "02f560d4-2dee-11f1-ba60-ea723bbfd523",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8089579c-28a0-11f1-8c3f-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
