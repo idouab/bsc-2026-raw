@@ -6486,11 +6486,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3833d836-2a59-11f1-bcaf-825f661103e6",
                 "name": "NSS",
-                "seed": 253
+                "seed": 253,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
@@ -10334,7 +10335,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "d6492f7a-2f3c-11f1-b79f-1e2ea30bad9c",
+                "name": "高嶺の御影さん",
+                "seed": 260
             },
             "match_games": []
         },
