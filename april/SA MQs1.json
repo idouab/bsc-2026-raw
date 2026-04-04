@@ -24700,18 +24700,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "33d2d65a-2baf-11f1-80d1-825f661103e6",
                 "name": "T Lurking",
-                "seed": 280
+                "seed": 280,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f10c2dc4-2b15-11f1-9800-46a2b74fddf4",
                 "name": "DBN Team",
-                "seed": 105
+                "seed": 105,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "33d2d65a-2baf-11f1-80d1-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f10c2dc4-2b15-11f1-9800-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "33d2d65a-2baf-11f1-80d1-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f10c2dc4-2b15-11f1-9800-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 400,
@@ -24760,18 +24795,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "6ca39450-2f89-11f1-866f-123cf9354952",
                 "name": "Brazuka",
-                "seed": 196
+                "seed": 196,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
                 "name": "LOUD Academy",
-                "seed": 189
+                "seed": 189,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6ca39450-2f89-11f1-866f-123cf9354952",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "6ca39450-2f89-11f1-866f-123cf9354952",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8735ef1e-29fa-11f1-b08a-825f661103e6",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 403,
@@ -24860,18 +24930,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
                 "name": "TRIBO F/A",
-                "seed": 276
+                "seed": 276,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "37e493e4-2b25-11f1-be69-56eb118d1a98",
                 "name": "The Jackets 67",
-                "seed": 109
+                "seed": 109,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37e493e4-2b25-11f1-be69-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37e493e4-2b25-11f1-be69-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 408,
@@ -25814,7 +25919,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f10c2dc4-2b15-11f1-9800-46a2b74fddf4",
+                "name": "DBN Team",
+                "seed": 105
             },
             "opponent2": {
                 "id": null
@@ -25878,7 +25985,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
+                "name": "TRIBO F/A",
+                "seed": 276
             },
             "opponent2": {
                 "id": null
