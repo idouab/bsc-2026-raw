@@ -15029,18 +15029,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf1e0536-2fbf-11f1-a5fc-824b4a7ed9fa",
                 "name": "The Quintuplets",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8afdfd50-2a43-11f1-a246-46a2b74fddf4",
                 "name": "FAMILIA",
-                "seed": 311
+                "seed": 311,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "bf1e0536-2fbf-11f1-a5fc-824b4a7ed9fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8afdfd50-2a43-11f1-a246-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "bf1e0536-2fbf-11f1-a5fc-824b4a7ed9fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8afdfd50-2a43-11f1-a246-46a2b74fddf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 183,
@@ -15546,11 +15581,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6a6a9b10-29fe-11f1-9211-52998dd971f0",
                 "name": "Faklaze",
-                "seed": 195
+                "seed": 195,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "02503c7e-2be8-11f1-871f-46a2b74fddf4",
@@ -17362,18 +17398,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "42272fb6-2e26-11f1-92e9-3a307108515a",
                 "name": "MRTA",
-                "seed": 182
+                "seed": 182,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4f88318a-2a4a-11f1-b312-52998dd971f0",
                 "name": "Açai United",
-                "seed": 331
+                "seed": 331,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "42272fb6-2e26-11f1-92e9-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f88318a-2a4a-11f1-b312-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "42272fb6-2e26-11f1-92e9-3a307108515a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f88318a-2a4a-11f1-b312-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 249,
@@ -19523,7 +19594,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "bf1e0536-2fbf-11f1-a5fc-824b4a7ed9fa",
+                "name": "The Quintuplets",
+                "seed": 202
             },
             "match_games": []
         },
@@ -19673,7 +19746,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "02503c7e-2be8-11f1-871f-46a2b74fddf4",
+                "name": "Rechuchanbrawl",
+                "seed": 318
             },
             "match_games": []
         },
@@ -20169,7 +20244,9 @@
                 "seed": 438
             },
             "opponent2": {
-                "id": null
+                "id": "42272fb6-2e26-11f1-92e9-3a307108515a",
+                "name": "MRTA",
+                "seed": 182
             },
             "match_games": []
         },
