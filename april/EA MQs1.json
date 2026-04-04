@@ -20168,18 +20168,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "09ecc192-2ce6-11f1-b3b4-825f661103e6",
                 "name": "Devilish",
-                "seed": 110
+                "seed": 110,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
                 "name": "ケツデカ高校シリアナ部の意思を引き継いで",
-                "seed": 174
+                "seed": 174,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "09ecc192-2ce6-11f1-b3b4-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "09ecc192-2ce6-11f1-b3b4-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53b0b9aa-2b47-11f1-9f00-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 477,
