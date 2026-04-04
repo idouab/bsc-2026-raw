@@ -20448,18 +20448,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
                 "name": "もりりこ",
-                "seed": 127
+                "seed": 127,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
                 "name": "Reach for summit",
-                "seed": 194
+                "seed": 194,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "450742b4-2b80-11f1-848c-56eb118d1a98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 466,
@@ -21425,10 +21475,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b996072e-2b52-11f1-b82e-46a2b74fddf4",
+                "name": "もりりこ",
+                "seed": 127
             },
             "opponent2": {
-                "id": null
+                "id": "1250a870-2ac6-11f1-9afd-46a2b74fddf4",
+                "name": "Beat it",
+                "seed": 162
             },
             "match_games": []
         },
