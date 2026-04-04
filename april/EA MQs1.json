@@ -14307,18 +14307,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38dafb18-2aac-11f1-bcaf-825f661103e6",
                 "name": "おちんぽっぽー",
-                "seed": 87
+                "seed": 87,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
                 "name": "누구때메 본계 챔쉽 실패",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "38dafb18-2aac-11f1-bcaf-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "38dafb18-2aac-11f1-bcaf-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 353,
@@ -16750,7 +16785,9 @@
                 "seed": 215
             },
             "opponent2": {
-                "id": null
+                "id": "a7040ce4-2b1d-11f1-b7ec-46a2b74fddf4",
+                "name": "누구때메 본계 챔쉽 실패",
+                "seed": 170
             },
             "match_games": []
         },
