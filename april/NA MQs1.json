@@ -29829,18 +29829,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d27378e6-2ef2-11f1-a15e-da012276e0c4",
                 "name": "KSA SPORTS",
-                "seed": 105
+                "seed": 105,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
                 "name": "LB|Esports",
-                "seed": 88
+                "seed": 88,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "d27378e6-2ef2-11f1-a15e-da012276e0c4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "d27378e6-2ef2-11f1-a15e-da012276e0c4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 457,
@@ -30180,7 +30215,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82ea7fec-2a68-11f1-af8f-825f661103e6",
                 "name": "SNG|Supernova Gaze",
@@ -30189,7 +30224,8 @@
             "opponent2": {
                 "id": "437a0c40-2b1e-11f1-85f6-52998dd971f0",
                 "name": "VZLA DESTRUCTORES",
-                "seed": 167
+                "seed": 167,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -30599,7 +30635,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "4693a808-2b98-11f1-a1a3-52998dd971f0",
+                "name": "LB|Esports",
+                "seed": 88
             },
             "match_games": []
         },
