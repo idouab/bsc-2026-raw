@@ -12326,7 +12326,7 @@
             "name": "Bossy",
             "players": [
                 {
-                    "name": "Sweetro092🤍",
+                    "name": "Nicola Zalewski",
                     "gamerTag": "#28QGUGJ8R"
                 },
                 {
@@ -71413,18 +71413,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e961d0c-29e1-11f1-bb81-52998dd971f0",
                 "name": "BLOSSOM",
-                "seed": 2022
+                "seed": 2022,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0ea00a90-2b98-11f1-a235-46a2b74fddf4",
                 "name": "North Korea",
-                "seed": 2075
+                "seed": 2075,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2e961d0c-29e1-11f1-bb81-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0ea00a90-2b98-11f1-a235-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "2e961d0c-29e1-11f1-bb81-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0ea00a90-2b98-11f1-a235-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1859,
@@ -92998,7 +93033,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "0ea00a90-2b98-11f1-a235-46a2b74fddf4",
+                "name": "North Korea",
+                "seed": 2075
             },
             "match_games": []
         },
