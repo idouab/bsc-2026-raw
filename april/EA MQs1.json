@@ -20733,18 +20733,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df5e2cea-29c0-11f1-80e4-4e7878594238",
                 "name": "Galaxy Collapse",
-                "seed": 155
+                "seed": 155,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
                 "name": "ケツデカ高校尻アナ部2026ver2.0",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "df5e2cea-29c0-11f1-80e4-4e7878594238",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "df5e2cea-29c0-11f1-80e4-4e7878594238",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0ff2a38-2ab5-11f1-875c-52998dd971f0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 479,
@@ -21114,7 +21149,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "df5e2cea-29c0-11f1-80e4-4e7878594238",
+                "name": "Galaxy Collapse",
+                "seed": 155
             },
             "match_games": []
         },
