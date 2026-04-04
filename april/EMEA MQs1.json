@@ -83599,18 +83599,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f708ca0c-289f-11f1-bc85-1662e184e72d",
                 "name": "IrpinWolves",
-                "seed": 312
+                "seed": 312,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "653fb574-2aeb-11f1-8f95-825f661103e6",
                 "name": "AURA TEAM",
-                "seed": 1737
+                "seed": 1737,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f708ca0c-289f-11f1-bc85-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "653fb574-2aeb-11f1-8f95-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f708ca0c-289f-11f1-bc85-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "653fb574-2aeb-11f1-8f95-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2264,
@@ -92866,18 +92901,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0bfc15c2-2a08-11f1-91eb-52998dd971f0",
                 "name": "MMI|Esport",
-                "seed": 293
+                "seed": 293,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dd734754-2c7b-11f1-a1c2-46a2b74fddf4",
                 "name": "FOCUS",
-                "seed": 1756
+                "seed": 1756,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0bfc15c2-2a08-11f1-91eb-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd734754-2c7b-11f1-a1c2-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0bfc15c2-2a08-11f1-91eb-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd734754-2c7b-11f1-a1c2-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2488,
@@ -118542,10 +118612,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f708ca0c-289f-11f1-bc85-1662e184e72d",
+                "name": "IrpinWolves",
+                "seed": 312
             },
             "opponent2": {
-                "id": null
+                "id": "81d894fc-2a7e-11f1-a893-56eb118d1a98",
+                "name": "BESENVAL ARENA",
+                "seed": 713
             },
             "match_games": []
         },
@@ -120778,10 +120852,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd734754-2c7b-11f1-a1c2-46a2b74fddf4",
+                "name": "FOCUS",
+                "seed": 1756
             },
             "opponent2": {
-                "id": null
+                "id": "af6e2126-2a8c-11f1-bf38-825f661103e6",
+                "name": "ST |MTTR",
+                "seed": 732
             },
             "match_games": []
         },
