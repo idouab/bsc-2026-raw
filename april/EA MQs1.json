@@ -19908,18 +19908,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "612db9da-29fc-11f1-8931-52998dd971f0",
                 "name": "CAP",
-                "seed": 233
+                "seed": 233,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a8df15ac-289f-11f1-a077-1662e184e72d",
                 "name": "猫星💫",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "612db9da-29fc-11f1-8931-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8df15ac-289f-11f1-a077-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "612db9da-29fc-11f1-8931-52998dd971f0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a8df15ac-289f-11f1-a077-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "612db9da-29fc-11f1-8931-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a8df15ac-289f-11f1-a077-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 457,
@@ -21097,7 +21147,9 @@
                 "seed": 137
             },
             "opponent2": {
-                "id": null
+                "id": "a8df15ac-289f-11f1-a077-1662e184e72d",
+                "name": "猫星💫",
+                "seed": 41
             },
             "match_games": []
         },
