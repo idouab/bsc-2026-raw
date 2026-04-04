@@ -25970,18 +25970,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82cc2142-2af8-11f1-a82e-52998dd971f0",
                 "name": "7L",
-                "seed": 449
+                "seed": 449,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
                 "name": "Pura Doble S",
-                "seed": 192
+                "seed": 192,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "82cc2142-2af8-11f1-a82e-52998dd971f0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "82cc2142-2af8-11f1-a82e-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "82cc2142-2af8-11f1-a82e-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 387,
@@ -29575,7 +29625,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "ff5ec7f0-2fee-11f1-a88d-4ecd99a3876c",
+                "name": "Pura Doble S",
+                "seed": 192
             },
             "match_games": []
         },
