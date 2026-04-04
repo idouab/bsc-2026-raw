@@ -31387,18 +31387,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cab25102-28a0-11f1-9481-1662e184e72d",
                 "name": "Good Day Lads",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
                 "name": "MX ACADEMY",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cab25102-28a0-11f1-9481-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cab25102-28a0-11f1-9481-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cc96d3ee-28a0-11f1-bf6a-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 484,
@@ -31837,18 +31872,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cba68632-28a0-11f1-9650-1662e184e72d",
                 "name": "PLEW",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
                 "name": "Pin winers",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cba68632-28a0-11f1-9650-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cba68632-28a0-11f1-9650-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cc919f3c-28a0-11f1-a888-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 496,
