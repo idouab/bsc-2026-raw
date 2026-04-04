@@ -29914,18 +29914,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e40e716-2b18-11f1-9b33-825f661103e6",
                 "name": "RMW",
-                "seed": 116
+                "seed": 116,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
                 "name": "TRIBO F/A",
-                "seed": 276
+                "seed": 276,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5e40e716-2b18-11f1-9b33-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "5e40e716-2b18-11f1-9b33-825f661103e6",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a51a73e4-2ba1-11f1-af25-52998dd971f0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 487,
@@ -29934,18 +29969,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
                 "name": "NOVA BRASIL",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
                 "name": "UNESC TEAM",
-                "seed": 421
+                "seed": 421,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "7f5173a0-28a0-11f1-b4b7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5218b7a6-2ac4-11f1-95c3-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 488,
@@ -29974,18 +30044,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "814193de-28a0-11f1-909f-1662e184e72d",
                 "name": "Six Seven",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
                 "name": "Con D. Oriano",
-                "seed": 226
+                "seed": 226,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "814193de-28a0-11f1-909f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "814193de-28a0-11f1-909f-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0dcb864-2af2-11f1-ba55-52998dd971f0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 490,
