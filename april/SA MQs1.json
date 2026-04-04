@@ -19201,7 +19201,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "809f9070-28a0-11f1-a952-1662e184e72d",
                 "name": "Balacubaco",
@@ -19210,7 +19210,8 @@
             "opponent2": {
                 "id": "8794c5d4-2b12-11f1-8c55-46a2b74fddf4",
                 "name": "RAZE Gaming",
-                "seed": 244
+                "seed": 244,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -20481,18 +20482,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81572730-28a0-11f1-b0b1-1662e184e72d",
                 "name": "Perna de Pau United",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "021ef358-2a21-11f1-9e69-56eb118d1a98",
                 "name": "ZetXcalibur",
-                "seed": 243
+                "seed": 243,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "81572730-28a0-11f1-b0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "021ef358-2a21-11f1-9e69-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "81572730-28a0-11f1-b0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "021ef358-2a21-11f1-9e69-56eb118d1a98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 362,
@@ -21283,7 +21319,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "809f9070-28a0-11f1-a952-1662e184e72d",
+                "name": "Balacubaco",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -21795,7 +21833,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81572730-28a0-11f1-b0b1-1662e184e72d",
+                "name": "Perna de Pau United",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
