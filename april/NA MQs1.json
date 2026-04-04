@@ -31487,18 +31487,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
                 "name": "Washed Uncs",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
                 "name": "XS|Xirø Stars",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ca7591ea-28a0-11f1-b5d5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cbf6d97a-28a0-11f1-bc98-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 489,
