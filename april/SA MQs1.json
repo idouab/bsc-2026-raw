@@ -27410,18 +27410,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
                 "name": "Team carreaDITTOS",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "84939ff2-2b00-11f1-9d70-825f661103e6",
                 "name": "Novixus esports",
-                "seed": 110
+                "seed": 110,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84939ff2-2b00-11f1-9d70-825f661103e6",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "84939ff2-2b00-11f1-9d70-825f661103e6",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84939ff2-2b00-11f1-9d70-825f661103e6",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 440,
@@ -28385,7 +28435,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f84491a-28a0-11f1-83d1-1662e184e72d",
+                "name": "Team carreaDITTOS",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
