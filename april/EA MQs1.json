@@ -8619,18 +8619,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d316130-2e95-11f1-adb1-e69613dfeb47",
                 "name": "ATH_信頼",
-                "seed": 254
+                "seed": 254,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3684146c-2a61-11f1-9c8a-46a2b74fddf4",
                 "name": "出歯と深海の王",
-                "seed": 259
+                "seed": 259,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1d316130-2e95-11f1-adb1-e69613dfeb47",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3684146c-2a61-11f1-9c8a-46a2b74fddf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1d316130-2e95-11f1-adb1-e69613dfeb47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3684146c-2a61-11f1-9c8a-46a2b74fddf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1d316130-2e95-11f1-adb1-e69613dfeb47",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3684146c-2a61-11f1-9c8a-46a2b74fddf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 195,
@@ -11556,7 +11606,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "3684146c-2a61-11f1-9c8a-46a2b74fddf4",
+                "name": "出歯と深海の王",
+                "seed": 259
             },
             "match_games": []
         },
