@@ -28189,18 +28189,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
                 "name": "TIER S",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
                 "name": "ZIKA",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "7f0fe32c-28a0-11f1-b28b-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 453,
@@ -29044,18 +29079,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
                 "name": "CORRIDA DOS RATOS 🐀",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
                 "name": "Deveze gay",
-                "seed": 426
+                "seed": 426,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "8090a2fe-28a0-11f1-b44e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac24c722-2fcd-11f1-b490-5e4bd48a76d1",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -29422,7 +29492,9 @@
                 "seed": 336
             },
             "opponent2": {
-                "id": null
+                "id": "814c9fd6-28a0-11f1-bb8f-1662e184e72d",
+                "name": "ZIKA",
+                "seed": 48
             },
             "match_games": []
         },
