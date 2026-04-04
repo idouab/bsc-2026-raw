@@ -13812,18 +13812,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e1b09d6-2dc2-11f1-8a83-825f661103e6",
                 "name": "SC Gaming",
-                "seed": 78
+                "seed": 78,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
                 "name": "ぺったんこLOVE",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5e1b09d6-2dc2-11f1-8a83-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5e1b09d6-2dc2-11f1-8a83-825f661103e6",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7d13cc56-29da-11f1-9b6b-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 365,
