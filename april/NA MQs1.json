@@ -18667,18 +18667,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aeb155a2-2b2f-11f1-a737-52998dd971f0",
                 "name": "Didlers",
-                "seed": 246
+                "seed": 246,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "11942a5e-2a32-11f1-b7b3-56eb118d1a98",
                 "name": "TUM TUM TUM SAHUR",
-                "seed": 267
+                "seed": 267,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "aeb155a2-2b2f-11f1-a737-52998dd971f0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "11942a5e-2a32-11f1-b7b3-56eb118d1a98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "aeb155a2-2b2f-11f1-a737-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "11942a5e-2a32-11f1-b7b3-56eb118d1a98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "aeb155a2-2b2f-11f1-a737-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "11942a5e-2a32-11f1-b7b3-56eb118d1a98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 243,
@@ -21533,7 +21583,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "11942a5e-2a32-11f1-b7b3-56eb118d1a98",
+                "name": "TUM TUM TUM SAHUR",
+                "seed": 267
             },
             "match_games": []
         },
