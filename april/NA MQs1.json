@@ -32122,18 +32122,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
                 "name": "2026",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "568434cc-2ed5-11f1-a91e-3291caf45441",
                 "name": "ur mom gaming",
-                "seed": 174
+                "seed": 174,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "568434cc-2ed5-11f1-a91e-3291caf45441",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "568434cc-2ed5-11f1-a91e-3291caf45441",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "85cb3894-2fe7-11f1-ac64-5a574d532032",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "568434cc-2ed5-11f1-a91e-3291caf45441",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 495,
