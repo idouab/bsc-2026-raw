@@ -29814,18 +29814,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
                 "name": "W skills",
-                "seed": 192
+                "seed": 192,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
                 "name": "Agora Sim",
-                "seed": 416
+                "seed": 416,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "4f38cc8a-2efa-11f1-b9be-3291caf45441",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7d1531fa-2fab-11f1-b8ce-d67f5027bdf5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 482,
@@ -30059,18 +30094,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
                 "name": "F/A Division",
-                "seed": 373
+                "seed": 373,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "80463b38-28a0-11f1-879b-1662e184e72d",
                 "name": "Crazy Xenoverse",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "80463b38-28a0-11f1-879b-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c9c581ce-2a67-11f1-acdd-52998dd971f0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "80463b38-28a0-11f1-879b-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 489,
