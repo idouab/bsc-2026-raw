@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "TOC Esports",
+            "players": [
+                {
+                    "name": "TOC | Psychokid",
+                    "gamerTag": "#PGL2UL0CR"
+                },
+                {
+                    "name": "TOC | Buzko",
+                    "gamerTag": "#2JY2JR09UC"
+                },
+                {
+                    "name": "Deezent1k",
+                    "gamerTag": "#8RCYUCCL0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
             "tournament_id": 0,
             "name": "Con cebolla",
@@ -1261,18 +1281,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fe8180-289f-11f1-baad-1662e184e72d",
                 "name": "NAVI",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
                 "name": "TOC Esports",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f3fe8180-289f-11f1-baad-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f3fe8180-289f-11f1-baad-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f3fe8180-289f-11f1-baad-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1910,10 +1980,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f3fe8180-289f-11f1-baad-1662e184e72d",
+                "name": "NAVI",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "f3fd4252-289f-11f1-87ef-1662e184e72d",
+                "name": "FUT ACADEMY",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2118,10 +2192,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                "name": "TOC Esports",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
+                "name": "Con cebolla",
+                "seed": 21
             },
             "match_games": []
         },
