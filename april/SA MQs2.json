@@ -2514,18 +2514,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f973a48-28a0-11f1-8614-1662e184e72d",
                 "name": "ELEVATE",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
                 "name": "LOUD Academy",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7f973a48-28a0-11f1-8614-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7f973a48-28a0-11f1-8614-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7f973a48-28a0-11f1-8614-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7f973a48-28a0-11f1-8614-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2599,7 +2664,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "7f973a48-28a0-11f1-8614-1662e184e72d",
+                "name": "ELEVATE",
+                "seed": 6
             },
             "match_games": []
         },
@@ -3104,10 +3171,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                "name": "LOUD Academy",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "d86f11f4-305c-11f1-b1da-52d63ee2a8d5",
+                "name": "Agora Sim",
+                "seed": 32
             },
             "match_games": []
         },
