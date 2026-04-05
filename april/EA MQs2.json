@@ -4495,18 +4495,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8bd1100-289f-11f1-bc38-1662e184e72d",
                 "name": "FeasibleGaming",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
                 "name": "KCN",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8bd1100-289f-11f1-bc38-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8bd1100-289f-11f1-bc38-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8bd1100-289f-11f1-bc38-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
