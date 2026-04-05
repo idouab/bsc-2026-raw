@@ -3479,18 +3479,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
                 "name": "I’m Hungwy",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184fb058-307b-11f1-8f09-a69164b22a2f",
                 "name": "Cachorritas",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184fb058-307b-11f1-8f09-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184fb058-307b-11f1-8f09-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184fb058-307b-11f1-8f09-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3618,7 +3668,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                "name": "I’m Hungwy",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
