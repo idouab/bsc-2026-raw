@@ -4075,18 +4075,98 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
                 "name": "Frenzy",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
                 "name": "KCN",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -4158,7 +4238,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                "name": "KCN",
+                "seed": 16
             },
             "match_games": []
         }
