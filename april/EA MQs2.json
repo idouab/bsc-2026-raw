@@ -3399,18 +3399,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d3e91ba-3034-11f1-bddd-4af22f700f47",
                 "name": "Genius  Dominion",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d415760-3034-11f1-a66e-4af22f700f47",
                 "name": "No pro",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2d3e91ba-3034-11f1-bddd-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2d3e91ba-3034-11f1-bddd-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2d3e91ba-3034-11f1-bddd-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 35,
