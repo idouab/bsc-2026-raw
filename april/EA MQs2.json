@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
+            "tournament_id": 0,
+            "name": "Let Hwimori Cook",
+            "players": [
+                {
+                    "name": "HWI|Tamama",
+                    "gamerTag": "#8GYGU2VU"
+                },
+                {
+                    "name": "HWI|Keroro",
+                    "gamerTag": "#VVJ2L8C8"
+                },
+                {
+                    "name": "HWI|Natsumi",
+                    "gamerTag": "#R0UGGPV2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "a8e4c448-289f-11f1-bb41-1662e184e72d",
             "tournament_id": 0,
             "name": "私達の腰は相手が泣き出すまで止まりません",
@@ -696,6 +716,26 @@
                 {
                     "name": "PL bronze アペンキー",
                     "gamerTag": "#28CY9RU8Y"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+            "tournament_id": 0,
+            "name": "チーム公認クリエイターズ",
+            "players": [
+                {
+                    "name": "ダブルチー牛バーガー",
+                    "gamerTag": "#GYJVPU8V"
+                },
+                {
+                    "name": "Chamamen",
+                    "gamerTag": "#20JUUQU0G"
+                },
+                {
+                    "name": "らぴす👻",
+                    "gamerTag": "#9R80RGPU9"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -891,18 +931,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
                 "name": "INSOMNIA",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
                 "name": "Let Hwimori Cook",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1093,18 +1183,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
                 "name": "FENNEL",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
                 "name": "チーム公認クリエイターズ",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1194,7 +1334,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                "name": "INSOMNIA",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1274,7 +1416,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                "name": "FENNEL",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -1390,7 +1534,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
+                "name": "Let Hwimori Cook",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
@@ -1470,7 +1616,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                "name": "チーム公認クリエイターズ",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
