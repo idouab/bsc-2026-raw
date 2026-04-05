@@ -2215,18 +2215,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
                 "name": "Rival Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d3ddfae-3034-11f1-b908-4af22f700f47",
                 "name": "モングラール建築",
-                "seed": 21
+                "seed": 21,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3ddfae-3034-11f1-b908-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3ddfae-3034-11f1-b908-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d3ddfae-3034-11f1-b908-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3ddfae-3034-11f1-b908-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2555,7 +2620,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                "name": "Rival Esports",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3030,10 +3097,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d3ddfae-3034-11f1-b908-4af22f700f47",
+                "name": "モングラール建築",
+                "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "2d468b90-3034-11f1-8624-4af22f700f47",
+                "name": "マンケルビーム",
+                "seed": 31
             },
             "match_games": []
         },
