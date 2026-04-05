@@ -2416,18 +2416,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
                 "name": "Team Heretics",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f269116e-289f-11f1-baa3-1662e184e72d",
                 "name": "DontFinxSo",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2506,7 +2556,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                "name": "Team Heretics",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2699,7 +2751,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                "name": "DontFinxSo",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
