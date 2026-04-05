@@ -2705,18 +2705,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "184c4cc4-307b-11f1-8cc2-a69164b22a2f",
                 "name": "Toxic Lotusss",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
                 "name": "MX ACADEMY",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "184c4cc4-307b-11f1-8cc2-a69164b22a2f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "184c4cc4-307b-11f1-8cc2-a69164b22a2f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "184c4cc4-307b-11f1-8cc2-a69164b22a2f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -2988,7 +3038,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                "name": "MX ACADEMY",
+                "seed": 24
             },
             "match_games": []
         },
