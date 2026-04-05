@@ -4040,18 +4040,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "184a2912-307b-11f1-b680-a69164b22a2f",
                 "name": "NOVA",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184eb31a-307b-11f1-aca0-a69164b22a2f",
                 "name": "MT Academy",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "184a2912-307b-11f1-b680-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184eb31a-307b-11f1-aca0-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "184a2912-307b-11f1-b680-a69164b22a2f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "184eb31a-307b-11f1-aca0-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "184a2912-307b-11f1-b680-a69164b22a2f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "184eb31a-307b-11f1-aca0-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "184a2912-307b-11f1-b680-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184eb31a-307b-11f1-aca0-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "184a2912-307b-11f1-b680-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184eb31a-307b-11f1-aca0-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 45,
@@ -4123,7 +4203,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "184a2912-307b-11f1-b680-a69164b22a2f",
+                "name": "NOVA",
+                "seed": 17
             },
             "match_games": []
         },
