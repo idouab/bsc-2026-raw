@@ -3932,18 +3932,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
                 "name": "BIG",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
                 "name": "Bloste",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -4078,10 +4128,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                "name": "BIG",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "862e4d3e-305b-11f1-acb1-52d63ee2a8d5",
+                "name": "Kozaki",
+                "seed": 27
             },
             "match_games": []
         },
