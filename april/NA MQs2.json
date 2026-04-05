@@ -2921,18 +2921,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1850374e-307b-11f1-9565-a69164b22a2f",
                 "name": "2026",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "caf938ba-28a0-11f1-9409-1662e184e72d",
                 "name": "Fear Esports",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "1850374e-307b-11f1-9565-a69164b22a2f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "caf938ba-28a0-11f1-9409-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1850374e-307b-11f1-9565-a69164b22a2f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "caf938ba-28a0-11f1-9409-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "1850374e-307b-11f1-9565-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "caf938ba-28a0-11f1-9409-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "1850374e-307b-11f1-9565-a69164b22a2f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "caf938ba-28a0-11f1-9409-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 24,

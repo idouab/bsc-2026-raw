@@ -4531,18 +4531,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f97d502-28a0-11f1-97e9-1662e184e72d",
                 "name": "Olimpo Squad",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
                 "name": "LOUD Academy",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7f97d502-28a0-11f1-97e9-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7f97d502-28a0-11f1-97e9-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7f97d502-28a0-11f1-97e9-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 50,
