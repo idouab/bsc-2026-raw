@@ -3236,18 +3236,98 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
                 "name": "TOC Esports",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
                 "name": "Con cebolla",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862a79c0-305b-11f1-a1ea-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -3599,7 +3679,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                "name": "TOC Esports",
+                "seed": 28
             },
             "match_games": []
         },
