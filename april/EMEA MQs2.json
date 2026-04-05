@@ -3174,18 +3174,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86314ec6-305b-11f1-a608-52d63ee2a8d5",
                 "name": "F/A Poland",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f333bffe-289f-11f1-a6b0-1662e184e72d",
                 "name": "WW",
-                "seed": 15
+                "seed": 15,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "86314ec6-305b-11f1-a608-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f333bffe-289f-11f1-a6b0-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "86314ec6-305b-11f1-a608-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f333bffe-289f-11f1-a6b0-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "86314ec6-305b-11f1-a608-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f333bffe-289f-11f1-a6b0-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "86314ec6-305b-11f1-a608-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f333bffe-289f-11f1-a6b0-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 22,
@@ -3194,18 +3259,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fde3b0-289f-11f1-b586-1662e184e72d",
                 "name": "Metizport",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
                 "name": "бегімотікі",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "f3fde3b0-289f-11f1-b586-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f3fde3b0-289f-11f1-b586-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "f3fde3b0-289f-11f1-b586-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "f3fde3b0-289f-11f1-b586-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -3401,7 +3531,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "86314ec6-305b-11f1-a608-52d63ee2a8d5",
+                "name": "F/A Poland",
+                "seed": 31
             },
             "match_games": []
         },
@@ -3419,7 +3551,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "f3fde3b0-289f-11f1-b586-1662e184e72d",
+                "name": "Metizport",
+                "seed": 7
             },
             "match_games": []
         },
