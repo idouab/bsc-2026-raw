@@ -2359,18 +2359,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f99afda-28a0-11f1-b962-1662e184e72d",
                 "name": "Bounty Hunters Allu",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7eff5692-28a0-11f1-9451-1662e184e72d",
                 "name": "BLD F/A",
-                "seed": 10
+                "seed": 10,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7f99afda-28a0-11f1-b962-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7eff5692-28a0-11f1-9451-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7f99afda-28a0-11f1-b962-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7eff5692-28a0-11f1-9451-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7f99afda-28a0-11f1-b962-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7eff5692-28a0-11f1-9451-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7f99afda-28a0-11f1-b962-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7eff5692-28a0-11f1-9451-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -2514,7 +2579,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "7f99afda-28a0-11f1-b962-1662e184e72d",
+                "name": "Bounty Hunters Allu",
+                "seed": 7
             },
             "match_games": []
         },
@@ -3023,10 +3090,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7eff5692-28a0-11f1-9451-1662e184e72d",
+                "name": "BLD F/A",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "d86c7b74-305c-11f1-bd78-52d63ee2a8d5",
+                "name": "Pernambuco Lovers",
+                "seed": 29
             },
             "match_games": []
         },
