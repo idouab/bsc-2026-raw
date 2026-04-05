@@ -4732,18 +4732,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
                 "name": "BIG",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862e4d3e-305b-11f1-acb1-52d63ee2a8d5",
                 "name": "Kozaki",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862e4d3e-305b-11f1-acb1-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862e4d3e-305b-11f1-acb1-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "862e4d3e-305b-11f1-acb1-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862e4d3e-305b-11f1-acb1-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -4819,7 +4884,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                "name": "BIG",
+                "seed": 9
             },
             "match_games": []
         }
