@@ -4547,18 +4547,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fd4252-289f-11f1-87ef-1662e184e72d",
                 "name": "FUT ACADEMY",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
                 "name": "🥀",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f3fd4252-289f-11f1-87ef-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f3fd4252-289f-11f1-87ef-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f3fd4252-289f-11f1-87ef-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4630,7 +4680,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "f3fd4252-289f-11f1-87ef-1662e184e72d",
+                "name": "FUT ACADEMY",
+                "seed": 12
             },
             "match_games": []
         },
