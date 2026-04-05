@@ -2661,18 +2661,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
                 "name": "Stu = Win",
-                "seed": 26
+                "seed": 26,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f30dac74-289f-11f1-a198-1662e184e72d",
                 "name": "Madrid",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -2818,7 +2883,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                "name": "Madrid",
+                "seed": 10
             },
             "match_games": []
         },
@@ -3291,10 +3358,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                "name": "Stu = Win",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "f267f838-289f-11f1-82aa-1662e184e72d",
+                "name": "Reply Totem",
+                "seed": 4
             },
             "match_games": []
         },
