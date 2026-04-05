@@ -741,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "бегімотікі",
+            "players": [
+                {
+                    "name": "LGN |velik☘️",
+                    "gamerTag": "#YUPC0LJGJ"
+                },
+                {
+                    "name": "твиркс воч демо",
+                    "gamerTag": "#9P9VPPUC0"
+                },
+                {
+                    "name": "Witratt|永遠の親友",
+                    "gamerTag": "#2QJ9PRL2C"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "86309a12-305b-11f1-bcf3-52d63ee2a8d5",
             "tournament_id": 0,
             "name": "2-3 years dagestan",
@@ -1311,18 +1331,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f30dac74-289f-11f1-a198-1662e184e72d",
                 "name": "Madrid",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
                 "name": "бегімотікі",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f30dac74-289f-11f1-a198-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86283296-305b-11f1-bfbc-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
