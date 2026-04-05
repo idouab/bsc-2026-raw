@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+            "tournament_id": 0,
+            "name": "Overlooked Ent.",
+            "players": [
+                {
+                    "name": "OE|Nayt",
+                    "gamerTag": "#Y2VLVGC88"
+                },
+                {
+                    "name": "OE|HUB",
+                    "gamerTag": "#8PJCY9UP9"
+                },
+                {
+                    "name": "OE|Spizy",
+                    "gamerTag": "#20899RRQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "1850b4d0-307b-11f1-80f1-a69164b22a2f",
             "tournament_id": 0,
             "name": "Travesaños",
@@ -1303,18 +1323,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
                 "name": "NLS",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
                 "name": "Overlooked Ent.",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -1863,7 +1963,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "caafe836-28a0-11f1-b5dc-1662e184e72d",
+                "name": "NLS",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2077,7 +2179,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "184cc6d6-307b-11f1-9057-a69164b22a2f",
+                "name": "Overlooked Ent.",
+                "seed": 21
             },
             "match_games": []
         },
