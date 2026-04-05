@@ -4675,18 +4675,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
                 "name": "Legacy Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
                 "name": "I’m Hungwy",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
@@ -4715,18 +4765,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
                 "name": "Vatic",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
                 "name": "Enosis Esports",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         }
     ]
 }
