@@ -4405,18 +4405,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
                 "name": "INSOMNIA",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
                 "name": "ケツデカ高校シリアナ部の意思を引き継いで",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8b9e71e-289f-11f1-ae2a-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
