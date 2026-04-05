@@ -841,6 +841,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+            "tournament_id": 0,
+            "name": "Washed Uncs",
+            "players": [
+                {
+                    "name": "Aquaz",
+                    "gamerTag": "#2V2L2U2J"
+                },
+                {
+                    "name": "Unc Chuky 🍻",
+                    "gamerTag": "#UP29Q9C9"
+                },
+                {
+                    "name": "FlxwLess.",
+                    "gamerTag": "#2JG2R98LUY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "1850374e-307b-11f1-9565-a69164b22a2f",
             "tournament_id": 0,
             "name": "2026",
@@ -1648,18 +1668,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
                 "name": "I’m Hungwy",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "18499a74-307b-11f1-984a-a69164b22a2f",
                 "name": "Washed Uncs",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
@@ -2003,7 +2073,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                "name": "I’m Hungwy",
+                "seed": 10
             },
             "match_games": []
         },
@@ -2219,7 +2291,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                "name": "Washed Uncs",
+                "seed": 23
             },
             "match_games": []
         },
