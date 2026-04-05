@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+            "tournament_id": 0,
+            "name": "MX ACADEMY",
+            "players": [
+                {
+                    "name": "MT|Rexz",
+                    "gamerTag": "#RYG0QRV"
+                },
+                {
+                    "name": "Sergioo ❦",
+                    "gamerTag": "#2CRPCUPQP"
+                },
+                {
+                    "name": "MT|Isaias",
+                    "gamerTag": "#22VU8R2R2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "184fb058-307b-11f1-8f09-a69164b22a2f",
             "tournament_id": 0,
             "name": "Cachorritas",
@@ -1162,18 +1182,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
                 "name": "Enosis Esports",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
                 "name": "MX ACADEMY",
-                "seed": 24
+                "seed": 24,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -1995,7 +2080,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "cb1296de-28a0-11f1-8518-1662e184e72d",
+                "name": "Enosis Esports",
+                "seed": 9
             },
             "match_games": []
         },
@@ -2213,7 +2300,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "184e3606-307b-11f1-b2d0-a69164b22a2f",
+                "name": "MX ACADEMY",
+                "seed": 24
             },
             "match_games": []
         },
