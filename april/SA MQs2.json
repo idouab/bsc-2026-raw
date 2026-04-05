@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "d862ebfe-305c-11f1-a491-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "NOVA BRASIL",
+            "players": [
+                {
+                    "name": "NV|ŦĤŘÄŃÐŰÌŁ👑",
+                    "gamerTag": "#PQUPY9VCL"
+                },
+                {
+                    "name": "NV|Łegołas🍀",
+                    "gamerTag": "#8RCC2J8Q8"
+                },
+                {
+                    "name": "NV|Arağøřŋ💫",
+                    "gamerTag": "#PQUPC9LCP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "d86b0370-305c-11f1-b0bd-52d63ee2a8d5",
             "tournament_id": 0,
             "name": "Dame Paleta F/A",
@@ -1133,18 +1153,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
                 "name": "🔥GE4R🔥",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d862ebfe-305c-11f1-a491-52d63ee2a8d5",
                 "name": "NOVA BRASIL",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d862ebfe-305c-11f1-a491-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d862ebfe-305c-11f1-a491-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d862ebfe-305c-11f1-a491-52d63ee2a8d5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 15,
