@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2d3f3958-3034-11f1-8775-4af22f700f47",
+            "tournament_id": 0,
+            "name": "White rice",
+            "players": [
+                {
+                    "name": "白米三杯.",
+                    "gamerTag": "#992JP00L8"
+                },
+                {
+                    "name": "Ygritte",
+                    "gamerTag": "#QGYUURV8Q"
+                },
+                {
+                    "name": "ぱむぱむぷりん🍮",
+                    "gamerTag": "#9QLGPQPV9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2d420e3a-3034-11f1-8522-4af22f700f47",
             "tournament_id": 0,
             "name": "Let Hwimori Cook",
@@ -716,6 +736,26 @@
                 {
                     "name": "TIQ.zo",
                     "gamerTag": "#2CJ8UQPGCR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2d4427a6-3034-11f1-baed-4af22f700f47",
+            "tournament_id": 0,
+            "name": "누구때메 본계 챔쉽 실패",
+            "players": [
+                {
+                    "name": "TC|Shinya",
+                    "gamerTag": "#PGCPJ2VGP"
+                },
+                {
+                    "name": "PO|Shinya〤",
+                    "gamerTag": "#2RGRU82UG"
+                },
+                {
+                    "name": "技能 | Nimble",
+                    "gamerTag": "#YYLRQC8PR"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -991,18 +1031,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
                 "name": "KCN",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d3f3958-3034-11f1-8775-4af22f700f47",
                 "name": "White rice",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3f3958-3034-11f1-8775-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3f3958-3034-11f1-8775-4af22f700f47",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3f3958-3034-11f1-8775-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1192,18 +1282,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
                 "name": "Rival Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d4427a6-3034-11f1-baed-4af22f700f47",
                 "name": "누구때메 본계 챔쉽 실패",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d4427a6-3034-11f1-baed-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d4427a6-3034-11f1-baed-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d4427a6-3034-11f1-baed-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1552,7 +1692,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                "name": "KCN",
+                "seed": 16
             },
             "match_games": []
         },
@@ -1603,7 +1745,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8bb2b74-289f-11f1-a433-1662e184e72d",
+                "name": "Rival Esports",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -1762,7 +1906,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "2d3f3958-3034-11f1-8775-4af22f700f47",
+                "name": "White rice",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1813,7 +1959,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d4427a6-3034-11f1-baed-4af22f700f47",
+                "name": "누구때메 본계 챔쉽 실패",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
