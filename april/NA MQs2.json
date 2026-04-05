@@ -2273,18 +2273,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0fab22-28a0-11f1-8784-1662e184e72d",
                 "name": "Tribe Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184b4f4a-307b-11f1-be96-a69164b22a2f",
                 "name": "🦗🦗🦗",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cb0fab22-28a0-11f1-8784-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184b4f4a-307b-11f1-be96-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cb0fab22-28a0-11f1-8784-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184b4f4a-307b-11f1-be96-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cb0fab22-28a0-11f1-8784-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184b4f4a-307b-11f1-be96-a69164b22a2f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2363,7 +2413,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cb0fab22-28a0-11f1-8784-1662e184e72d",
+                "name": "Tribe Gaming",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2556,7 +2608,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "184b4f4a-307b-11f1-be96-a69164b22a2f",
+                "name": "🦗🦗🦗",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
