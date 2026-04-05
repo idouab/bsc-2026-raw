@@ -2059,18 +2059,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f95ccbc-28a0-11f1-836d-1662e184e72d",
                 "name": "La Matanza",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
                 "name": "Six Seven",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7f95ccbc-28a0-11f1-836d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7f95ccbc-28a0-11f1-836d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7f95ccbc-28a0-11f1-836d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -2169,18 +2219,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7efeb020-28a0-11f1-aed1-1662e184e72d",
                 "name": "SKCalalas SA",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7fe9f918-28a0-11f1-907e-1662e184e72d",
                 "name": "Acre Lovers",
-                "seed": 12
+                "seed": 12,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7efeb020-28a0-11f1-aed1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fe9f918-28a0-11f1-907e-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7efeb020-28a0-11f1-aed1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fe9f918-28a0-11f1-907e-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7efeb020-28a0-11f1-aed1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7fe9f918-28a0-11f1-907e-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2371,7 +2471,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f95ccbc-28a0-11f1-836d-1662e184e72d",
+                "name": "La Matanza",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2392,7 +2494,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "7efeb020-28a0-11f1-aed1-1662e184e72d",
+                "name": "SKCalalas SA",
+                "seed": 5
             },
             "match_games": []
         },
@@ -2823,10 +2927,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7fe9f918-28a0-11f1-907e-1662e184e72d",
+                "name": "Acre Lovers",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "d86e442c-305c-11f1-8711-52d63ee2a8d5",
+                "name": "FOFOQUEIROS BRAWL",
+                "seed": 31
             },
             "match_games": []
         },
@@ -2875,10 +2983,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
+                "name": "Six Seven",
+                "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "d86b0370-305c-11f1-b0bd-52d63ee2a8d5",
+                "name": "Dame Paleta F/A",
+                "seed": 27
             },
             "match_games": []
         },
