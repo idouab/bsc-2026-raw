@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+            "tournament_id": 0,
+            "name": "No pro",
+            "players": [
+                {
+                    "name": "Rage X Raina",
+                    "gamerTag": "#2U9QRLP9V"
+                },
+                {
+                    "name": "JO YURI🧡",
+                    "gamerTag": "#8GCGUJQ0Y"
+                },
+                {
+                    "name": "RS|Nozomi🌱",
+                    "gamerTag": "#PJJRJ0002"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
             "tournament_id": 0,
             "name": "ケツデカ高校シリアナ部の意思を引き継いで",
@@ -1171,18 +1191,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
                 "name": "Frenzy",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d415760-3034-11f1-a66e-4af22f700f47",
                 "name": "No pro",
-                "seed": 24
+                "seed": 24,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -1712,7 +1797,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                "name": "Frenzy",
+                "seed": 9
             },
             "match_games": []
         },
@@ -1926,7 +2013,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "2d415760-3034-11f1-a66e-4af22f700f47",
+                "name": "No pro",
+                "seed": 24
             },
             "match_games": []
         },
