@@ -2773,18 +2773,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0dd8e2-28a0-11f1-aa10-1662e184e72d",
                 "name": "Team Elektros",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
                 "name": "Legacy Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cb0dd8e2-28a0-11f1-aa10-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cb0dd8e2-28a0-11f1-aa10-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "cb0dd8e2-28a0-11f1-aa10-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 42,
@@ -3838,7 +3888,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cb1201c4-28a0-11f1-b7f9-1662e184e72d",
+                "name": "Legacy Esports",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
