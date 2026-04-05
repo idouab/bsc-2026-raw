@@ -4320,18 +4320,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
                 "name": "I’m Hungwy",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184f2ea8-307b-11f1-b14d-a69164b22a2f",
                 "name": "🐐🪷🦁",
-                "seed": 28
+                "seed": 28,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184f2ea8-307b-11f1-b14d-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "184f2ea8-307b-11f1-b14d-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184f2ea8-307b-11f1-b14d-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184f2ea8-307b-11f1-b14d-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4455,7 +4520,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "cb0f14b4-28a0-11f1-9c2b-1662e184e72d",
+                "name": "I’m Hungwy",
+                "seed": 10
             },
             "match_games": []
         },
