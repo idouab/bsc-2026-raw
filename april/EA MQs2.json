@@ -801,6 +801,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
+            "tournament_id": 0,
+            "name": "Be Humble",
+            "players": [
+                {
+                    "name": "BH|Marin",
+                    "gamerTag": "#C0GCLYUL"
+                },
+                {
+                    "name": "韓瑞允",
+                    "gamerTag": "#8RPCP0QPV"
+                },
+                {
+                    "name": "누리",
+                    "gamerTag": "#2RQUCGQGJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2d42c0fa-3034-11f1-a71d-4af22f700f47",
             "tournament_id": 0,
             "name": "F/A Team Korea",
@@ -1547,18 +1567,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
                 "name": "Be Humble",
-                "seed": 15
+                "seed": 15,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
                 "name": "モーティス絶対使わないです",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1955,7 +2040,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
+                "name": "モーティス絶対使わないです",
+                "seed": 18
             },
             "match_games": []
         },
@@ -2175,7 +2262,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "a89b39c2-289f-11f1-8fa5-1662e184e72d",
+                "name": "Be Humble",
+                "seed": 15
             },
             "match_games": []
         },
