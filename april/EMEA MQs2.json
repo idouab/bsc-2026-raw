@@ -2780,18 +2780,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
                 "name": "ZKA",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
                 "name": "TOP|Esport",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 18,
