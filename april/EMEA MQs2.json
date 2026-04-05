@@ -779,6 +779,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "Bloste",
+            "players": [
+                {
+                    "name": "Jcertoro",
+                    "gamerTag": "#GGJVQGY8"
+                },
+                {
+                    "name": "julitopalote🍑",
+                    "gamerTag": "#9L0U9Q90P"
+                },
+                {
+                    "name": "CRZ|Kevin👻",
+                    "gamerTag": "#VL0CLY99"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1471,18 +1491,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f269116e-289f-11f1-baa3-1662e184e72d",
                 "name": "DontFinxSo",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
                 "name": "Bloste",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -1638,7 +1708,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                "name": "DontFinxSo",
+                "seed": 14
             },
             "match_games": []
         },
@@ -1836,7 +1908,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "8628e970-305b-11f1-b5c6-52d63ee2a8d5",
+                "name": "Bloste",
+                "seed": 19
             },
             "match_games": []
         },
