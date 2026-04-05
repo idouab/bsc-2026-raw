@@ -639,6 +639,46 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "Sushi>tierS",
+            "players": [
+                {
+                    "name": "MaRe🍥",
+                    "gamerTag": "#209LV98J2"
+                },
+                {
+                    "name": "SusiGuy🍥",
+                    "gamerTag": "#UVQRUVR0"
+                },
+                {
+                    "name": "Kyoru💫",
+                    "gamerTag": "#PCRQV8Y2P"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "8627614a-305b-11f1-92b3-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "The Lethal Force",
+            "players": [
+                {
+                    "name": "YT Matysbs",
+                    "gamerTag": "#GRGR8PQLJ"
+                },
+                {
+                    "name": "TLF|Neptun",
+                    "gamerTag": "#9LYUUJPYG"
+                },
+                {
+                    "name": "TLF|Pika",
+                    "gamerTag": "#RP8YU8JL0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -781,18 +821,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
                 "name": "BIG",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
                 "name": "Sushi>tierS",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f3fc0da6-289f-11f1-ba2b-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -821,18 +911,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
                 "name": "Big Talents",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8627614a-305b-11f1-92b3-52d63ee2a8d5",
                 "name": "The Lethal Force",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8627614a-305b-11f1-92b3-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8627614a-305b-11f1-92b3-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8627614a-305b-11f1-92b3-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
