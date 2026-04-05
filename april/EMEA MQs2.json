@@ -3091,18 +3091,98 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
                 "name": "Team Heretics",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
                 "name": "F/A KEBAP",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f3333b6a-289f-11f1-87f7-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -4314,7 +4394,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f30ef2b4-289f-11f1-a88a-1662e184e72d",
+                "name": "F/A KEBAP",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
