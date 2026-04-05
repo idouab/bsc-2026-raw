@@ -659,6 +659,66 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "7f71cb50-28a0-11f1-acd3-1662e184e72d",
+            "tournament_id": 0,
+            "name": "Skibidi Sigmas",
+            "players": [
+                {
+                    "name": "𝜗lukingbs𝜚",
+                    "gamerTag": "#UULLRR0Y"
+                },
+                {
+                    "name": "Mega",
+                    "gamerTag": "#GJ0VQCPP"
+                },
+                {
+                    "name": "Homura Akemi",
+                    "gamerTag": "#2J0VP80U0J"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "7f9b180c-28a0-11f1-acd0-1662e184e72d",
+            "tournament_id": 0,
+            "name": "Dropeados 2026",
+            "players": [
+                {
+                    "name": "Leo Messi. 🇦🇷",
+                    "gamerTag": "#UYU08J9G"
+                },
+                {
+                    "name": "海膽 •Benjaxx🦔",
+                    "gamerTag": "#82QLJ8UY2"
+                },
+                {
+                    "name": "Pxnchoo",
+                    "gamerTag": "#JC22VJLP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "7f991976-28a0-11f1-a7be-1662e184e72d",
+            "tournament_id": 0,
+            "name": "Goats",
+            "players": [
+                {
+                    "name": "Jonatas",
+                    "gamerTag": "#GCRY9CJ0"
+                },
+                {
+                    "name": "FortiStarsYT",
+                    "gamerTag": "#P9JLP88C8"
+                },
+                {
+                    "name": "mito",
+                    "gamerTag": "#2LU29UVQV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -811,11 +871,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f71cb50-28a0-11f1-acd3-1662e184e72d",
                 "name": "Skibidi Sigmas",
-                "seed": 16
+                "seed": 16,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
@@ -891,11 +952,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f9b180c-28a0-11f1-acd0-1662e184e72d",
                 "name": "Dropeados 2026",
-                "seed": 13
+                "seed": 13,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d861cf6c-305c-11f1-bb1c-52d63ee2a8d5",
@@ -1091,11 +1153,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f991976-28a0-11f1-a7be-1662e184e72d",
                 "name": "Goats",
-                "seed": 11
+                "seed": 11,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d866a4a6-305c-11f1-b5f5-52d63ee2a8d5",
@@ -1118,7 +1181,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "d865d54e-305c-11f1-a916-52d63ee2a8d5",
+                "name": "Six Seven",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1312,7 +1377,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "7f71cb50-28a0-11f1-acd3-1662e184e72d",
+                "name": "Skibidi Sigmas",
+                "seed": 16
             },
             "match_games": []
         },
