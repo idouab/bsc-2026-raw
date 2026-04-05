@@ -4817,18 +4817,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
                 "name": "Big Talents",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
                 "name": "NOVO Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 50,
