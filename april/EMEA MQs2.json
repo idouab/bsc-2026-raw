@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "TOP|Esport",
+            "players": [
+                {
+                    "name": "TOP|Neroxx 🧸",
+                    "gamerTag": "#Y99Y2CUV"
+                },
+                {
+                    "name": "TOP|Grxpzz🧸",
+                    "gamerTag": "#R9RVVQQ8"
+                },
+                {
+                    "name": "TOP | Sadba🍒🧸",
+                    "gamerTag": "#2PRVY98GY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
             "tournament_id": 0,
             "name": "Sushi>tierS",
@@ -891,18 +911,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f492a702-289f-11f1-8584-1662e184e72d",
                 "name": "Forza esports",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
                 "name": "TOP|Esport",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1398,7 +1468,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                "name": "Forza esports",
+                "seed": 16
             },
             "match_games": []
         },
@@ -1594,7 +1666,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "8629b0d0-305b-11f1-b505-52d63ee2a8d5",
+                "name": "TOP|Esport",
+                "seed": 17
             },
             "match_games": []
         },
