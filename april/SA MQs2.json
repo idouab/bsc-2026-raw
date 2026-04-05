@@ -3846,18 +3846,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
                 "name": "F/A Zurita Gang",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d86d7628-305c-11f1-ab41-52d63ee2a8d5",
                 "name": "Attack on Peak",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d86d7628-305c-11f1-ab41-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d86d7628-305c-11f1-ab41-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d86d7628-305c-11f1-ab41-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d86d7628-305c-11f1-ab41-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d86d7628-305c-11f1-ab41-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -3944,7 +4024,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7efe0ac6-28a0-11f1-a1b6-1662e184e72d",
+                "name": "F/A Zurita Gang",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
