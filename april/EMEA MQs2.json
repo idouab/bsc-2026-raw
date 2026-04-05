@@ -4837,18 +4837,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3fb74f4-289f-11f1-b7bf-1662e184e72d",
                 "name": "SK GAMING",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
                 "name": "Stu = Win",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f3fb74f4-289f-11f1-b7bf-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f3fb74f4-289f-11f1-b7bf-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f3fb74f4-289f-11f1-b7bf-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862d82aa-305b-11f1-9d77-52d63ee2a8d5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 51,
