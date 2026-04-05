@@ -1,0 +1,336 @@
+{
+    "participant": [
+        {
+            "id": "875e02e6-3108-11f1-8090-dadc3137be53",
+            "tournament_id": 0,
+            "name": "HMBLE",
+            "players": [
+                {
+                    "name": "HMB|Symantec",
+                    "gamerTag": "#YQUCCJ2"
+                },
+                {
+                    "name": "HMB|BosS",
+                    "gamerTag": "#V89Y2GP0"
+                },
+                {
+                    "name": "HMB|Lukii",
+                    "gamerTag": "#8V92UYCJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/HMBLE.png"
+        },
+        {
+            "id": "875ed5ae-3108-11f1-a52c-dadc3137be53",
+            "tournament_id": 0,
+            "name": "Big Talents",
+            "players": [
+                {
+                    "name": "BGT|Mine",
+                    "gamerTag": "#V888YPGU"
+                },
+                {
+                    "name": "BGT|Nes",
+                    "gamerTag": "#Q808R2CV"
+                },
+                {
+                    "name": "BGT|Dompe",
+                    "gamerTag": "#2208QGGGL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Big Talents.png"
+        },
+        {
+            "id": "8761b620-3108-11f1-967d-dadc3137be53",
+            "tournament_id": 0,
+            "name": "NAVI",
+            "players": [
+                {
+                    "name": "NAVI|GeRo",
+                    "gamerTag": "#2VJCCCQGP"
+                },
+                {
+                    "name": "NAVI|Drage",
+                    "gamerTag": "#J089RQ"
+                },
+                {
+                    "name": "NAVI|Enraged",
+                    "gamerTag": "#80PVPCC29"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/NAVI.png"
+        },
+        {
+            "id": "8760c986-3108-11f1-9539-dadc3137be53",
+            "tournament_id": 0,
+            "name": "SK GAMING",
+            "players": [
+                {
+                    "name": "SK|OPE",
+                    "gamerTag": "#9LVUC2PY"
+                },
+                {
+                    "name": "SK|Nowy297",
+                    "gamerTag": "#22CL00PG0"
+                },
+                {
+                    "name": "SK|Yoshi825",
+                    "gamerTag": "#CJV2PJ0R"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/SK GAMING.png"
+        },
+        {
+            "id": "875fd918-3108-11f1-bfb1-dadc3137be53",
+            "tournament_id": 0,
+            "name": "FUT Esports",
+            "players": [
+                {
+                    "name": "FUT | Angelboy",
+                    "gamerTag": "#9PCV9L982"
+                },
+                {
+                    "name": "FUT | Guesti",
+                    "gamerTag": "#2R0JLJJ9PP"
+                },
+                {
+                    "name": "FUT | Nob?",
+                    "gamerTag": "#P2808PRC"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/FUT Esports.webp"
+        },
+        {
+            "id": "87613fa6-3108-11f1-926c-dadc3137be53",
+            "tournament_id": 0,
+            "name": "FUT ACADEMY",
+            "players": [
+                {
+                    "name": "FUT|ZeyroX🕊️",
+                    "gamerTag": "#82GG2RLQG"
+                },
+                {
+                    "name": "FUT|DeMaster🕊️",
+                    "gamerTag": "#2GV90L8YP"
+                },
+                {
+                    "name": "FUT|Ferissa",
+                    "gamerTag": "#2LLRJGPVV8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/FUT ACADEMY.webp"
+        },
+        {
+            "id": "87605316-3108-11f1-9c3e-dadc3137be53",
+            "tournament_id": 0,
+            "name": "Team Heretics",
+            "players": [
+                {
+                    "name": "TH|iKaoss",
+                    "gamerTag": "#PCPRPJV"
+                },
+                {
+                    "name": "TH|Marco",
+                    "gamerTag": "#Q22ULY9JY"
+                },
+                {
+                    "name": "TH|Subeme",
+                    "gamerTag": "#2JQU8JQ2G"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Team Heretics.png"
+        },
+        {
+            "id": "875f59e8-3108-11f1-8b9a-dadc3137be53",
+            "tournament_id": 0,
+            "name": "Madrid",
+            "players": [
+                {
+                    "name": "MAD|Rup",
+                    "gamerTag": "#88Y8UGPG"
+                },
+                {
+                    "name": "MAD|Yoko",
+                    "gamerTag": "#29VRJU08C"
+                },
+                {
+                    "name": "MAD|Jus",
+                    "gamerTag": "#JJ92RGPL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "EMEA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "875e02e6-3108-11f1-8090-dadc3137be53",
+                "name": "HMBLE",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": "875ed5ae-3108-11f1-a52c-dadc3137be53",
+                "name": "Big Talents",
+                "seed": 8
+            },
+            "match_games": []
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "8761b620-3108-11f1-967d-dadc3137be53",
+                "name": "NAVI",
+                "seed": 4
+            },
+            "opponent2": {
+                "id": "8760c986-3108-11f1-9539-dadc3137be53",
+                "name": "SK GAMING",
+                "seed": 5
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "875fd918-3108-11f1-bfb1-dadc3137be53",
+                "name": "FUT Esports",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "87613fa6-3108-11f1-926c-dadc3137be53",
+                "name": "FUT ACADEMY",
+                "seed": 7
+            },
+            "match_games": []
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "87605316-3108-11f1-9c3e-dadc3137be53",
+                "name": "Team Heretics",
+                "seed": 3
+            },
+            "opponent2": {
+                "id": "875f59e8-3108-11f1-8b9a-dadc3137be53",
+                "name": "Madrid",
+                "seed": 6
+            },
+            "match_games": []
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        }
+    ]
+}
