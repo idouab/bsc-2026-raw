@@ -2885,18 +2885,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
                 "name": "FENNEL",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
                 "name": "REJECT",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a8b7de06-289f-11f1-bb70-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -3369,18 +3419,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d409c12-3034-11f1-8e20-4af22f700f47",
                 "name": "Galaxy Collapse",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
                 "name": "ケツデカ高校シリアナ部の意思を引き継いで",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2d409c12-3034-11f1-8e20-4af22f700f47",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2d409c12-3034-11f1-8e20-4af22f700f47",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "2d409c12-3034-11f1-8e20-4af22f700f47",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3634,7 +3734,7 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
                 "name": "KCN",
@@ -3643,7 +3743,8 @@
             "opponent2": {
                 "id": "2d437d38-3034-11f1-ad42-4af22f700f47",
                 "name": "Beat it",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3672,10 +3773,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d44e60a-3034-11f1-9da1-4af22f700f47",
+                "name": "ケツデカ高校シリアナ部の意思を引き継いで",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "2d3b9f14-3034-11f1-ab06-4af22f700f47",
+                "name": "モーティス絶対使わないです",
+                "seed": 18
             },
             "match_games": []
         },
@@ -3760,7 +3865,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
+                "name": "REJECT",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
