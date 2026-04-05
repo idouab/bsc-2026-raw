@@ -2296,18 +2296,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
                 "name": "HMBLE",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f492a702-289f-11f1-8584-1662e184e72d",
                 "name": "Forza esports",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -2508,7 +2558,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                "name": "HMBLE",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2849,7 +2901,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f492a702-289f-11f1-8584-1662e184e72d",
+                "name": "Forza esports",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
