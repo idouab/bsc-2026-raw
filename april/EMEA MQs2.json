@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+            "tournament_id": 0,
+            "name": "ZKA",
+            "players": [
+                {
+                    "name": "Zaiko☕️",
+                    "gamerTag": "#G99CYGL"
+                },
+                {
+                    "name": "Keapss🇫🇷",
+                    "gamerTag": "#20JU9YJJP"
+                },
+                {
+                    "name": "Alannガアラ",
+                    "gamerTag": "#2288RRJJG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "862b3784-305b-11f1-8764-52d63ee2a8d5",
             "tournament_id": 0,
             "name": "Sushi>tierS",
@@ -761,18 +781,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
                 "name": "HMBLE",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
                 "name": "ZKA",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1183,7 +1253,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f26885fa-289f-11f1-abc1-1662e184e72d",
+                "name": "HMBLE",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1375,7 +1447,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                "name": "ZKA",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
