@@ -2279,18 +2279,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f98705c-28a0-11f1-86ef-1662e184e72d",
                 "name": "LOUD",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
                 "name": "🔥GE4R🔥",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7f98705c-28a0-11f1-86ef-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "7f98705c-28a0-11f1-86ef-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7f98705c-28a0-11f1-86ef-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2373,7 +2423,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f98705c-28a0-11f1-86ef-1662e184e72d",
+                "name": "LOUD",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2667,10 +2719,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f064af6-28a0-11f1-a822-1662e184e72d",
+                "name": "🔥GE4R🔥",
+                "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "d86918d0-305c-11f1-a3a7-52d63ee2a8d5",
+                "name": "TRIBO F/A",
+                "seed": 25
             },
             "match_games": []
         },
