@@ -2576,18 +2576,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f332b280-289f-11f1-a6c6-1662e184e72d",
                 "name": "FUT Esports",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
                 "name": "Haneki Corp",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f332b280-289f-11f1-a6c6-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f332b280-289f-11f1-a6c6-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f332b280-289f-11f1-a6c6-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "f332b280-289f-11f1-a6c6-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2748,7 +2813,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f332b280-289f-11f1-a6c6-1662e184e72d",
+                "name": "FUT Esports",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -3110,7 +3177,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                "name": "Haneki Corp",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
