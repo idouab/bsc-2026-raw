@@ -2443,18 +2443,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0af384-28a0-11f1-be2d-1662e184e72d",
                 "name": "vic day",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb0cb160-28a0-11f1-a6c0-1662e184e72d",
                 "name": "Nameless",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cb0af384-28a0-11f1-be2d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb0cb160-28a0-11f1-a6c0-1662e184e72d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cb0af384-28a0-11f1-be2d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb0cb160-28a0-11f1-a6c0-1662e184e72d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cb0af384-28a0-11f1-be2d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb0cb160-28a0-11f1-a6c0-1662e184e72d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2518,7 +2568,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "cb0af384-28a0-11f1-be2d-1662e184e72d",
+                "name": "vic day",
+                "seed": 6
             },
             "match_games": []
         },
@@ -2680,18 +2732,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
                 "name": "BC* Gaming Academy",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "18499a74-307b-11f1-984a-a69164b22a2f",
                 "name": "Washed Uncs",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18499a74-307b-11f1-984a-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -2792,10 +2909,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cb0cb160-28a0-11f1-a6c0-1662e184e72d",
+                "name": "Nameless",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "18512fb4-307b-11f1-be9d-a69164b22a2f",
+                "name": "Pura Doble S",
+                "seed": 32
             },
             "match_games": []
         },
