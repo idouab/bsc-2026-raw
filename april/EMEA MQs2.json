@@ -2386,18 +2386,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
                 "name": "🥀",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
                 "name": "Big Talents",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2626,10 +2676,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f26a4a66-289f-11f1-a0b1-1662e184e72d",
+                "name": "Big Talents",
+                "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "f3fe8180-289f-11f1-baad-1662e184e72d",
+                "name": "NAVI",
+                "seed": 5
             },
             "match_games": []
         },
@@ -2921,7 +2975,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "862fd6ae-305b-11f1-9b39-52d63ee2a8d5",
+                "name": "🥀",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
