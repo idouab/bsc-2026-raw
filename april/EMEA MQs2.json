@@ -3662,18 +3662,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
                 "name": "NOVO Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
                 "name": "ZKA",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8631eca0-305b-11f1-b5d8-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3924,7 +3974,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                "name": "NOVO Esports",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
