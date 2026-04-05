@@ -3732,18 +3732,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f269116e-289f-11f1-baa3-1662e184e72d",
                 "name": "DontFinxSo",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
                 "name": "Six Sevens",
-                "seed": 25
+                "seed": 25,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "f269116e-289f-11f1-baa3-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3979,7 +4029,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                "name": "Six Sevens",
+                "seed": 25
             },
             "match_games": []
         },
