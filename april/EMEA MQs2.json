@@ -4507,18 +4507,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
                 "name": "NOVO Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
                 "name": "Six Sevens",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862cb942-305b-11f1-a244-52d63ee2a8d5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4694,7 +4759,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "f1a9352e-289f-11f1-8203-1662e184e72d",
+                "name": "NOVO Esports",
+                "seed": 6
             },
             "match_games": []
         },
