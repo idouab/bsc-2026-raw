@@ -639,6 +639,66 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "a8e4c448-289f-11f1-bb41-1662e184e72d",
+            "tournament_id": 0,
+            "name": "私達の腰は相手が泣き出すまで止まりません",
+            "players": [
+                {
+                    "name": "ぴこもなか",
+                    "gamerTag": "#9CY8092CJ"
+                },
+                {
+                    "name": "てむぐら",
+                    "gamerTag": "#8YUVLQQLG"
+                },
+                {
+                    "name": "TIQ.zo",
+                    "gamerTag": "#2CJ8UQPGCR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "a8e5645c-289f-11f1-90a5-1662e184e72d",
+            "tournament_id": 0,
+            "name": "Team Falcons",
+            "players": [
+                {
+                    "name": "惨 ︎︎",
+                    "gamerTag": "#9YV2JY2QU"
+                },
+                {
+                    "name": "YukiMII",
+                    "gamerTag": "#8P9JUUP29"
+                },
+                {
+                    "name": "PL bronze アペンキー",
+                    "gamerTag": "#28CY9RU8Y"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2d437d38-3034-11f1-ad42-4af22f700f47",
+            "tournament_id": 0,
+            "name": "Beat it",
+            "players": [
+                {
+                    "name": "baby我們的牌位好像跳樓機",
+                    "gamerTag": "#2LQJV0VVC"
+                },
+                {
+                    "name": "chongen🥰🌍",
+                    "gamerTag": "#2U0C8QLVL"
+                },
+                {
+                    "name": "💕豬豬(´▽｀)ノ♪",
+                    "gamerTag": "#8YR00YPCL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -821,11 +881,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8e4c448-289f-11f1-bb41-1662e184e72d",
                 "name": "私達の腰は相手が泣き出すまで止まりません",
-                "seed": 13
+                "seed": 13,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2d3d2af0-3034-11f1-b03c-4af22f700f47",
@@ -941,11 +1002,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8e5645c-289f-11f1-90a5-1662e184e72d",
                 "name": "Team Falcons",
-                "seed": 10
+                "seed": 10,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2d409c12-3034-11f1-8e20-4af22f700f47",
@@ -1001,7 +1063,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
                 "name": "REJECT",
@@ -1010,7 +1072,8 @@
             "opponent2": {
                 "id": "2d437d38-3034-11f1-ad42-4af22f700f47",
                 "name": "Beat it",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1155,7 +1218,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8b55f1e-289f-11f1-9d19-1662e184e72d",
+                "name": "REJECT",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1347,7 +1412,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d437d38-3034-11f1-ad42-4af22f700f47",
+                "name": "Beat it",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
