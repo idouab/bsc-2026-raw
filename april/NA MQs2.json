@@ -801,6 +801,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+            "tournament_id": 0,
+            "name": "BC* Gaming Academy",
+            "players": [
+                {
+                    "name": "BC*|sunnyy!",
+                    "gamerTag": "#990VQVPLY"
+                },
+                {
+                    "name": "BC*|optical!",
+                    "gamerTag": "#P00Q9JVU"
+                },
+                {
+                    "name": "BC*|ramen!",
+                    "gamerTag": "#2LG0JPLQLQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "1850374e-307b-11f1-9565-a69164b22a2f",
             "tournament_id": 0,
             "name": "2026",
@@ -1443,18 +1463,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
                 "name": "Vatic",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
                 "name": "BC* Gaming Academy",
-                "seed": 26
+                "seed": 26,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1811,7 +1896,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cb0b8a4c-28a0-11f1-be7d-1662e184e72d",
+                "name": "Vatic",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -2023,7 +2110,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "184d40f2-307b-11f1-8fe2-a69164b22a2f",
+                "name": "BC* Gaming Academy",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
