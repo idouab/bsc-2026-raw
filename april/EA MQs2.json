@@ -3714,18 +3714,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
                 "name": "Frenzy",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
                 "name": "チーム公認クリエイターズ",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d45dc04-3034-11f1-ae07-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -3813,10 +3878,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8b93224-289f-11f1-9f3e-1662e184e72d",
+                "name": "Frenzy",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "a88957d4-289f-11f1-8bc9-1662e184e72d",
+                "name": "KCN",
+                "seed": 16
             },
             "match_games": []
         },
