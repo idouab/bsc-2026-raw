@@ -4032,18 +4032,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
                 "name": "Haneki Corp",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
                 "name": "TOC Esports",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8624c48a-305b-11f1-aed3-52d63ee2a8d5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -4309,7 +4374,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "862f15de-305b-11f1-bb8c-52d63ee2a8d5",
+                "name": "TOC Esports",
+                "seed": 28
             },
             "match_games": []
         },
