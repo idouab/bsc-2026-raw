@@ -2080,18 +2080,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8b6afe0-289f-11f1-aa42-1662e184e72d",
                 "name": "SKCalalas",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d3d2af0-3034-11f1-b03c-4af22f700f47",
                 "name": "無職透明",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a8b6afe0-289f-11f1-aa42-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3d2af0-3034-11f1-b03c-4af22f700f47",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a8b6afe0-289f-11f1-aa42-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3d2af0-3034-11f1-b03c-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a8b6afe0-289f-11f1-aa42-1662e184e72d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3d2af0-3034-11f1-b03c-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2268,7 +2318,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8b6afe0-289f-11f1-aa42-1662e184e72d",
+                "name": "SKCalalas",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -2564,10 +2616,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d3d2af0-3034-11f1-b03c-4af22f700f47",
+                "name": "無職透明",
+                "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "2d42c0fa-3034-11f1-a71d-4af22f700f47",
+                "name": "F/A Team Korea",
+                "seed": 26
             },
             "match_games": []
         },
