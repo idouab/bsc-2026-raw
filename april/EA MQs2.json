@@ -781,6 +781,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "a8dc155a-289f-11f1-9953-1662e184e72d",
+            "tournament_id": 0,
+            "name": "陰キャ撲滅",
+            "players": [
+                {
+                    "name": "ヒュウガネジ",
+                    "gamerTag": "#2GQLGJPYQ"
+                },
+                {
+                    "name": "リー将軍",
+                    "gamerTag": "#29LVGP0PC"
+                },
+                {
+                    "name": "めろめろめぇーんww",
+                    "gamerTag": "#2UP99P9G8Q"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2d437d38-3034-11f1-ad42-4af22f700f47",
             "tournament_id": 0,
             "name": "Beat it",
@@ -1413,11 +1433,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8dc155a-289f-11f1-9953-1662e184e72d",
                 "name": "陰キャ撲滅",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2d3e91ba-3034-11f1-bddd-4af22f700f47",
@@ -1637,7 +1658,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "2d3e91ba-3034-11f1-bddd-4af22f700f47",
+                "name": "Genius  Dominion",
+                "seed": 19
             },
             "match_games": []
         },
@@ -1845,7 +1868,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "a8dc155a-289f-11f1-9953-1662e184e72d",
+                "name": "陰キャ撲滅",
+                "seed": 14
             },
             "match_games": []
         },
