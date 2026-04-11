@@ -621,18 +621,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "eb054f9c-30dc-11f1-8dda-f60f4bfee8f8",
                 "name": "Crazy Raccoon",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eb06f0a4-30dc-11f1-9702-f60f4bfee8f8",
                 "name": "Rival Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "eb054f9c-30dc-11f1-8dda-f60f4bfee8f8",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eb06f0a4-30dc-11f1-9702-f60f4bfee8f8",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "eb054f9c-30dc-11f1-8dda-f60f4bfee8f8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb06f0a4-30dc-11f1-9702-f60f4bfee8f8",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "eb054f9c-30dc-11f1-8dda-f60f4bfee8f8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb06f0a4-30dc-11f1-9702-f60f4bfee8f8",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "eb054f9c-30dc-11f1-8dda-f60f4bfee8f8",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb06f0a4-30dc-11f1-9702-f60f4bfee8f8",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -648,7 +713,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "eb054f9c-30dc-11f1-8dda-f60f4bfee8f8",
+                "name": "Crazy Raccoon",
+                "seed": 2
             },
             "match_games": []
         }
