@@ -521,18 +521,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
                 "name": "Bounty Hunters Allu",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23f19674-312f-11f1-bc93-c23854d8bca2",
                 "name": "SKCalalas SA",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23f19674-312f-11f1-bc93-c23854d8bca2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23f19674-312f-11f1-bc93-c23854d8bca2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23f19674-312f-11f1-bc93-c23854d8bca2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23f19674-312f-11f1-bc93-c23854d8bca2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -563,7 +628,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                "name": "Bounty Hunters Allu",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
