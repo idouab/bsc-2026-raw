@@ -396,18 +396,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "74575658-3143-11f1-945d-4af22f700f47",
                 "name": "Only Realm",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "74511018-3143-11f1-a561-4af22f700f47",
                 "name": "vic day",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "74575658-3143-11f1-945d-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74511018-3143-11f1-a561-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "74575658-3143-11f1-945d-4af22f700f47",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74511018-3143-11f1-a561-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "74575658-3143-11f1-945d-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74511018-3143-11f1-a561-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "74575658-3143-11f1-945d-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74511018-3143-11f1-a561-4af22f700f47",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -458,7 +523,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "74575658-3143-11f1-945d-4af22f700f47",
+                "name": "Only Realm",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
