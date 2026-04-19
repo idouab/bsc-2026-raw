@@ -551,18 +551,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "745556b4-3143-11f1-86cb-4af22f700f47",
                 "name": "Legacy Esports",
-                "seed": 8
+                "seed": 8,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "74533b7c-3143-11f1-8050-4af22f700f47",
                 "name": "Vatic",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "745556b4-3143-11f1-86cb-4af22f700f47",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "74533b7c-3143-11f1-8050-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "745556b4-3143-11f1-86cb-4af22f700f47",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74533b7c-3143-11f1-8050-4af22f700f47",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "745556b4-3143-11f1-86cb-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74533b7c-3143-11f1-8050-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "745556b4-3143-11f1-86cb-4af22f700f47",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "74533b7c-3143-11f1-8050-4af22f700f47",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -593,7 +658,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "74533b7c-3143-11f1-8050-4af22f700f47",
+                "name": "Vatic",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
