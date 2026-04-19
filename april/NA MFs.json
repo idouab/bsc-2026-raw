@@ -481,18 +481,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7455ff74-3143-11f1-9e2a-4af22f700f47",
                 "name": "Tribe Gaming",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7456ad98-3143-11f1-b8c1-4af22f700f47",
                 "name": "STMN",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7455ff74-3143-11f1-9e2a-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7456ad98-3143-11f1-b8c1-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7455ff74-3143-11f1-9e2a-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7456ad98-3143-11f1-b8c1-4af22f700f47",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "7455ff74-3143-11f1-9e2a-4af22f700f47",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7456ad98-3143-11f1-b8c1-4af22f700f47",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -528,7 +578,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "7455ff74-3143-11f1-9e2a-4af22f700f47",
+                "name": "Tribe Gaming",
+                "seed": 3
             },
             "match_games": []
         },
