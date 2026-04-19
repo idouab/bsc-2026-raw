@@ -691,18 +691,98 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
                 "name": "Bounty Hunters Allu",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "23f22576-312f-11f1-917f-c23854d8bca2",
                 "name": "ETERNAL",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23f22576-312f-11f1-917f-c23854d8bca2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23f22576-312f-11f1-917f-c23854d8bca2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23f22576-312f-11f1-917f-c23854d8bca2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "23f22576-312f-11f1-917f-c23854d8bca2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "23f2b4a0-312f-11f1-8c6a-c23854d8bca2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23f22576-312f-11f1-917f-c23854d8bca2",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
