@@ -8321,18 +8321,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e41efa40-719e-11f1-a083-cade9bdb68ea",
                 "name": "007",
-                "seed": 245
+                "seed": 245,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "efce4430-74b0-11f1-9afe-36788fc7e0a5",
                 "name": "GNR E-SPORTS",
-                "seed": 268
+                "seed": 268,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e41efa40-719e-11f1-a083-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "efce4430-74b0-11f1-9afe-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e41efa40-719e-11f1-a083-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "efce4430-74b0-11f1-9afe-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 115,
@@ -12006,7 +12041,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "efce4430-74b0-11f1-9afe-36788fc7e0a5",
+                "name": "GNR E-SPORTS",
+                "seed": 268
             },
             "match_games": []
         },
