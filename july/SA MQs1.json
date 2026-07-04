@@ -16783,18 +16783,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1db0293a-743a-11f1-b4b9-cade9bdb68ea",
                 "name": "LittleTitans",
-                "seed": 201
+                "seed": 201,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e4ea4a8-728e-11f1-9422-36788fc7e0a5",
                 "name": "LED YAKU WARRIORS",
-                "seed": 184
+                "seed": 184,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "1db0293a-743a-11f1-b4b9-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e4ea4a8-728e-11f1-9422-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "1db0293a-743a-11f1-b4b9-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e4ea4a8-728e-11f1-9422-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 399,
@@ -17183,18 +17218,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa61cf82-72aa-11f1-ba26-36788fc7e0a5",
                 "name": "Teze kuestro",
-                "seed": 194
+                "seed": 194,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ffd191a6-70d8-11f1-8dc6-36788fc7e0a5",
                 "name": "ixiteam zero",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fa61cf82-72aa-11f1-ba26-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ffd191a6-70d8-11f1-8dc6-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fa61cf82-72aa-11f1-ba26-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ffd191a6-70d8-11f1-8dc6-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 419,
