@@ -13189,18 +13189,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "18eaabdc-7304-11f1-a36f-cade9bdb68ea",
                 "name": "Andiñalon",
-                "seed": 122
+                "seed": 122,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aebd66c4-725d-11f1-a946-cade9bdb68ea",
                 "name": "Papados",
-                "seed": 135
+                "seed": 135,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "18eaabdc-7304-11f1-a36f-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aebd66c4-725d-11f1-a946-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "18eaabdc-7304-11f1-a36f-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aebd66c4-725d-11f1-a946-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 339,
