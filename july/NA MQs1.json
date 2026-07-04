@@ -14970,18 +14970,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8659fc4a-70d9-11f1-bd73-36788fc7e0a5",
                 "name": "Nigu",
-                "seed": 103
+                "seed": 103,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
                 "name": "Pigeon is best",
-                "seed": 154
+                "seed": 154,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8659fc4a-70d9-11f1-bd73-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8659fc4a-70d9-11f1-bd73-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 343,
@@ -15776,18 +15811,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "75b0f5e2-749e-11f1-8750-36788fc7e0a5",
                 "name": "Vibez",
-                "seed": 110
+                "seed": 110,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "72352520-7334-11f1-99bc-36788fc7e0a5",
                 "name": "ONpower",
-                "seed": 147
+                "seed": 147,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "75b0f5e2-749e-11f1-8750-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "72352520-7334-11f1-99bc-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "75b0f5e2-749e-11f1-8750-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "72352520-7334-11f1-99bc-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "75b0f5e2-749e-11f1-8750-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "72352520-7334-11f1-99bc-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 367,
@@ -17245,7 +17330,9 @@
                 "seed": 282
             },
             "opponent2": {
-                "id": null
+                "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                "name": "Pigeon is best",
+                "seed": 154
             },
             "match_games": []
         },
@@ -17471,7 +17558,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "72352520-7334-11f1-99bc-36788fc7e0a5",
+                "name": "ONpower",
+                "seed": 147
             },
             "match_games": []
         },
