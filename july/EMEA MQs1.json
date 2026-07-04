@@ -88419,18 +88419,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
                 "name": "TLB Academy",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
                 "name": "Hasiiiii 🐰",
-                "seed": 40
+                "seed": 40,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1991,
@@ -89030,18 +89080,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
                 "name": "Devotatii",
-                "seed": 1135
+                "seed": 1135,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
                 "name": "F/a",
-                "seed": 82
+                "seed": 82,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2005,
@@ -89615,7 +89715,9 @@
                 "seed": 1160
             },
             "opponent2": {
-                "id": null
+                "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                "name": "Hasiiiii 🐰",
+                "seed": 40
             },
             "match_games": []
         },
@@ -89745,7 +89847,9 @@
                 "seed": 975
             },
             "opponent2": {
-                "id": null
+                "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
+                "name": "Devotatii",
+                "seed": 1135
             },
             "match_games": []
         },
