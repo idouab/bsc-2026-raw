@@ -85210,18 +85210,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "366ae0a0-70cf-11f1-84bd-36788fc7e0a5",
                 "name": "Meep",
-                "seed": 312
+                "seed": 312,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "801685ca-718c-11f1-a3e1-cade9bdb68ea",
                 "name": "VS Gaming",
-                "seed": 696
+                "seed": 696,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "366ae0a0-70cf-11f1-84bd-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "801685ca-718c-11f1-a3e1-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "366ae0a0-70cf-11f1-84bd-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "801685ca-718c-11f1-a3e1-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1935,
@@ -86202,18 +86237,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3da4fb94-70cf-11f1-a9de-36788fc7e0a5",
                 "name": "Glore🐙",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fbeb7846-7190-11f1-b4ee-36788fc7e0a5",
                 "name": "BRIXTON BULLIES",
-                "seed": 1122
+                "seed": 1122,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3da4fb94-70cf-11f1-a9de-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbeb7846-7190-11f1-b4ee-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3da4fb94-70cf-11f1-a9de-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fbeb7846-7190-11f1-b4ee-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3da4fb94-70cf-11f1-a9de-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbeb7846-7190-11f1-b4ee-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1956,
@@ -87760,7 +87845,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "801685ca-718c-11f1-a3e1-cade9bdb68ea",
+                "name": "VS Gaming",
+                "seed": 696
             },
             "match_games": []
         },
@@ -87965,10 +88052,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3da4fb94-70cf-11f1-a9de-36788fc7e0a5",
+                "name": "Glore🐙",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "4db5b4ba-70cf-11f1-9e69-36788fc7e0a5",
+                "name": "领┃MMD",
+                "seed": 95
             },
             "match_games": []
         },
