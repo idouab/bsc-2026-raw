@@ -13194,18 +13194,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc8067e8-70d8-11f1-a42e-36788fc7e0a5",
                 "name": "Aurinha Gameplays",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "361a9f4e-7185-11f1-be21-36788fc7e0a5",
                 "name": "KSE Vortex",
-                "seed": 229
+                "seed": 229,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fc8067e8-70d8-11f1-a42e-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "361a9f4e-7185-11f1-be21-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fc8067e8-70d8-11f1-a42e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "361a9f4e-7185-11f1-be21-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fc8067e8-70d8-11f1-a42e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "361a9f4e-7185-11f1-be21-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 310,
@@ -16192,7 +16242,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc8067e8-70d8-11f1-a42e-36788fc7e0a5",
+                "name": "Aurinha Gameplays",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
