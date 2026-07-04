@@ -9356,18 +9356,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ab2c085e-7329-11f1-9c0a-cade9bdb68ea",
                 "name": "Figueira Brawl Stars",
-                "seed": 218
+                "seed": 218,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "37bcd33a-71d0-11f1-a5ac-36788fc7e0a5",
                 "name": "Boizada",
-                "seed": 295
+                "seed": 295,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ab2c085e-7329-11f1-9c0a-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "37bcd33a-71d0-11f1-a5ac-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ab2c085e-7329-11f1-9c0a-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37bcd33a-71d0-11f1-a5ac-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ab2c085e-7329-11f1-9c0a-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "37bcd33a-71d0-11f1-a5ac-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 175,
@@ -12538,7 +12588,9 @@
                 "seed": 39
             },
             "opponent2": {
-                "id": null
+                "id": "37bcd33a-71d0-11f1-a5ac-36788fc7e0a5",
+                "name": "Boizada",
+                "seed": 295
             },
             "match_games": []
         },
