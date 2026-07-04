@@ -12759,18 +12759,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86e2c106-70d9-11f1-83ca-36788fc7e0a5",
                 "name": "Needles And Pins",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
                 "name": "Gentzugoods F/A",
-                "seed": 269
+                "seed": 269,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "86e2c106-70d9-11f1-83ca-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "86e2c106-70d9-11f1-83ca-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 298,
@@ -13315,18 +13350,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
                 "name": "Greed",
-                "seed": 53
+                "seed": 53,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6f778fae-77c0-11f1-97df-b6b64b77d564",
                 "name": "Black Wolfs",
-                "seed": 309
+                "seed": 309,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f778fae-77c0-11f1-97df-b6b64b77d564",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f778fae-77c0-11f1-97df-b6b64b77d564",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 316,
@@ -13624,18 +13694,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87f21f1a-70d9-11f1-bae3-36788fc7e0a5",
                 "name": "KSA SPORTS",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a697331c-7762-11f1-9bc9-761788b786e3",
                 "name": "Team Name",
-                "seed": 287
+                "seed": 287,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "87f21f1a-70d9-11f1-bae3-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a697331c-7762-11f1-9bc9-761788b786e3",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "87f21f1a-70d9-11f1-bae3-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a697331c-7762-11f1-9bc9-761788b786e3",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 326,
@@ -14401,18 +14506,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "88b4ae86-70d9-11f1-8913-36788fc7e0a5",
                 "name": "Stay MAD",
-                "seed": 87
+                "seed": 87,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
                 "name": "Pandemonium",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "88b4ae86-70d9-11f1-8913-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "88b4ae86-70d9-11f1-8913-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 353,
@@ -15807,10 +15947,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
+                "name": "Gentzugoods F/A",
+                "seed": 269
             },
             "opponent2": {
-                "id": null
+                "id": "d979260e-779f-11f1-a23d-9ad0d10c7e42",
+                "name": "Lola main",
+                "seed": 141
             },
             "match_games": []
         },
@@ -15971,7 +16115,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
+                "name": "Greed",
+                "seed": 53
             },
             "opponent2": {
                 "id": null
@@ -16063,10 +16209,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "87f21f1a-70d9-11f1-bae3-36788fc7e0a5",
+                "name": "KSA SPORTS",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "a974fb26-7264-11f1-a7f0-cade9bdb68ea",
+                "name": "HUSTLE",
+                "seed": 159
             },
             "match_games": []
         },
@@ -16298,7 +16448,9 @@
                 "seed": 298
             },
             "opponent2": {
-                "id": null
+                "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
+                "name": "Pandemonium",
+                "seed": 170
             },
             "match_games": []
         },
