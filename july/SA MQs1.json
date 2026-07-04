@@ -17543,18 +17543,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e08e7fa0-74a4-11f1-b99f-cade9bdb68ea",
                 "name": "Lag Kings",
-                "seed": 266
+                "seed": 266,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
                 "name": "Bloons",
-                "seed": 138
+                "seed": 138,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e08e7fa0-74a4-11f1-b99f-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e08e7fa0-74a4-11f1-b99f-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 430,
@@ -18334,7 +18369,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
+                "name": "Bloons",
+                "seed": 138
             },
             "opponent2": {
                 "id": null
