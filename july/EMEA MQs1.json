@@ -68483,18 +68483,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "88ccd262-7184-11f1-a596-36788fc7e0a5",
                 "name": "TheBoiz",
-                "seed": 797
+                "seed": 797,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "51a3b87e-70cf-11f1-b692-36788fc7e0a5",
                 "name": "DPC | Secret 🌱",
-                "seed": 285
+                "seed": 285,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "88ccd262-7184-11f1-a596-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51a3b87e-70cf-11f1-b692-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "88ccd262-7184-11f1-a596-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51a3b87e-70cf-11f1-b692-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "88ccd262-7184-11f1-a596-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "51a3b87e-70cf-11f1-b692-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1611,
@@ -77815,7 +77865,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "51a3b87e-70cf-11f1-b692-36788fc7e0a5",
+                "name": "DPC | Secret 🌱",
+                "seed": 285
             },
             "match_games": []
         },
