@@ -8839,18 +8839,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1a109f9e-73ef-11f1-8ba8-36788fc7e0a5",
                 "name": "Royal Dominion",
-                "seed": 239
+                "seed": 239,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
                 "name": "Worlds 2027",
-                "seed": 274
+                "seed": 274,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1a109f9e-73ef-11f1-8ba8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "1a109f9e-73ef-11f1-8ba8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 155,
@@ -12038,7 +12073,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                "name": "Worlds 2027",
+                "seed": 274
             },
             "match_games": []
         },
