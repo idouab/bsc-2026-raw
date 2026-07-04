@@ -84914,18 +84914,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
                 "name": "ThoseWhoGus",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "342296bc-70cf-11f1-9b2f-36788fc7e0a5",
                 "name": "Team KOP",
-                "seed": 105
+                "seed": 105,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "342296bc-70cf-11f1-9b2f-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "342296bc-70cf-11f1-9b2f-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1936,
@@ -85594,18 +85629,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "365051d6-70cf-11f1-8fa0-36788fc7e0a5",
                 "name": "Fenris Academy",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "112cd9a4-74aa-11f1-ab58-cade9bdb68ea",
                 "name": "Sahklists",
-                "seed": 387
+                "seed": 387,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "365051d6-70cf-11f1-8fa0-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "112cd9a4-74aa-11f1-ab58-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "365051d6-70cf-11f1-8fa0-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "112cd9a4-74aa-11f1-ab58-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1970,
@@ -85834,18 +85904,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
                 "name": "#GORVN",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
                 "name": "Joga Bonito",
-                "seed": 1163
+                "seed": 1163,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1982,
@@ -86028,7 +86133,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
+                "name": "ThoseWhoGus",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
@@ -86300,7 +86407,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "365051d6-70cf-11f1-8fa0-36788fc7e0a5",
+                "name": "Fenris Academy",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -86396,7 +86505,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
+                "name": "Joga Bonito",
+                "seed": 1163
             },
             "opponent2": {
                 "id": null
