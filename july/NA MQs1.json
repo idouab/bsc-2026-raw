@@ -18239,18 +18239,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87e6bdaa-70d9-11f1-9906-36788fc7e0a5",
                 "name": "PHOENIX MAN",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "849e833a-70d9-11f1-a19b-36788fc7e0a5",
                 "name": "3A",
-                "seed": 88
+                "seed": 88,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "87e6bdaa-70d9-11f1-9906-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "849e833a-70d9-11f1-a19b-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "87e6bdaa-70d9-11f1-9906-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "849e833a-70d9-11f1-a19b-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "87e6bdaa-70d9-11f1-9906-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "849e833a-70d9-11f1-a19b-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 401,
@@ -19119,18 +19169,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83570916-70d9-11f1-9555-36788fc7e0a5",
                 "name": "Leyendas del Mictlan",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1e705f0-7574-11f1-aaa6-36788fc7e0a5",
                 "name": "Doug’s Milkshakes",
-                "seed": 114
+                "seed": 114,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "83570916-70d9-11f1-9555-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1e705f0-7574-11f1-aaa6-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "83570916-70d9-11f1-9555-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1e705f0-7574-11f1-aaa6-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 422,
@@ -20421,7 +20506,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "87e6bdaa-70d9-11f1-9906-36788fc7e0a5",
+                "name": "PHOENIX MAN",
+                "seed": 41
             },
             "match_games": []
         },
@@ -20628,10 +20715,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "83570916-70d9-11f1-9555-36788fc7e0a5",
+                "name": "Leyendas del Mictlan",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "f03ec794-7372-11f1-904d-cade9bdb68ea",
+                "name": "Black Archives",
+                "seed": 178
             },
             "match_games": []
         },
