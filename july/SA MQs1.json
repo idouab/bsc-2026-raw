@@ -20046,18 +20046,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc03a1e0-70d8-11f1-99d6-36788fc7e0a5",
                 "name": "PND Division",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
                 "name": "THE TRUE CODORNAS",
-                "seed": 224
+                "seed": 224,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fc03a1e0-70d8-11f1-99d6-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fc03a1e0-70d8-11f1-99d6-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -20231,18 +20266,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
                 "name": "INSS",
-                "seed": 153
+                "seed": 153,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "304cbd08-7767-11f1-a88e-b2fa70b7c328",
                 "name": "I miss u Fernanda🥀",
-                "seed": 296
+                "seed": 296,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "304cbd08-7767-11f1-a88e-b2fa70b7c328",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "304cbd08-7767-11f1-a88e-b2fa70b7c328",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 455,
@@ -21410,7 +21480,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "304cbd08-7767-11f1-a88e-b2fa70b7c328",
+                "name": "I miss u Fernanda🥀",
+                "seed": 296
             },
             "match_games": []
         },
