@@ -18780,18 +18780,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbfea866-70d8-11f1-bb45-36788fc7e0a5",
                 "name": "KDB",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0145b8dc-70d9-11f1-a969-36788fc7e0a5",
                 "name": "New Legacy",
-                "seed": 106
+                "seed": 106,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fbfea866-70d8-11f1-bb45-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0145b8dc-70d9-11f1-a969-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fbfea866-70d8-11f1-bb45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0145b8dc-70d9-11f1-a969-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fbfea866-70d8-11f1-bb45-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0145b8dc-70d9-11f1-a969-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 432,
@@ -20230,10 +20280,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0145b8dc-70d9-11f1-a969-36788fc7e0a5",
+                "name": "New Legacy",
+                "seed": 106
             },
             "opponent2": {
-                "id": null
+                "id": "683fb0c8-726f-11f1-bc84-36788fc7e0a5",
+                "name": "NEXUS",
+                "seed": 170
             },
             "match_games": []
         },
