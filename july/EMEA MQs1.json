@@ -84634,18 +84634,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "369a9cbe-70cf-11f1-a856-36788fc7e0a5",
                 "name": "slice esport",
-                "seed": 1
+                "seed": 1,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
                 "name": "Code : Eqwaak",
-                "seed": 1153
+                "seed": 1153,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "369a9cbe-70cf-11f1-a856-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "369a9cbe-70cf-11f1-a856-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "369a9cbe-70cf-11f1-a856-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1922,
@@ -85320,18 +85370,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
                 "name": "F/A Peremoga",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4b5b4932-70cf-11f1-937f-36788fc7e0a5",
                 "name": "Fa autists",
-                "seed": 88
+                "seed": 88,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4b5b4932-70cf-11f1-937f-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4b5b4932-70cf-11f1-937f-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4b5b4932-70cf-11f1-937f-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1937,
@@ -87726,7 +87826,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
+                "name": "Code : Eqwaak",
+                "seed": 1153
             },
             "opponent2": {
                 "id": null
@@ -87865,7 +87967,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
+                "name": "F/A Peremoga",
+                "seed": 41
             },
             "match_games": []
         },
