@@ -11727,18 +11727,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "861b1836-70d9-11f1-8f38-36788fc7e0a5",
                 "name": "Dallas Nova",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1e041e44-7400-11f1-ab48-36788fc7e0a5",
                 "name": "HIM",
-                "seed": 192
+                "seed": 192,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "861b1836-70d9-11f1-8f38-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e041e44-7400-11f1-ab48-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "861b1836-70d9-11f1-8f38-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e041e44-7400-11f1-ab48-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 261,
