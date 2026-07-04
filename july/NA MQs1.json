@@ -12887,18 +12887,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
                 "name": "Cursed Energy",
-                "seed": 108
+                "seed": 108,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "565abdca-723e-11f1-9b36-36788fc7e0a5",
                 "name": "Pro brawlerz",
-                "seed": 149
+                "seed": 149,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "565abdca-723e-11f1-9b36-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "565abdca-723e-11f1-9b36-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 319,
@@ -13187,18 +13222,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "851749e6-70d9-11f1-86a8-36788fc7e0a5",
                 "name": "RVTY",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
                 "name": "Worlds 2027",
-                "seed": 274
+                "seed": 274,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "851749e6-70d9-11f1-86a8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "851749e6-70d9-11f1-86a8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 334,
@@ -13587,18 +13657,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
                 "name": "REVERB",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "225e8c58-751e-11f1-9ac2-cade9bdb68ea",
                 "name": "Hunters",
-                "seed": 259
+                "seed": 259,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "225e8c58-751e-11f1-9ac2-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "225e8c58-751e-11f1-9ac2-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 354,
@@ -14907,7 +15012,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                "name": "Worlds 2027",
+                "seed": 274
             },
             "opponent2": {
                 "id": null
@@ -15067,7 +15174,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                "name": "REVERB",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
