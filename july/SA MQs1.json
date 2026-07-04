@@ -20376,18 +20376,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
                 "name": "FreeLine",
-                "seed": 233
+                "seed": 233,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
                 "name": "ATPL Energy",
-                "seed": 88
+                "seed": 88,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 457,
@@ -21500,7 +21535,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
+                "name": "FreeLine",
+                "seed": 233
             },
             "match_games": []
         },
