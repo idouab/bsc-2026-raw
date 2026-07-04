@@ -8173,18 +8173,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "01ddf830-735a-11f1-a2c0-36788fc7e0a5",
                 "name": "Carajás",
-                "seed": 236
+                "seed": 236,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "865ca668-71c2-11f1-bfe6-cade9bdb68ea",
                 "name": "EL PRIMO COVARDE",
-                "seed": 277
+                "seed": 277,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "01ddf830-735a-11f1-a2c0-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "865ca668-71c2-11f1-bfe6-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "01ddf830-735a-11f1-a2c0-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "865ca668-71c2-11f1-bfe6-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 123,
@@ -11598,7 +11633,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "865ca668-71c2-11f1-bfe6-cade9bdb68ea",
+                "name": "EL PRIMO COVARDE",
+                "seed": 277
             },
             "match_games": []
         },
