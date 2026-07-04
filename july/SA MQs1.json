@@ -12469,18 +12469,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
                 "name": "VIKINGS",
-                "seed": 109
+                "seed": 109,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "416f9554-720f-11f1-b37f-36788fc7e0a5",
                 "name": "KANTARA",
-                "seed": 148
+                "seed": 148,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "416f9554-720f-11f1-b37f-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "416f9554-720f-11f1-b37f-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 303,
@@ -12549,18 +12584,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "72cc49d8-7315-11f1-b2f1-36788fc7e0a5",
                 "name": "Manos do Brawl",
-                "seed": 124
+                "seed": 124,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "925d30b6-725a-11f1-b0fc-36788fc7e0a5",
                 "name": "Água",
-                "seed": 133
+                "seed": 133,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "72cc49d8-7315-11f1-b2f1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "925d30b6-725a-11f1-b0fc-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "72cc49d8-7315-11f1-b2f1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "925d30b6-725a-11f1-b0fc-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 307,
@@ -13629,18 +13699,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
                 "name": "UDP ACADEMY",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cb9e4602-73f0-11f1-9d65-36788fc7e0a5",
                 "name": "Invernum",
-                "seed": 254
+                "seed": 254,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb9e4602-73f0-11f1-9d65-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cb9e4602-73f0-11f1-9d65-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 354,
@@ -15191,7 +15296,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
+                "name": "UDP ACADEMY",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
