@@ -22147,18 +22147,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
                 "name": "INTERVENTION",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "007969bc-70d9-11f1-8956-36788fc7e0a5",
                 "name": "Sub-5 f/a",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "007969bc-70d9-11f1-8956-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "007969bc-70d9-11f1-8956-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
