@@ -86693,18 +86693,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c1425ff2-72da-11f1-9d76-36788fc7e0a5",
                 "name": "Yowergoki team",
-                "seed": 722
+                "seed": 722,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
                 "name": "F/a",
-                "seed": 82
+                "seed": 82,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c1425ff2-72da-11f1-9d76-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "c1425ff2-72da-11f1-9d76-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1961,
@@ -88342,7 +88377,9 @@
                 "seed": 1135
             },
             "opponent2": {
-                "id": null
+                "id": "3a4e072e-70cf-11f1-ba8d-36788fc7e0a5",
+                "name": "F/a",
+                "seed": 82
             },
             "match_games": []
         },
