@@ -14194,18 +14194,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
                 "name": "Enosis Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "86ceb6c8-747d-11f1-87d8-36788fc7e0a5",
                 "name": "Os Xebinhas",
-                "seed": 262
+                "seed": 262,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86ceb6c8-747d-11f1-87d8-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86ceb6c8-747d-11f1-87d8-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 370,
@@ -14484,18 +14519,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
                 "name": "Origin promise",
-                "seed": 75
+                "seed": 75,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "814669b0-728b-11f1-8ca5-36788fc7e0a5",
                 "name": "TROPA MEC",
-                "seed": 182
+                "seed": 182,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "814669b0-728b-11f1-8ca5-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "814669b0-728b-11f1-8ca5-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 381,
@@ -15502,7 +15572,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
+                "name": "Enosis Esports",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
