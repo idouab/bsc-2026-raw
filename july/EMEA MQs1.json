@@ -44924,11 +44924,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "41907d14-70cf-11f1-a908-36788fc7e0a5",
                 "name": "MVP ESPORTS",
-                "seed": 49
+                "seed": 49,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "75268586-7559-11f1-b79b-36788fc7e0a5",
@@ -46777,18 +46778,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c5d81fc-70cf-11f1-98d1-36788fc7e0a5",
                 "name": "RIM",
-                "seed": 153
+                "seed": 153,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "159454f8-773a-11f1-b662-72b8da95bc32",
                 "name": "Djab borzzz djabborz",
-                "seed": 1177
+                "seed": 1177,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3c5d81fc-70cf-11f1-98d1-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "159454f8-773a-11f1-b662-72b8da95bc32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3c5d81fc-70cf-11f1-98d1-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "159454f8-773a-11f1-b662-72b8da95bc32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1112,
@@ -63832,10 +63868,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "75268586-7559-11f1-b79b-36788fc7e0a5",
+                "name": "Vatic Academy",
+                "seed": 1073
             },
             "opponent2": {
-                "id": null
+                "id": "5428111c-70cf-11f1-a414-36788fc7e0a5",
+                "name": "ZagLotus",
+                "seed": 464
             },
             "match_games": []
         },
@@ -64278,10 +64318,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "159454f8-773a-11f1-b662-72b8da95bc32",
+                "name": "Djab borzzz djabborz",
+                "seed": 1177
             },
             "opponent2": {
-                "id": null
+                "id": "95ffb6dc-76ef-11f1-8f74-9a00447bf306",
+                "name": "Lucky Strike",
+                "seed": 360
             },
             "match_games": []
         },
