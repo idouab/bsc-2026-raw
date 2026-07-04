@@ -22430,7 +22430,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84ffe47c-70d9-11f1-981a-36788fc7e0a5",
                 "name": "tacos and rice",
@@ -22439,7 +22439,8 @@
             "opponent2": {
                 "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
                 "name": "愛TS | SAL",
-                "seed": 225
+                "seed": 225,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -22815,18 +22816,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
                 "name": "Momo 🐈👑",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
                 "name": "Vanquish",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 496,
