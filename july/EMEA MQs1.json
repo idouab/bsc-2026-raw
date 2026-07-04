@@ -89105,18 +89105,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33d41cda-70cf-11f1-9b93-36788fc7e0a5",
                 "name": "Ahri Corp",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "085bb2ee-72e0-11f1-880c-36788fc7e0a5",
                 "name": "Siellis Esport 2",
-                "seed": 851
+                "seed": 851,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "33d41cda-70cf-11f1-9b93-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "085bb2ee-72e0-11f1-880c-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "33d41cda-70cf-11f1-9b93-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "085bb2ee-72e0-11f1-880c-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2013,
