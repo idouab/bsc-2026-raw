@@ -88694,18 +88694,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6daed56-7668-11f1-b8e0-2afc0f6609ab",
                 "name": "F/A O.O",
-                "seed": 407
+                "seed": 407,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
                 "name": "DEP",
-                "seed": 87
+                "seed": 87,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6daed56-7668-11f1-b8e0-2afc0f6609ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6daed56-7668-11f1-b8e0-2afc0f6609ab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2009,
