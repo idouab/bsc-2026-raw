@@ -2234,7 +2234,7 @@
                     "gamerTag": "#90VRLCGR8"
                 },
                 {
-                    "name": "~MAMADlSlM0~",
+                    "name": "RNG|MAMADlSlM0",
                     "gamerTag": "#YQGCCQ8CQ"
                 }
             ],
@@ -18332,18 +18332,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
                 "name": "Worlds 2027",
-                "seed": 274
+                "seed": 274,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "359ee140-72fe-11f1-b56a-36788fc7e0a5",
                 "name": "el tikis",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "359ee140-72fe-11f1-b56a-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "359ee140-72fe-11f1-b56a-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 424,
@@ -19158,7 +19193,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc14629c-71cc-11f1-b472-36788fc7e0a5",
+                "name": "Worlds 2027",
+                "seed": 274
             },
             "opponent2": {
                 "id": null
