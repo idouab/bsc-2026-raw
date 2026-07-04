@@ -12494,18 +12494,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
                 "name": "ATPL Energy",
-                "seed": 88
+                "seed": 88,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e9831db0-734a-11f1-892e-36788fc7e0a5",
                 "name": "SYNEX",
-                "seed": 169
+                "seed": 169,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9831db0-734a-11f1-892e-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9831db0-734a-11f1-892e-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 289,
@@ -14989,18 +15024,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd9f137c-70d8-11f1-b110-36788fc7e0a5",
                 "name": "FCX Stars",
-                "seed": 62
+                "seed": 62,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e7f9c166-73f3-11f1-a948-cade9bdb68ea",
                 "name": "four two",
-                "seed": 195
+                "seed": 195,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fd9f137c-70d8-11f1-b110-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e7f9c166-73f3-11f1-a948-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fd9f137c-70d8-11f1-b110-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e7f9c166-73f3-11f1-a948-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 356,
@@ -16896,7 +16966,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e7f9c166-73f3-11f1-a948-cade9bdb68ea",
+                "name": "four two",
+                "seed": 195
             },
             "opponent2": {
                 "id": null
