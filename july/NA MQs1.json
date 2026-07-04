@@ -20858,18 +20858,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
                 "name": "ETERNAL",
-                "seed": 253
+                "seed": 253,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "84d54960-70d9-11f1-bdf6-36788fc7e0a5",
                 "name": "The goat",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84d54960-70d9-11f1-bdf6-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84d54960-70d9-11f1-bdf6-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 458,
@@ -21363,18 +21398,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
                 "name": "Momo 🐈👑",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b62cf516-730a-11f1-8c02-36788fc7e0a5",
                 "name": "V Ø Î Ð E Ð",
-                "seed": 187
+                "seed": 187,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b62cf516-730a-11f1-8c02-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b62cf516-730a-11f1-8c02-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 478,
@@ -21581,7 +21651,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                "name": "ETERNAL",
+                "seed": 253
             },
             "opponent2": {
                 "id": null
@@ -21743,7 +21815,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8a83221a-70d9-11f1-88d2-36788fc7e0a5",
+                "name": "Momo 🐈👑",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
