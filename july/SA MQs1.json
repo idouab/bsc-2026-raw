@@ -12524,18 +12524,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
                 "name": "CVX. Division 0",
-                "seed": 45
+                "seed": 45,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0f352776-731c-11f1-ba91-cade9bdb68ea",
                 "name": "BRABO",
-                "seed": 212
+                "seed": 212,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f352776-731c-11f1-ba91-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f352776-731c-11f1-ba91-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 304,
@@ -12954,18 +12989,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd1d3bb8-70d8-11f1-838c-36788fc7e0a5",
                 "name": "Crazy Xenoverse",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
                 "name": "vbg",
-                "seed": 258
+                "seed": 258,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fd1d3bb8-70d8-11f1-838c-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fd1d3bb8-70d8-11f1-838c-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 322,
@@ -14892,7 +14962,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
+                "name": "CVX. Division 0",
+                "seed": 45
             },
             "opponent2": {
                 "id": null
@@ -15036,7 +15108,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fd1d3bb8-70d8-11f1-838c-36788fc7e0a5",
+                "name": "Crazy Xenoverse",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
