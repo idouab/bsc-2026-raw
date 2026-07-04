@@ -78449,18 +78449,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
                 "name": "Hasiiiii 🐰",
-                "seed": 40
+                "seed": 40,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "057105ec-7241-11f1-800a-36788fc7e0a5",
                 "name": "Koundidjo",
-                "seed": 729
+                "seed": 729,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "057105ec-7241-11f1-800a-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "057105ec-7241-11f1-800a-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1816,
@@ -81404,18 +81439,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38ead99a-7249-11f1-acbd-36788fc7e0a5",
                 "name": "Renstein",
-                "seed": 586
+                "seed": 586,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
                 "name": "Atlantis Academy",
-                "seed": 183
+                "seed": 183,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "38ead99a-7249-11f1-acbd-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "38ead99a-7249-11f1-acbd-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1885,
@@ -83219,10 +83289,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                "name": "Hasiiiii 🐰",
+                "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "f14536de-719a-11f1-ba0f-cade9bdb68ea",
+                "name": "Novara..",
+                "seed": 857
             },
             "match_games": []
         },
@@ -83848,7 +83922,9 @@
                 "seed": 567
             },
             "opponent2": {
-                "id": null
+                "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
+                "name": "Atlantis Academy",
+                "seed": 183
             },
             "match_games": []
         },
