@@ -20466,18 +20466,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
                 "name": "Bloons",
-                "seed": 138
+                "seed": 138,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e81548a0-7308-11f1-afe1-36788fc7e0a5",
                 "name": "34",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e81548a0-7308-11f1-afe1-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3dd501e6-7754-11f1-bf95-0e4baf5cf3fb",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e81548a0-7308-11f1-afe1-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 472,
@@ -20844,7 +20879,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e81548a0-7308-11f1-afe1-36788fc7e0a5",
+                "name": "34",
+                "seed": 202
             },
             "opponent2": {
                 "id": null
