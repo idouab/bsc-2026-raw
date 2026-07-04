@@ -11974,18 +11974,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6f0bc54-724a-11f1-a813-36788fc7e0a5",
                 "name": "Os desconhecidos",
-                "seed": 121
+                "seed": 121,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
                 "name": "FÊNEXX PG",
-                "seed": 136
+                "seed": 136,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c6f0bc54-724a-11f1-a813-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "c6f0bc54-724a-11f1-a813-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "c6f0bc54-724a-11f1-a813-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 275,
@@ -15615,7 +15665,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
+                "name": "FÊNEXX PG",
+                "seed": 136
             },
             "match_games": []
         },
