@@ -90115,18 +90115,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cf799640-7711-11f1-ba93-9ae5249cb4e1",
                 "name": "Dark Sayo 🇲🇦",
-                "seed": 1160
+                "seed": 1160,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
                 "name": "Hasiiiii 🐰",
-                "seed": 40
+                "seed": 40,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "cf799640-7711-11f1-ba93-9ae5249cb4e1",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cf799640-7711-11f1-ba93-9ae5249cb4e1",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2020,
@@ -90175,18 +90210,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
                 "name": "Gigampfii",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
                 "name": "RaveN Esports.",
-                "seed": 468
+                "seed": 468,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2023,
@@ -90480,18 +90550,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
                 "name": "Joga Bonito",
-                "seed": 1163
+                "seed": 1163,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7b28b1d2-732b-11f1-8cdc-cade9bdb68ea",
                 "name": "TalentsLab",
-                "seed": 939
+                "seed": 939,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7b28b1d2-732b-11f1-8cdc-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "bf93bcbe-7712-11f1-bcc3-c22b4874322c",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7b28b1d2-732b-11f1-8cdc-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
