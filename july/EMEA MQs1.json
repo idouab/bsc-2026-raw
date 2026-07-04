@@ -84278,15 +84278,64 @@
             "opponent1": {
                 "id": "382275d4-70cf-11f1-9f44-36788fc7e0a5",
                 "name": "Kaizen 🍥",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "34a98b04-70cf-11f1-8a96-36788fc7e0a5",
                 "name": "Spin2Win",
                 "seed": 214,
-                "forfeit": 1
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "382275d4-70cf-11f1-9f44-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34a98b04-70cf-11f1-8a96-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "382275d4-70cf-11f1-9f44-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "34a98b04-70cf-11f1-8a96-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "382275d4-70cf-11f1-9f44-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34a98b04-70cf-11f1-8a96-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1920,
