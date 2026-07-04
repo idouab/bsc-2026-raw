@@ -21219,18 +21219,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
                 "name": "AS Roma",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8792031e-70d9-11f1-840e-36788fc7e0a5",
                 "name": "JDR",
-                "seed": 69
+                "seed": 69,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8792031e-70d9-11f1-840e-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8792031e-70d9-11f1-840e-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8792031e-70d9-11f1-840e-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 462,
@@ -22263,7 +22313,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                "name": "AS Roma",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
