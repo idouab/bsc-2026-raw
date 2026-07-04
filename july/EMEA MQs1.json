@@ -46679,18 +46679,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "377fa6c4-70cf-11f1-91ab-36788fc7e0a5",
                 "name": "FishBon",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f63abcb0-722e-11f1-a7be-36788fc7e0a5",
                 "name": "MakeUp",
-                "seed": 697
+                "seed": 697,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "377fa6c4-70cf-11f1-91ab-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f63abcb0-722e-11f1-a7be-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "377fa6c4-70cf-11f1-91ab-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f63abcb0-722e-11f1-a7be-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1105,
@@ -65342,7 +65377,9 @@
                 "seed": 185
             },
             "opponent2": {
-                "id": null
+                "id": "377fa6c4-70cf-11f1-91ab-36788fc7e0a5",
+                "name": "FishBon",
+                "seed": 328
             },
             "match_games": []
         },
