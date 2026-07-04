@@ -21570,18 +21570,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
                 "name": "Cabo Verde",
-                "seed": 135
+                "seed": 135,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "89440b9e-70d9-11f1-ae33-36788fc7e0a5",
                 "name": "Xelozias",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "89440b9e-70d9-11f1-ae33-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "89440b9e-70d9-11f1-ae33-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "89440b9e-70d9-11f1-ae33-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 470,
@@ -22389,10 +22439,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "89440b9e-70d9-11f1-ae33-36788fc7e0a5",
+                "name": "Xelozias",
+                "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                "name": "Pigeon is best",
+                "seed": 154
             },
             "match_games": []
         },
