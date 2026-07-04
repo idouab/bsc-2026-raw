@@ -86417,18 +86417,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
                 "name": "1234",
-                "seed": 450
+                "seed": 450,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
                 "name": "DESTINY 0",
-                "seed": 322
+                "seed": 322,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1955,
@@ -87148,18 +87183,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
                 "name": "ñBñ",
-                "seed": 42
+                "seed": 42,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
                 "name": "DEP",
-                "seed": 87
+                "seed": 87,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1969,
@@ -88369,7 +88454,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                "name": "DESTINY 0",
+                "seed": 322
             },
             "match_games": []
         },
@@ -88507,7 +88594,9 @@
                 "seed": 407
             },
             "opponent2": {
-                "id": null
+                "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                "name": "DEP",
+                "seed": 87
             },
             "match_games": []
         },
