@@ -78744,18 +78744,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4931b272-70cf-11f1-b596-36788fc7e0a5",
                 "name": "BC* Gaming EU",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4cf286f2-70cf-11f1-bbbf-36788fc7e0a5",
                 "name": "HYBRID Esports",
-                "seed": 268
+                "seed": 268,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4931b272-70cf-11f1-b596-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cf286f2-70cf-11f1-bbbf-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "4931b272-70cf-11f1-b596-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cf286f2-70cf-11f1-bbbf-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1850,
@@ -78944,18 +78979,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
                 "name": "1234",
-                "seed": 450
+                "seed": 450,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "503bcf3a-70cf-11f1-8b6e-36788fc7e0a5",
                 "name": "White Monster",
-                "seed": 194
+                "seed": 194,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "503bcf3a-70cf-11f1-8b6e-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "503bcf3a-70cf-11f1-8b6e-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1860,
@@ -80634,7 +80704,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4931b272-70cf-11f1-b596-36788fc7e0a5",
+                "name": "BC* Gaming EU",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -80714,7 +80786,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bd248b9e-7559-11f1-b9f2-36788fc7e0a5",
+                "name": "1234",
+                "seed": 450
             },
             "opponent2": {
                 "id": null
