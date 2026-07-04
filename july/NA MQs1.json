@@ -17847,18 +17847,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "833e6f3c-70d9-11f1-ab78-36788fc7e0a5",
                 "name": "TEAM RAYTHOS⚡",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e2614440-7768-11f1-80a4-761788b786e3",
                 "name": "Pioladores",
-                "seed": 137
+                "seed": 137,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "833e6f3c-70d9-11f1-ab78-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e2614440-7768-11f1-80a4-761788b786e3",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "833e6f3c-70d9-11f1-ab78-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e2614440-7768-11f1-80a4-761788b786e3",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 398,
@@ -18242,18 +18277,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a330f02a-7706-11f1-8281-b2fa70b7c328",
                 "name": "meow",
-                "seed": 277
+                "seed": 277,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
                 "name": "Cursed Energy",
-                "seed": 108
+                "seed": 108,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "a330f02a-7706-11f1-8281-b2fa70b7c328",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a330f02a-7706-11f1-8281-b2fa70b7c328",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 416,
@@ -19092,7 +19162,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e2614440-7768-11f1-80a4-761788b786e3",
+                "name": "Pioladores",
+                "seed": 137
             },
             "opponent2": {
                 "id": null
@@ -19236,7 +19308,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                "name": "Cursed Energy",
+                "seed": 108
             },
             "opponent2": {
                 "id": null
