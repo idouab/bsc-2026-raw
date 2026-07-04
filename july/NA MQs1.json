@@ -13438,18 +13438,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a4d1de6-70d9-11f1-904b-36788fc7e0a5",
                 "name": "Cats and Dogs",
-                "seed": 36
+                "seed": 36,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
                 "name": "Sum Moon",
-                "seed": 292
+                "seed": 292,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8a4d1de6-70d9-11f1-904b-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8a4d1de6-70d9-11f1-904b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8a4d1de6-70d9-11f1-904b-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 296,
@@ -17767,10 +17817,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                "name": "Sum Moon",
+                "seed": 292
             },
             "opponent2": {
-                "id": null
+                "id": "9a208634-735b-11f1-b97e-cade9bdb68ea",
+                "name": "PDA",
+                "seed": 164
             },
             "match_games": []
         },
