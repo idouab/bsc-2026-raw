@@ -15635,18 +15635,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "018f8f66-70d9-11f1-8deb-36788fc7e0a5",
                 "name": "XGF",
-                "seed": 54
+                "seed": 54,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8bcd831e-748e-11f1-8f01-cade9bdb68ea",
                 "name": "Hollow forces",
-                "seed": 203
+                "seed": 203,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "018f8f66-70d9-11f1-8deb-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8bcd831e-748e-11f1-8f01-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "018f8f66-70d9-11f1-8deb-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8bcd831e-748e-11f1-8f01-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "018f8f66-70d9-11f1-8deb-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8bcd831e-748e-11f1-8f01-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 380,
@@ -16844,10 +16894,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8bcd831e-748e-11f1-8f01-cade9bdb68ea",
+                "name": "Hollow forces",
+                "seed": 203
             },
             "opponent2": {
-                "id": null
+                "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
+                "name": "Origin promise",
+                "seed": 75
             },
             "match_games": []
         },
