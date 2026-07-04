@@ -14242,18 +14242,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83bc2a62-70d9-11f1-b807-36788fc7e0a5",
                 "name": "Wake Rlx",
-                "seed": 86
+                "seed": 86,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc96163a-7284-11f1-aec9-cade9bdb68ea",
                 "name": "UNDERWORLD",
-                "seed": 171
+                "seed": 171,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "83bc2a62-70d9-11f1-b807-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc96163a-7284-11f1-aec9-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "83bc2a62-70d9-11f1-b807-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc96163a-7284-11f1-aec9-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 385,
