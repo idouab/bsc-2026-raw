@@ -13776,18 +13776,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c2b4fd56-7314-11f1-a860-36788fc7e0a5",
                 "name": "NightRaid",
-                "seed": 84
+                "seed": 84,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ae269d60-7290-11f1-b472-36788fc7e0a5",
                 "name": "Bouch represent⚜️",
-                "seed": 173
+                "seed": 173,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c2b4fd56-7314-11f1-a860-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ae269d60-7290-11f1-b472-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "c2b4fd56-7314-11f1-a860-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae269d60-7290-11f1-b472-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "c2b4fd56-7314-11f1-a860-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ae269d60-7290-11f1-b472-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 305,
@@ -17594,7 +17644,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "c2b4fd56-7314-11f1-a860-36788fc7e0a5",
+                "name": "NightRaid",
+                "seed": 84
             },
             "match_games": []
         },
