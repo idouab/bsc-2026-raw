@@ -17957,18 +17957,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
                 "name": "Los Ratones",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1f3aea56-7340-11f1-bab8-36788fc7e0a5",
                 "name": "House of Brawl",
-                "seed": 152
+                "seed": 152,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f3aea56-7340-11f1-bab8-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f3aea56-7340-11f1-bab8-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 400,
@@ -18327,18 +18362,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
                 "name": "Greed",
-                "seed": 53
+                "seed": 53,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "62392818-77be-11f1-aab9-9a00447bf306",
                 "name": "CaboVerde",
-                "seed": 76
+                "seed": 76,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62392818-77be-11f1-aab9-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8555499e-70d9-11f1-afd8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62392818-77be-11f1-aab9-9a00447bf306",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 415,
@@ -18792,18 +18862,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "66fd4448-71e1-11f1-aeae-cade9bdb68ea",
                 "name": "sheep squad",
-                "seed": 298
+                "seed": 298,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
                 "name": "Pandemonium",
-                "seed": 170
+                "seed": 170,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "66fd4448-71e1-11f1-aeae-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "66fd4448-71e1-11f1-aeae-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d22e8c4-735f-11f1-989a-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 433,
@@ -19082,18 +19187,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
                 "name": "Vanquish",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ad5a5448-7255-11f1-b957-36788fc7e0a5",
                 "name": "Los Porrasticos",
-                "seed": 155
+                "seed": 155,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad5a5448-7255-11f1-b957-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad5a5448-7255-11f1-b957-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 444,
@@ -19322,7 +19462,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
+                "name": "Los Ratones",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
@@ -19682,7 +19824,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                "name": "Vanquish",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
