@@ -20781,18 +20781,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00732c96-70d9-11f1-bd48-36788fc7e0a5",
                 "name": "Onxy eSports  F/A",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a5312bda-74de-11f1-8fbe-cade9bdb68ea",
                 "name": "MX TEAM",
-                "seed": 213
+                "seed": 213,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "00732c96-70d9-11f1-bd48-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a5312bda-74de-11f1-8fbe-cade9bdb68ea",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "00732c96-70d9-11f1-bd48-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a5312bda-74de-11f1-8fbe-cade9bdb68ea",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 465,
@@ -21613,7 +21648,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "00732c96-70d9-11f1-bd48-36788fc7e0a5",
+                "name": "Onxy eSports  F/A",
+                "seed": 21
             },
             "match_games": []
         },
