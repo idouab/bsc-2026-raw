@@ -6099,18 +6099,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d94cb51a-73f8-11f1-a2c3-cade9bdb68ea",
                 "name": "NJAKK",
-                "seed": 256
+                "seed": 256,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
                 "name": "Olimpos NT",
-                "seed": 257
+                "seed": 257,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d94cb51a-73f8-11f1-a2c3-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d94cb51a-73f8-11f1-a2c3-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -6899,18 +6934,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4ea8c3c-73be-11f1-a41b-36788fc7e0a5",
                 "name": "TNT sports",
-                "seed": 248
+                "seed": 248,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53e9ae92-71b8-11f1-83b6-cade9bdb68ea",
                 "name": "SSJ",
-                "seed": 265
+                "seed": 265,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a4ea8c3c-73be-11f1-a41b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53e9ae92-71b8-11f1-83b6-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a4ea8c3c-73be-11f1-a41b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53e9ae92-71b8-11f1-83b6-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 51,
@@ -10366,7 +10436,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
+                "name": "Olimpos NT",
+                "seed": 257
             },
             "match_games": []
         },
@@ -10830,7 +10902,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "a4ea8c3c-73be-11f1-a41b-36788fc7e0a5",
+                "name": "TNT sports",
+                "seed": 248
             },
             "match_games": []
         },
