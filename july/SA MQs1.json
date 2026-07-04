@@ -18960,18 +18960,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aaed2fb2-7315-11f1-821b-cade9bdb68ea",
                 "name": "GREEN POINT",
-                "seed": 206
+                "seed": 206,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00df56a0-70d9-11f1-80e1-36788fc7e0a5",
                 "name": "Solo Por Ti",
-                "seed": 78
+                "seed": 78,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "aaed2fb2-7315-11f1-821b-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00df56a0-70d9-11f1-80e1-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "aaed2fb2-7315-11f1-821b-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00df56a0-70d9-11f1-80e1-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "aaed2fb2-7315-11f1-821b-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00df56a0-70d9-11f1-80e1-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 439,
@@ -19898,7 +19948,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "00df56a0-70d9-11f1-80e1-36788fc7e0a5",
+                "name": "Solo Por Ti",
+                "seed": 78
             },
             "match_games": []
         },
