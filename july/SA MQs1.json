@@ -16865,18 +16865,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe0c8c62-734f-11f1-84b3-36788fc7e0a5",
                 "name": "Gulosos Stars",
-                "seed": 232
+                "seed": 232,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
                 "name": "INSS",
-                "seed": 153
+                "seed": 153,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fe0c8c62-734f-11f1-84b3-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fe0c8c62-734f-11f1-84b3-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 396,
@@ -18800,18 +18835,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
                 "name": "CHAMPIONS",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2af37c82-7336-11f1-bcf3-36788fc7e0a5",
                 "name": "VAR",
-                "seed": 163
+                "seed": 163,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2af37c82-7336-11f1-bcf3-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2af37c82-7336-11f1-bcf3-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2af37c82-7336-11f1-bcf3-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 437,
@@ -19400,10 +19485,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "023e7ad0-70d9-11f1-8e59-36788fc7e0a5",
+                "name": "INSS",
+                "seed": 153
             },
             "opponent2": {
-                "id": null
+                "id": "304cbd08-7767-11f1-a88e-b2fa70b7c328",
+                "name": "I miss u Fernanda🥀",
+                "seed": 296
             },
             "match_games": []
         },
@@ -19789,7 +19878,9 @@
                 "seed": 286
             },
             "opponent2": {
-                "id": null
+                "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
+                "name": "CHAMPIONS",
+                "seed": 35
             },
             "match_games": []
         },
