@@ -80074,18 +80074,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ec95358-70cf-11f1-a316-36788fc7e0a5",
                 "name": "WrotBerry",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c0dff264-7185-11f1-98ee-cade9bdb68ea",
                 "name": "BJ gaming",
-                "seed": 678
+                "seed": 678,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3ec95358-70cf-11f1-a316-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0dff264-7185-11f1-98ee-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3ec95358-70cf-11f1-a316-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0dff264-7185-11f1-98ee-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1913,
@@ -80094,18 +80129,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
                 "name": "#GORVN",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cda64fc4-7267-11f1-9cab-cade9bdb68ea",
                 "name": "Los txikis",
-                "seed": 779
+                "seed": 779,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cda64fc4-7267-11f1-9cab-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cda64fc4-7267-11f1-9cab-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1914,
@@ -81220,7 +81290,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "33d0de44-70cf-11f1-b7e1-36788fc7e0a5",
+                "name": "#GORVN",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
