@@ -22247,18 +22247,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
                 "name": "Enosis Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "01b4a8c8-70d9-11f1-a87e-36788fc7e0a5",
                 "name": "SYN Gaming",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01b4a8c8-70d9-11f1-a87e-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01b4a8c8-70d9-11f1-a87e-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 496,
