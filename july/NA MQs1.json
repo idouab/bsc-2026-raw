@@ -13967,18 +13967,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8924bc30-70d9-11f1-994b-36788fc7e0a5",
                 "name": "TilinesFC",
-                "seed": 70
+                "seed": 70,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b62cf516-730a-11f1-8c02-36788fc7e0a5",
                 "name": "V Ø Î Ð E Ð",
-                "seed": 187
+                "seed": 187,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8924bc30-70d9-11f1-994b-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b62cf516-730a-11f1-8c02-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8924bc30-70d9-11f1-994b-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b62cf516-730a-11f1-8c02-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 373,
