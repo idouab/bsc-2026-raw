@@ -8927,18 +8927,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "983697bc-7367-11f1-aa53-36788fc7e0a5",
                 "name": "Bralyx Squad",
-                "seed": 242
+                "seed": 242,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a76064f4-71bc-11f1-b0c9-cade9bdb68ea",
                 "name": "Team TeTi",
-                "seed": 271
+                "seed": 271,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "983697bc-7367-11f1-aa53-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a76064f4-71bc-11f1-b0c9-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "983697bc-7367-11f1-aa53-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a76064f4-71bc-11f1-b0c9-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 147,
@@ -9641,18 +9676,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84a6d06e-7357-11f1-b167-cade9bdb68ea",
                 "name": "JOGIJAMA-07",
-                "seed": 234
+                "seed": 234,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8f53c4d4-71c4-11f1-a4dc-cade9bdb68ea",
                 "name": "San jose fc",
-                "seed": 279
+                "seed": 279,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "84a6d06e-7357-11f1-b167-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8f53c4d4-71c4-11f1-a4dc-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "84a6d06e-7357-11f1-b167-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8f53c4d4-71c4-11f1-a4dc-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -12353,7 +12423,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "a76064f4-71bc-11f1-b0c9-cade9bdb68ea",
+                "name": "Team TeTi",
+                "seed": 271
             },
             "match_games": []
         },
@@ -12743,7 +12815,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "8f53c4d4-71c4-11f1-a4dc-cade9bdb68ea",
+                "name": "San jose fc",
+                "seed": 279
             },
             "match_games": []
         },
