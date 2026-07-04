@@ -83938,15 +83938,49 @@
             "opponent1": {
                 "id": "3d349272-7260-11f1-9192-cade9bdb68ea",
                 "name": "SHAD LEGION ACADEMY",
-                "seed": 614
+                "seed": 614,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8092af0c-721c-11f1-bda9-36788fc7e0a5",
                 "name": "Incesty nesty",
                 "seed": 667,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3d349272-7260-11f1-9192-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8092af0c-721c-11f1-bda9-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3d349272-7260-11f1-9192-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8092af0c-721c-11f1-bda9-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1911,
