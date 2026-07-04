@@ -6892,18 +6892,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "949e5a36-7439-11f1-8bc1-36788fc7e0a5",
                 "name": "Momogaz",
-                "seed": 249
+                "seed": 249,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f9893472-71c6-11f1-9ffb-cade9bdb68ea",
                 "name": "Damian Boys",
-                "seed": 264
+                "seed": 264,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "949e5a36-7439-11f1-8bc1-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f9893472-71c6-11f1-9ffb-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "949e5a36-7439-11f1-8bc1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9893472-71c6-11f1-9ffb-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "949e5a36-7439-11f1-8bc1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9893472-71c6-11f1-9ffb-cade9bdb68ea",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -9852,18 +9902,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8676724c-7194-11f1-baa5-cade9bdb68ea",
                 "name": "central01582",
-                "seed": 234
+                "seed": 234,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
                 "name": "Mommy's good boys",
-                "seed": 279
+                "seed": 279,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8676724c-7194-11f1-baa5-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8676724c-7194-11f1-baa5-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -11555,7 +11640,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "949e5a36-7439-11f1-8bc1-36788fc7e0a5",
+                "name": "Momogaz",
+                "seed": 249
             },
             "match_games": []
         },
@@ -13073,7 +13160,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
+                "name": "Mommy's good boys",
+                "seed": 279
             },
             "match_games": []
         },
