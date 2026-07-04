@@ -12484,18 +12484,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "44dcf92a-766f-11f1-aa85-5abe4e266a99",
                 "name": "APEX",
-                "seed": 125
+                "seed": 125,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfef997a-7626-11f1-8ae8-2afc0f6609ab",
                 "name": "Crash Logic",
-                "seed": 132
+                "seed": 132,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "44dcf92a-766f-11f1-aa85-5abe4e266a99",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfef997a-7626-11f1-8ae8-2afc0f6609ab",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "44dcf92a-766f-11f1-aa85-5abe4e266a99",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfef997a-7626-11f1-8ae8-2afc0f6609ab",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 291,
