@@ -22546,18 +22546,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
                 "name": "ETERNAL",
-                "seed": 253
+                "seed": 253,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
                 "name": "Sum Moon",
-                "seed": 292
+                "seed": 292,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 486,
@@ -22676,18 +22711,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
                 "name": "MX ACADEMY C",
-                "seed": 12
+                "seed": 12,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
                 "name": "Cursed Energy",
-                "seed": 108
+                "seed": 108,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8592b7c0-70d9-11f1-87ed-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 489,
@@ -22941,18 +23011,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "834ffc2a-70d9-11f1-adc5-36788fc7e0a5",
                 "name": "SGA",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e089f136-7339-11f1-9c36-36788fc7e0a5",
                 "name": "Mathgamer’s Aura💀🫩",
-                "seed": 150
+                "seed": 150,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "834ffc2a-70d9-11f1-adc5-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e089f136-7339-11f1-9c36-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "834ffc2a-70d9-11f1-adc5-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e089f136-7339-11f1-9c36-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
