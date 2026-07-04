@@ -84994,7 +84994,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
                 "name": "Hasiiiii 🐰",
@@ -85003,7 +85003,8 @@
             "opponent2": {
                 "id": "f14536de-719a-11f1-ba0f-cade9bdb68ea",
                 "name": "Novara..",
-                "seed": 857
+                "seed": 857,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -85149,7 +85150,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13d3dd32-7532-11f1-a817-36788fc7e0a5",
                 "name": "Legends esport",
@@ -85158,7 +85159,8 @@
             "opponent2": {
                 "id": "85abc650-75ef-11f1-a59b-cade9bdb68ea",
                 "name": "tS players",
-                "seed": 1092
+                "seed": 1092,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -85514,11 +85516,12 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5a213d4-7174-11f1-ac6f-cade9bdb68ea",
                 "name": "ECP",
-                "seed": 1004
+                "seed": 1004,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "389b40d6-70cf-11f1-9268-36788fc7e0a5",
@@ -85850,18 +85853,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f32577e-76ff-11f1-8192-72b8da95bc32",
                 "name": "TLF Academy",
-                "seed": 567
+                "seed": 567,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
                 "name": "Atlantis Academy",
-                "seed": 183
+                "seed": 183,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "2f32577e-76ff-11f1-8192-72b8da95bc32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2f32577e-76ff-11f1-8192-72b8da95bc32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cf5332a-70cf-11f1-a675-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1967,
@@ -86175,7 +86213,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35098144-70cf-11f1-9b80-36788fc7e0a5",
                 "name": "Maukasrapea+ketsup🇫",
@@ -86184,7 +86222,8 @@
             "opponent2": {
                 "id": "405ade08-70cf-11f1-87ec-36788fc7e0a5",
                 "name": "HTL",
-                "seed": 390
+                "seed": 390,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -86496,7 +86535,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "53c9dea8-70cf-11f1-9b0b-36788fc7e0a5",
+                "name": "Hasiiiii 🐰",
+                "seed": 40
             },
             "match_games": []
         },
@@ -86659,7 +86700,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "389b40d6-70cf-11f1-9268-36788fc7e0a5",
+                "name": "Dragon Warriors",
+                "seed": 108
             },
             "opponent2": {
                 "id": null
@@ -86778,7 +86821,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "2f32577e-76ff-11f1-8192-72b8da95bc32",
+                "name": "TLF Academy",
+                "seed": 567
             },
             "match_games": []
         },
@@ -86873,7 +86918,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35098144-70cf-11f1-9b80-36788fc7e0a5",
+                "name": "Maukasrapea+ketsup🇫",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
