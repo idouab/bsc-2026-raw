@@ -22526,18 +22526,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e2614440-7768-11f1-80a4-761788b786e3",
                 "name": "Pioladores",
-                "seed": 137
+                "seed": 137,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
                 "name": "Los Ratones",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e2614440-7768-11f1-80a4-761788b786e3",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e2614440-7768-11f1-80a4-761788b786e3",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "89be5b7e-70d9-11f1-ad0e-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 485,
