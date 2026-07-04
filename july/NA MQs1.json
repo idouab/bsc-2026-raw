@@ -7759,18 +7759,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0e76da92-73e3-11f1-a677-cade9bdb68ea",
                 "name": "Hikari Invictus",
-                "seed": 237
+                "seed": 237,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8442be8-71cd-11f1-b85b-36788fc7e0a5",
                 "name": "Equipo Dinamita",
-                "seed": 276
+                "seed": 276,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0e76da92-73e3-11f1-a677-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8442be8-71cd-11f1-b85b-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "0e76da92-73e3-11f1-a677-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8442be8-71cd-11f1-b85b-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 91,
@@ -11461,7 +11496,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "0e76da92-73e3-11f1-a677-cade9bdb68ea",
+                "name": "Hikari Invictus",
+                "seed": 237
             },
             "match_games": []
         },
