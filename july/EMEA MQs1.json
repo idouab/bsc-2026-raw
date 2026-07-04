@@ -88694,18 +88694,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
                 "name": "NEXUS",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
                 "name": "RaveN Esports.",
-                "seed": 468
+                "seed": 468,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1997,
@@ -89320,18 +89370,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b552ab2-70cf-11f1-a329-36788fc7e0a5",
                 "name": "Zob humide sigma 67",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
                 "name": "Kozaki",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3b552ab2-70cf-11f1-a329-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3b552ab2-70cf-11f1-a329-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2011,
@@ -89769,7 +89854,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                "name": "RaveN Esports.",
+                "seed": 468
             },
             "match_games": []
         },
