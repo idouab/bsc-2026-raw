@@ -11465,18 +11465,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "998149f4-7183-11f1-8d56-36788fc7e0a5",
                 "name": "BHMA",
-                "seed": 214
+                "seed": 214,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "eddde846-779f-11f1-b0c6-9ad0d10c7e42",
                 "name": "Zipy",
-                "seed": 299
+                "seed": 299,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "998149f4-7183-11f1-8d56-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eddde846-779f-11f1-b0c6-9ad0d10c7e42",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "998149f4-7183-11f1-8d56-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "eddde846-779f-11f1-b0c6-9ad0d10c7e42",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "998149f4-7183-11f1-8d56-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eddde846-779f-11f1-b0c6-9ad0d10c7e42",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 255,
@@ -14040,7 +14090,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "eddde846-779f-11f1-b0c6-9ad0d10c7e42",
+                "name": "Zipy",
+                "seed": 299
             },
             "match_games": []
         },
