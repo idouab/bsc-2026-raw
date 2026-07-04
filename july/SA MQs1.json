@@ -20246,18 +20246,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
                 "name": "VIKINGS",
-                "seed": 109
+                "seed": 109,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
                 "name": "Os renegado",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 461,
@@ -20631,18 +20666,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7001fd50-7703-11f1-bc43-4a473866efb5",
                 "name": "Pingdiffers",
-                "seed": 286
+                "seed": 286,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
                 "name": "CHAMPIONS",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7001fd50-7703-11f1-bc43-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "7001fd50-7703-11f1-bc43-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fd6b4736-70d8-11f1-9f27-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 475,
@@ -20746,18 +20816,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "01b4a8c8-70d9-11f1-a87e-36788fc7e0a5",
                 "name": "SYN Gaming",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb6715fa-70d8-11f1-9a37-36788fc7e0a5",
                 "name": "TDA",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "01b4a8c8-70d9-11f1-a87e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb6715fa-70d8-11f1-9a37-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "01b4a8c8-70d9-11f1-a87e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb6715fa-70d8-11f1-9a37-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 479,
