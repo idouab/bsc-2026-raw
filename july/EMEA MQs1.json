@@ -90040,18 +90040,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
                 "name": "Code : Eqwaak",
-                "seed": 1153
+                "seed": 1153,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a0963170-7276-11f1-9512-cade9bdb68ea",
                 "name": "K13 Esport",
-                "seed": 801
+                "seed": 801,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a0963170-7276-11f1-9512-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2e30d830-7706-11f1-b098-ee4a579f830f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a0963170-7276-11f1-9512-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2018,
@@ -90675,18 +90710,68 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
                 "name": "Lightwork",
-                "seed": 67
+                "seed": 67,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
                 "name": "Kozaki",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "49df1f0c-70cf-11f1-a313-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2030,
