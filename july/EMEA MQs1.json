@@ -88594,18 +88594,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33e26c68-70cf-11f1-851b-36788fc7e0a5",
                 "name": "devstvenik",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1b618464-734d-11f1-9da4-36788fc7e0a5",
                 "name": "El Matador 🌹",
-                "seed": 965
+                "seed": 965,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "33e26c68-70cf-11f1-851b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b618464-734d-11f1-9da4-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "33e26c68-70cf-11f1-851b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b618464-734d-11f1-9da4-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1998,
@@ -89416,10 +89451,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "33e26c68-70cf-11f1-851b-36788fc7e0a5",
+                "name": "devstvenik",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "7450ee70-7325-11f1-b7aa-cade9bdb68ea",
+                "name": "Palote",
+                "seed": 933
             },
             "match_games": []
         },
