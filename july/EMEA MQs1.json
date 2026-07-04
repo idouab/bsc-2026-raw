@@ -85916,18 +85916,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33e4f316-70cf-11f1-b81e-36788fc7e0a5",
                 "name": "Heisenberg Fans",
-                "seed": 53
+                "seed": 53,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bb4d1608-714c-11f1-bfb9-36788fc7e0a5",
                 "name": "Unknown Slayers",
-                "seed": 844
+                "seed": 844,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "33e4f316-70cf-11f1-b81e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb4d1608-714c-11f1-bfb9-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "33e4f316-70cf-11f1-b81e-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bb4d1608-714c-11f1-bfb9-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "33e4f316-70cf-11f1-b81e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb4d1608-714c-11f1-bfb9-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1951,
@@ -87760,7 +87810,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "33e4f316-70cf-11f1-b81e-36788fc7e0a5",
+                "name": "Heisenberg Fans",
+                "seed": 53
             },
             "match_games": []
         },
