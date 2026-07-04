@@ -17647,18 +17647,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
                 "name": "愛TS | SAL",
-                "seed": 225
+                "seed": 225,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0ff1f4c6-7765-11f1-b529-620189d4462f",
                 "name": "R.A.T.S.",
-                "seed": 97
+                "seed": 97,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0ff1f4c6-7765-11f1-b529-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ff1f4c6-7765-11f1-b529-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0ff1f4c6-7765-11f1-b529-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 388,
@@ -18319,18 +18369,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84fb1f6e-70d9-11f1-a0bf-36788fc7e0a5",
                 "name": "RV|",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cd52f78e-729e-11f1-98b6-36788fc7e0a5",
                 "name": "Rocky Dino’s",
-                "seed": 100
+                "seed": 100,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "84fb1f6e-70d9-11f1-a0bf-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cd52f78e-729e-11f1-98b6-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "84fb1f6e-70d9-11f1-a0bf-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cd52f78e-729e-11f1-98b6-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 404,
@@ -18697,18 +18782,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
                 "name": "MX ACADEMY C",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5cbb3934-743b-11f1-87bf-cade9bdb68ea",
                 "name": "七十二",
-                "seed": 117
+                "seed": 117,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5cbb3934-743b-11f1-87bf-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5cbb3934-743b-11f1-87bf-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 414,
@@ -19094,18 +19214,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53a633a8-77ab-11f1-8959-0e4baf5cf3fb",
                 "name": "eliprincess",
-                "seed": 303
+                "seed": 303,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c96286ee-729e-11f1-b5f7-cade9bdb68ea",
                 "name": "MidnightPugs",
-                "seed": 175
+                "seed": 175,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "53a633a8-77ab-11f1-8959-0e4baf5cf3fb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c96286ee-729e-11f1-b5f7-cade9bdb68ea",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "53a633a8-77ab-11f1-8959-0e4baf5cf3fb",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c96286ee-729e-11f1-b5f7-cade9bdb68ea",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 425,
@@ -19870,10 +20025,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                "name": "愛TS | SAL",
+                "seed": 225
             },
             "opponent2": {
-                "id": null
+                "id": "cde01d14-7189-11f1-8292-36788fc7e0a5",
+                "name": "The Kings",
+                "seed": 224
             },
             "match_games": []
         },
@@ -20020,10 +20179,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cd52f78e-729e-11f1-98b6-36788fc7e0a5",
+                "name": "Rocky Dino’s",
+                "seed": 100
             },
             "opponent2": {
-                "id": null
+                "id": "a8ef30ec-71db-11f1-9b65-36788fc7e0a5",
+                "name": "Sum Moon",
+                "seed": 292
             },
             "match_games": []
         },
@@ -20114,10 +20277,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "838540f6-70d9-11f1-9db4-36788fc7e0a5",
+                "name": "MX ACADEMY C",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "62392818-77be-11f1-aab9-9a00447bf306",
+                "name": "CaboVerde",
+                "seed": 76
             },
             "match_games": []
         },
@@ -20207,7 +20374,9 @@
                 "seed": 274
             },
             "opponent2": {
-                "id": null
+                "id": "53a633a8-77ab-11f1-8959-0e4baf5cf3fb",
+                "name": "eliprincess",
+                "seed": 303
             },
             "match_games": []
         },
