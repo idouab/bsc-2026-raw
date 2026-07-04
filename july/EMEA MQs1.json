@@ -85024,18 +85024,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a5a3382-70cf-11f1-a75a-36788fc7e0a5",
                 "name": "G-prime",
-                "seed": 456
+                "seed": 456,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
                 "name": "Los hamzas",
-                "seed": 185
+                "seed": 185,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3a5a3382-70cf-11f1-a75a-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3a5a3382-70cf-11f1-a75a-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1931,
@@ -86037,18 +86072,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36919380-70cf-11f1-ad26-36788fc7e0a5",
                 "name": "TEAM PI",
-                "seed": 223
+                "seed": 223,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4db5b4ba-70cf-11f1-9e69-36788fc7e0a5",
                 "name": "领┃MMD",
-                "seed": 95
+                "seed": 95,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "36919380-70cf-11f1-ad26-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4db5b4ba-70cf-11f1-9e69-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "36919380-70cf-11f1-ad26-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4db5b4ba-70cf-11f1-9e69-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1957,
@@ -86228,18 +86298,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4806efca-70cf-11f1-b5d8-36788fc7e0a5",
                 "name": "BBF",
-                "seed": 314
+                "seed": 314,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "547e25ac-70cf-11f1-a44c-36788fc7e0a5",
                 "name": "hQd",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4806efca-70cf-11f1-b5d8-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "547e25ac-70cf-11f1-a44c-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4806efca-70cf-11f1-b5d8-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "547e25ac-70cf-11f1-a44c-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1963,
@@ -87330,7 +87435,9 @@
                 "seed": 1160
             },
             "opponent2": {
-                "id": null
+                "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
+                "name": "Los hamzas",
+                "seed": 185
             },
             "match_games": []
         },
