@@ -22766,18 +22766,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
                 "name": "horrendous at 82-0",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
                 "name": "MX TEAM Academy B",
-                "seed": 34
+                "seed": 34,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 490,
@@ -22916,18 +22951,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
                 "name": "REVERB",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00988930-736a-11f1-9505-cade9bdb68ea",
                 "name": "GODS|PLANS",
-                "seed": 227
+                "seed": 227,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00988930-736a-11f1-9505-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00988930-736a-11f1-9505-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 494,
