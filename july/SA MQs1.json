@@ -9420,18 +9420,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae9f8652-7188-11f1-b082-cade9bdb68ea",
                 "name": "Tabancura",
-                "seed": 231
+                "seed": 231,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1f695c20-765a-11f1-93b8-5abe4e266a99",
                 "name": "KOZMOS",
-                "seed": 282
+                "seed": 282,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ae9f8652-7188-11f1-b082-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1f695c20-765a-11f1-93b8-5abe4e266a99",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ae9f8652-7188-11f1-b082-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f695c20-765a-11f1-93b8-5abe4e266a99",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ae9f8652-7188-11f1-b082-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1f695c20-765a-11f1-93b8-5abe4e266a99",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 171,
@@ -11072,18 +11122,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "42933854-731e-11f1-ad99-36788fc7e0a5",
                 "name": "SCCP STARS",
-                "seed": 214
+                "seed": 214,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7f2ef8f8-71d3-11f1-8b1d-cade9bdb68ea",
                 "name": "Trem-bahla",
-                "seed": 299
+                "seed": 299,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "42933854-731e-11f1-ad99-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7f2ef8f8-71d3-11f1-8b1d-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "42933854-731e-11f1-ad99-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f2ef8f8-71d3-11f1-8b1d-cade9bdb68ea",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "42933854-731e-11f1-ad99-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7f2ef8f8-71d3-11f1-8b1d-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 255,
@@ -12805,7 +12905,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "1f695c20-765a-11f1-93b8-5abe4e266a99",
+                "name": "KOZMOS",
+                "seed": 282
             },
             "match_games": []
         },
@@ -13643,7 +13745,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "7f2ef8f8-71d3-11f1-8b1d-cade9bdb68ea",
+                "name": "Trem-bahla",
+                "seed": 299
             },
             "match_games": []
         },
