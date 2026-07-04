@@ -12102,18 +12102,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a86b81c-70d9-11f1-ac3a-36788fc7e0a5",
                 "name": "Artist'S",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "069b696a-7194-11f1-a218-cade9bdb68ea",
                 "name": "NRV|TEAM",
-                "seed": 232
+                "seed": 232,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8a86b81c-70d9-11f1-ac3a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "069b696a-7194-11f1-a218-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8a86b81c-70d9-11f1-ac3a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "069b696a-7194-11f1-a218-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 278,
@@ -14372,18 +14407,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
                 "name": "Vanquish",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
                 "name": "MAJOR TEAM",
-                "seed": 283
+                "seed": 283,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 374,
@@ -14809,7 +14879,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8a86b81c-70d9-11f1-ac3a-36788fc7e0a5",
+                "name": "Artist'S",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
@@ -15589,7 +15661,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "83778b82-70d9-11f1-9a04-36788fc7e0a5",
+                "name": "Vanquish",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
