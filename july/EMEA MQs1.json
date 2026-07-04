@@ -78459,18 +78459,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6aa90430-71a8-11f1-9024-cade9bdb68ea",
                 "name": "Vodolazi",
-                "seed": 593
+                "seed": 593,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d789fd8c-727c-11f1-bf1c-36788fc7e0a5",
                 "name": "MIDNIGHT 🇬🇪",
-                "seed": 688
+                "seed": 688,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "6aa90430-71a8-11f1-9024-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d789fd8c-727c-11f1-bf1c-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "6aa90430-71a8-11f1-9024-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d789fd8c-727c-11f1-bf1c-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6aa90430-71a8-11f1-9024-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d789fd8c-727c-11f1-bf1c-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1809,
@@ -84447,7 +84497,9 @@
                 "seed": 48
             },
             "opponent2": {
-                "id": null
+                "id": "6aa90430-71a8-11f1-9024-cade9bdb68ea",
+                "name": "Vodolazi",
+                "seed": 593
             },
             "match_games": []
         },
