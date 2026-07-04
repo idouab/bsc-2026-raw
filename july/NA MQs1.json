@@ -12596,18 +12596,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "852af766-70d9-11f1-bd94-36788fc7e0a5",
                 "name": "Women Lovers",
-                "seed": 4
+                "seed": 4,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
                 "name": "ETERNAL",
-                "seed": 253
+                "seed": 253,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "852af766-70d9-11f1-bd94-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "852af766-70d9-11f1-bd94-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 290,
@@ -13770,18 +13805,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
                 "name": "MX TEAM Academy B",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
                 "name": "The finishers",
-                "seed": 223
+                "seed": 223,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 328,
@@ -15881,7 +15951,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f74b949c-74b0-11f1-862d-36788fc7e0a5",
+                "name": "ETERNAL",
+                "seed": 253
             },
             "opponent2": {
                 "id": null
@@ -16229,10 +16301,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8a1520bc-70d9-11f1-9021-36788fc7e0a5",
+                "name": "MX TEAM Academy B",
+                "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "6b9571cc-735a-11f1-a9d4-cade9bdb68ea",
+                "name": "L3F | Gaming",
+                "seed": 162
             },
             "match_games": []
         },
