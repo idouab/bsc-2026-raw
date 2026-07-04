@@ -78799,18 +78799,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
                 "name": "Hunter Association",
-                "seed": 1128
+                "seed": 1128,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95ffb6dc-76ef-11f1-8f74-9a00447bf306",
                 "name": "Lucky Strike",
-                "seed": 360
+                "seed": 360,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ffb6dc-76ef-11f1-8f74-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "95ffb6dc-76ef-11f1-8f74-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ffb6dc-76ef-11f1-8f74-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1815,
@@ -84602,7 +84652,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
+                "name": "Hunter Association",
+                "seed": 1128
             },
             "match_games": []
         },
