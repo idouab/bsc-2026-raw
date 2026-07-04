@@ -77993,18 +77993,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3d88b38a-70cf-11f1-85dd-36788fc7e0a5",
                 "name": "Revenge Esports",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4e42ee70-70cf-11f1-ab39-36788fc7e0a5",
                 "name": "PTR ESPORTS",
-                "seed": 272
+                "seed": 272,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3d88b38a-70cf-11f1-85dd-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e42ee70-70cf-11f1-ab39-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3d88b38a-70cf-11f1-85dd-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4e42ee70-70cf-11f1-ab39-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1802,
@@ -78354,18 +78389,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "366d489a-70cf-11f1-840e-36788fc7e0a5",
                 "name": "Mrg Esports",
-                "seed": 72
+                "seed": 72,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
                 "name": "Los hamzas",
-                "seed": 185
+                "seed": 185,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "366d489a-70cf-11f1-840e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "366d489a-70cf-11f1-840e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "366d489a-70cf-11f1-840e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d25b32e-70cf-11f1-b708-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1813,
@@ -81782,18 +81867,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
                 "name": "ñBñ",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "34cc97a2-70cf-11f1-bccd-36788fc7e0a5",
                 "name": "Caotic esports",
-                "seed": 215
+                "seed": 215,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34cc97a2-70cf-11f1-bccd-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34cc97a2-70cf-11f1-bccd-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1888,
@@ -82393,18 +82513,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc14548c-732f-11f1-9ca9-36788fc7e0a5",
                 "name": "Honoured Ones",
-                "seed": 947
+                "seed": 947,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3cfb918a-70cf-11f1-b650-36788fc7e0a5",
                 "name": "St Nicolau",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fc14548c-732f-11f1-9ca9-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3cfb918a-70cf-11f1-b650-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fc14548c-732f-11f1-9ca9-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3cfb918a-70cf-11f1-b650-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1901,
@@ -83417,10 +83572,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3d88b38a-70cf-11f1-85dd-36788fc7e0a5",
+                "name": "Revenge Esports",
+                "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "4b79ccc0-7635-11f1-912d-2afc0f6609ab",
+                "name": "Chipsiki",
+                "seed": 400
             },
             "match_games": []
         },
@@ -84231,10 +84390,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34898282-70cf-11f1-8bf2-36788fc7e0a5",
+                "name": "ñBñ",
+                "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "477f3954-70cf-11f1-a361-36788fc7e0a5",
+                "name": "DEP",
+                "seed": 87
             },
             "match_games": []
         },
@@ -84350,7 +84513,9 @@
                 "seed": 307
             },
             "opponent2": {
-                "id": null
+                "id": "3cfb918a-70cf-11f1-b650-36788fc7e0a5",
+                "name": "St Nicolau",
+                "seed": 179
             },
             "match_games": []
         },
