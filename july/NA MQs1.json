@@ -21289,18 +21289,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c94252de-77b2-11f1-b63b-b2fa70b7c328",
                 "name": "Lmahabil",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0558a3ca-7797-11f1-9f5f-b2fa70b7c328",
                 "name": "IFY|♾️",
-                "seed": 293
+                "seed": 293,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c94252de-77b2-11f1-b63b-b2fa70b7c328",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0558a3ca-7797-11f1-9f5f-b2fa70b7c328",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "c94252de-77b2-11f1-b63b-b2fa70b7c328",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0558a3ca-7797-11f1-9f5f-b2fa70b7c328",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c94252de-77b2-11f1-b63b-b2fa70b7c328",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0558a3ca-7797-11f1-9f5f-b2fa70b7c328",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 463,
@@ -22368,7 +22418,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "c94252de-77b2-11f1-b63b-b2fa70b7c328",
+                "name": "Lmahabil",
+                "seed": 101
             },
             "match_games": []
         },
