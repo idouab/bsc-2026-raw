@@ -7777,18 +7777,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08150582-718d-11f1-b022-cade9bdb68ea",
                 "name": "BIRD OF HERMES",
-                "seed": 237
+                "seed": 237,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e1a41d7c-7586-11f1-b340-cade9bdb68ea",
                 "name": "BWT e-Sports",
-                "seed": 276
+                "seed": 276,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "08150582-718d-11f1-b022-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1a41d7c-7586-11f1-b340-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "08150582-718d-11f1-b022-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1a41d7c-7586-11f1-b340-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 91,
@@ -9787,18 +9822,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a48d7f3a-7335-11f1-96c6-36788fc7e0a5",
                 "name": "Eerix",
-                "seed": 222
+                "seed": 222,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "69d66518-71ce-11f1-aa81-cade9bdb68ea",
                 "name": "Bonde do Tigrão",
-                "seed": 291
+                "seed": 291,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a48d7f3a-7335-11f1-96c6-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69d66518-71ce-11f1-aa81-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a48d7f3a-7335-11f1-96c6-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69d66518-71ce-11f1-aa81-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 207,
@@ -11543,7 +11613,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "08150582-718d-11f1-b022-cade9bdb68ea",
+                "name": "BIRD OF HERMES",
+                "seed": 237
             },
             "match_games": []
         },
@@ -12665,7 +12737,9 @@
                 "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "69d66518-71ce-11f1-aa81-cade9bdb68ea",
+                "name": "Bonde do Tigrão",
+                "seed": 291
             },
             "match_games": []
         },
