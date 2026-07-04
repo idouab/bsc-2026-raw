@@ -20718,18 +20718,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
                 "name": "愛TS | SAL",
-                "seed": 225
+                "seed": 225,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cde01d14-7189-11f1-8292-36788fc7e0a5",
                 "name": "The Kings",
-                "seed": 224
+                "seed": 224,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cde01d14-7189-11f1-8292-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cde01d14-7189-11f1-8292-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cde01d14-7189-11f1-8292-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -22387,7 +22437,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                "name": "愛TS | SAL",
+                "seed": 225
             },
             "match_games": []
         },
