@@ -66817,18 +66817,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52a37c0a-70cf-11f1-873b-36788fc7e0a5",
                 "name": "Revenant",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc3af8d0-723a-11f1-81ca-36788fc7e0a5",
                 "name": "NewGen Esport",
-                "seed": 564
+                "seed": 564,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "52a37c0a-70cf-11f1-873b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc3af8d0-723a-11f1-81ca-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "52a37c0a-70cf-11f1-873b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc3af8d0-723a-11f1-81ca-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1622,
@@ -67152,18 +67187,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3d8764b2-70cf-11f1-88f8-36788fc7e0a5",
                 "name": "CacamasPeMortiLuAdel",
-                "seed": 133
+                "seed": 133,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "419a47cc-70cf-11f1-af51-36788fc7e0a5",
                 "name": "SexiakiZG",
-                "seed": 380
+                "seed": 380,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3d8764b2-70cf-11f1-88f8-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "419a47cc-70cf-11f1-af51-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3d8764b2-70cf-11f1-88f8-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "419a47cc-70cf-11f1-af51-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1637,
@@ -67907,18 +67977,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe96540c-714b-11f1-96a3-cade9bdb68ea",
                 "name": "Lucky Monkeys",
-                "seed": 834
+                "seed": 834,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
                 "name": "DESTINY 0",
-                "seed": 322
+                "seed": 322,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fe96540c-714b-11f1-96a3-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fe96540c-714b-11f1-96a3-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1673,
@@ -68127,18 +68232,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d9e44c20-7314-11f1-a2d3-cade9bdb68ea",
                 "name": "Galád Esports",
-                "seed": 911
+                "seed": 911,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a4f68a8-730b-11f1-b839-cade9bdb68ea",
                 "name": "CERDANES",
-                "seed": 626
+                "seed": 626,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "d9e44c20-7314-11f1-a2d3-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a4f68a8-730b-11f1-b839-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d9e44c20-7314-11f1-a2d3-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a4f68a8-730b-11f1-b839-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1684,
@@ -69272,18 +69412,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
                 "name": "Lightwork",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "84e1529e-772f-11f1-97a3-9ae5249cb4e1",
                 "name": "EDGERUNNERS",
-                "seed": 579
+                "seed": 579,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84e1529e-772f-11f1-97a3-9ae5249cb4e1",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "84e1529e-772f-11f1-97a3-9ae5249cb4e1",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1736,
@@ -69727,18 +69902,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e0ac80ca-772b-11f1-b1a5-b2fa70b7c328",
                 "name": "NOVA Elite",
-                "seed": 1171
+                "seed": 1171,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "361f05a4-70cf-11f1-8052-36788fc7e0a5",
                 "name": "Zeta|bubba",
-                "seed": 366
+                "seed": 366,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "e0ac80ca-772b-11f1-b1a5-b2fa70b7c328",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "361f05a4-70cf-11f1-8052-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e0ac80ca-772b-11f1-b1a5-b2fa70b7c328",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "361f05a4-70cf-11f1-8052-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1757,
@@ -70367,7 +70577,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "523c40e4-70cf-11f1-bc75-36788fc7e0a5",
                 "name": "Hollow Hunters EMEA",
@@ -71147,7 +71357,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "52a37c0a-70cf-11f1-873b-36788fc7e0a5",
+                "name": "Revenant",
+                "seed": 52
             },
             "opponent2": {
                 "id": null
@@ -71647,7 +71859,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d9e44c20-7314-11f1-a2d3-cade9bdb68ea",
+                "name": "Galád Esports",
+                "seed": 911
             },
             "opponent2": {
                 "id": null
@@ -72065,7 +72279,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3e6f18ca-70cf-11f1-a9ac-36788fc7e0a5",
+                "name": "Lightwork",
+                "seed": 67
             },
             "opponent2": {
                 "id": null
