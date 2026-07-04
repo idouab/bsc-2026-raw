@@ -21229,18 +21229,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
                 "name": "horrendous at 82-0",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "867502b0-70d9-11f1-aaf5-36788fc7e0a5",
                 "name": "SL | YEETICI STEINS",
-                "seed": 66
+                "seed": 66,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "867502b0-70d9-11f1-aaf5-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "867502b0-70d9-11f1-aaf5-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 466,
@@ -21365,18 +21400,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
                 "name": "Pigeon is best",
-                "seed": 154
+                "seed": 154,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "850fead4-70d9-11f1-bba4-36788fc7e0a5",
                 "name": "宇治抹茶",
-                "seed": 39
+                "seed": 39,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "850fead4-70d9-11f1-bba4-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "850fead4-70d9-11f1-bba4-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 471,
@@ -21974,7 +22044,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "87ab38e8-70d9-11f1-87c7-36788fc7e0a5",
+                "name": "horrendous at 82-0",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
