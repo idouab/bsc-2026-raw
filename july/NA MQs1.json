@@ -6411,18 +6411,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
                 "name": "愛TS | SAL",
-                "seed": 225
+                "seed": 225,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eed26d54-71d6-11f1-b977-36788fc7e0a5",
                 "name": "Squad Buster",
-                "seed": 288
+                "seed": 288,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eed26d54-71d6-11f1-b977-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eed26d54-71d6-11f1-b977-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -8198,18 +8233,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1f17568-7410-11f1-ad4b-36788fc7e0a5",
                 "name": "The Gooners",
-                "seed": 245
+                "seed": 245,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ac41124-71c9-11f1-aecf-36788fc7e0a5",
                 "name": "One-Hit Wonders",
-                "seed": 268
+                "seed": 268,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d1f17568-7410-11f1-ad4b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ac41124-71c9-11f1-aecf-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "d1f17568-7410-11f1-ad4b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ac41124-71c9-11f1-aecf-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 115,
@@ -10121,18 +10191,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3155ae24-748a-11f1-9695-cade9bdb68ea",
                 "name": "pear",
-                "seed": 251
+                "seed": 251,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb72a988-71c3-11f1-9b0c-cade9bdb68ea",
                 "name": "Living Tribunal",
-                "seed": 262
+                "seed": 262,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3155ae24-748a-11f1-9695-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb72a988-71c3-11f1-9b0c-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3155ae24-748a-11f1-9695-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb72a988-71c3-11f1-9b0c-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -10730,7 +10835,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "3a562f56-7365-11f1-8091-cade9bdb68ea",
+                "name": "愛TS | SAL",
+                "seed": 225
             },
             "match_games": []
         },
@@ -11728,7 +11835,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "d1f17568-7410-11f1-ad4b-36788fc7e0a5",
+                "name": "The Gooners",
+                "seed": 245
             },
             "match_games": []
         },
@@ -12726,7 +12835,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "c2251eb6-719d-11f1-bc73-36788fc7e0a5",
+                "name": "Mexican Machos",
+                "seed": 238
             },
             "match_games": []
         },
@@ -12802,7 +12913,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "3155ae24-748a-11f1-9695-cade9bdb68ea",
+                "name": "pear",
+                "seed": 251
             },
             "match_games": []
         },
@@ -13032,7 +13145,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "4e9295de-739e-11f1-89bd-cade9bdb68ea",
+                "name": "BURMALDA",
+                "seed": 235
             },
             "match_games": []
         },
