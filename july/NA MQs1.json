@@ -19394,18 +19394,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16121e8c-71d2-11f1-9411-cade9bdb68ea",
                 "name": "ACE",
-                "seed": 282
+                "seed": 282,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
                 "name": "Pigeon is best",
-                "seed": 154
+                "seed": 154,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "16121e8c-71d2-11f1-9411-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "16121e8c-71d2-11f1-9411-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 428,
@@ -19586,18 +19621,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
                 "name": "REVERB",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f8cfd1c8-770a-11f1-92f4-4a473866efb5",
                 "name": "Bob's Buffet Line",
-                "seed": 131
+                "seed": 131,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f8cfd1c8-770a-11f1-92f4-4a473866efb5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f8cfd1c8-770a-11f1-92f4-4a473866efb5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 434,
@@ -20560,7 +20630,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3695d536-7344-11f1-9c5c-cade9bdb68ea",
+                "name": "Pigeon is best",
+                "seed": 154
             },
             "opponent2": {
                 "id": null
@@ -20616,10 +20688,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8340441a-70d9-11f1-b19d-36788fc7e0a5",
+                "name": "REVERB",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "84e864aa-70d9-11f1-824e-36788fc7e0a5",
+                "name": "Team VrG",
+                "seed": 62
             },
             "match_games": []
         },
