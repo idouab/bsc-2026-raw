@@ -22490,7 +22490,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "e2614440-7768-11f1-80a4-761788b786e3",
                 "name": "Pioladores",
@@ -22530,18 +22530,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
                 "name": "Gentzugoods F/A",
-                "seed": 269
+                "seed": 269,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8508f576-70d9-11f1-bbad-36788fc7e0a5",
                 "name": "polles aura",
-                "seed": 148
+                "seed": 148,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8508f576-70d9-11f1-bbad-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ca53009c-765e-11f1-b154-2afc0f6609ab",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8508f576-70d9-11f1-bbad-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 487,
@@ -22685,18 +22720,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "293793b2-71c7-11f1-a161-cade9bdb68ea",
                 "name": "Wardens",
-                "seed": 266
+                "seed": 266,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
                 "name": "Mommy's good boys",
-                "seed": 279
+                "seed": 279,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "293793b2-71c7-11f1-a161-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "293793b2-71c7-11f1-a161-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "145223ac-7719-11f1-bf14-72b8da95bc32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 493,
