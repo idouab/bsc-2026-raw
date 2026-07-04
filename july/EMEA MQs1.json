@@ -84834,18 +84834,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
                 "name": "TLB Academy",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
                 "name": "Hunter Association",
-                "seed": 1128
+                "seed": 1128,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4abd4aec-7193-11f1-97e3-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1932,
@@ -85129,18 +85164,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
                 "name": "RaveN Esports.",
-                "seed": 468
+                "seed": 468,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2ed897d8-7633-11f1-8378-2afc0f6609ab",
                 "name": "4 Энергоблок",
-                "seed": 1108
+                "seed": 1108,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ed897d8-7633-11f1-8378-2afc0f6609ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "5452fb16-70cf-11f1-abf9-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ed897d8-7633-11f1-8378-2afc0f6609ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1945,
@@ -85169,18 +85239,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b618464-734d-11f1-9da4-36788fc7e0a5",
                 "name": "El Matador 🌹",
-                "seed": 965
+                "seed": 965,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4de5c2cc-70cf-11f1-afdb-36788fc7e0a5",
                 "name": "World Question",
-                "seed": 188
+                "seed": 188,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1b618464-734d-11f1-9da4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4de5c2cc-70cf-11f1-afdb-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1b618464-734d-11f1-9da4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4de5c2cc-70cf-11f1-afdb-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1947,
@@ -86101,7 +86206,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "53bee142-70cf-11f1-97ee-36788fc7e0a5",
+                "name": "TLB Academy",
+                "seed": 25
             },
             "opponent2": {
                 "id": null

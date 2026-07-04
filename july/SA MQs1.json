@@ -2826,7 +2826,7 @@
             "name": "Onxy eSports  F/A",
             "players": [
                 {
-                    "name": "Hani 乂氷",
+                    "name": "ONY | Hani",
                     "gamerTag": "#P0YYGQ8Q9"
                 },
                 {
@@ -10821,18 +10821,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55e9b028-736d-11f1-b021-cade9bdb68ea",
                 "name": "Provincias unidas",
-                "seed": 246
+                "seed": 246,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eb1fd3c0-71ba-11f1-882e-cade9bdb68ea",
                 "name": "LEGACY",
-                "seed": 267
+                "seed": 267,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "55e9b028-736d-11f1-b021-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eb1fd3c0-71ba-11f1-882e-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "55e9b028-736d-11f1-b021-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb1fd3c0-71ba-11f1-882e-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "55e9b028-736d-11f1-b021-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb1fd3c0-71ba-11f1-882e-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 243,
@@ -13473,7 +13523,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "55e9b028-736d-11f1-b021-cade9bdb68ea",
+                "name": "Provincias unidas",
+                "seed": 246
             },
             "match_games": []
         },
