@@ -55965,18 +55965,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cf707c4a-73e2-11f1-b915-36788fc7e0a5",
                 "name": "No aim no shame",
-                "seed": 495
+                "seed": 495,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "370ac812-7229-11f1-afd6-36788fc7e0a5",
                 "name": "LD Esports",
-                "seed": 530
+                "seed": 530,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cf707c4a-73e2-11f1-b915-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "370ac812-7229-11f1-afd6-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "cf707c4a-73e2-11f1-b915-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "370ac812-7229-11f1-afd6-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "cf707c4a-73e2-11f1-b915-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "370ac812-7229-11f1-afd6-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1331,
@@ -60379,18 +60429,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "587271c4-73ac-11f1-a12e-36788fc7e0a5",
                 "name": "SG CHOUS",
-                "seed": 478
+                "seed": 478,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5eaf2246-7634-11f1-97ab-2afc0f6609ab",
                 "name": "BAGUETTE",
-                "seed": 547
+                "seed": 547,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "587271c4-73ac-11f1-a12e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5eaf2246-7634-11f1-97ab-2afc0f6609ab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "587271c4-73ac-11f1-a12e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5eaf2246-7634-11f1-97ab-2afc0f6609ab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1435,
@@ -67840,7 +67925,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "370ac812-7229-11f1-afd6-36788fc7e0a5",
+                "name": "LD Esports",
+                "seed": 530
             },
             "match_games": []
         },
