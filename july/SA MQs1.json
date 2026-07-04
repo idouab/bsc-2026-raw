@@ -16638,7 +16638,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fcb0ea8a-70d8-11f1-bb3d-36788fc7e0a5",
                 "name": "Ultra Hardcore",
@@ -16647,7 +16647,8 @@
             "opponent2": {
                 "id": "46c62896-730a-11f1-9e97-36788fc7e0a5",
                 "name": "UB40 OFICIAL",
-                "seed": 113
+                "seed": 113,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -16808,11 +16809,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55f14956-72f9-11f1-ae49-cade9bdb68ea",
                 "name": "GOOD GAME",
-                "seed": 200
+                "seed": 200,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "ffc16f56-70d8-11f1-9068-36788fc7e0a5",
@@ -17218,7 +17220,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fdc34634-70d8-11f1-ae87-36788fc7e0a5",
                 "name": "Top Pier",
@@ -17227,7 +17229,8 @@
             "opponent2": {
                 "id": "fba1977a-70d8-11f1-b9b1-36788fc7e0a5",
                 "name": "Eternos tucujus",
-                "seed": 93
+                "seed": 93,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -17258,18 +17261,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "017e9eb8-70d9-11f1-aec0-36788fc7e0a5",
                 "name": "SHADE ESPORTS",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00dc8592-70d9-11f1-8a51-36788fc7e0a5",
                 "name": "Aurudos",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "017e9eb8-70d9-11f1-aec0-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00dc8592-70d9-11f1-8a51-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "017e9eb8-70d9-11f1-aec0-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00dc8592-70d9-11f1-8a51-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 407,
@@ -17278,11 +17316,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc876f8e-70d8-11f1-bdd2-36788fc7e0a5",
                 "name": "DRG | DARCK DRAGÓN",
-                "seed": 20
+                "seed": 20,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
@@ -17298,18 +17337,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
                 "name": "CVX. Division 0",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
                 "name": "Os renegado",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fbb8ad16-70d8-11f1-acbf-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 409,
@@ -17768,11 +17842,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a76064f4-71bc-11f1-b0c9-cade9bdb68ea",
                 "name": "Team TeTi",
-                "seed": 271
+                "seed": 271,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "de82126a-722b-11f1-bfa9-36788fc7e0a5",
@@ -17863,7 +17938,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b589e06-731b-11f1-9568-cade9bdb68ea",
                 "name": "Zhetian",
@@ -17872,7 +17947,8 @@
             "opponent2": {
                 "id": "583df94c-7359-11f1-981a-cade9bdb68ea",
                 "name": "PERIQUITINHOS",
-                "seed": 175
+                "seed": 175,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -17958,11 +18034,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1f695c20-765a-11f1-93b8-5abe4e266a99",
                 "name": "KOZMOS",
-                "seed": 282
+                "seed": 282,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "843550ec-7244-11f1-9c52-36788fc7e0a5",
@@ -18448,7 +18525,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
                 "name": "Enosis Esports",
@@ -18457,7 +18534,8 @@
             "opponent2": {
                 "id": "05440dea-75ab-11f1-8dd1-cade9bdb68ea",
                 "name": "Manikômio 🍄",
-                "seed": 123
+                "seed": 123,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -18749,10 +18827,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fcb0ea8a-70d8-11f1-bb3d-36788fc7e0a5",
+                "name": "Ultra Hardcore",
+                "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "ff8cfdb6-70d8-11f1-ad83-36788fc7e0a5",
+                "name": "GOLDEN BOYS",
+                "seed": 49
             },
             "match_games": []
         },
@@ -18786,7 +18868,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "ffc16f56-70d8-11f1-9068-36788fc7e0a5",
+                "name": "Nexus Xtreme",
+                "seed": 72
             },
             "match_games": []
         },
@@ -18874,7 +18958,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "fdc34634-70d8-11f1-ae87-36788fc7e0a5",
+                "name": "Top Pier",
+                "seed": 36
             },
             "match_games": []
         },
@@ -18903,10 +18989,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa528a9a-72be-11f1-87b8-cade9bdb68ea",
+                "name": "VIKINGS",
+                "seed": 109
             },
             "opponent2": {
-                "id": null
+                "id": "544e9b88-7350-11f1-8bc1-36788fc7e0a5",
+                "name": "Os renegado",
+                "seed": 173
             },
             "match_games": []
         },
@@ -19027,7 +19117,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "de82126a-722b-11f1-bfa9-36788fc7e0a5",
+                "name": "Ceifandores do caos",
+                "seed": 143
             },
             "opponent2": {
                 "id": null
@@ -19048,7 +19140,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "3b589e06-731b-11f1-9568-cade9bdb68ea",
+                "name": "Zhetian",
+                "seed": 210
             },
             "match_games": []
         },
@@ -19079,7 +19173,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "843550ec-7244-11f1-9c52-36788fc7e0a5",
+                "name": "KYO",
+                "seed": 154
             },
             "opponent2": {
                 "id": null
@@ -19203,7 +19299,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "022ab630-70d9-11f1-b297-36788fc7e0a5",
+                "name": "Enosis Esports",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
