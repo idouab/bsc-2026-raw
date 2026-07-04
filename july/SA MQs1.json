@@ -22007,53 +22007,18 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 4,
+            "status": 0,
             "opponent1": {
                 "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
                 "name": "Platanitos GT",
-                "seed": 9,
-                "score": 2,
-                "result": "win"
+                "seed": 9
             },
             "opponent2": {
                 "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
                 "name": "FreeLine",
-                "seed": 233,
-                "score": 0,
-                "result": "loss"
+                "seed": 233
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Heist",
-                    "mapName": "Hot Potato",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
-                    "opponent1": {
-                        "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
-                        "score": 1
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Bounty",
-                    "mapName": "Hideout",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
-                    "opponent1": {
-                        "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "9b01c73a-7189-11f1-bc82-cade9bdb68ea",
-                        "score": 1
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 485,
@@ -22332,18 +22297,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
                 "name": "Team leque",
-                "seed": 207
+                "seed": 207,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3b589e06-731b-11f1-9568-cade9bdb68ea",
                 "name": "Zhetian",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3b589e06-731b-11f1-9568-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b589e06-731b-11f1-9568-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3b589e06-731b-11f1-9568-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
