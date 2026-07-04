@@ -7122,18 +7122,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6e1aa1bc-71aa-11f1-b9aa-cade9bdb68ea",
                 "name": "DOUG",
-                "seed": 248
+                "seed": 248,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "58315db0-7613-11f1-991e-2afc0f6609ab",
                 "name": "Andrew SuckS",
-                "seed": 265
+                "seed": 265,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "6e1aa1bc-71aa-11f1-b9aa-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "58315db0-7613-11f1-991e-2afc0f6609ab",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "6e1aa1bc-71aa-11f1-b9aa-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "58315db0-7613-11f1-991e-2afc0f6609ab",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
@@ -10055,18 +10090,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c2251eb6-719d-11f1-bc73-36788fc7e0a5",
                 "name": "Mexican Machos",
-                "seed": 238
+                "seed": 238,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fd0ee16e-76f8-11f1-83f0-9ae5249cb4e1",
                 "name": "PESKI",
-                "seed": 275
+                "seed": 275,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c2251eb6-719d-11f1-bc73-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fd0ee16e-76f8-11f1-83f0-9ae5249cb4e1",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c2251eb6-719d-11f1-bc73-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fd0ee16e-76f8-11f1-83f0-9ae5249cb4e1",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 219,
@@ -10630,18 +10700,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e9295de-739e-11f1-89bd-cade9bdb68ea",
                 "name": "BURMALDA",
-                "seed": 235
+                "seed": 235,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b887a3ca-71ce-11f1-941c-36788fc7e0a5",
                 "name": "Cloudy941",
-                "seed": 278
+                "seed": 278,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4e9295de-739e-11f1-89bd-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b887a3ca-71ce-11f1-941c-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4e9295de-739e-11f1-89bd-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b887a3ca-71ce-11f1-941c-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 251,
@@ -11219,7 +11324,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "58315db0-7613-11f1-991e-2afc0f6609ab",
+                "name": "Andrew SuckS",
+                "seed": 265
             },
             "match_games": []
         },
