@@ -8753,18 +8753,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7adc1ffc-71af-11f1-94c5-cade9bdb68ea",
                 "name": "BRUTAL KNIGHTS",
-                "seed": 255
+                "seed": 255,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
                 "name": "vbg",
-                "seed": 258
+                "seed": 258,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7adc1ffc-71af-11f1-94c5-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "7adc1ffc-71af-11f1-94c5-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7adc1ffc-71af-11f1-94c5-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -12596,7 +12646,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "ac0ada66-7419-11f1-a63f-cade9bdb68ea",
+                "name": "vbg",
+                "seed": 258
             },
             "match_games": []
         },
