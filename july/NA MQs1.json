@@ -11156,18 +11156,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a66df4c4-735d-11f1-90b3-36788fc7e0a5",
                 "name": "Los papis",
-                "seed": 219
+                "seed": 219,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6eba4e00-71dd-11f1-beab-36788fc7e0a5",
                 "name": "Duckyz",
-                "seed": 294
+                "seed": 294,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a66df4c4-735d-11f1-90b3-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6eba4e00-71dd-11f1-beab-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a66df4c4-735d-11f1-90b3-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6eba4e00-71dd-11f1-beab-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a66df4c4-735d-11f1-90b3-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6eba4e00-71dd-11f1-beab-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 239,
@@ -13932,7 +13982,9 @@
                 "seed": 38
             },
             "opponent2": {
-                "id": null
+                "id": "6eba4e00-71dd-11f1-beab-36788fc7e0a5",
+                "name": "Duckyz",
+                "seed": 294
             },
             "match_games": []
         },

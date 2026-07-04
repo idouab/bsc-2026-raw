@@ -22052,18 +22052,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
                 "name": "UDP ACADEMY",
-                "seed": 3
+                "seed": 3,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7001fd50-7703-11f1-bc43-4a473866efb5",
                 "name": "Pingdiffers",
-                "seed": 286
+                "seed": 286,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7001fd50-7703-11f1-bc43-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fb9daa8e-70d8-11f1-bcea-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7001fd50-7703-11f1-bc43-4a473866efb5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 494,
