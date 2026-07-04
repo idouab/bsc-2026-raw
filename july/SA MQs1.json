@@ -6666,18 +6666,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
                 "name": "Knights team",
-                "seed": 249
+                "seed": 249,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55cedf8a-749b-11f1-9d8d-36788fc7e0a5",
                 "name": "ALBERTO LIDER",
-                "seed": 264
+                "seed": 264,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55cedf8a-749b-11f1-9d8d-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55cedf8a-749b-11f1-9d8d-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -7237,18 +7272,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
                 "name": "Os Amadores",
-                "seed": 253
+                "seed": 253,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6ef6a2e8-7439-11f1-9804-36788fc7e0a5",
                 "name": "CAPRIXT",
-                "seed": 260
+                "seed": 260,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ef6a2e8-7439-11f1-9804-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ef6a2e8-7439-11f1-9804-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 67,
@@ -10783,7 +10853,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
+                "name": "Knights team",
+                "seed": 249
             },
             "match_games": []
         },
@@ -11093,7 +11165,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
+                "name": "Os Amadores",
+                "seed": 253
             },
             "match_games": []
         },
