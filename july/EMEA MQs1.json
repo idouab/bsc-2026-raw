@@ -61129,18 +61129,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9b0c8300-7323-11f1-890a-cade9bdb68ea",
                 "name": "Team kojak",
-                "seed": 430
+                "seed": 430,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ab7bcd48-71a9-11f1-b03f-36788fc7e0a5",
                 "name": "THE CURRUCUS",
-                "seed": 595
+                "seed": 595,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "9b0c8300-7323-11f1-890a-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ab7bcd48-71a9-11f1-b03f-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "9b0c8300-7323-11f1-890a-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ab7bcd48-71a9-11f1-b03f-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "9b0c8300-7323-11f1-890a-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ab7bcd48-71a9-11f1-b03f-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1471,
@@ -61711,18 +61761,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "495d54e0-70cf-11f1-a1c8-36788fc7e0a5",
                 "name": "Team Durch",
-                "seed": 454
+                "seed": 454,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f52c48e-770c-11f1-842f-620189d4462f",
                 "name": "TEAM BURGER KING",
-                "seed": 571
+                "seed": 571,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "495d54e0-70cf-11f1-a1c8-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f52c48e-770c-11f1-842f-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "495d54e0-70cf-11f1-a1c8-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f52c48e-770c-11f1-842f-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1483,
@@ -68390,7 +68475,9 @@
                 "seed": 83
             },
             "opponent2": {
-                "id": null
+                "id": "ab7bcd48-71a9-11f1-b03f-36788fc7e0a5",
+                "name": "THE CURRUCUS",
+                "seed": 595
             },
             "match_games": []
         },
@@ -68504,7 +68591,9 @@
                 "seed": 1083
             },
             "opponent2": {
-                "id": null
+                "id": "495d54e0-70cf-11f1-a1c8-36788fc7e0a5",
+                "name": "Team Durch",
+                "seed": 454
             },
             "match_games": []
         },
