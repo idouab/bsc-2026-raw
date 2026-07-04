@@ -84704,18 +84704,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "590b3052-714b-11f1-9b88-cade9bdb68ea",
                 "name": "Mediterrâneo",
-                "seed": 832
+                "seed": 832,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
                 "name": "F/A ANZ",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "590b3052-714b-11f1-9b88-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "590b3052-714b-11f1-9b88-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "590b3052-714b-11f1-9b88-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1923,
@@ -85516,18 +85566,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b3293ca-70cf-11f1-84d6-36788fc7e0a5",
                 "name": "🇷🇴🇦🇱🇵🇱=NoQual",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b97422e-76f0-11f1-9239-ee4a579f830f",
                 "name": "I like Kebap",
-                "seed": 413
+                "seed": 413,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4b3293ca-70cf-11f1-84d6-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6b97422e-76f0-11f1-9239-ee4a579f830f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4b3293ca-70cf-11f1-84d6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b97422e-76f0-11f1-9239-ee4a579f830f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4b3293ca-70cf-11f1-84d6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b97422e-76f0-11f1-9239-ee4a579f830f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1940,
@@ -86613,18 +86713,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c4579f4-70cf-11f1-81ab-36788fc7e0a5",
                 "name": "MLN comp.",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5f3679ec-72ee-11f1-99c2-cade9bdb68ea",
                 "name": "NFL_Pusher",
-                "seed": 1159
+                "seed": 1159,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3c4579f4-70cf-11f1-81ab-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f3679ec-72ee-11f1-99c2-cade9bdb68ea",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3c4579f4-70cf-11f1-81ab-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f3679ec-72ee-11f1-99c2-cade9bdb68ea",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1962,
@@ -87831,7 +87966,9 @@
                 "seed": 1153
             },
             "opponent2": {
-                "id": null
+                "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
+                "name": "F/A ANZ",
+                "seed": 65
             },
             "match_games": []
         },
@@ -88002,10 +88139,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4b3293ca-70cf-11f1-84d6-36788fc7e0a5",
+                "name": "🇷🇴🇦🇱🇵🇱=NoQual",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "3439a96a-70cf-11f1-a5e6-36788fc7e0a5",
+                "name": "Apside",
+                "seed": 36
             },
             "match_games": []
         },
@@ -88214,10 +88355,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c4579f4-70cf-11f1-81ab-36788fc7e0a5",
+                "name": "MLN comp.",
+                "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "547e25ac-70cf-11f1-a44c-36788fc7e0a5",
+                "name": "hQd",
+                "seed": 71
             },
             "match_games": []
         },
