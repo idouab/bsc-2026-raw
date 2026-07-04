@@ -20146,18 +20146,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
                 "name": "Platanitos GT",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1db0293a-743a-11f1-b4b9-cade9bdb68ea",
                 "name": "LittleTitans",
-                "seed": 201
+                "seed": 201,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1db0293a-743a-11f1-b4b9-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1db0293a-743a-11f1-b4b9-cade9bdb68ea",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 456,
@@ -20186,18 +20221,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
                 "name": "Os Amadores",
-                "seed": 253
+                "seed": 253,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ceab4d9a-73be-11f1-8fa0-cade9bdb68ea",
                 "name": "67",
-                "seed": 189
+                "seed": 189,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ceab4d9a-73be-11f1-8fa0-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ceab4d9a-73be-11f1-8fa0-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 458,
@@ -20301,18 +20371,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbdba5c8-70d8-11f1-ae23-36788fc7e0a5",
                 "name": "NOVA BRASIL",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc717fbc-70d8-11f1-bc8b-36788fc7e0a5",
                 "name": "Aposentados",
-                "seed": 60
+                "seed": 60,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fbdba5c8-70d8-11f1-ae23-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc717fbc-70d8-11f1-bc8b-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fbdba5c8-70d8-11f1-ae23-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc717fbc-70d8-11f1-bc8b-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 462,
@@ -20961,7 +21066,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc19e3f6-70d8-11f1-9bb2-36788fc7e0a5",
+                "name": "Platanitos GT",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
@@ -20977,7 +21084,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "20a82f0e-71a9-11f1-be77-cade9bdb68ea",
+                "name": "Os Amadores",
+                "seed": 253
             },
             "opponent2": {
                 "id": null
@@ -21009,7 +21118,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fbdba5c8-70d8-11f1-ae23-36788fc7e0a5",
+                "name": "NOVA BRASIL",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
