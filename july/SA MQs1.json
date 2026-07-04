@@ -6334,18 +6334,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
                 "name": "THE TRUE CODORNAS",
-                "seed": 224
+                "seed": 224,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d29f1236-71cc-11f1-9031-36788fc7e0a5",
                 "name": "RAV Elite",
-                "seed": 289
+                "seed": 289,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d29f1236-71cc-11f1-9031-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d29f1236-71cc-11f1-9031-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -7575,18 +7610,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8573fd02-7369-11f1-9973-cade9bdb68ea",
                 "name": "CHIBATANOS BR",
-                "seed": 244
+                "seed": 244,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "820597d8-71bc-11f1-a35b-cade9bdb68ea",
                 "name": "OEI",
-                "seed": 269
+                "seed": 269,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8573fd02-7369-11f1-9973-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "820597d8-71bc-11f1-a35b-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8573fd02-7369-11f1-9973-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "820597d8-71bc-11f1-a35b-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 83,
@@ -10659,7 +10729,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
+                "name": "THE TRUE CODORNAS",
+                "seed": 224
             },
             "match_games": []
         },
@@ -11321,7 +11393,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "8573fd02-7369-11f1-9973-cade9bdb68ea",
+                "name": "CHIBATANOS BR",
+                "seed": 244
             },
             "match_games": []
         },
