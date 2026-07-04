@@ -90220,18 +90220,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e15eaf32-739a-11f1-a7ea-cade9bdb68ea",
                 "name": "GenZ Ranked",
-                "seed": 975
+                "seed": 975,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
                 "name": "Devotatii",
-                "seed": 1135
+                "seed": 1135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e15eaf32-739a-11f1-a7ea-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e15eaf32-739a-11f1-a7ea-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dfae2214-76db-11f1-a09e-9a00447bf306",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2027,
