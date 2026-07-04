@@ -43805,15 +43805,49 @@
             "opponent1": {
                 "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
                 "name": "F/A ANZ",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cfa7721c-7168-11f1-a759-cade9bdb68ea",
                 "name": "TUS",
                 "seed": 960,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cfa7721c-7168-11f1-a759-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "39b53f80-70cf-11f1-b460-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cfa7721c-7168-11f1-a759-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1038,
@@ -49207,14 +49241,48 @@
                 "id": "435e418a-70cf-11f1-bb67-36788fc7e0a5",
                 "name": "ChillOut",
                 "seed": 68,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "85abc650-75ef-11f1-a59b-cade9bdb68ea",
                 "name": "tS players",
-                "seed": 1092
+                "seed": 1092,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "435e418a-70cf-11f1-bb67-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "85abc650-75ef-11f1-a59b-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "435e418a-70cf-11f1-bb67-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "85abc650-75ef-11f1-a59b-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1166,
