@@ -13929,18 +13929,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "00b64bde-70d9-11f1-93f5-36788fc7e0a5",
                 "name": "Kill Logic",
-                "seed": 50
+                "seed": 50,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
                 "name": "Team leque",
-                "seed": 207
+                "seed": 207,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "00b64bde-70d9-11f1-93f5-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "00b64bde-70d9-11f1-93f5-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 332,
@@ -14024,18 +14059,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fddfb39a-72f5-11f1-8603-cade9bdb68ea",
                 "name": "Sacrile",
-                "seed": 111
+                "seed": 111,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3b04d348-71e0-11f1-b568-36788fc7e0a5",
                 "name": "Vortex",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fddfb39a-72f5-11f1-8603-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3b04d348-71e0-11f1-b568-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fddfb39a-72f5-11f1-8603-cade9bdb68ea",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3b04d348-71e0-11f1-b568-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "fddfb39a-72f5-11f1-8603-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3b04d348-71e0-11f1-b568-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 335,
@@ -16293,7 +16378,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "67f85d24-74ac-11f1-a573-36788fc7e0a5",
+                "name": "Team leque",
+                "seed": 207
             },
             "opponent2": {
                 "id": null
@@ -16314,7 +16401,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "3b04d348-71e0-11f1-b568-36788fc7e0a5",
+                "name": "Vortex",
+                "seed": 146
             },
             "match_games": []
         },
