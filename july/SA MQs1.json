@@ -17340,18 +17340,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "01a31b6c-70d9-11f1-b5ff-36788fc7e0a5",
                 "name": "Casa de Áragon",
-                "seed": 41
+                "seed": 41,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
                 "name": "ATPL Energy",
-                "seed": 88
+                "seed": 88,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "01a31b6c-70d9-11f1-b5ff-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "01a31b6c-70d9-11f1-b5ff-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "01a31b6c-70d9-11f1-b5ff-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 401,
@@ -18022,18 +18072,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "018000b4-70d9-11f1-b49f-36788fc7e0a5",
                 "name": "Passione",
-                "seed": 53
+                "seed": 53,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d06d77d2-7366-11f1-921f-36788fc7e0a5",
                 "name": "SKILL ISSUE",
-                "seed": 181
+                "seed": 181,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "018000b4-70d9-11f1-b49f-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d06d77d2-7366-11f1-921f-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "018000b4-70d9-11f1-b49f-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d06d77d2-7366-11f1-921f-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "018000b4-70d9-11f1-b49f-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d06d77d2-7366-11f1-921f-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 415,
@@ -20073,7 +20173,9 @@
                 "seed": 233
             },
             "opponent2": {
-                "id": null
+                "id": "0098caf0-70d9-11f1-aec6-36788fc7e0a5",
+                "name": "ATPL Energy",
+                "seed": 88
             },
             "match_games": []
         },
@@ -20211,7 +20313,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "018000b4-70d9-11f1-b49f-36788fc7e0a5",
+                "name": "Passione",
+                "seed": 53
             },
             "match_games": []
         },
