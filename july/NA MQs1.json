@@ -11088,18 +11088,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cb223e0-7193-11f1-840f-36788fc7e0a5",
                 "name": "Griffons Esport",
-                "seed": 230
+                "seed": 230,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
                 "name": "MAJOR TEAM",
-                "seed": 283
+                "seed": 283,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4cb223e0-7193-11f1-840f-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4cb223e0-7193-11f1-840f-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4cb223e0-7193-11f1-840f-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 235,
@@ -13944,7 +13994,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "27b2f9d0-773c-11f1-9df7-9ad0d10c7e42",
+                "name": "MAJOR TEAM",
+                "seed": 283
             },
             "match_games": []
         },
