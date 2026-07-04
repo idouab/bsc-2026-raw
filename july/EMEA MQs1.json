@@ -65312,18 +65312,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f3699e4-70cf-11f1-b60e-36788fc7e0a5",
                 "name": "SuperNova",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bf6a8872-725c-11f1-b276-36788fc7e0a5",
                 "name": "NOVO Academy",
-                "seed": 608
+                "seed": 608,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "4f3699e4-70cf-11f1-b60e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf6a8872-725c-11f1-b276-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "4f3699e4-70cf-11f1-b60e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf6a8872-725c-11f1-b276-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1552,
@@ -66827,18 +66862,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
                 "name": "NEXUS",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f6a1137e-722a-11f1-8d57-36788fc7e0a5",
                 "name": "ghigo girls",
-                "seed": 532
+                "seed": 532,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f6a1137e-722a-11f1-8d57-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f6a1137e-722a-11f1-8d57-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1626,
@@ -69397,18 +69467,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "536562b6-70cf-11f1-9f01-36788fc7e0a5",
                 "name": "King lite",
-                "seed": 206
+                "seed": 206,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d0c7d424-7736-11f1-96a0-0e98794783f7",
                 "name": "F/A🇰🇷",
-                "seed": 307
+                "seed": 307,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "536562b6-70cf-11f1-9f01-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0c7d424-7736-11f1-96a0-0e98794783f7",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "536562b6-70cf-11f1-9f01-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d0c7d424-7736-11f1-96a0-0e98794783f7",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1751,
@@ -70371,7 +70476,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf6a8872-725c-11f1-b276-36788fc7e0a5",
+                "name": "NOVO Academy",
+                "seed": 608
             },
             "opponent2": {
                 "id": null
@@ -70965,7 +71072,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35106bda-70cf-11f1-b5e4-36788fc7e0a5",
+                "name": "NEXUS",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
