@@ -11359,18 +11359,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb98e846-70d8-11f1-9414-36788fc7e0a5",
                 "name": "VINGANÇA",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
                 "name": "Olimpos NT",
-                "seed": 257
+                "seed": 257,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fb98e846-70d8-11f1-9414-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fb98e846-70d8-11f1-9414-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "da0f5118-71b1-11f1-af00-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 258,
@@ -11784,18 +11819,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
                 "name": "The Vanguard",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
                 "name": "Knights team",
-                "seed": 249
+                "seed": 249,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "070fc4fc-71a5-11f1-b0f2-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 274,
@@ -14139,7 +14209,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd8f3ee8-70d8-11f1-a888-36788fc7e0a5",
                 "name": "DDD 11",
@@ -14148,7 +14218,8 @@
             "opponent2": {
                 "id": "f45e5de6-7195-11f1-bd6c-cade9bdb68ea",
                 "name": "GOATJJG",
-                "seed": 243
+                "seed": 243,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -14831,7 +14902,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb98e846-70d8-11f1-9414-36788fc7e0a5",
+                "name": "VINGANÇA",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -14963,7 +15036,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
+                "name": "The Vanguard",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -15689,7 +15764,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fd8f3ee8-70d8-11f1-a888-36788fc7e0a5",
+                "name": "DDD 11",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
