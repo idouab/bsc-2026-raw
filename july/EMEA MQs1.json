@@ -88304,18 +88304,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
                 "name": "ThoseWhoGus",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
                 "name": "F/A Peremoga",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3e26deac-70cf-11f1-b65e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "54d1fe02-70cf-11f1-a638-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1993,
@@ -88555,18 +88590,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35f3635e-70cf-11f1-ae40-36788fc7e0a5",
                 "name": "Togrubi",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
                 "name": "DESTINY 0",
-                "seed": 322
+                "seed": 322,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "35f3635e-70cf-11f1-ae40-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "35f3635e-70cf-11f1-ae40-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50aafd2e-70cf-11f1-8af1-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2002,
@@ -89151,7 +89221,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35f3635e-70cf-11f1-ae40-36788fc7e0a5",
+                "name": "Togrubi",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
