@@ -16919,18 +16919,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec8eb450-74b8-11f1-a84f-cade9bdb68ea",
                 "name": "Crimson Wolves",
-                "seed": 209
+                "seed": 209,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "01297712-70d9-11f1-a266-36788fc7e0a5",
                 "name": "La Cucaracha",
-                "seed": 81
+                "seed": 81,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ec8eb450-74b8-11f1-a84f-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "01297712-70d9-11f1-a266-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ec8eb450-74b8-11f1-a84f-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01297712-70d9-11f1-a266-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ec8eb450-74b8-11f1-a84f-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "01297712-70d9-11f1-a266-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -19893,7 +19943,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "01297712-70d9-11f1-a266-36788fc7e0a5",
+                "name": "La Cucaracha",
+                "seed": 81
             },
             "match_games": []
         },
