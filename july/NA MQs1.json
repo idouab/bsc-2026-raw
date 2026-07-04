@@ -17903,18 +17903,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36e67e76-7346-11f1-b5c4-36788fc7e0a5",
                 "name": "Cat Ezports",
-                "seed": 209
+                "seed": 209,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0885275c-7748-11f1-bc6f-8e9d9bbd3e81",
                 "name": "Blue Lock",
-                "seed": 81
+                "seed": 81,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "36e67e76-7346-11f1-b5c4-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0885275c-7748-11f1-bc6f-8e9d9bbd3e81",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "36e67e76-7346-11f1-b5c4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0885275c-7748-11f1-bc6f-8e9d9bbd3e81",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "36e67e76-7346-11f1-b5c4-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0885275c-7748-11f1-bc6f-8e9d9bbd3e81",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -19554,18 +19604,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86ae9656-70d9-11f1-ba34-36788fc7e0a5",
                 "name": "SNG|Supernova Gaze",
-                "seed": 7
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
                 "name": "Cabo Verde",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "86ae9656-70d9-11f1-ba34-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "86ae9656-70d9-11f1-ba34-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "86ae9656-70d9-11f1-ba34-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 426,
@@ -20630,7 +20730,9 @@
                 "seed": 145
             },
             "opponent2": {
-                "id": null
+                "id": "0885275c-7748-11f1-bc6f-8e9d9bbd3e81",
+                "name": "Blue Lock",
+                "seed": 81
             },
             "match_games": []
         },
@@ -20963,10 +21065,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8cd87330-7755-11f1-aac1-72b8da95bc32",
+                "name": "Cabo Verde",
+                "seed": 135
             },
             "opponent2": {
-                "id": null
+                "id": "89440b9e-70d9-11f1-ae33-36788fc7e0a5",
+                "name": "Xelozias",
+                "seed": 71
             },
             "match_games": []
         },
