@@ -13846,18 +13846,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
                 "name": "AS Roma",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd121676-75a7-11f1-8c21-cade9bdb68ea",
                 "name": "Team Respect",
-                "seed": 261
+                "seed": 261,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd121676-75a7-11f1-8c21-cade9bdb68ea",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd121676-75a7-11f1-8c21-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd121676-75a7-11f1-8c21-cade9bdb68ea",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 306,
@@ -17659,10 +17709,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8387c092-70d9-11f1-8762-36788fc7e0a5",
+                "name": "AS Roma",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "cd158018-7229-11f1-9dda-cade9bdb68ea",
+                "name": "Glorp",
+                "seed": 124
             },
             "match_games": []
         },
