@@ -88364,18 +88364,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
                 "name": "Gigampfii",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4a627096-70cf-11f1-a47f-36788fc7e0a5",
                 "name": "Draniki",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a627096-70cf-11f1-a47f-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a627096-70cf-11f1-a47f-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1996,
@@ -88464,18 +88499,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "389b40d6-70cf-11f1-9268-36788fc7e0a5",
                 "name": "Dragon Warriors",
-                "seed": 108
+                "seed": 108,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3c4214d0-70cf-11f1-a33d-36788fc7e0a5",
                 "name": "MISTY",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "389b40d6-70cf-11f1-9268-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c4214d0-70cf-11f1-a33d-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "389b40d6-70cf-11f1-9268-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c4214d0-70cf-11f1-a33d-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2001,
@@ -88784,18 +88854,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3821254e-70cf-11f1-a78c-36788fc7e0a5",
                 "name": "JEB",
-                "seed": 107
+                "seed": 107,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7b28b1d2-732b-11f1-8cdc-cade9bdb68ea",
                 "name": "TalentsLab",
-                "seed": 939
+                "seed": 939,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3821254e-70cf-11f1-a78c-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7b28b1d2-732b-11f1-8cdc-cade9bdb68ea",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3821254e-70cf-11f1-a78c-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7b28b1d2-732b-11f1-8cdc-cade9bdb68ea",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2017,
@@ -88886,7 +88991,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4ae72ade-70cf-11f1-a7a6-36788fc7e0a5",
+                "name": "Gigampfii",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
