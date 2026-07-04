@@ -20026,18 +20026,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d34e49b6-731d-11f1-9fa6-cade9bdb68ea",
                 "name": "Oxente F/a",
-                "seed": 128
+                "seed": 128,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fe2d624e-70d8-11f1-bb0a-36788fc7e0a5",
                 "name": "NEXUS E-SPORTS",
-                "seed": 64
+                "seed": 64,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "d34e49b6-731d-11f1-9fa6-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fe2d624e-70d8-11f1-bb0a-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "d34e49b6-731d-11f1-9fa6-cade9bdb68ea",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fe2d624e-70d8-11f1-bb0a-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d34e49b6-731d-11f1-9fa6-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fe2d624e-70d8-11f1-bb0a-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 450,
@@ -21532,18 +21582,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
                 "name": "INTERVENTION",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
                 "name": "Origin promise",
-                "seed": 75
+                "seed": 75,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00cd352e-70d9-11f1-b872-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 480,
@@ -21609,10 +21694,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d34e49b6-731d-11f1-9fa6-cade9bdb68ea",
+                "name": "Oxente F/a",
+                "seed": 128
             },
             "opponent2": {
-                "id": null
+                "id": "b8d32fb0-7337-11f1-b33c-36788fc7e0a5",
+                "name": "THE TRUE CODORNAS",
+                "seed": 224
             },
             "match_games": []
         },
@@ -21897,10 +21986,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fcc15708-70d8-11f1-ba16-36788fc7e0a5",
+                "name": "INTERVENTION",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "007969bc-70d9-11f1-8956-36788fc7e0a5",
+                "name": "Sub-5 f/a",
+                "seed": 22
             },
             "match_games": []
         }
