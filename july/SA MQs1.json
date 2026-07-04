@@ -16718,18 +16718,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
                 "name": "The Vanguard",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
                 "name": "FÊNEXX PG",
-                "seed": 136
+                "seed": 136,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c6a3e42-772a-11f1-b000-c22b4874322c",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 394,
@@ -18501,7 +18536,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fdd1f846-70d8-11f1-94f1-36788fc7e0a5",
+                "name": "The Vanguard",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
