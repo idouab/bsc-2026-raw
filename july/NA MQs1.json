@@ -8966,18 +8966,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
                 "name": "The finishers",
-                "seed": 223
+                "seed": 223,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd6c8e30-71d8-11f1-844d-36788fc7e0a5",
                 "name": "Dingle Doodles",
-                "seed": 290
+                "seed": 290,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd6c8e30-71d8-11f1-844d-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd6c8e30-71d8-11f1-844d-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 143,
@@ -10154,18 +10189,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4defb77c-7189-11f1-8059-36788fc7e0a5",
                 "name": "R2W Esports",
-                "seed": 222
+                "seed": 222,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ecb2a0fa-778c-11f1-8eda-5687cdfe3f22",
                 "name": "Venom",
-                "seed": 291
+                "seed": 291,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4defb77c-7189-11f1-8059-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ecb2a0fa-778c-11f1-8eda-5687cdfe3f22",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4defb77c-7189-11f1-8059-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ecb2a0fa-778c-11f1-8eda-5687cdfe3f22",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 207,
@@ -12526,7 +12596,9 @@
                 "seed": 34
             },
             "opponent2": {
-                "id": null
+                "id": "51a55b18-7361-11f1-bb49-cade9bdb68ea",
+                "name": "The finishers",
+                "seed": 223
             },
             "match_games": []
         },
@@ -13160,7 +13232,9 @@
                 "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "4defb77c-7189-11f1-8059-36788fc7e0a5",
+                "name": "R2W Esports",
+                "seed": 222
             },
             "match_games": []
         },
