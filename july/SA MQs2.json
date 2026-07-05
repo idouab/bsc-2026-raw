@@ -661,6 +661,46 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "bdb2c75c-77dd-11f1-a9b5-4a473866efb5",
+            "tournament_id": 0,
+            "name": "#FreeBSEB",
+            "players": [
+                {
+                    "name": "Murilek",
+                    "gamerTag": "#8YGUYLPYC"
+                },
+                {
+                    "name": "Мysτєяy Dєsτıиy",
+                    "gamerTag": "#LQC8RUJPL"
+                },
+                {
+                    "name": "Juicewrld999",
+                    "gamerTag": "#YVUQ92VJY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "fd0c7e04-70d8-11f1-bd39-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Goats",
+            "players": [
+                {
+                    "name": "Jonatas",
+                    "gamerTag": "#GCRY9CJ0"
+                },
+                {
+                    "name": "FortiStarsYT",
+                    "gamerTag": "#P9JLP88C8"
+                },
+                {
+                    "name": "mito",
+                    "gamerTag": "#2LU29UVQV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "fc6af656-70d8-11f1-8e32-36788fc7e0a5",
             "tournament_id": 0,
             "name": "Skibidi Sigmas",
@@ -882,7 +922,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
                 "name": "SKCalalas SA",
@@ -891,7 +931,8 @@
             "opponent2": {
                 "id": "bdb2c75c-77dd-11f1-a9b5-4a473866efb5",
                 "name": "#FreeBSEB",
-                "seed": 28
+                "seed": 28,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -902,11 +943,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd0c7e04-70d8-11f1-bd39-36788fc7e0a5",
                 "name": "Goats",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "bdaa1ecc-77dd-11f1-8dd1-4a473866efb5",
@@ -1133,10 +1175,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
+                "name": "SKCalalas SA",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "bdaa1ecc-77dd-11f1-8dd1-4a473866efb5",
+                "name": "OTX E-ports",
+                "seed": 21
             },
             "match_games": []
         },
@@ -1325,10 +1371,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bdb2c75c-77dd-11f1-a9b5-4a473866efb5",
+                "name": "#FreeBSEB",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "fd0c7e04-70d8-11f1-bd39-36788fc7e0a5",
+                "name": "Goats",
+                "seed": 12
             },
             "match_games": []
         },
