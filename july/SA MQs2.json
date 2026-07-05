@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "bdadd29c-77dd-11f1-90c7-4a473866efb5",
+            "tournament_id": 0,
+            "name": "UNESC TEAM",
+            "players": [
+                {
+                    "name": "D A M I A N I",
+                    "gamerTag": "#VY9QYL00"
+                },
+                {
+                    "name": "Z i l i",
+                    "gamerTag": "#VURPCQQ"
+                },
+                {
+                    "name": "UNT|VALVA<3",
+                    "gamerTag": "#8RQYPGQ22"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "bdab1d2c-77dd-11f1-b9f6-4a473866efb5",
             "tournament_id": 0,
             "name": "Platanitos GT",
@@ -931,18 +951,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
                 "name": "Tralaleritos",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdadd29c-77dd-11f1-90c7-4a473866efb5",
                 "name": "UNESC TEAM",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdadd29c-77dd-11f1-90c7-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdadd29c-77dd-11f1-90c7-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdadd29c-77dd-11f1-90c7-4a473866efb5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
