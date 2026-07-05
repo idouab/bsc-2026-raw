@@ -3932,18 +3932,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6298d842-77d4-11f1-bf16-620189d4462f",
                 "name": "F/A Peremoga",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6294944e-77d4-11f1-b01a-620189d4462f",
                 "name": "Togrubi",
-                "seed": 17
+                "seed": 17,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6294944e-77d4-11f1-b01a-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6294944e-77d4-11f1-b01a-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6294944e-77d4-11f1-b01a-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6294944e-77d4-11f1-b01a-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -4504,10 +4569,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                "name": "F/A Peremoga",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                "name": "FENRIS GAMING",
+                "seed": 14
             },
             "match_games": []
         },
