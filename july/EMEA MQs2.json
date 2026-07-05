@@ -679,6 +679,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+            "tournament_id": 0,
+            "name": "Palote",
+            "players": [
+                {
+                    "name": "Mathiaspoder",
+                    "gamerTag": "#2VG2V8JV8"
+                },
+                {
+                    "name": "julitopalote🍑",
+                    "gamerTag": "#9L0U9Q90P"
+                },
+                {
+                    "name": "walipalote🍆",
+                    "gamerTag": "#8RRJGYC20"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1061,18 +1081,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
                 "name": "Team Heretics",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "629a8b56-77d4-11f1-b970-620189d4462f",
                 "name": "Palote",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1265,7 +1335,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                "name": "Team Heretics",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1459,7 +1531,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                "name": "Palote",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
