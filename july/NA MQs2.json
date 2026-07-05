@@ -4221,7 +4221,7 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
                 "name": "Monterrey F/A",
@@ -4230,7 +4230,8 @@
             "opponent2": {
                 "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
                 "name": "Lime 🍋‍🟩",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -4308,7 +4309,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                "name": "Monterrey F/A",
+                "seed": 11
             },
             "match_games": []
         },
