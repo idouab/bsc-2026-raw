@@ -819,6 +819,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "ef90f110-70ce-11f1-9a66-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Frenzy Academy",
+            "players": [
+                {
+                    "name": "FZ|SHABANI",
+                    "gamerTag": "#2L9Y0GVPP"
+                },
+                {
+                    "name": "kit",
+                    "gamerTag": "#YJQJYV8YU"
+                },
+                {
+                    "name": "Qenix",
+                    "gamerTag": "#G9UGL2PQ9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1464,18 +1484,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef90f110-70ce-11f1-9a66-36788fc7e0a5",
                 "name": "Frenzy Academy",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f02688ba-77a4-11f1-bc3e-9a00447bf306",
                 "name": "無職透明",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef90f110-70ce-11f1-9a66-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f02688ba-77a4-11f1-bc3e-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef90f110-70ce-11f1-9a66-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f02688ba-77a4-11f1-bc3e-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef90f110-70ce-11f1-9a66-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f02688ba-77a4-11f1-bc3e-9a00447bf306",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -1637,7 +1707,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "f02688ba-77a4-11f1-bc3e-9a00447bf306",
+                "name": "無職透明",
+                "seed": 19
             },
             "match_games": []
         },
@@ -1841,7 +1913,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "ef90f110-70ce-11f1-9a66-36788fc7e0a5",
+                "name": "Frenzy Academy",
+                "seed": 14
             },
             "match_games": []
         },
