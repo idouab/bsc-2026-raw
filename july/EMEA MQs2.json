@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "62996afa-77d4-11f1-9d5c-620189d4462f",
+            "tournament_id": 0,
+            "name": "SHAD LEGION ACADEMY",
+            "players": [
+                {
+                    "name": "SDL|Escanor⭐️",
+                    "gamerTag": "#8R8882Q89"
+                },
+                {
+                    "name": "cyclxne",
+                    "gamerTag": "#LG2RY8GP"
+                },
+                {
+                    "name": "SDL|Alex",
+                    "gamerTag": "#2PPRVY89J"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "629843be-77d4-11f1-b99e-620189d4462f",
             "tournament_id": 0,
             "name": "Hasiiiii 🐰",
@@ -676,6 +696,26 @@
                 {
                     "name": "Suffoo🍭",
                     "gamerTag": "#PVRLUJU"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+            "tournament_id": 0,
+            "name": "Devotatii",
+            "players": [
+                {
+                    "name": "无人懂",
+                    "gamerTag": "#2GPUJCJLY"
+                },
+                {
+                    "name": "stelica piratu",
+                    "gamerTag": "#JCGJPCL2"
+                },
+                {
+                    "name": "kronos🇧🇷",
+                    "gamerTag": "#2LGCU0C9V"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -891,18 +931,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
                 "name": "Metizport",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "62996afa-77d4-11f1-9d5c-620189d4462f",
                 "name": "SHAD LEGION ACADEMY",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "62996afa-77d4-11f1-9d5c-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "62996afa-77d4-11f1-9d5c-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "62996afa-77d4-11f1-9d5c-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -1041,18 +1131,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "629d5548-77d4-11f1-a37c-620189d4462f",
                 "name": "Devotatii",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1319,7 +1459,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                "name": "HMBLE",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1515,7 +1657,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                "name": "Devotatii",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
