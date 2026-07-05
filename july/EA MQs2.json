@@ -879,6 +879,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Not easy",
+            "players": [
+                {
+                    "name": "瀬名あじさい🫧",
+                    "gamerTag": "#P0L9Y2P8"
+                },
+                {
+                    "name": "SunRise..",
+                    "gamerTag": "#20YJ9LYUQ"
+                },
+                {
+                    "name": "Neolusin",
+                    "gamerTag": "#Y0YUU8LR8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1744,18 +1764,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
                 "name": "Not easy",
-                "seed": 11
+                "seed": 11,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f02a92a2-77a4-11f1-9288-9a00447bf306",
                 "name": "UOW",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f02a92a2-77a4-11f1-9288-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f02a92a2-77a4-11f1-9288-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02a92a2-77a4-11f1-9288-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f02a92a2-77a4-11f1-9288-9a00447bf306",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -1901,7 +1986,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "f02a92a2-77a4-11f1-9288-9a00447bf306",
+                "name": "UOW",
+                "seed": 22
             },
             "match_games": []
         },
@@ -2113,7 +2200,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                "name": "Not easy",
+                "seed": 11
             },
             "match_games": []
         },
