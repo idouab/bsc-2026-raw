@@ -781,6 +781,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+            "tournament_id": 0,
+            "name": "Pingdiffers",
+            "players": [
+                {
+                    "name": "MeliodasGod🐐",
+                    "gamerTag": "#CPPV2PQG"
+                },
+                {
+                    "name": "Bryan 乂",
+                    "gamerTag": "#9JYG98GG"
+                },
+                {
+                    "name": "Loko",
+                    "gamerTag": "#YQLP8LP8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
             "tournament_id": 0,
             "name": "ENERGY STATION",
@@ -1364,18 +1384,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd087052-70d8-11f1-8589-36788fc7e0a5",
                 "name": "Pizza Congelada F/A",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
                 "name": "Pingdiffers",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fd087052-70d8-11f1-8589-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fd087052-70d8-11f1-8589-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fd087052-70d8-11f1-8589-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1920,10 +1990,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fd087052-70d8-11f1-8589-36788fc7e0a5",
+                "name": "Pizza Congelada F/A",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                "name": "Enosis Esports",
+                "seed": 18
             },
             "match_games": []
         },
@@ -2138,10 +2212,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                "name": "Pingdiffers",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
+                "name": "ENERGY STATION",
+                "seed": 15
             },
             "match_games": []
         },
