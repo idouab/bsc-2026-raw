@@ -639,6 +639,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "fc6af656-70d8-11f1-8e32-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Skibidi Sigmas",
+            "players": [
+                {
+                    "name": "𝜗lukingbs𝜚",
+                    "gamerTag": "#UULLRR0Y"
+                },
+                {
+                    "name": "Mega",
+                    "gamerTag": "#GJ0VQCPP"
+                },
+                {
+                    "name": "Deex >.<",
+                    "gamerTag": "#2J0VP80U0J"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -981,11 +1001,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc6af656-70d8-11f1-8e32-36788fc7e0a5",
                 "name": "Skibidi Sigmas",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "bdad20ae-77dd-11f1-97ed-4a473866efb5",
