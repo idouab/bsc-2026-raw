@@ -2616,18 +2616,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34d30ac4-70cf-11f1-8ef4-36788fc7e0a5",
                 "name": "Reply Totem",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
                 "name": "FENRIS GAMING",
-                "seed": 14
+                "seed": 14,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "34d30ac4-70cf-11f1-8ef4-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "34d30ac4-70cf-11f1-8ef4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "34d30ac4-70cf-11f1-8ef4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "34d30ac4-70cf-11f1-8ef4-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2712,7 +2777,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34d30ac4-70cf-11f1-8ef4-36788fc7e0a5",
+                "name": "Reply Totem",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -3150,7 +3217,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                "name": "FENRIS GAMING",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
