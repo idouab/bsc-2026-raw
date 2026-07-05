@@ -2366,18 +2366,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36edc326-70cf-11f1-8685-36788fc7e0a5",
                 "name": "BIG",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
                 "name": "Metizport",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "36edc326-70cf-11f1-8685-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "36edc326-70cf-11f1-8685-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "36edc326-70cf-11f1-8685-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -2563,7 +2613,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "36edc326-70cf-11f1-8685-36788fc7e0a5",
+                "name": "BIG",
+                "seed": 8
             },
             "match_games": []
         },
@@ -2932,7 +2984,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                "name": "Metizport",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
