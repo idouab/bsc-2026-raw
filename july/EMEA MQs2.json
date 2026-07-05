@@ -2962,18 +2962,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "629cc790-77d4-11f1-a384-620189d4462f",
                 "name": "F/A O.O",
-                "seed": 30
+                "seed": 30,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
                 "name": "Gigampfii",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 24,
@@ -3111,7 +3176,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                "name": "F/A O.O",
+                "seed": 30
             },
             "match_games": []
         },
