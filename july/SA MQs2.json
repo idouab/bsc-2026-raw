@@ -3325,18 +3325,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd0db698-70d8-11f1-b577-36788fc7e0a5",
                 "name": "Dropeados 2026",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
                 "name": "SHADE ESPORTS",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fd0db698-70d8-11f1-b577-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fd0db698-70d8-11f1-b577-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fd0db698-70d8-11f1-b577-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -3428,7 +3478,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                "name": "SHADE ESPORTS",
+                "seed": 26
             },
             "match_games": []
         },
