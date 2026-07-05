@@ -741,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "ENERGY STATION",
+            "players": [
+                {
+                    "name": "@gustobs",
+                    "gamerTag": "#LRPJLC9"
+                },
+                {
+                    "name": "EST | tiberius",
+                    "gamerTag": "#PGC282J"
+                },
+                {
+                    "name": "EST | Kaiozin",
+                    "gamerTag": "#CJ89V9G0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "bdb4262e-77dd-11f1-aea9-4a473866efb5",
             "tournament_id": 0,
             "name": "THE TRUE CODORNAS",
@@ -1144,18 +1164,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
                 "name": "ENERGY STATION",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
                 "name": "Enosis Esports",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fb5b9a40-70d8-11f1-b32d-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
