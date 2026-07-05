@@ -801,6 +801,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "fc2bf578-70d8-11f1-84ef-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Japão FC Esports",
+            "players": [
+                {
+                    "name": "JPFC|Raze",
+                    "gamerTag": "#2GP98PQ0G"
+                },
+                {
+                    "name": "JPFC|AzuriSt4rr",
+                    "gamerTag": "#YCUGURU89"
+                },
+                {
+                    "name": "JPFC|Esoteric",
+                    "gamerTag": "#8C8988222"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "bdb4262e-77dd-11f1-aea9-4a473866efb5",
             "tournament_id": 0,
             "name": "THE TRUE CODORNAS",
@@ -856,6 +876,26 @@
                 {
                     "name": "GLX | Kauan7",
                     "gamerTag": "#PQY8LVCGY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "bdac7e2e-77dd-11f1-8138-4a473866efb5",
+            "tournament_id": 0,
+            "name": "DDD 11",
+            "players": [
+                {
+                    "name": "SIBYAI ✟",
+                    "gamerTag": "#8UUQ8JVC8"
+                },
+                {
+                    "name": "Sr. Caga e Come",
+                    "gamerTag": "#GC08J8G0"
+                },
+                {
+                    "name": "guilhas",
+                    "gamerTag": "#QYVY0GU"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -1414,18 +1454,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc2bf578-70d8-11f1-84ef-36788fc7e0a5",
                 "name": "Japão FC Esports",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
                 "name": "Sub-5 f/a",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fc2bf578-70d8-11f1-84ef-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fc2bf578-70d8-11f1-84ef-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fc2bf578-70d8-11f1-84ef-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 13,
@@ -1595,18 +1685,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
                 "name": "Six Seven",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdac7e2e-77dd-11f1-8138-4a473866efb5",
                 "name": "DDD 11",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdac7e2e-77dd-11f1-8138-4a473866efb5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdac7e2e-77dd-11f1-8138-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdac7e2e-77dd-11f1-8138-4a473866efb5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -1752,7 +1892,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                "name": "Six Seven",
+                "seed": 11
             },
             "match_games": []
         },
@@ -1964,7 +2106,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "bdac7e2e-77dd-11f1-8138-4a473866efb5",
+                "name": "DDD 11",
+                "seed": 22
             },
             "match_games": []
         },
