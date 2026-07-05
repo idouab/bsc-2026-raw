@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "5d3abbc4-787c-11f1-9bb5-9ae5249cb4e1",
+            "tournament_id": 0,
+            "name": "NEXUS",
+            "players": [
+                {
+                    "name": "its1JP",
+                    "gamerTag": "#PVRP2JQ92"
+                },
+                {
+                    "name": "Zoua",
+                    "gamerTag": "#2Y9P98GC8"
+                },
+                {
+                    "name": "Paz 🕊",
+                    "gamerTag": "#QQ9VRYJJY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "bdab1d2c-77dd-11f1-b9f6-4a473866efb5",
             "tournament_id": 0,
             "name": "Platanitos GT",
@@ -801,18 +821,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd09158e-70d8-11f1-a0d2-36788fc7e0a5",
                 "name": "Bounty Hunters Allu",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5d3abbc4-787c-11f1-9bb5-9ae5249cb4e1",
                 "name": "NEXUS",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fd09158e-70d8-11f1-a0d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5d3abbc4-787c-11f1-9bb5-9ae5249cb4e1",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fd09158e-70d8-11f1-a0d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5d3abbc4-787c-11f1-9bb5-9ae5249cb4e1",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fd09158e-70d8-11f1-a0d2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5d3abbc4-787c-11f1-9bb5-9ae5249cb4e1",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1127,7 +1197,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fd09158e-70d8-11f1-a0d2-36788fc7e0a5",
+                "name": "Bounty Hunters Allu",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1323,7 +1395,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5d3abbc4-787c-11f1-9bb5-9ae5249cb4e1",
+                "name": "NEXUS",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
