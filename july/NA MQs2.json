@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Mathgamer’s Aura💀🫩",
+            "players": [
+                {
+                    "name": "Tom Welling",
+                    "gamerTag": "#8QVVYLPYY"
+                },
+                {
+                    "name": "Itoshi Rin 秋天",
+                    "gamerTag": "#P9UQG2RYC"
+                },
+                {
+                    "name": "Osva🌺",
+                    "gamerTag": "#UPVYYQQQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
             "tournament_id": 0,
             "name": "AS Roma",
@@ -1171,18 +1191,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8465aa38-70d9-11f1-802a-36788fc7e0a5",
                 "name": "Vatic",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
                 "name": "Mathgamer’s Aura💀🫩",
-                "seed": 29
+                "seed": 29,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8465aa38-70d9-11f1-802a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8465aa38-70d9-11f1-802a-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8465aa38-70d9-11f1-802a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "8465aa38-70d9-11f1-802a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -1753,10 +1838,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8465aa38-70d9-11f1-802a-36788fc7e0a5",
+                "name": "Vatic",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                "name": "NOVA",
+                "seed": 13
             },
             "match_games": []
         },
@@ -1965,10 +2054,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f0ef5cc-77f9-11f1-a1bc-9a00447bf306",
+                "name": "Mathgamer’s Aura💀🫩",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
+                "name": "AS Roma",
+                "seed": 20
             },
             "match_games": []
         },
