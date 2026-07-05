@@ -2296,18 +2296,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "365a9d26-70cf-11f1-8986-36788fc7e0a5",
                 "name": "FUT Esports",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "365bc638-70cf-11f1-b5fd-36788fc7e0a5",
                 "name": "WW",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "365a9d26-70cf-11f1-8986-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "365bc638-70cf-11f1-b5fd-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "365a9d26-70cf-11f1-8986-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "365bc638-70cf-11f1-b5fd-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "365a9d26-70cf-11f1-8986-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "365bc638-70cf-11f1-b5fd-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -2396,18 +2446,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
                 "name": "Team Heretics",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
                 "name": "Madrid",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -2458,7 +2558,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "365a9d26-70cf-11f1-8986-36788fc7e0a5",
+                "name": "FUT Esports",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2714,7 +2816,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                "name": "Madrid",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
@@ -2794,7 +2898,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "365bc638-70cf-11f1-b5fd-36788fc7e0a5",
+                "name": "WW",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
