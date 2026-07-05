@@ -3050,18 +3050,98 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
                 "name": "Mommy's good boys",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
                 "name": "horrendous at 82-0",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle’s Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 22,
@@ -3333,7 +3413,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                "name": "Mommy's good boys",
+                "seed": 31
             },
             "match_games": []
         },
