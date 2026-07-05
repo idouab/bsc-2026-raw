@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "f02df8b6-77a4-11f1-95bb-9a00447bf306",
+            "tournament_id": 0,
+            "name": "KFC",
+            "players": [
+                {
+                    "name": "しろいきおく",
+                    "gamerTag": "#GJ02GP20G"
+                },
+                {
+                    "name": "シャウラ",
+                    "gamerTag": "#R9QU0VJPR"
+                },
+                {
+                    "name": "S2|Wangmeshi",
+                    "gamerTag": "#22JJPJ8YJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "ef959a6c-70ce-11f1-83b0-36788fc7e0a5",
             "tournament_id": 0,
             "name": "Team Falcons",
@@ -716,6 +736,26 @@
                 {
                     "name": "TIQ.zo",
                     "gamerTag": "#2CJ8UQPGCR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "f025c006-77a4-11f1-9677-9a00447bf306",
+            "tournament_id": 0,
+            "name": "すたんぷりぷりざえもん",
+            "players": [
+                {
+                    "name": "すみぃのスタ💞🍒",
+                    "gamerTag": "#Q8PGGPURY"
+                },
+                {
+                    "name": "𐙚tͥa͙kͣuͫ🦋",
+                    "gamerTag": "#JG0CCYP8L"
+                },
+                {
+                    "name": "ブロスタプレイヤー",
+                    "gamerTag": "#LJ0YVVULP"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -971,18 +1011,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
                 "name": "SKCalalas",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f02df8b6-77a4-11f1-95bb-9a00447bf306",
                 "name": "KFC",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02df8b6-77a4-11f1-95bb-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02df8b6-77a4-11f1-95bb-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02df8b6-77a4-11f1-95bb-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -1094,18 +1184,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
                 "name": "INSOMNIA",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f025c006-77a4-11f1-9677-9a00447bf306",
                 "name": "すたんぷりぷりざえもん",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f025c006-77a4-11f1-9677-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f025c006-77a4-11f1-9677-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f025c006-77a4-11f1-9677-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1348,7 +1488,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                "name": "SKCalalas",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -1400,10 +1542,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                "name": "INSOMNIA",
+                "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "ef06a488-70ce-11f1-9d20-36788fc7e0a5",
+                "name": "AXIS e-sports",
+                "seed": 10
             },
             "match_games": []
         },
@@ -1546,7 +1692,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f02df8b6-77a4-11f1-95bb-9a00447bf306",
+                "name": "KFC",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
@@ -1598,10 +1746,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f025c006-77a4-11f1-9677-9a00447bf306",
+                "name": "すたんぷりぷりざえもん",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
+                "name": "チーム公認クリエイターズ",
+                "seed": 23
             },
             "match_games": []
         },
