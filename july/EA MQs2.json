@@ -661,6 +661,66 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "ef959a6c-70ce-11f1-83b0-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Team Falcons",
+            "players": [
+                {
+                    "name": "惨 ︎︎",
+                    "gamerTag": "#9YV2JY2QU"
+                },
+                {
+                    "name": "Uryuryuu🤍",
+                    "gamerTag": "#8P9JUUP29"
+                },
+                {
+                    "name": "PL bronze アペンキー",
+                    "gamerTag": "#28CY9RU8Y"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "f02f3578-77a4-11f1-8691-9a00447bf306",
+            "tournament_id": 0,
+            "name": "タバスコ愛好家",
+            "players": [
+                {
+                    "name": "FCX-belover",
+                    "gamerTag": "#P9J992QU"
+                },
+                {
+                    "name": "アルス",
+                    "gamerTag": "#VV99PJGJY"
+                },
+                {
+                    "name": "がじゅまる🏜️",
+                    "gamerTag": "#YRG9YPL88"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "ef950688-70ce-11f1-a49f-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "私達の腰は相手が泣き出すまで止まりません",
+            "players": [
+                {
+                    "name": "大きなシュークリーム",
+                    "gamerTag": "#9CY8092CJ"
+                },
+                {
+                    "name": "🎩🎩",
+                    "gamerTag": "#8YUVLQQLG"
+                },
+                {
+                    "name": "TIQ.zo",
+                    "gamerTag": "#2CJ8UQPGCR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
             "tournament_id": 0,
             "name": "チーム公認クリエイターズ",
@@ -971,11 +1031,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef959a6c-70ce-11f1-83b0-36788fc7e0a5",
                 "name": "Team Falcons",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f02bf8a4-77a4-11f1-b1c6-9a00447bf306",
@@ -991,7 +1052,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef8e0716-70ce-11f1-b566-36788fc7e0a5",
                 "name": "Crazy Raccoon",
@@ -1000,7 +1061,8 @@
             "opponent2": {
                 "id": "f02f3578-77a4-11f1-8691-9a00447bf306",
                 "name": "タバスコ愛好家",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1011,11 +1073,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef950688-70ce-11f1-a49f-36788fc7e0a5",
                 "name": "私達の腰は相手が泣き出すまで止まりません",
-                "seed": 15
+                "seed": 15,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f0286310-77a4-11f1-8e9a-9a00447bf306",
@@ -1317,10 +1380,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ef8e0716-70ce-11f1-b566-36788fc7e0a5",
+                "name": "Crazy Raccoon",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "f0286310-77a4-11f1-8e9a-9a00447bf306",
+                "name": "White rice",
+                "seed": 18
             },
             "match_games": []
         },
@@ -1511,10 +1578,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f02f3578-77a4-11f1-8691-9a00447bf306",
+                "name": "タバスコ愛好家",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "ef950688-70ce-11f1-a49f-36788fc7e0a5",
+                "name": "私達の腰は相手が泣き出すまで止まりません",
+                "seed": 15
             },
             "match_games": []
         },
