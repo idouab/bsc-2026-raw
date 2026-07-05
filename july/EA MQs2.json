@@ -659,6 +659,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
+            "tournament_id": 0,
+            "name": "チーム公認クリエイターズ",
+            "players": [
+                {
+                    "name": "↯Vertex｜Gayz↯",
+                    "gamerTag": "#GYJVPU8V"
+                },
+                {
+                    "name": "Chamamen",
+                    "gamerTag": "#20JUUQU0G"
+                },
+                {
+                    "name": "らぴすらずり",
+                    "gamerTag": "#9R80RGPU9"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1011,18 +1031,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef06a488-70ce-11f1-9d20-36788fc7e0a5",
                 "name": "AXIS e-sports",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
                 "name": "チーム公認クリエイターズ",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef06a488-70ce-11f1-9d20-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef06a488-70ce-11f1-9d20-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef06a488-70ce-11f1-9d20-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
