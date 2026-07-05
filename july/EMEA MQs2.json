@@ -899,6 +899,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Gigampfii.png"
+        },
+        {
+            "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
+            "tournament_id": 0,
+            "name": "TalentsLab",
+            "players": [
+                {
+                    "name": "TLB|Yei Yei",
+                    "gamerTag": "#8RVLRVYYP"
+                },
+                {
+                    "name": "TLB|Agachiナ",
+                    "gamerTag": "#YYUG20PQV"
+                },
+                {
+                    "name": "TLB|Tomzy",
+                    "gamerTag": "#2YYJYPCL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1971,18 +1991,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
                 "name": "NOVO Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
                 "name": "TalentsLab",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -2149,7 +2234,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                "name": "NOVO Esports",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -2365,7 +2452,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "629b1ae4-77d4-11f1-a5c9-620189d4462f",
+                "name": "TalentsLab",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
