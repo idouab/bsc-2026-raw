@@ -3446,18 +3446,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
                 "name": "Lime 🍋‍🟩",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
                 "name": "polles aura",
-                "seed": 24
+                "seed": 24,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3643,7 +3708,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                "name": "Lime 🍋‍🟩",
+                "seed": 14
             },
             "match_games": []
         },
