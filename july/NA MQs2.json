@@ -639,6 +639,46 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "83dc907c-70d9-11f1-a7b6-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "Legacy Academy",
+            "players": [
+                {
+                    "name": "LGCY|Orfevre",
+                    "gamerTag": "#28GY8CPRC"
+                },
+                {
+                    "name": "LGCY|Polone",
+                    "gamerTag": "#8L988RQJC"
+                },
+                {
+                    "name": "LGCY|DarkWolf",
+                    "gamerTag": "#882JYYLR8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2f0b8c5c-77f9-11f1-a347-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Xelozias",
+            "players": [
+                {
+                    "name": "Xl|Xleoz💋",
+                    "gamerTag": "#P89RVJRRQ"
+                },
+                {
+                    "name": "Xl|Lether_Wtt",
+                    "gamerTag": "#28L0VJPGL"
+                },
+                {
+                    "name": "Xl|Manu 🐐",
+                    "gamerTag": "#8YVLRJU8R"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -861,11 +901,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83dc907c-70d9-11f1-a7b6-36788fc7e0a5",
                 "name": "Legacy Academy",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2f0c3ea4-77f9-11f1-ad17-9a00447bf306",
@@ -921,7 +962,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846818a4-70d9-11f1-9a9a-36788fc7e0a5",
                 "name": "Legacy Esports",
@@ -930,7 +971,8 @@
             "opponent2": {
                 "id": "2f0b8c5c-77f9-11f1-a347-9a00447bf306",
                 "name": "Xelozias",
-                "seed": 26
+                "seed": 26,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1123,7 +1165,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "846818a4-70d9-11f1-9a9a-36788fc7e0a5",
+                "name": "Legacy Esports",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1315,7 +1359,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f0b8c5c-77f9-11f1-a347-9a00447bf306",
+                "name": "Xelozias",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
