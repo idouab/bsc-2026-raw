@@ -3697,18 +3697,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
                 "name": "Madrid",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
                 "name": "F/A KEBAP",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3885,7 +3935,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
+                "name": "F/A KEBAP",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
