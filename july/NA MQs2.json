@@ -590,7 +590,7 @@
                     "gamerTag": "#RPUJ9G8Y"
                 },
                 {
-                    "name": "Diva Joshina🎀",
+                    "name": "josh :(",
                     "gamerTag": "#9PG99RGCL"
                 },
                 {
@@ -636,6 +636,26 @@
                 {
                     "name": "eeps ☀️",
                     "gamerTag": "#99PPVQJRL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2f110b8c-77f9-11f1-b4ba-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Pioladores",
+            "players": [
+                {
+                    "name": "Pollo4vr",
+                    "gamerTag": "#80PU0LRYL"
+                },
+                {
+                    "name": "Togi",
+                    "gamerTag": "#PYGV2YYV9"
+                },
+                {
+                    "name": "Kaoruko Waguri",
+                    "gamerTag": "#GYVR2GCPQ"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -721,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+            "tournament_id": 0,
+            "name": "ETERNAL",
+            "players": [
+                {
+                    "name": "PFZ|Alyanys",
+                    "gamerTag": "#2LQ0RGCRU"
+                },
+                {
+                    "name": "Meatboy👲🏼",
+                    "gamerTag": "#8LQ8GVJ0"
+                },
+                {
+                    "name": "Arthur Morgan",
+                    "gamerTag": "#2Y9Y820RC"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/ETERNAL.png"
+        },
+        {
             "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
             "tournament_id": 0,
             "name": "REVERB",
@@ -750,7 +790,7 @@
                     "gamerTag": "#RPUJ9G8Y"
                 },
                 {
-                    "name": "Diva Joshina🎀",
+                    "name": "josh :(",
                     "gamerTag": "#9PG99RGCL"
                 },
                 {
@@ -841,18 +881,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8468bb56-70d9-11f1-8c4f-36788fc7e0a5",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f110b8c-77f9-11f1-b4ba-9a00447bf306",
                 "name": "Pioladores",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8468bb56-70d9-11f1-8c4f-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f110b8c-77f9-11f1-b4ba-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8468bb56-70d9-11f1-8c4f-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f110b8c-77f9-11f1-b4ba-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8468bb56-70d9-11f1-8c4f-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f110b8c-77f9-11f1-b4ba-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2,
@@ -1183,18 +1273,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846a27a2-70d9-11f1-99f6-36788fc7e0a5",
                 "name": "F/A bobby",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
                 "name": "ETERNAL",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "846a27a2-70d9-11f1-99f6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "846a27a2-70d9-11f1-99f6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "846a27a2-70d9-11f1-99f6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1365,7 +1505,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8468bb56-70d9-11f1-8c4f-36788fc7e0a5",
+                "name": "Tribe Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1465,10 +1607,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "846a27a2-70d9-11f1-99f6-36788fc7e0a5",
+                "name": "F/A bobby",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                "name": "Lime 🍋‍🟩",
+                "seed": 14
             },
             "match_games": []
         },
@@ -1563,7 +1709,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f110b8c-77f9-11f1-b4ba-9a00447bf306",
+                "name": "Pioladores",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
@@ -1663,10 +1811,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                "name": "ETERNAL",
+                "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                "name": "REVERB",
+                "seed": 19
             },
             "match_games": []
         },

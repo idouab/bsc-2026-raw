@@ -3885,18 +3885,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
                 "name": "Pingdiffers",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
                 "name": "SHADE ESPORTS",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb09bee-77dd-11f1-b3e7-4a473866efb5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -3968,7 +4018,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                "name": "Pingdiffers",
+                "seed": 31
             },
             "match_games": []
         },
