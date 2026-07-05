@@ -819,6 +819,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+            "tournament_id": 0,
+            "name": "Gigampfii",
+            "players": [
+                {
+                    "name": "Xrae℘",
+                    "gamerTag": "#GR2GPC2G"
+                },
+                {
+                    "name": "𑣲konavet",
+                    "gamerTag": "#GGP0Y9CY"
+                },
+                {
+                    "name": "Venco😩",
+                    "gamerTag": "#28GUCUYLG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Gigampfii.png"
         }
     ],
     "stage": [
@@ -1611,18 +1631,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
                 "name": "FENRIS GAMING",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
                 "name": "Gigampfii",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 15,
