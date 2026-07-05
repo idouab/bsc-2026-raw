@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
+            "tournament_id": 0,
+            "name": "AS Roma",
+            "players": [
+                {
+                    "name": "v̷Strøng⛈️",
+                    "gamerTag": "#YY2908UG"
+                },
+                {
+                    "name": "Rexo✨金",
+                    "gamerTag": "#PVRY9UPL"
+                },
+                {
+                    "name": "Gabotsito💘",
+                    "gamerTag": "#8LLUYY80"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "83dc907c-70d9-11f1-a7b6-36788fc7e0a5",
             "tournament_id": 0,
             "name": "Legacy Academy",
@@ -696,6 +716,46 @@
                 {
                     "name": "Xl|Manu 🐐",
                     "gamerTag": "#8YVLRJU8R"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+            "tournament_id": 0,
+            "name": "REVERB",
+            "players": [
+                {
+                    "name": "RVRB|Oseas131",
+                    "gamerTag": "#98URRRJG"
+                },
+                {
+                    "name": "RVRB|RetroDoge",
+                    "gamerTag": "#2Q2V0QGV9"
+                },
+                {
+                    "name": "fishi kravits",
+                    "gamerTag": "#9CVJYCG9L"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Worlds 2027",
+            "players": [
+                {
+                    "name": "Sawk 𖦏₊ ⊹",
+                    "gamerTag": "#RPUJ9G8Y"
+                },
+                {
+                    "name": "Diva Joshina🎀",
+                    "gamerTag": "#9PG99RGCL"
+                },
+                {
+                    "name": "Hilo🪼",
+                    "gamerTag": "#Q200JVULG"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -931,18 +991,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
                 "name": "NOVA",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
                 "name": "AS Roma",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1093,18 +1203,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
                 "name": "Lime 🍋‍🟩",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
                 "name": "REVERB",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "846c1a30-70d9-11f1-beaa-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -1113,18 +1273,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84664240-70d9-11f1-b3f6-36788fc7e0a5",
                 "name": "F/A Homeless",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
                 "name": "Worlds 2027",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "84664240-70d9-11f1-b3f6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "84664240-70d9-11f1-b3f6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "84664240-70d9-11f1-b3f6-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -1271,7 +1481,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "84664240-70d9-11f1-b3f6-36788fc7e0a5",
+                "name": "F/A Homeless",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1467,7 +1679,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                "name": "Worlds 2027",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
