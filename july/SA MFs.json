@@ -1,1 +1,336 @@
-
+{
+    "participant": [
+        {
+            "id": "61179640-78ae-11f1-8b37-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "Bounty Hunters Allu",
+            "players": [
+                {
+                    "name": "BH|Prozy",
+                    "gamerTag": "#GYCYCLRJL"
+                },
+                {
+                    "name": "ポルトックス ♡",
+                    "gamerTag": "#YGQYGCR"
+                },
+                {
+                    "name": "BH|Wesley534",
+                    "gamerTag": "#PLLRJC2V"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Bounty Hunters Allu.png"
+        },
+        {
+            "id": "61146088-78ae-11f1-a00e-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "SKCalalas SA",
+            "players": [
+                {
+                    "name": "SKC|Rhz ❀",
+                    "gamerTag": "#89PVJG9R0"
+                },
+                {
+                    "name": "SKC|Kr ;)",
+                    "gamerTag": "#PR0P8QVQ"
+                },
+                {
+                    "name": "SKC|Juan Carlos",
+                    "gamerTag": "#PR9U2JL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/SKCalalas SA.png"
+        },
+        {
+            "id": "6119d96e-78ae-11f1-a93e-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "Acre Lovers",
+            "players": [
+                {
+                    "name": "AL|FireMurilø:D",
+                    "gamerTag": "#2GV09VJJP"
+                },
+                {
+                    "name": "AL|Satisfyer",
+                    "gamerTag": "#PLJ8VQY2C"
+                },
+                {
+                    "name": "AL|Lipizin ❀",
+                    "gamerTag": "#2UQCCG92VG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "6118c524-78ae-11f1-be0f-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "LOUD",
+            "players": [
+                {
+                    "name": "LOUD|KaioDog",
+                    "gamerTag": "#GGUQCG0G"
+                },
+                {
+                    "name": "LOUD|Edinho",
+                    "gamerTag": "#QJULVGU"
+                },
+                {
+                    "name": "LOUD|FireCrow",
+                    "gamerTag": "#JQ8LLLY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/LOUD.png"
+        },
+        {
+            "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "Olimpo Squad",
+            "players": [
+                {
+                    "name": "OS|BrabaoBs",
+                    "gamerTag": "#L9PQUV0YC"
+                },
+                {
+                    "name": "OS|Golden",
+                    "gamerTag": "#9QCJPL20"
+                },
+                {
+                    "name": "OS|Pekka",
+                    "gamerTag": "#JVRCVJ9Q"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Olimpo Squad.png"
+        },
+        {
+            "id": "61166496-78ae-11f1-b633-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "Tralaleritos",
+            "players": [
+                {
+                    "name": "B4st",
+                    "gamerTag": "#2CJ0RCJ"
+                },
+                {
+                    "name": "Deykonn",
+                    "gamerTag": "#GJPVYUQG"
+                },
+                {
+                    "name": "BC*|Todd",
+                    "gamerTag": "#22PGQU98R"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "6119558e-78ae-11f1-925d-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "GLXY Gaming",
+            "players": [
+                {
+                    "name": "GLXY|Doritos🐉",
+                    "gamerTag": "#202GJJR28"
+                },
+                {
+                    "name": "GLXY|Derpp🐰ᩚ",
+                    "gamerTag": "#2QG9LQQC8Y"
+                },
+                {
+                    "name": "GLXY|IceCrow",
+                    "gamerTag": "#9CPYUCGQC"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/GLXY Gaming.PNG"
+        },
+        {
+            "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+            "tournament_id": 0,
+            "name": "Pizza Congelada F/A",
+            "players": [
+                {
+                    "name": "PZC|CAUEBR",
+                    "gamerTag": "#JQ8L0YYL"
+                },
+                {
+                    "name": "PZC|Jubileubr",
+                    "gamerTag": "#GVYLVUGR"
+                },
+                {
+                    "name": "PZC|Mohtep",
+                    "gamerTag": "#R2LR2QLG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "SA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "61179640-78ae-11f1-8b37-b6b64b77d564",
+                "name": "Bounty Hunters Allu",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": "61146088-78ae-11f1-a00e-b6b64b77d564",
+                "name": "SKCalalas SA",
+                "seed": 8
+            },
+            "match_games": []
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "6119d96e-78ae-11f1-a93e-b6b64b77d564",
+                "name": "Acre Lovers",
+                "seed": 4
+            },
+            "opponent2": {
+                "id": "6118c524-78ae-11f1-be0f-b6b64b77d564",
+                "name": "LOUD",
+                "seed": 5
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                "name": "Olimpo Squad",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "61166496-78ae-11f1-b633-b6b64b77d564",
+                "name": "Tralaleritos",
+                "seed": 7
+            },
+            "match_games": []
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "6119558e-78ae-11f1-925d-b6b64b77d564",
+                "name": "GLXY Gaming",
+                "seed": 3
+            },
+            "opponent2": {
+                "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+                "name": "Pizza Congelada F/A",
+                "seed": 6
+            },
+            "match_games": []
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        }
+    ]
+}
