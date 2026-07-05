@@ -4567,18 +4567,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6298d842-77d4-11f1-bf16-620189d4462f",
                 "name": "F/A Peremoga",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
                 "name": "FENRIS GAMING",
-                "seed": 14
+                "seed": 14,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34d43ea8-70cf-11f1-8f32-36788fc7e0a5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4734,7 +4799,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                "name": "F/A Peremoga",
+                "seed": 22
             },
             "match_games": []
         },
