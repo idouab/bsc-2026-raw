@@ -821,6 +821,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "6295b586-77d4-11f1-9905-620189d4462f",
+            "tournament_id": 0,
+            "name": "ZUZYA",
+            "players": [
+                {
+                    "name": "Ванечка Мортис",
+                    "gamerTag": "#P09LRQYC2"
+                },
+                {
+                    "name": "ЗЮЗЯ ТРУБОЧИСТ",
+                    "gamerTag": "#PUPLPJJUL"
+                },
+                {
+                    "name": "Danilen",
+                    "gamerTag": "#QVLJUQQG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "6297ac60-77d4-11f1-97a2-620189d4462f",
             "tournament_id": 0,
             "name": "Gigampfii",
@@ -1591,18 +1611,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
                 "name": "Madrid",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6295b586-77d4-11f1-9905-620189d4462f",
                 "name": "ZUZYA",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6295b586-77d4-11f1-9905-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6295b586-77d4-11f1-9905-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6295b586-77d4-11f1-9905-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
@@ -1857,7 +1927,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "35b93f6c-70cf-11f1-a938-36788fc7e0a5",
+                "name": "Madrid",
+                "seed": 10
             },
             "match_games": []
         },
@@ -2065,7 +2137,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "6295b586-77d4-11f1-9905-620189d4462f",
+                "name": "ZUZYA",
+                "seed": 23
             },
             "match_games": []
         },
