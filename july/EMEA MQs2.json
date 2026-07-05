@@ -3907,18 +3907,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36efcafe-70cf-11f1-9f45-36788fc7e0a5",
                 "name": "NAVI",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "629a8b56-77d4-11f1-b970-620189d4462f",
                 "name": "Palote",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "36efcafe-70cf-11f1-9f45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "36efcafe-70cf-11f1-9f45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "36efcafe-70cf-11f1-9f45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629a8b56-77d4-11f1-b970-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -4058,7 +4108,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "36efcafe-70cf-11f1-9f45-36788fc7e0a5",
+                "name": "NAVI",
+                "seed": 4
             },
             "match_games": []
         },
