@@ -2304,18 +2304,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
                 "name": "SKCalalas",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
                 "name": "新米漁師研修中",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2661,10 +2726,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                "name": "SKCalalas",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
+                "name": "Katharsis",
+                "seed": 28
             },
             "match_games": []
         },
@@ -3139,10 +3208,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                "name": "新米漁師研修中",
+                "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "f0291d64-77a4-11f1-9434-9a00447bf306",
+                "name": "チーム公認クリエイターズ",
+                "seed": 23
             },
             "match_games": []
         },
