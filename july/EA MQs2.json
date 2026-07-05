@@ -2874,18 +2874,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
                 "name": "Tenko shibuki",
-                "seed": 27
+                "seed": 27,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
                 "name": "Not easy",
-                "seed": 11
+                "seed": 11,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef9222ce-70ce-11f1-a74c-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 33,
@@ -3029,7 +3094,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                "name": "Tenko shibuki",
+                "seed": 27
             },
             "match_games": []
         },
