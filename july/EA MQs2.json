@@ -679,6 +679,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "f02e9406-77a4-11f1-b71f-9a00447bf306",
+            "tournament_id": 0,
+            "name": "チーム献上",
+            "players": [
+                {
+                    "name": "かまぼこねずこ💥",
+                    "gamerTag": "#L802QCUCL"
+                },
+                {
+                    "name": "麻央ピーエス",
+                    "gamerTag": "#80U2LPJPY"
+                },
+                {
+                    "name": "らでぃ@利敵用アカウント",
+                    "gamerTag": "#2LYQVRJ0CG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1101,18 +1121,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef918d82-70ce-11f1-bde2-36788fc7e0a5",
                 "name": "Rival Esports",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f02e9406-77a4-11f1-b71f-9a00447bf306",
                 "name": "チーム献上",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef918d82-70ce-11f1-bde2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02e9406-77a4-11f1-b71f-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef918d82-70ce-11f1-bde2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02e9406-77a4-11f1-b71f-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef918d82-70ce-11f1-bde2-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02e9406-77a4-11f1-b71f-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 14,
@@ -1279,7 +1349,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ef918d82-70ce-11f1-bde2-36788fc7e0a5",
+                "name": "Rival Esports",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -1471,7 +1543,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f02e9406-77a4-11f1-b71f-9a00447bf306",
+                "name": "チーム献上",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
