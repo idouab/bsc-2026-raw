@@ -801,6 +801,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "6296708e-77d4-11f1-a464-620189d4462f",
+            "tournament_id": 0,
+            "name": "BC* Gaming EU",
+            "players": [
+                {
+                    "name": "BC*|SanFire🔥",
+                    "gamerTag": "#8UR02QQL2"
+                },
+                {
+                    "name": "BC* | SkYRiiKZz",
+                    "gamerTag": "#RRG0RUJU"
+                },
+                {
+                    "name": "BC*|ReMa🪷",
+                    "gamerTag": "#YYQJR8RP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "629a8b56-77d4-11f1-b970-620189d4462f",
             "tournament_id": 0,
             "name": "Palote",
@@ -1521,18 +1541,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "346d57b0-70cf-11f1-9d7e-36788fc7e0a5",
                 "name": "Reverso Hive",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6296708e-77d4-11f1-a464-620189d4462f",
                 "name": "BC* Gaming EU",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "346d57b0-70cf-11f1-9d7e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "346d57b0-70cf-11f1-9d7e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "346d57b0-70cf-11f1-9d7e-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "346d57b0-70cf-11f1-9d7e-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1909,7 +1994,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "346d57b0-70cf-11f1-9d7e-36788fc7e0a5",
+                "name": "Reverso Hive",
+                "seed": 15
             },
             "match_games": []
         },
@@ -2119,7 +2206,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                "name": "BC* Gaming EU",
+                "seed": 18
             },
             "match_games": []
         },
