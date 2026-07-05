@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "bdab1d2c-77dd-11f1-b9f6-4a473866efb5",
+            "tournament_id": 0,
+            "name": "Platanitos GT",
+            "players": [
+                {
+                    "name": "GT | Bolita",
+                    "gamerTag": "#8LJVCRCCQ"
+                },
+                {
+                    "name": "GT | Nita",
+                    "gamerTag": "#8L8JPJJVV"
+                },
+                {
+                    "name": "GT | Criz",
+                    "gamerTag": "#8JV9020GJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "fc6af656-70d8-11f1-8e32-36788fc7e0a5",
             "tournament_id": 0,
             "name": "Skibidi Sigmas",
@@ -841,7 +861,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd0db698-70d8-11f1-b577-36788fc7e0a5",
                 "name": "Dropeados 2026",
@@ -850,7 +870,8 @@
             "opponent2": {
                 "id": "bdab1d2c-77dd-11f1-b9f6-4a473866efb5",
                 "name": "Platanitos GT",
-                "seed": 20
+                "seed": 20,
+                "forfeit": 1
             },
             "match_games": []
         },
