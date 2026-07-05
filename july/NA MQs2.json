@@ -821,6 +821,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+            "tournament_id": 0,
+            "name": "horrendous at 82-0",
+            "players": [
+                {
+                    "name": "darklordbrd",
+                    "gamerTag": "#P0L0LVR8"
+                },
+                {
+                    "name": "BrriN",
+                    "gamerTag": "#8YVJRYGG"
+                },
+                {
+                    "name": "Dan🐬",
+                    "gamerTag": "#8CYYL8VJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2f0b8c5c-77f9-11f1-a347-9a00447bf306",
             "tournament_id": 0,
             "name": "Xelozias",
@@ -916,6 +936,26 @@
                 {
                     "name": "Hilo🪼",
                     "gamerTag": "#Q200JVULG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
+            "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Ping Warriors",
+            "players": [
+                {
+                    "name": "Lotus",
+                    "gamerTag": "#2UY2RPRJ"
+                },
+                {
+                    "name": "babykyric",
+                    "gamerTag": "#8CLPV29V9"
+                },
+                {
+                    "name": "eeps ☀️",
+                    "gamerTag": "#99PPVQJRL"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
@@ -1612,18 +1652,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
                 "name": "MX TEAM",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
                 "name": "horrendous at 82-0",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1933,18 +2053,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
                 "name": "Monterrey F/A",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
                 "name": "Ping Warriors",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -2040,7 +2240,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "8367fac8-70d9-11f1-9402-36788fc7e0a5",
+                "name": "MX TEAM",
+                "seed": 15
             },
             "match_games": []
         },
@@ -2098,7 +2300,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "83dd2668-70d9-11f1-961a-36788fc7e0a5",
+                "name": "Monterrey F/A",
+                "seed": 11
             },
             "match_games": []
         },
@@ -2260,7 +2464,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "2f0adfc8-77f9-11f1-9dab-9a00447bf306",
+                "name": "horrendous at 82-0",
+                "seed": 18
             },
             "match_games": []
         },
@@ -2318,7 +2524,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                "name": "Ping Warriors",
+                "seed": 22
             },
             "match_games": []
         },
