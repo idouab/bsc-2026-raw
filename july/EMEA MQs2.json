@@ -4107,18 +4107,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
                 "name": "Metizport",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "629cc790-77d4-11f1-a384-620189d4462f",
                 "name": "F/A O.O",
-                "seed": 30
+                "seed": 30,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "629cc790-77d4-11f1-a384-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -4253,10 +4318,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "36ef1906-70cf-11f1-b48d-36788fc7e0a5",
+                "name": "Metizport",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "36ecd394-70cf-11f1-a4f9-36788fc7e0a5",
+                "name": "SK GAMING",
+                "seed": 11
             },
             "match_games": []
         },
