@@ -641,6 +641,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f0a2b1e-77f9-11f1-919a-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Cursed Energy",
+            "players": [
+                {
+                    "name": "ElTioLako",
+                    "gamerTag": "#2QJGPVR2RQ"
+                },
+                {
+                    "name": "Hvz|P3neGordo👅",
+                    "gamerTag": "#QCL0828UQ"
+                },
+                {
+                    "name": "Seb🩵Ope",
+                    "gamerTag": "#2UY9C9YR0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "83dc907c-70d9-11f1-a7b6-36788fc7e0a5",
             "tournament_id": 0,
             "name": "Legacy Academy",
@@ -801,18 +821,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846ac66c-70d9-11f1-8e45-36788fc7e0a5",
                 "name": "UTOPIA",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0a2b1e-77f9-11f1-919a-9a00447bf306",
                 "name": "Cursed Energy",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "846ac66c-70d9-11f1-8e45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0a2b1e-77f9-11f1-919a-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "846ac66c-70d9-11f1-8e45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0a2b1e-77f9-11f1-919a-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "846ac66c-70d9-11f1-8e45-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0a2b1e-77f9-11f1-919a-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1101,7 +1171,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "846ac66c-70d9-11f1-8e45-36788fc7e0a5",
+                "name": "UTOPIA",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1295,7 +1367,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f0a2b1e-77f9-11f1-919a-9a00447bf306",
+                "name": "Cursed Energy",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
