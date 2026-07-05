@@ -2971,18 +2971,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
                 "name": "HMBLE",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
                 "name": "Team Heretics",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "34d3a272-70cf-11f1-8283-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -4085,7 +4135,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "365b3060-70cf-11f1-9f2b-36788fc7e0a5",
+                "name": "Team Heretics",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
