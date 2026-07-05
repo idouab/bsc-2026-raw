@@ -4343,18 +4343,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
                 "name": "INSOMNIA",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f0286310-77a4-11f1-8e9a-9a00447bf306",
                 "name": "White rice",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0286310-77a4-11f1-8e9a-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0286310-77a4-11f1-8e9a-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0286310-77a4-11f1-8e9a-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4430,7 +4480,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "ef904ef4-70ce-11f1-aec5-36788fc7e0a5",
+                "name": "INSOMNIA",
+                "seed": 7
             },
             "match_games": []
         },
