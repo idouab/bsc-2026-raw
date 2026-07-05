@@ -2514,7 +2514,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f02fda78-77a4-11f1-92a5-9a00447bf306",
                 "name": "T5S",
@@ -2523,7 +2523,8 @@
             "opponent2": {
                 "id": "ef074a50-70ce-11f1-8ef0-36788fc7e0a5",
                 "name": "Be Humble",
-                "seed": 16
+                "seed": 16,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2624,7 +2625,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef8e9ec4-70ce-11f1-acb1-36788fc7e0a5",
                 "name": "FENNEL",
@@ -2633,7 +2634,8 @@
             "opponent2": {
                 "id": "ef959a6c-70ce-11f1-83b0-36788fc7e0a5",
                 "name": "Team Falcons",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2644,7 +2646,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f02f3578-77a4-11f1-8691-9a00447bf306",
                 "name": "タバスコ愛好家",
@@ -2653,7 +2655,8 @@
             "opponent2": {
                 "id": "ef950688-70ce-11f1-a49f-36788fc7e0a5",
                 "name": "私達の腰は相手が泣き出すまで止まりません",
-                "seed": 15
+                "seed": 15,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2781,7 +2784,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "f02fda78-77a4-11f1-92a5-9a00447bf306",
+                "name": "T5S",
+                "seed": 32
             },
             "match_games": []
         },
