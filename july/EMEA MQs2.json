@@ -2506,18 +2506,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
                 "name": "F/A Kumalazawesta",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
                 "name": "FUT ACADEMY",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2701,18 +2781,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
                 "name": "NOVO Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6298d842-77d4-11f1-bf16-620189d4462f",
                 "name": "F/A Peremoga",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Double Swoosh",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000115.png",
+                    "opponent1": {
+                        "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2748,7 +2878,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "36ee651a-70cf-11f1-a670-36788fc7e0a5",
+                "name": "FUT ACADEMY",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2782,7 +2914,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "343f70ca-70cf-11f1-bd67-36788fc7e0a5",
+                "name": "NOVO Esports",
+                "seed": 6
             },
             "match_games": []
         },
@@ -3201,10 +3335,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6298d842-77d4-11f1-bf16-620189d4462f",
+                "name": "F/A Peremoga",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "6294944e-77d4-11f1-b01a-620189d4462f",
+                "name": "Togrubi",
+                "seed": 17
             },
             "match_games": []
         },
@@ -3271,10 +3409,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34d4e3d0-70cf-11f1-a220-36788fc7e0a5",
+                "name": "F/A Kumalazawesta",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                "name": "BC* Gaming EU",
+                "seed": 18
             },
             "match_games": []
         },
