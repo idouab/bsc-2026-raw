@@ -3593,18 +3593,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f0274cb4-77a4-11f1-b2db-9a00447bf306",
                 "name": "モングラール建築",
-                "seed": 17
+                "seed": 17,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
                 "name": "Tenko shibuki",
-                "seed": 27
+                "seed": 27,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "f0274cb4-77a4-11f1-b2db-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f0274cb4-77a4-11f1-b2db-9a00447bf306",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f0274cb4-77a4-11f1-b2db-9a00447bf306",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f0274cb4-77a4-11f1-b2db-9a00447bf306",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f02ca876-77a4-11f1-b18d-9a00447bf306",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 45,
