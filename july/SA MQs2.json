@@ -3915,18 +3915,98 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
                 "name": "Sub-5 f/a",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
                 "name": "Enosis Esports",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdb1648e-77dd-11f1-99dc-4a473866efb5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4117,7 +4197,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                "name": "Sub-5 f/a",
+                "seed": 23
             },
             "match_games": []
         },
