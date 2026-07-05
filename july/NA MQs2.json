@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Mommy's good boys",
+            "players": [
+                {
+                    "name": "hontoreta🌸",
+                    "gamerTag": "#JRL9JJGG"
+                },
+                {
+                    "name": "DeS|Yeaji",
+                    "gamerTag": "#9JVULRUP8"
+                },
+                {
+                    "name": "Adán❦",
+                    "gamerTag": "#890J9RRP2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2f0b8c5c-77f9-11f1-a347-9a00447bf306",
             "tournament_id": 0,
             "name": "Xelozias",
@@ -1332,18 +1352,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846777c8-70d9-11f1-a37d-36788fc7e0a5",
                 "name": "Team Elektros",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
                 "name": "Mommy's good boys",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "846777c8-70d9-11f1-a37d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "846777c8-70d9-11f1-a37d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "846777c8-70d9-11f1-a37d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1719,7 +1789,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "846777c8-70d9-11f1-a37d-36788fc7e0a5",
+                "name": "Team Elektros",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1929,7 +2001,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2f105b42-77f9-11f1-a7ea-9a00447bf306",
+                "name": "Mommy's good boys",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
