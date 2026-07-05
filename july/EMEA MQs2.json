@@ -2764,11 +2764,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "629c38a2-77d4-11f1-a4ad-620189d4462f",
                 "name": "Rezz talents",
-                "seed": 29
+                "seed": 29,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
@@ -2804,18 +2805,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "629d5548-77d4-11f1-a37c-620189d4462f",
                 "name": "Devotatii",
-                "seed": 31
+                "seed": 31,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6296708e-77d4-11f1-a464-620189d4462f",
                 "name": "BC* Gaming EU",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "629d5548-77d4-11f1-a37c-620189d4462f",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6296708e-77d4-11f1-a464-620189d4462f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 22,
@@ -2923,7 +2989,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "35bb09aa-70cf-11f1-af0e-36788fc7e0a5",
+                "name": "F/A KEBAP",
+                "seed": 13
             },
             "match_games": []
         },
