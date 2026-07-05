@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
+            "tournament_id": 0,
+            "name": "モーティス絶対使わないです",
+            "players": [
+                {
+                    "name": "Ponkey",
+                    "gamerTag": "#89V9Q22VV"
+                },
+                {
+                    "name": "Ater",
+                    "gamerTag": "#80CQ98UQL"
+                },
+                {
+                    "name": "midoronashi",
+                    "gamerTag": "#RP88GPGYG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "ef959a6c-70ce-11f1-83b0-36788fc7e0a5",
             "tournament_id": 0,
             "name": "Team Falcons",
@@ -1296,18 +1316,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
                 "name": "モーティス絶対使わないです",
-                "seed": 13
+                "seed": 13,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
                 "name": "新米漁師研修中",
-                "seed": 20
+                "seed": 20,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1892,7 +1977,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "f029dbfa-77a4-11f1-8946-9a00447bf306",
+                "name": "新米漁師研修中",
+                "seed": 20
             },
             "match_games": []
         },
@@ -2106,7 +2193,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "ef13a034-70ce-11f1-ba31-36788fc7e0a5",
+                "name": "モーティス絶対使わないです",
+                "seed": 13
             },
             "match_games": []
         },
