@@ -2808,18 +2808,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
                 "name": "ETERNAL",
-                "seed": 30
+                "seed": 30,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
                 "name": "REVERB",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f067eba-77f9-11f1-a6b5-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 24,
@@ -2828,18 +2878,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
                 "name": "Worlds 2027",
-                "seed": 27
+                "seed": 27,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
                 "name": "Ping Warriors",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f076e7e-77f9-11f1-962c-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 33,
@@ -2979,7 +3094,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "2f0d9b46-77f9-11f1-837d-9a00447bf306",
+                "name": "Worlds 2027",
+                "seed": 27
             },
             "match_games": []
         },

@@ -4240,18 +4240,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
                 "name": "Tralaleritos",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
                 "name": "Sub-5 f/a",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fc2a9afc-70d8-11f1-b2be-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdaf3902-77dd-11f1-80a1-4a473866efb5",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 51,
