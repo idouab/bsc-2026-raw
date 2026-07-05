@@ -4262,18 +4262,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84650c36-70d9-11f1-9481-36788fc7e0a5",
                 "name": "vic day",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
                 "name": "NOVA",
-                "seed": 13
+                "seed": 13,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "84650c36-70d9-11f1-9481-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "84650c36-70d9-11f1-9481-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "84650c36-70d9-11f1-9481-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "84650c36-70d9-11f1-9481-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83dbf98c-70d9-11f1-b31a-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4412,7 +4477,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "84650c36-70d9-11f1-9481-36788fc7e0a5",
+                "name": "vic day",
+                "seed": 5
             },
             "match_games": []
         },
