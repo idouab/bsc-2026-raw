@@ -2804,18 +2804,83 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
                 "name": "SKCalalas",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
                 "name": "Katharsis",
-                "seed": 28
+                "seed": 28,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "ef8d7c6a-70ce-11f1-834b-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -3815,7 +3880,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f02d574e-77a4-11f1-bab7-9a00447bf306",
+                "name": "Katharsis",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
