@@ -3203,18 +3203,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bdaa1ecc-77dd-11f1-8dd1-4a473866efb5",
                 "name": "OTX E-ports",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
                 "name": "Pingdiffers",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "bdaa1ecc-77dd-11f1-8dd1-4a473866efb5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "bdaa1ecc-77dd-11f1-8dd1-4a473866efb5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "bdaa1ecc-77dd-11f1-8dd1-4a473866efb5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -3317,7 +3367,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bdb4d5ce-77dd-11f1-a959-4a473866efb5",
+                "name": "Pingdiffers",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
