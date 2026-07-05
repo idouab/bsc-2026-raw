@@ -821,6 +821,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f0ceb92-77f9-11f1-a4a7-9a00447bf306",
+            "tournament_id": 0,
+            "name": "Artist'S",
+            "players": [
+                {
+                    "name": "Russo🩵My love",
+                    "gamerTag": "#8RJY8P9C"
+                },
+                {
+                    "name": "Kuroka 🖤",
+                    "gamerTag": "#VUG0L9Q"
+                },
+                {
+                    "name": "Brawler",
+                    "gamerTag": "#8QC00V2"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2f0fac4c-77f9-11f1-925c-9a00447bf306",
             "tournament_id": 0,
             "name": "ETERNAL",
@@ -1548,18 +1568,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8466d85e-70d9-11f1-b435-36788fc7e0a5",
                 "name": "Nameless",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f0ceb92-77f9-11f1-a4a7-9a00447bf306",
                 "name": "Artist'S",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8466d85e-70d9-11f1-b435-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0ceb92-77f9-11f1-a4a7-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8466d85e-70d9-11f1-b435-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0ceb92-77f9-11f1-a4a7-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8466d85e-70d9-11f1-b435-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f0ceb92-77f9-11f1-a4a7-9a00447bf306",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 13,
@@ -1901,7 +1971,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "8466d85e-70d9-11f1-b435-36788fc7e0a5",
+                "name": "Nameless",
+                "seed": 10
             },
             "match_games": []
         },
@@ -2117,7 +2189,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "2f0ceb92-77f9-11f1-a4a7-9a00447bf306",
+                "name": "Artist'S",
+                "seed": 23
             },
             "match_games": []
         },
