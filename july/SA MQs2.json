@@ -2655,18 +2655,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd0b18e8-70d8-11f1-812d-36788fc7e0a5",
                 "name": "Olimpo Squad",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
                 "name": "SKCalalas SA",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fd0b18e8-70d8-11f1-812d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fd0b18e8-70d8-11f1-812d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fd0b18e8-70d8-11f1-812d-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -2695,18 +2745,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fd0bc176-70d8-11f1-8b0a-36788fc7e0a5",
                 "name": "LOUD",
-                "seed": 3
+                "seed": 3,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fd0d1d78-70d8-11f1-8d5b-36788fc7e0a5",
                 "name": "GLXY Gaming",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "fd0bc176-70d8-11f1-8b0a-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fd0d1d78-70d8-11f1-8d5b-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fd0bc176-70d8-11f1-8b0a-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fd0d1d78-70d8-11f1-8d5b-36788fc7e0a5",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fd0bc176-70d8-11f1-8b0a-36788fc7e0a5",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fd0d1d78-70d8-11f1-8d5b-36788fc7e0a5",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -3559,7 +3659,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc29eddc-70d8-11f1-ae65-36788fc7e0a5",
+                "name": "SKCalalas SA",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -3593,7 +3695,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fd0bc176-70d8-11f1-8b0a-36788fc7e0a5",
+                "name": "LOUD",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
