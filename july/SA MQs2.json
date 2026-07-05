@@ -3845,18 +3845,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
                 "name": "Six Seven",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bdae8714-77dd-11f1-b0e5-4a473866efb5",
                 "name": "GOLDEN BOYS",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdae8714-77dd-11f1-b0e5-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Deathcap Trap",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000002.png",
+                    "opponent1": {
+                        "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdae8714-77dd-11f1-b0e5-4a473866efb5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdae8714-77dd-11f1-b0e5-4a473866efb5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -3982,7 +4032,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "fe3fe90a-70d8-11f1-877a-36788fc7e0a5",
+                "name": "Six Seven",
+                "seed": 11
             },
             "match_games": []
         },

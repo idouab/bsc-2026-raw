@@ -681,6 +681,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
         },
         {
+            "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+            "tournament_id": 0,
+            "name": "polles aura",
+            "players": [
+                {
+                    "name": "Polle🦐",
+                    "gamerTag": "#9YQURLYU"
+                },
+                {
+                    "name": "Metroplex🐓",
+                    "gamerTag": "#YYGCVJ9C8"
+                },
+                {
+                    "name": "Toonix ごみ✰",
+                    "gamerTag": "#U9P8CYY"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/default.png"
+        },
+        {
             "id": "2f0824cc-77f9-11f1-844a-9a00447bf306",
             "tournament_id": 0,
             "name": "AS Roma",
@@ -1041,18 +1061,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "846b7580-70d9-11f1-ae29-36788fc7e0a5",
                 "name": "Enosis Esports",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
                 "name": "polles aura",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "846b7580-70d9-11f1-ae29-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "846b7580-70d9-11f1-ae29-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "846b7580-70d9-11f1-ae29-36788fc7e0a5",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -1528,7 +1598,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "846b7580-70d9-11f1-ae29-36788fc7e0a5",
+                "name": "Enosis Esports",
+                "seed": 9
             },
             "match_games": []
         },
@@ -1732,7 +1804,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "2f09769c-77f9-11f1-a8c2-9a00447bf306",
+                "name": "polles aura",
+                "seed": 24
             },
             "match_games": []
         },
