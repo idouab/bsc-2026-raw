@@ -143,7 +143,7 @@
         {
             "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
             "tournament_id": 0,
-            "name": "Pizza Congelada F/A",
+            "name": "RED Canids",
             "players": [
                 {
                     "name": "PZC|CAUEBR",
@@ -154,7 +154,7 @@
                     "gamerTag": "#GVYLVUGR"
                 },
                 {
-                    "name": "PZC|Mohtep",
+                    "name": "RED|Mohtep",
                     "gamerTag": "#R2LR2QLG"
                 }
             ],
@@ -396,18 +396,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
                 "name": "Olimpo Squad",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61166496-78ae-11f1-b633-b6b64b77d564",
                 "name": "QuieroQueQue",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61166496-78ae-11f1-b633-b6b64b77d564",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61166496-78ae-11f1-b633-b6b64b77d564",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61166496-78ae-11f1-b633-b6b64b77d564",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -424,7 +474,7 @@
             },
             "opponent2": {
                 "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
-                "name": "Pizza Congelada F/A",
+                "name": "RED Canids",
                 "seed": 6
             },
             "match_games": []
@@ -458,7 +508,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                "name": "Olimpo Squad",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
