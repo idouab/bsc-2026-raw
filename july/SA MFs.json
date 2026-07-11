@@ -636,18 +636,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
                 "name": "Olimpo Squad",
-                "seed": 2
+                "seed": 2,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
                 "name": "RED Canids",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "61182fe2-78ae-11f1-bf65-b6b64b77d564",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -663,7 +728,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "6116fad2-78ae-11f1-8294-b6b64b77d564",
+                "name": "RED Canids",
+                "seed": 6
             },
             "match_games": []
         }
