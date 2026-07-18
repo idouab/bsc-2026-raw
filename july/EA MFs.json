@@ -366,18 +366,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "6b2e2e8c-784f-11f1-bcef-72b8da95bc32",
                 "name": "Rival Esports",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6b2ed4d6-784f-11f1-b5ea-72b8da95bc32",
                 "name": "Siesta",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6b2e2e8c-784f-11f1-bcef-72b8da95bc32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b2ed4d6-784f-11f1-b5ea-72b8da95bc32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6b2e2e8c-784f-11f1-bcef-72b8da95bc32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b2ed4d6-784f-11f1-b5ea-72b8da95bc32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6b2e2e8c-784f-11f1-bcef-72b8da95bc32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6b2ed4d6-784f-11f1-b5ea-72b8da95bc32",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -428,7 +478,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6b2e2e8c-784f-11f1-bcef-72b8da95bc32",
+                "name": "Rival Esports",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
