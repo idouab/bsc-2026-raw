@@ -436,18 +436,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d47bc046-78c9-11f1-94c7-b6b64b77d564",
                 "name": "Vatic",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d47d7ef4-78c9-11f1-8191-b6b64b77d564",
                 "name": "Legacy Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47bc046-78c9-11f1-94c7-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d47d7ef4-78c9-11f1-8191-b6b64b77d564",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47bc046-78c9-11f1-94c7-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d47d7ef4-78c9-11f1-8191-b6b64b77d564",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47bc046-78c9-11f1-94c7-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d47d7ef4-78c9-11f1-8191-b6b64b77d564",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -456,7 +506,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "d47e0fa4-78c9-11f1-b61f-b6b64b77d564",
                 "name": "Tribe Gaming",
@@ -483,7 +533,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "d47bc046-78c9-11f1-94c7-b6b64b77d564",
+                "name": "Vatic",
+                "seed": 3
             },
             "match_games": []
         },
