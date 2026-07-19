@@ -86,16 +86,16 @@
             "name": "Team Elektros",
             "players": [
                 {
-                    "name": "TE|snoiy",
-                    "gamerTag": "#YUJ8PJ0LR"
-                },
-                {
                     "name": "TE|𑣲Memxn",
                     "gamerTag": "#PJPPY9LRC"
                 },
                 {
                     "name": "TE|どいん",
                     "gamerTag": "#8CRU0PQRQ"
+                },
+                {
+                    "name": "crystal",
+                    "gamerTag": "#U08UCL28"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2026-raw/main/logos/Team Elektros.png"
@@ -281,18 +281,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d47c56a0-78c9-11f1-88b5-b6b64b77d564",
                 "name": "F/A Homeless",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d479f1c6-78c9-11f1-8690-b6b64b77d564",
                 "name": "vic day",
-                "seed": 5
+                "seed": 5,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47c56a0-78c9-11f1-88b5-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d479f1c6-78c9-11f1-8690-b6b64b77d564",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47c56a0-78c9-11f1-88b5-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d479f1c6-78c9-11f1-8690-b6b64b77d564",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47c56a0-78c9-11f1-88b5-b6b64b77d564",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d479f1c6-78c9-11f1-8690-b6b64b77d564",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47c56a0-78c9-11f1-88b5-b6b64b77d564",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d479f1c6-78c9-11f1-8690-b6b64b77d564",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -348,7 +413,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "d47c56a0-78c9-11f1-88b5-b6b64b77d564",
+                "name": "F/A Homeless",
+                "seed": 4
             },
             "match_games": []
         },
