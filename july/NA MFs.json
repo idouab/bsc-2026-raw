@@ -676,18 +676,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d47e0fa4-78c9-11f1-b61f-b6b64b77d564",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d47cead4-78c9-11f1-b213-b6b64b77d564",
                 "name": "Team Elektros",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47e0fa4-78c9-11f1-b61f-b6b64b77d564",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d47cead4-78c9-11f1-b213-b6b64b77d564",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47e0fa4-78c9-11f1-b61f-b6b64b77d564",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d47cead4-78c9-11f1-b213-b6b64b77d564",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "d47e0fa4-78c9-11f1-b61f-b6b64b77d564",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d47cead4-78c9-11f1-b213-b6b64b77d564",
+                        "score": 2
+                    }
+                }
+            ]
         }
     ]
 }
